@@ -1,0 +1,3357 @@
+[
+  {
+    "start": 0.0,
+    "duration": 4.32,
+    "text": "I saw that Codex launch sites, and when"
+  },
+  {
+    "start": 2.64,
+    "duration": 4.64,
+    "text": "I first saw the news, I was like, is"
+  },
+  {
+    "start": 4.32,
+    "duration": 6.2,
+    "text": "this is just a worse version of Replit"
+  },
+  {
+    "start": 7.28,
+    "duration": 4.96,
+    "text": "or Lovable that's just inside Codex? But"
+  },
+  {
+    "start": 10.52,
+    "duration": 4.08,
+    "text": "the more I dug into it, the more I"
+  },
+  {
+    "start": 12.24,
+    "duration": 4.96,
+    "text": "realized it's actually worth"
+  },
+  {
+    "start": 14.6,
+    "duration": 4.96,
+    "text": "understanding how to use it and how to"
+  },
+  {
+    "start": 17.2,
+    "duration": 5.16,
+    "text": "get the most out of it. So,"
+  },
+  {
+    "start": 19.56,
+    "duration": 5.12,
+    "text": "uh today is a full tutorial on basically"
+  },
+  {
+    "start": 22.36,
+    "duration": 4.48,
+    "text": "what the big announcement is around"
+  },
+  {
+    "start": 24.68,
+    "duration": 3.485,
+    "text": "Codex sites, how does it compare to the"
+  },
+  {
+    "start": 26.84,
+    "duration": 1.44,
+    "text": "competition?"
+  },
+  {
+    "start": 28.165,
+    "duration": 2.155,
+    "text": ">> [music]"
+  },
+  {
+    "start": 28.28,
+    "duration": 4.479,
+    "text": ">> Uh we're actually going to go and live"
+  },
+  {
+    "start": 30.32,
+    "duration": 4.395,
+    "text": "build using Codex sites, and through"
+  },
+  {
+    "start": 32.759,
+    "duration": 2.401,
+    "text": "that, I'm actually going to teach you"
+  },
+  {
+    "start": 34.715,
+    "duration": 2.245,
+    "text": ">> [music]"
+  },
+  {
+    "start": 35.16,
+    "duration": 4.32,
+    "text": ">> uh basically the best practices for"
+  },
+  {
+    "start": 36.96,
+    "duration": 4.96,
+    "text": "using Codex sites. So, by the end of"
+  },
+  {
+    "start": 39.48,
+    "duration": 4.4,
+    "text": "this episode, if you stick around, I'm"
+  },
+  {
+    "start": 41.92,
+    "duration": 3.93,
+    "text": "going to teach you how to build a how to"
+  },
+  {
+    "start": 43.88,
+    "duration": 4.64,
+    "text": "build a shell using Codex sites, how"
+  },
+  {
+    "start": 45.85,
+    "duration": 4.75,
+    "text": "[music] to add memory using Codex sites,"
+  },
+  {
+    "start": 48.52,
+    "duration": 4.4,
+    "text": "how to add what's called safe actions"
+  },
+  {
+    "start": 50.6,
+    "duration": 3.11,
+    "text": "using Codex I sites, and I'll explain"
+  },
+  {
+    "start": 52.92,
+    "duration": 1.0,
+    "text": "what that means"
+  },
+  {
+    "start": 53.71,
+    "duration": 2.89,
+    "text": ">> [music]"
+  },
+  {
+    "start": 53.92,
+    "duration": 4.52,
+    "text": ">> in the episode, how to create skills"
+  },
+  {
+    "start": 56.6,
+    "duration": 5.4,
+    "text": "with Codex sites, how to save [music]"
+  },
+  {
+    "start": 58.44,
+    "duration": 5.68,
+    "text": "gate using Codex sites, and how to prove"
+  },
+  {
+    "start": 62.0,
+    "duration": 5.84,
+    "text": "the loop using Codex sites, which which"
+  },
+  {
+    "start": 64.12,
+    "duration": 5.31,
+    "text": "makes [music] it uh work autonomously."
+  },
+  {
+    "start": 67.84,
+    "duration": 3.61,
+    "text": "Let's get into it."
+  },
+  {
+    "start": 69.43,
+    "duration": 2.02,
+    "text": ">> [music]"
+  },
+  {
+    "start": 75.98,
+    "duration": 4.46,
+    "text": "[music]"
+  },
+  {
+    "start": 77.24,
+    "duration": 6.0,
+    "text": ">> So, what is the difference between Codex"
+  },
+  {
+    "start": 80.44,
+    "duration": 4.68,
+    "text": "sites and Replit and Lovable and and"
+  },
+  {
+    "start": 83.24,
+    "duration": 2.84,
+    "text": "stuff like that? So,"
+  },
+  {
+    "start": 85.12,
+    "duration": 3.6,
+    "text": "um"
+  },
+  {
+    "start": 86.08,
+    "duration": 4.36,
+    "text": "I will say Replit and Lovable and and"
+  },
+  {
+    "start": 88.72,
+    "duration": 4.36,
+    "text": "and those and those products are really"
+  },
+  {
+    "start": 90.44,
+    "duration": 4.88,
+    "text": "good if you want to like one prompt"
+  },
+  {
+    "start": 93.08,
+    "duration": 3.96,
+    "text": "something, and it has an editor, it has"
+  },
+  {
+    "start": 95.32,
+    "duration": 3.76,
+    "text": "a database, it has server, it has"
+  },
+  {
+    "start": 97.04,
+    "duration": 4.32,
+    "text": "hosting. A lot of them have connections"
+  },
+  {
+    "start": 99.08,
+    "duration": 5.76,
+    "text": "to domains as well, too. Like, you can"
+  },
+  {
+    "start": 101.36,
+    "duration": 7.36,
+    "text": "just uh cre- uh register a domain within"
+  },
+  {
+    "start": 104.84,
+    "duration": 7.2,
+    "text": "it. Um so, that's really amazing. Um but"
+  },
+  {
+    "start": 108.72,
+    "duration": 5.96,
+    "text": "Codex sites, if you live in Codex, and"
+  },
+  {
+    "start": 112.04,
+    "duration": 4.16,
+    "text": "I'm starting to live in Codex. I mean, I"
+  },
+  {
+    "start": 114.68,
+    "duration": 3.8,
+    "text": "think it was about a month ago I had"
+  },
+  {
+    "start": 116.2,
+    "duration": 4.24,
+    "text": "Riley Brown on the podcast and I I"
+  },
+  {
+    "start": 118.48,
+    "duration": 3.64,
+    "text": "basically said like, \"Hey, convince me"
+  },
+  {
+    "start": 120.44,
+    "duration": 4.4,
+    "text": "to use Codex. I'm in the Anthropic"
+  },
+  {
+    "start": 122.12,
+    "duration": 5.2,
+    "text": "ecosystem. Convince me to use Codex.\""
+  },
+  {
+    "start": 124.84,
+    "duration": 4.24,
+    "text": "And now I will say it's a part of my"
+  },
+  {
+    "start": 127.32,
+    "duration": 4.12,
+    "text": "daily driver. Yes, I still live in the"
+  },
+  {
+    "start": 129.08,
+    "duration": 3.879,
+    "text": "Anthropic ecosystem, but I'm also using"
+  },
+  {
+    "start": 131.44,
+    "duration": 2.72,
+    "text": "Codex."
+  },
+  {
+    "start": 132.959,
+    "duration": 1.841,
+    "text": "And"
+  },
+  {
+    "start": 134.16,
+    "duration": 3.36,
+    "text": "um"
+  },
+  {
+    "start": 134.8,
+    "duration": 4.96,
+    "text": "I think that if you are in Codex and you"
+  },
+  {
+    "start": 137.52,
+    "duration": 4.08,
+    "text": "are putting just all your contacts"
+  },
+  {
+    "start": 139.76,
+    "duration": 3.0,
+    "text": "there, what's really cool about Codex"
+  },
+  {
+    "start": 141.6,
+    "duration": 4.16,
+    "text": "sites"
+  },
+  {
+    "start": 142.76,
+    "duration": 6.28,
+    "text": "is uh you can actually use that to go"
+  },
+  {
+    "start": 145.76,
+    "duration": 5.199,
+    "text": "and build your ideas, your apps, and"
+  },
+  {
+    "start": 149.04,
+    "duration": 4.64,
+    "text": "stuff like that. And what's the coolest"
+  },
+  {
+    "start": 150.959,
+    "duration": 5.961,
+    "text": "part about Codex sites is it updates"
+  },
+  {
+    "start": 153.68,
+    "duration": 5.279,
+    "text": "your uh your app autonomously."
+  },
+  {
+    "start": 156.92,
+    "duration": 4.68,
+    "text": "So, what does that mean?"
+  },
+  {
+    "start": 158.959,
+    "duration": 4.961,
+    "text": "It means that uh you can have it uh"
+  },
+  {
+    "start": 161.6,
+    "duration": 5.4,
+    "text": "basically create a personal website,"
+  },
+  {
+    "start": 163.92,
+    "duration": 5.36,
+    "text": "say, and uh you know"
+  },
+  {
+    "start": 167.0,
+    "duration": 4.4,
+    "text": "and let's say, for example, go to my"
+  },
+  {
+    "start": 169.28,
+    "duration": 4.4,
+    "text": "personal website."
+  },
+  {
+    "start": 171.4,
+    "duration": 6.0,
+    "text": "Um this is a static"
+  },
+  {
+    "start": 173.68,
+    "duration": 5.88,
+    "text": "uh this is a static website. So, I"
+  },
+  {
+    "start": 177.4,
+    "duration": 5.76,
+    "text": "actually have to go in and and"
+  },
+  {
+    "start": 179.56,
+    "duration": 5.679,
+    "text": "basically, you know, 100 158,000 people"
+  },
+  {
+    "start": 183.16,
+    "duration": 4.52,
+    "text": "enjoy reading my newsletter, but like"
+  },
+  {
+    "start": 185.239,
+    "duration": 4.761,
+    "text": "when it becomes 160,000, I have to go"
+  },
+  {
+    "start": 187.68,
+    "duration": 4.68,
+    "text": "and update it. But with Codex sites, you"
+  },
+  {
+    "start": 190.0,
+    "duration": 4.12,
+    "text": "can actually have it so it automatically"
+  },
+  {
+    "start": 192.36,
+    "duration": 4.32,
+    "text": "updates these things. It automatically"
+  },
+  {
+    "start": 194.12,
+    "duration": 4.88,
+    "text": "creates, for example, guides based on my"
+  },
+  {
+    "start": 196.68,
+    "duration": 3.92,
+    "text": "content. It automatically, you know,"
+  },
+  {
+    "start": 199.0,
+    "duration": 4.0,
+    "text": "adds the different companies I work on."
+  },
+  {
+    "start": 200.6,
+    "duration": 5.0,
+    "text": "So, it basically is this whole idea"
+  },
+  {
+    "start": 203.0,
+    "duration": 5.8,
+    "text": "around autonomous product building. I've"
+  },
+  {
+    "start": 205.6,
+    "duration": 4.8,
+    "text": "talked about this before, but the idea"
+  },
+  {
+    "start": 208.8,
+    "duration": 3.52,
+    "text": "around"
+  },
+  {
+    "start": 210.4,
+    "duration": 3.6,
+    "text": "you're going to have"
+  },
+  {
+    "start": 212.32,
+    "duration": 4.0,
+    "text": "in the future and and the future is now"
+  },
+  {
+    "start": 214.0,
+    "duration": 4.72,
+    "text": "the present, basically agents going and"
+  },
+  {
+    "start": 216.32,
+    "duration": 4.96,
+    "text": "updating products autonomously. But the"
+  },
+  {
+    "start": 218.72,
+    "duration": 4.239,
+    "text": "thing is, it is missing off. It's"
+  },
+  {
+    "start": 221.28,
+    "duration": 3.56,
+    "text": "missing databases. It's missing"
+  },
+  {
+    "start": 222.959,
+    "duration": 4.041,
+    "text": "payments. It's missing missing email"
+  },
+  {
+    "start": 224.84,
+    "duration": 5.04,
+    "text": "sending. It's missing analytics and it's"
+  },
+  {
+    "start": 227.0,
+    "duration": 4.08,
+    "text": "missing a vault for secrets. So, a lot"
+  },
+  {
+    "start": 229.88,
+    "duration": 3.72,
+    "text": "you You if you want something more"
+  },
+  {
+    "start": 231.08,
+    "duration": 3.52,
+    "text": "simple, everything is in there. You're"
+  },
+  {
+    "start": 233.6,
+    "duration": 3.88,
+    "text": "going to want to use something like"
+  },
+  {
+    "start": 234.6,
+    "duration": 4.28,
+    "text": "Rapid or Lovable, but if you understand"
+  },
+  {
+    "start": 237.48,
+    "duration": 2.88,
+    "text": "a little bit about off, if you"
+  },
+  {
+    "start": 238.88,
+    "duration": 3.36,
+    "text": "understand a little bit about database,"
+  },
+  {
+    "start": 240.36,
+    "duration": 4.28,
+    "text": "payment, stuff like that,"
+  },
+  {
+    "start": 242.24,
+    "duration": 4.0,
+    "text": "um and you live in the Codex ecosystem,"
+  },
+  {
+    "start": 244.64,
+    "duration": 4.68,
+    "text": "and you are really interested in this"
+  },
+  {
+    "start": 246.24,
+    "duration": 6.44,
+    "text": "whole idea around autonomous apps,"
+  },
+  {
+    "start": 249.32,
+    "duration": 6.16,
+    "text": "Codex sites are really, really, really"
+  },
+  {
+    "start": 252.68,
+    "duration": 4.32,
+    "text": "cool. And I also say one thing, today"
+  },
+  {
+    "start": 255.48,
+    "duration": 4.479,
+    "text": "you can't"
+  },
+  {
+    "start": 257.0,
+    "duration": 4.519,
+    "text": "um publish these websites, at least not"
+  },
+  {
+    "start": 259.959,
+    "duration": 4.041,
+    "text": "to my knowledge, you can't publish these"
+  },
+  {
+    "start": 261.519,
+    "duration": 4.841,
+    "text": "websites on your own domain and go and"
+  },
+  {
+    "start": 264.0,
+    "duration": 4.52,
+    "text": "deploy it publicly. These are internal"
+  },
+  {
+    "start": 266.36,
+    "duration": 3.8,
+    "text": "apps that you can share with your team"
+  },
+  {
+    "start": 268.52,
+    "duration": 4.12,
+    "text": "right now. But obviously that's going to"
+  },
+  {
+    "start": 270.16,
+    "duration": 5.56,
+    "text": "change very, very, very, very, very"
+  },
+  {
+    "start": 272.64,
+    "duration": 6.2,
+    "text": "soon. So, let's get right into it. So, I"
+  },
+  {
+    "start": 275.72,
+    "duration": 6.0,
+    "text": "I was thinking that we can create um"
+  },
+  {
+    "start": 278.84,
+    "duration": 5.56,
+    "text": "a startup ideas OS. So, basically a live"
+  },
+  {
+    "start": 281.72,
+    "duration": 4.36,
+    "text": "board with columns, uh inbox,"
+  },
+  {
+    "start": 284.4,
+    "duration": 4.08,
+    "text": "researching, validating, building, and"
+  },
+  {
+    "start": 286.08,
+    "duration": 4.68,
+    "text": "killed startup ideas. And each card can"
+  },
+  {
+    "start": 288.48,
+    "duration": 5.24,
+    "text": "have an idea, buyer, pain,"
+  },
+  {
+    "start": 290.76,
+    "duration": 5.0,
+    "text": "proof, next step, and score. So, this is"
+  },
+  {
+    "start": 293.72,
+    "duration": 4.16,
+    "text": "something that, you know,"
+  },
+  {
+    "start": 295.76,
+    "duration": 3.8,
+    "text": "could be an internal internal tool that"
+  },
+  {
+    "start": 297.88,
+    "duration": 3.039,
+    "text": "I would use. And we're going to"
+  },
+  {
+    "start": 299.56,
+    "duration": 3.68,
+    "text": "basically try to build it in six"
+  },
+  {
+    "start": 300.919,
+    "duration": 5.0,
+    "text": "prompts. And like I said, as I build it,"
+  },
+  {
+    "start": 303.24,
+    "duration": 5.56,
+    "text": "I'm going to share uh"
+  },
+  {
+    "start": 305.919,
+    "duration": 4.201,
+    "text": "sort of the big takeaway. So,"
+  },
+  {
+    "start": 308.8,
+    "duration": 4.4,
+    "text": "the first uh first thing we're going to"
+  },
+  {
+    "start": 310.12,
+    "duration": 7.2,
+    "text": "do, let's go open Codex."
+  },
+  {
+    "start": 313.2,
+    "duration": 8.32,
+    "text": "So, I uh created a new project here. Um"
+  },
+  {
+    "start": 317.32,
+    "duration": 5.56,
+    "text": "I'm I opened a uh a new chat. And you"
+  },
+  {
+    "start": 321.52,
+    "duration": 3.84,
+    "text": "know, the first thing is, you know, if"
+  },
+  {
+    "start": 322.88,
+    "duration": 5.4,
+    "text": "you want to actually use sites, you have"
+  },
+  {
+    "start": 325.36,
+    "duration": 5.16,
+    "text": "to invoke it at sites. So, it works"
+  },
+  {
+    "start": 328.28,
+    "duration": 3.96,
+    "text": "basically as a plugin. So, I said,"
+  },
+  {
+    "start": 330.52,
+    "duration": 2.56,
+    "text": "\"Build a startup OS.\""
+  },
+  {
+    "start": 332.24,
+    "duration": 3.12,
+    "text": "Um"
+  },
+  {
+    "start": 333.08,
+    "duration": 5.76,
+    "text": "I'm going to go ahead and"
+  },
+  {
+    "start": 335.36,
+    "duration": 5.2,
+    "text": "send it. Um and"
+  },
+  {
+    "start": 338.84,
+    "duration": 3.92,
+    "text": "uh yeah, it works as a plugin. You"
+  },
+  {
+    "start": 340.56,
+    "duration": 3.8,
+    "text": "invoke it there. Um"
+  },
+  {
+    "start": 342.76,
+    "duration": 3.4,
+    "text": "and like I said, not everyone has access"
+  },
+  {
+    "start": 344.36,
+    "duration": 4.16,
+    "text": "to it. Um"
+  },
+  {
+    "start": 346.16,
+    "duration": 6.24,
+    "text": "uh but I would imagine that access is"
+  },
+  {
+    "start": 348.52,
+    "duration": 5.24,
+    "text": "probably coming really soon for for plus"
+  },
+  {
+    "start": 352.4,
+    "duration": 3.68,
+    "text": "plus people. And by the way, I have no"
+  },
+  {
+    "start": 353.76,
+    "duration": 3.32,
+    "text": "affiliation with OpenAI."
+  },
+  {
+    "start": 356.08,
+    "duration": 2.72,
+    "text": "I just think this is a really"
+  },
+  {
+    "start": 357.08,
+    "duration": 3.2,
+    "text": "interesting product and I wouldn't be"
+  },
+  {
+    "start": 358.8,
+    "duration": 3.72,
+    "text": "making this episode if I didn't think"
+  },
+  {
+    "start": 360.28,
+    "duration": 3.24,
+    "text": "that you can get a lot of value from it,"
+  },
+  {
+    "start": 362.52,
+    "duration": 3.92,
+    "text": "too."
+  },
+  {
+    "start": 363.52,
+    "duration": 5.8,
+    "text": "So, um what is the insight I have for"
+  },
+  {
+    "start": 366.44,
+    "duration": 6.08,
+    "text": "you about this particular prompt is"
+  },
+  {
+    "start": 369.32,
+    "duration": 5.36,
+    "text": "that, you know, um well, there's a few"
+  },
+  {
+    "start": 372.52,
+    "duration": 4.56,
+    "text": "things."
+  },
+  {
+    "start": 374.68,
+    "duration": 4.6,
+    "text": "Uh yeah, invoke the way to to to get it"
+  },
+  {
+    "start": 377.08,
+    "duration": 4.04,
+    "text": "going is you want to invoke sites."
+  },
+  {
+    "start": 379.28,
+    "duration": 3.68,
+    "text": "Um"
+  },
+  {
+    "start": 381.12,
+    "duration": 4.2,
+    "text": "you want to actually ask it to use"
+  },
+  {
+    "start": 382.96,
+    "duration": 5.0,
+    "text": "realistic sample data."
+  },
+  {
+    "start": 385.32,
+    "duration": 5.36,
+    "text": "Um you also want to save it for review."
+  },
+  {
+    "start": 387.96,
+    "duration": 5.76,
+    "text": "So, I noticed that um sometimes when I"
+  },
+  {
+    "start": 390.68,
+    "duration": 6.28,
+    "text": "ask I prompt it an idea, it'll just try"
+  },
+  {
+    "start": 393.72,
+    "duration": 6.44,
+    "text": "to deploy it. So, uh a a really good tip"
+  },
+  {
+    "start": 396.96,
+    "duration": 5.36,
+    "text": "is to save for review, do not deploy. Um"
+  },
+  {
+    "start": 400.16,
+    "duration": 4.12,
+    "text": "and this basically unlocks building a"
+  },
+  {
+    "start": 402.32,
+    "duration": 4.28,
+    "text": "real product service, not a homepage."
+  },
+  {
+    "start": 404.28,
+    "duration": 4.56,
+    "text": "So, basically, I what I'm trying to do"
+  },
+  {
+    "start": 406.6,
+    "duration": 5.52,
+    "text": "by building this is to build that whole"
+  },
+  {
+    "start": 408.84,
+    "duration": 6.24,
+    "text": "idea around autonomously"
+  },
+  {
+    "start": 412.12,
+    "duration": 5.32,
+    "text": "being able to edit it and and work on it"
+  },
+  {
+    "start": 415.08,
+    "duration": 3.88,
+    "text": "um cuz that's sort of sort of the dream"
+  },
+  {
+    "start": 417.44,
+    "duration": 3.68,
+    "text": "state for me."
+  },
+  {
+    "start": 418.96,
+    "duration": 4.0,
+    "text": "Um so, let's go ahead and go back to"
+  },
+  {
+    "start": 421.12,
+    "duration": 5.52,
+    "text": "Codex."
+  },
+  {
+    "start": 422.96,
+    "duration": 6.92,
+    "text": "Okay, while that is being"
+  },
+  {
+    "start": 426.64,
+    "duration": 6.0,
+    "text": "worked on, um"
+  },
+  {
+    "start": 429.88,
+    "duration": 4.4,
+    "text": "I just wanted to say that if you if you"
+  },
+  {
+    "start": 432.64,
+    "duration": 3.279,
+    "text": "go to the plugin section over here, so"
+  },
+  {
+    "start": 434.28,
+    "duration": 3.16,
+    "text": "you click plugins,"
+  },
+  {
+    "start": 435.919,
+    "duration": 4.281,
+    "text": "there's a bunch of plugins that are"
+  },
+  {
+    "start": 437.44,
+    "duration": 5.88,
+    "text": "going to help you make your sites a lot"
+  },
+  {
+    "start": 440.2,
+    "duration": 5.88,
+    "text": "better, right? So, um you know, a lot of"
+  },
+  {
+    "start": 443.32,
+    "duration": 5.96,
+    "text": "people aren't using these plugins, um"
+  },
+  {
+    "start": 446.08,
+    "duration": 3.92,
+    "text": "but think about like Figma. Think about"
+  },
+  {
+    "start": 449.28,
+    "duration": 3.0,
+    "text": "um"
+  },
+  {
+    "start": 450.0,
+    "duration": 5.08,
+    "text": "Canva. Think about HeyGen for avatar"
+  },
+  {
+    "start": 452.28,
+    "duration": 5.28,
+    "text": "videos. Think about Remotion."
+  },
+  {
+    "start": 455.08,
+    "duration": 5.08,
+    "text": "These are uh a bunch of plugins that"
+  },
+  {
+    "start": 457.56,
+    "duration": 5.12,
+    "text": "could make your ideas for your sites a"
+  },
+  {
+    "start": 460.16,
+    "duration": 4.72,
+    "text": "lot more interactive, a lot more"
+  },
+  {
+    "start": 462.68,
+    "duration": 4.2,
+    "text": "a lot more interesting. Uh Another"
+  },
+  {
+    "start": 464.88,
+    "duration": 5.04,
+    "text": "really interesting one that's underrated"
+  },
+  {
+    "start": 466.88,
+    "duration": 4.36,
+    "text": "I think is Game Studio."
+  },
+  {
+    "start": 469.92,
+    "duration": 2.52,
+    "text": "So,"
+  },
+  {
+    "start": 471.24,
+    "duration": 3.2,
+    "text": "you know, one of the biggest problems"
+  },
+  {
+    "start": 472.44,
+    "duration": 4.16,
+    "text": "that people have with vibe coding and"
+  },
+  {
+    "start": 474.44,
+    "duration": 5.12,
+    "text": "agentic engineering is they build"
+  },
+  {
+    "start": 476.6,
+    "duration": 4.04,
+    "text": "something and no one"
+  },
+  {
+    "start": 479.56,
+    "duration": 1.92,
+    "text": "no one's"
+  },
+  {
+    "start": 480.64,
+    "duration": 2.28,
+    "text": "uh"
+  },
+  {
+    "start": 481.48,
+    "duration": 2.88,
+    "text": "no one's going to it."
+  },
+  {
+    "start": 482.92,
+    "duration": 4.32,
+    "text": "Well,"
+  },
+  {
+    "start": 484.36,
+    "duration": 4.32,
+    "text": "you know, if you build games for"
+  },
+  {
+    "start": 487.24,
+    "duration": 4.4,
+    "text": "example,"
+  },
+  {
+    "start": 488.68,
+    "duration": 4.84,
+    "text": "that actually generate buzz around what"
+  },
+  {
+    "start": 491.64,
+    "duration": 4.24,
+    "text": "you're you the bigger you know, the the"
+  },
+  {
+    "start": 493.52,
+    "duration": 4.2,
+    "text": "product you're building, that's a way to"
+  },
+  {
+    "start": 495.88,
+    "duration": 4.56,
+    "text": "get attention and then you bring those"
+  },
+  {
+    "start": 497.72,
+    "duration": 4.32,
+    "text": "people into your core your core product."
+  },
+  {
+    "start": 500.44,
+    "duration": 3.36,
+    "text": "Now, of course that needs to make sense"
+  },
+  {
+    "start": 502.04,
+    "duration": 3.32,
+    "text": "for whatever it is you're building. And"
+  },
+  {
+    "start": 503.8,
+    "duration": 4.56,
+    "text": "this works better with consumer apps,"
+  },
+  {
+    "start": 505.36,
+    "duration": 5.48,
+    "text": "right? So, you go and create a um you"
+  },
+  {
+    "start": 508.36,
+    "duration": 4.32,
+    "text": "know, a Paper Boy competitor"
+  },
+  {
+    "start": 510.84,
+    "duration": 4.72,
+    "text": "that's fun to play that you can kind of"
+  },
+  {
+    "start": 512.68,
+    "duration": 5.039,
+    "text": "like newsjack a based on a particular"
+  },
+  {
+    "start": 515.56,
+    "duration": 6.0,
+    "text": "news topic and then you bring those"
+  },
+  {
+    "start": 517.719,
+    "duration": 5.481,
+    "text": "people into um you know, whatever your"
+  },
+  {
+    "start": 521.56,
+    "duration": 4.279,
+    "text": "core experience is. Maybe it's an email"
+  },
+  {
+    "start": 523.2,
+    "duration": 4.48,
+    "text": "newsletter or who knows, but the the"
+  },
+  {
+    "start": 525.839,
+    "duration": 3.521,
+    "text": "point is like I think a lot of people"
+  },
+  {
+    "start": 527.68,
+    "duration": 3.8,
+    "text": "are sleeping on this idea that you can"
+  },
+  {
+    "start": 529.36,
+    "duration": 5.76,
+    "text": "go and create little apps that could"
+  },
+  {
+    "start": 531.48,
+    "duration": 5.76,
+    "text": "bring them into the core experience."
+  },
+  {
+    "start": 535.12,
+    "duration": 4.64,
+    "text": "All right, so it's built"
+  },
+  {
+    "start": 537.24,
+    "duration": 4.24,
+    "text": "the board. I think it looks pretty"
+  },
+  {
+    "start": 539.76,
+    "duration": 2.4,
+    "text": "pretty clean."
+  },
+  {
+    "start": 541.48,
+    "duration": 3.92,
+    "text": "Um"
+  },
+  {
+    "start": 542.16,
+    "duration": 6.44,
+    "text": "got the inbox over here, researching,"
+  },
+  {
+    "start": 545.4,
+    "duration": 5.6,
+    "text": "validated, building, killed. Definitely"
+  },
+  {
+    "start": 548.6,
+    "duration": 5.92,
+    "text": "not the most beautiful, but clean,"
+  },
+  {
+    "start": 551.0,
+    "duration": 4.96,
+    "text": "minimalistic. Um good enough for a first"
+  },
+  {
+    "start": 554.52,
+    "duration": 4.48,
+    "text": "version."
+  },
+  {
+    "start": 555.96,
+    "duration": 5.56,
+    "text": "Um so, let's go back"
+  },
+  {
+    "start": 559.0,
+    "duration": 5.76,
+    "text": "and keep going."
+  },
+  {
+    "start": 561.52,
+    "duration": 4.72,
+    "text": "So, how do we add memory, right? Cuz on"
+  },
+  {
+    "start": 564.76,
+    "duration": 3.079,
+    "text": "Codex sites it's it's not going to add"
+  },
+  {
+    "start": 566.24,
+    "duration": 5.0,
+    "text": "memory without us"
+  },
+  {
+    "start": 567.839,
+    "duration": 5.601,
+    "text": "basically getting it to to prompt it."
+  },
+  {
+    "start": 571.24,
+    "duration": 5.28,
+    "text": "So, let's go ahead and go back into"
+  },
+  {
+    "start": 573.44,
+    "duration": 5.92,
+    "text": "Codex. I'm copying this prompt."
+  },
+  {
+    "start": 576.52,
+    "duration": 6.12,
+    "text": "So, I say add persistent storage"
+  },
+  {
+    "start": 579.36,
+    "duration": 5.28,
+    "text": "so ideas saved between visits stay saved"
+  },
+  {
+    "start": 582.64,
+    "duration": 3.92,
+    "text": "between visits."
+  },
+  {
+    "start": 584.64,
+    "duration": 4.08,
+    "text": "Before coding show me the data model in"
+  },
+  {
+    "start": 586.56,
+    "duration": 4.12,
+    "text": "which records action the app needs. And"
+  },
+  {
+    "start": 588.72,
+    "duration": 3.6,
+    "text": "this is by the way, these prompts are"
+  },
+  {
+    "start": 590.68,
+    "duration": 4.44,
+    "text": "similar prompts that you can use for"
+  },
+  {
+    "start": 592.32,
+    "duration": 5.44,
+    "text": "when you're using Codex sites."
+  },
+  {
+    "start": 595.12,
+    "duration": 4.48,
+    "text": "Um so it says I'll use the sites"
+  },
+  {
+    "start": 597.76,
+    "duration": 4.0,
+    "text": "building guidance here because this is a"
+  },
+  {
+    "start": 599.6,
+    "duration": 3.48,
+    "text": "hosted app with storage. Since you asked"
+  },
+  {
+    "start": 601.76,
+    "duration": 3.64,
+    "text": "for the model first, I'm going to"
+  },
+  {
+    "start": 603.08,
+    "duration": 4.6,
+    "text": "inspect the existing schema and then lay"
+  },
+  {
+    "start": 605.4,
+    "duration": 5.6,
+    "text": "out the proposed records and mutations"
+  },
+  {
+    "start": 607.68,
+    "duration": 3.32,
+    "text": "before touching code."
+  },
+  {
+    "start": 611.44,
+    "duration": 3.32,
+    "text": "So it says it's actually going to use"
+  },
+  {
+    "start": 612.88,
+    "duration": 4.44,
+    "text": "Cloudflare, right? I'll use Cloudflare"
+  },
+  {
+    "start": 614.76,
+    "duration": 4.8,
+    "text": "D1 as the durable store with one main"
+  },
+  {
+    "start": 617.32,
+    "duration": 4.24,
+    "text": "record type ideas. This already matches"
+  },
+  {
+    "start": 619.56,
+    "duration": 6.2,
+    "text": "the project's current direction and"
+  },
+  {
+    "start": 621.56,
+    "duration": 6.48,
+    "text": "OpenAI has D1 DB data model."
+  },
+  {
+    "start": 625.76,
+    "duration": 4.24,
+    "text": "So then it goes and if you if you see"
+  },
+  {
+    "start": 628.04,
+    "duration": 4.12,
+    "text": "here it says the record the apps need."
+  },
+  {
+    "start": 630.0,
+    "duration": 4.4,
+    "text": "So it says it needs an idea, one one"
+  },
+  {
+    "start": 632.16,
+    "duration": 5.04,
+    "text": "card on the board. It It stores the full"
+  },
+  {
+    "start": 634.4,
+    "duration": 5.24,
+    "text": "card content, the current column. It"
+  },
+  {
+    "start": 637.2,
+    "duration": 5.36,
+    "text": "It needs an owner email. And then these"
+  },
+  {
+    "start": 639.64,
+    "duration": 5.56,
+    "text": "are the actions that the app needs. List"
+  },
+  {
+    "start": 642.56,
+    "duration": 4.76,
+    "text": "ideas, add idea, update idea, move idea,"
+  },
+  {
+    "start": 645.2,
+    "duration": 4.639,
+    "text": "scoring the idea, archive the idea, and"
+  },
+  {
+    "start": 647.32,
+    "duration": 4.0,
+    "text": "sure and sure seated."
+  },
+  {
+    "start": 649.839,
+    "duration": 2.921,
+    "text": "Um"
+  },
+  {
+    "start": 651.32,
+    "duration": 4.08,
+    "text": "and then it says I'll wait for your go"
+  },
+  {
+    "start": 652.76,
+    "duration": 4.76,
+    "text": "ahead before coding the persistent path"
+  },
+  {
+    "start": 655.4,
+    "duration": 5.32,
+    "text": "path."
+  },
+  {
+    "start": 657.52,
+    "duration": 5.96,
+    "text": "So this is the whole idea of safe"
+  },
+  {
+    "start": 660.72,
+    "duration": 4.32,
+    "text": "actions which are you know,"
+  },
+  {
+    "start": 663.48,
+    "duration": 4.04,
+    "text": "um"
+  },
+  {
+    "start": 665.04,
+    "duration": 4.76,
+    "text": "Well, before I get into that, why add"
+  },
+  {
+    "start": 667.52,
+    "duration": 4.04,
+    "text": "memory? Well, because we need for this"
+  },
+  {
+    "start": 669.8,
+    "duration": 3.92,
+    "text": "to be a"
+  },
+  {
+    "start": 671.56,
+    "duration": 3.8,
+    "text": "productive piece of software, we need it"
+  },
+  {
+    "start": 673.72,
+    "duration": 3.44,
+    "text": "to remember things, right? So we want to"
+  },
+  {
+    "start": 675.36,
+    "duration": 3.92,
+    "text": "make sure that we've got that in there."
+  },
+  {
+    "start": 677.16,
+    "duration": 4.24,
+    "text": "But the whole idea around safe actions"
+  },
+  {
+    "start": 679.28,
+    "duration": 5.04,
+    "text": "is is going to be it's it's an unlock"
+  },
+  {
+    "start": 681.4,
+    "duration": 4.439,
+    "text": "because we can be in other chats and"
+  },
+  {
+    "start": 684.32,
+    "duration": 4.16,
+    "text": "because we live in Codex, we can"
+  },
+  {
+    "start": 685.839,
+    "duration": 4.521,
+    "text": "basically say, \"Hey, I you know, maybe"
+  },
+  {
+    "start": 688.48,
+    "duration": 4.88,
+    "text": "I'm like ping-ponging with Codex and"
+  },
+  {
+    "start": 690.36,
+    "duration": 5.08,
+    "text": "then I hit me back with a"
+  },
+  {
+    "start": 693.36,
+    "duration": 4.4,
+    "text": "an idea startup idea and I'm like oh"
+  },
+  {
+    "start": 695.44,
+    "duration": 5.88,
+    "text": "this is really good. Let me just"
+  },
+  {
+    "start": 697.76,
+    "duration": 5.92,
+    "text": "Let me just add So let me just at add"
+  },
+  {
+    "start": 701.32,
+    "duration": 4.56,
+    "text": "idea and it it'll directly add it to the"
+  },
+  {
+    "start": 703.68,
+    "duration": 3.56,
+    "text": "application which is so cool."
+  },
+  {
+    "start": 705.88,
+    "duration": 2.56,
+    "text": "So"
+  },
+  {
+    "start": 707.24,
+    "duration": 3.68,
+    "text": "you're going to want to create safe"
+  },
+  {
+    "start": 708.44,
+    "duration": 4.16,
+    "text": "actions because you know in order to get"
+  },
+  {
+    "start": 710.92,
+    "duration": 3.16,
+    "text": "the most in order to get the most out of"
+  },
+  {
+    "start": 712.6,
+    "duration": 3.64,
+    "text": "it. So I'm just going to go ahead and"
+  },
+  {
+    "start": 714.08,
+    "duration": 4.12,
+    "text": "and copy that prompt create safe actions"
+  },
+  {
+    "start": 716.24,
+    "duration": 3.32,
+    "text": "for add idea update idea"
+  },
+  {
+    "start": 718.2,
+    "duration": 3.24,
+    "text": "and and the reason you know it's"
+  },
+  {
+    "start": 719.56,
+    "duration": 4.44,
+    "text": "important to"
+  },
+  {
+    "start": 721.44,
+    "duration": 4.24,
+    "text": "that I you know I I I I said show me the"
+  },
+  {
+    "start": 724.0,
+    "duration": 3.72,
+    "text": "data model and which record and actions"
+  },
+  {
+    "start": 725.68,
+    "duration": 4.04,
+    "text": "the app needs is you might not know what"
+  },
+  {
+    "start": 727.72,
+    "duration": 4.8,
+    "text": "safe actions to create. So you you might"
+  },
+  {
+    "start": 729.72,
+    "duration": 5.0,
+    "text": "as well act ask Codex and it'll give it"
+  },
+  {
+    "start": 732.52,
+    "duration": 4.04,
+    "text": "to you right there."
+  },
+  {
+    "start": 734.72,
+    "duration": 3.44,
+    "text": "So for people non-technical people"
+  },
+  {
+    "start": 736.56,
+    "duration": 3.76,
+    "text": "especially like that you might not know"
+  },
+  {
+    "start": 738.16,
+    "duration": 3.72,
+    "text": "your safe actions are you just ask Codex"
+  },
+  {
+    "start": 740.32,
+    "duration": 3.48,
+    "text": "what what they should be."
+  },
+  {
+    "start": 741.88,
+    "duration": 4.08,
+    "text": "So it says I'll use the sites building"
+  },
+  {
+    "start": 743.8,
+    "duration": 3.44,
+    "text": "workflow again since this is a worker D1"
+  },
+  {
+    "start": 745.96,
+    "duration": 4.2,
+    "text": "service."
+  },
+  {
+    "start": 747.24,
+    "duration": 4.6,
+    "text": "I'm going to inspect the current action"
+  },
+  {
+    "start": 750.16,
+    "duration": 3.88,
+    "text": "routing and tighten into an explicit"
+  },
+  {
+    "start": 751.84,
+    "duration": 3.32,
+    "text": "safe action boundary so the agent can"
+  },
+  {
+    "start": 754.04,
+    "duration": 3.44,
+    "text": "only"
+  },
+  {
+    "start": 755.16,
+    "duration": 4.56,
+    "text": "call named mutations rather than the"
+  },
+  {
+    "start": 757.48,
+    "duration": 4.8,
+    "text": "arbitrary SQL. So you're starting to see"
+  },
+  {
+    "start": 759.72,
+    "duration": 5.56,
+    "text": "that Codex it does feel a little more"
+  },
+  {
+    "start": 762.28,
+    "duration": 5.6,
+    "text": "technical than your your lovable or your"
+  },
+  {
+    "start": 765.28,
+    "duration": 6.24,
+    "text": "replate or your bolt"
+  },
+  {
+    "start": 767.88,
+    "duration": 6.44,
+    "text": "but if you can stay with it"
+  },
+  {
+    "start": 771.52,
+    "duration": 4.72,
+    "text": "the output I think is"
+  },
+  {
+    "start": 774.32,
+    "duration": 4.48,
+    "text": "super super valuable. Like the idea that"
+  },
+  {
+    "start": 776.24,
+    "duration": 4.599,
+    "text": "you can have it self"
+  },
+  {
+    "start": 778.8,
+    "duration": 4.08,
+    "text": "self update the idea that you're in"
+  },
+  {
+    "start": 780.839,
+    "duration": 3.761,
+    "text": "Codex and you can bring in all this"
+  },
+  {
+    "start": 782.88,
+    "duration": 3.76,
+    "text": "stuff from Codex. The idea that you can"
+  },
+  {
+    "start": 784.6,
+    "duration": 3.64,
+    "text": "go into the plugins"
+  },
+  {
+    "start": 786.64,
+    "duration": 4.52,
+    "text": "and and just"
+  },
+  {
+    "start": 788.24,
+    "duration": 5.92,
+    "text": "use all this stuff from the get-go like"
+  },
+  {
+    "start": 791.16,
+    "duration": 6.12,
+    "text": "these are some of the I mean"
+  },
+  {
+    "start": 794.16,
+    "duration": 5.16,
+    "text": "FAL AI and image generation like so much"
+  },
+  {
+    "start": 797.28,
+    "duration": 5.0,
+    "text": "stuff hugging face these are all open"
+  },
+  {
+    "start": 799.32,
+    "duration": 4.72,
+    "text": "source models like just all built in"
+  },
+  {
+    "start": 802.28,
+    "duration": 3.4,
+    "text": "from the get-go."
+  },
+  {
+    "start": 804.04,
+    "duration": 3.6,
+    "text": "It's pretty sweet."
+  },
+  {
+    "start": 805.68,
+    "duration": 4.44,
+    "text": "So that's completed so the next thing"
+  },
+  {
+    "start": 807.64,
+    "duration": 4.84,
+    "text": "we're to want to do is create a skill."
+  },
+  {
+    "start": 810.12,
+    "duration": 5.24,
+    "text": "So, we're going to copy this here so"
+  },
+  {
+    "start": 812.48,
+    "duration": 7.24,
+    "text": "that the chats, our future chats, are"
+  },
+  {
+    "start": 815.36,
+    "duration": 6.6,
+    "text": "going to know how to use this app."
+  },
+  {
+    "start": 819.72,
+    "duration": 4.8,
+    "text": "So, create a Codex skill called Startup"
+  },
+  {
+    "start": 821.96,
+    "duration": 5.44,
+    "text": "Ideas Admin. It should explain how to"
+  },
+  {
+    "start": 824.52,
+    "duration": 4.92,
+    "text": "read the board, how to add ideas, how to"
+  },
+  {
+    "start": 827.4,
+    "duration": 4.68,
+    "text": "move cards, how to score ideas, and"
+  },
+  {
+    "start": 829.44,
+    "duration": 5.48,
+    "text": "include five example commands. This is"
+  },
+  {
+    "start": 832.08,
+    "duration": 4.88,
+    "text": "something that I think that is"
+  },
+  {
+    "start": 834.92,
+    "duration": 4.24,
+    "text": "you know, I I started seeing people use"
+  },
+  {
+    "start": 836.96,
+    "duration": 3.92,
+    "text": "uh Codex sites and they're not using"
+  },
+  {
+    "start": 839.16,
+    "duration": 4.04,
+    "text": "skills. And I'm like,"
+  },
+  {
+    "start": 840.88,
+    "duration": 4.44,
+    "text": "this is one of the greatest parts of of"
+  },
+  {
+    "start": 843.2,
+    "duration": 4.76,
+    "text": "Codex sites is the ability to create"
+  },
+  {
+    "start": 845.32,
+    "duration": 4.8,
+    "text": "these skills. So, you might as well"
+  },
+  {
+    "start": 847.96,
+    "duration": 4.88,
+    "text": "might as well might as well uh"
+  },
+  {
+    "start": 850.12,
+    "duration": 4.04,
+    "text": "start adding some skills to get the most"
+  },
+  {
+    "start": 852.84,
+    "duration": 3.0,
+    "text": "out of your application. So, it says,"
+  },
+  {
+    "start": 854.16,
+    "duration": 3.4,
+    "text": "\"I'll use the skill creator guidance for"
+  },
+  {
+    "start": 855.84,
+    "duration": 2.8,
+    "text": "this since you're asking for a new Codex"
+  },
+  {
+    "start": 857.56,
+    "duration": 2.68,
+    "text": "skill."
+  },
+  {
+    "start": 858.64,
+    "duration": 3.36,
+    "text": "I'm going to read the skill instructions"
+  },
+  {
+    "start": 860.24,
+    "duration": 3.72,
+    "text": "and create Startup Ideas Admin in your"
+  },
+  {
+    "start": 862.0,
+    "duration": 4.24,
+    "text": "local skill directories with the board"
+  },
+  {
+    "start": 863.96,
+    "duration": 4.08,
+    "text": "action workflow and example commands."
+  },
+  {
+    "start": 866.24,
+    "duration": 3.84,
+    "text": "The skill name is already valid and the"
+  },
+  {
+    "start": 868.04,
+    "duration": 7.24,
+    "text": "scope is clear. Operational guidance for"
+  },
+  {
+    "start": 870.08,
+    "duration": 6.56,
+    "text": "this board um and it's safe actions."
+  },
+  {
+    "start": 875.28,
+    "duration": 4.36,
+    "text": "So, it's gone ahead and created the"
+  },
+  {
+    "start": 876.64,
+    "duration": 4.44,
+    "text": "Codex skill. It it it's done everything"
+  },
+  {
+    "start": 879.64,
+    "duration": 3.199,
+    "text": "we've asked for, reading the board,"
+  },
+  {
+    "start": 881.08,
+    "duration": 4.32,
+    "text": "adding ideas, updating cards, moving"
+  },
+  {
+    "start": 882.839,
+    "duration": 5.441,
+    "text": "cards, scoring ideas, archiving ideas,"
+  },
+  {
+    "start": 885.4,
+    "duration": 6.24,
+    "text": "five example commands, and it says,"
+  },
+  {
+    "start": 888.28,
+    "duration": 6.12,
+    "text": "\"Validation pass. The skill is valid.\""
+  },
+  {
+    "start": 891.64,
+    "duration": 5.36,
+    "text": "It's going to be helpful for you to"
+  },
+  {
+    "start": 894.4,
+    "duration": 4.2,
+    "text": "actually save gates. What do I mean by"
+  },
+  {
+    "start": 897.0,
+    "duration": 2.56,
+    "text": "that? I mean,"
+  },
+  {
+    "start": 898.6,
+    "duration": 2.32,
+    "text": "you know, the way I think about it is"
+  },
+  {
+    "start": 899.56,
+    "duration": 3.2,
+    "text": "like a video game, right? Like, you have"
+  },
+  {
+    "start": 900.92,
+    "duration": 3.56,
+    "text": "like checkpoints as you go through a"
+  },
+  {
+    "start": 902.76,
+    "duration": 3.079,
+    "text": "video game, and sometimes it'll auto"
+  },
+  {
+    "start": 904.48,
+    "duration": 3.6,
+    "text": "save,"
+  },
+  {
+    "start": 905.839,
+    "duration": 3.681,
+    "text": "and you're you're happy it auto saved."
+  },
+  {
+    "start": 908.08,
+    "duration": 4.08,
+    "text": "But, the thing with Codex is it doesn't"
+  },
+  {
+    "start": 909.52,
+    "duration": 5.12,
+    "text": "auto save. Um so, it's helpful to go in"
+  },
+  {
+    "start": 912.16,
+    "duration": 5.88,
+    "text": "there and just say like, \"Hey, just do a"
+  },
+  {
+    "start": 914.64,
+    "duration": 4.96,
+    "text": "checkpoint here before a live URL.\" So,"
+  },
+  {
+    "start": 918.04,
+    "duration": 3.56,
+    "text": "uh let's go ahead and go back into"
+  },
+  {
+    "start": 919.6,
+    "duration": 4.64,
+    "text": "Codex."
+  },
+  {
+    "start": 921.6,
+    "duration": 5.08,
+    "text": "And I'll say, \"Save this as V1 review."
+  },
+  {
+    "start": 924.24,
+    "duration": 4.68,
+    "text": "Do not deploy. Confirm build status,"
+  },
+  {
+    "start": 926.68,
+    "duration": 4.56,
+    "text": "storage choice, access setting, and the"
+  },
+  {
+    "start": 928.92,
+    "duration": 3.8,
+    "text": "exact version I should review. And I'll"
+  },
+  {
+    "start": 931.24,
+    "duration": 3.28,
+    "text": "include, by the way, all these prompts"
+  },
+  {
+    "start": 932.72,
+    "duration": 4.36,
+    "text": "I'll include in this show notes in the"
+  },
+  {
+    "start": 934.52,
+    "duration": 6.04,
+    "text": "description for for people to download."
+  },
+  {
+    "start": 937.08,
+    "duration": 4.92,
+    "text": "Um so that they can go ahead and and and"
+  },
+  {
+    "start": 940.56,
+    "duration": 3.48,
+    "text": "as they're building Codex sites, they"
+  },
+  {
+    "start": 942.0,
+    "duration": 4.04,
+    "text": "could uh"
+  },
+  {
+    "start": 944.04,
+    "duration": 3.56,
+    "text": "they can go and use some of this stuff."
+  },
+  {
+    "start": 946.04,
+    "duration": 3.0,
+    "text": "So it says, I'll use the sites hosting"
+  },
+  {
+    "start": 947.6,
+    "duration": 3.12,
+    "text": "workflow for the save-only review"
+  },
+  {
+    "start": 949.04,
+    "duration": 3.32,
+    "text": "session. I'm going to validate the"
+  },
+  {
+    "start": 950.72,
+    "duration": 3.84,
+    "text": "current build, confirm the storage"
+  },
+  {
+    "start": 952.36,
+    "duration": 4.08,
+    "text": "access config, commit the latest safe"
+  },
+  {
+    "start": 954.56,
+    "duration": 4.24,
+    "text": "action changes, and then save a sites"
+  },
+  {
+    "start": 956.44,
+    "duration": 4.44,
+    "text": "version without deploying. There you go."
+  },
+  {
+    "start": 958.8,
+    "duration": 4.08,
+    "text": "So prompt is done. It's saved for"
+  },
+  {
+    "start": 960.88,
+    "duration": 3.92,
+    "text": "review. It isn't deployed. The build"
+  },
+  {
+    "start": 962.88,
+    "duration": 3.96,
+    "text": "status is passed."
+  },
+  {
+    "start": 964.8,
+    "duration": 4.2,
+    "text": "Um the storage choice is still D1. The"
+  },
+  {
+    "start": 966.84,
+    "duration": 3.52,
+    "text": "access setting is custom."
+  },
+  {
+    "start": 969.0,
+    "duration": 2.8,
+    "text": "Um"
+  },
+  {
+    "start": 970.36,
+    "duration": 2.76,
+    "text": "One thing to note here is at the top"
+  },
+  {
+    "start": 971.8,
+    "duration": 2.92,
+    "text": "right, you can see like your whole"
+  },
+  {
+    "start": 973.12,
+    "duration": 2.96,
+    "text": "environment here."
+  },
+  {
+    "start": 974.72,
+    "duration": 2.84,
+    "text": "So you can see all the different changes"
+  },
+  {
+    "start": 976.08,
+    "duration": 3.48,
+    "text": "you made. You can see if you're working"
+  },
+  {
+    "start": 977.56,
+    "duration": 4.8,
+    "text": "on locally or you're connected to Codex"
+  },
+  {
+    "start": 979.56,
+    "duration": 7.2,
+    "text": "web. Um here I'm connected to the main"
+  },
+  {
+    "start": 982.36,
+    "duration": 6.52,
+    "text": "branch. Um and so I you know"
+  },
+  {
+    "start": 986.76,
+    "duration": 3.48,
+    "text": "it's just all all up here on the top"
+  },
+  {
+    "start": 988.88,
+    "duration": 3.24,
+    "text": "right."
+  },
+  {
+    "start": 990.24,
+    "duration": 4.72,
+    "text": "The last prompt I want to do is the"
+  },
+  {
+    "start": 992.12,
+    "duration": 4.36,
+    "text": "whole proving the loop process. So what"
+  },
+  {
+    "start": 994.96,
+    "duration": 4.16,
+    "text": "I'm going to do is I'm going to grab"
+  },
+  {
+    "start": 996.48,
+    "duration": 5.04,
+    "text": "this prompt right here."
+  },
+  {
+    "start": 999.12,
+    "duration": 3.8,
+    "text": "And I'm going to say in a new chat,"
+  },
+  {
+    "start": 1001.52,
+    "duration": 3.88,
+    "text": "important important that's in a new"
+  },
+  {
+    "start": 1002.92,
+    "duration": 5.0,
+    "text": "chat, use Startup Ideas admin to add,"
+  },
+  {
+    "start": 1005.4,
+    "duration": 4.96,
+    "text": "here's the startup idea, AI agent SEO"
+  },
+  {
+    "start": 1007.92,
+    "duration": 4.68,
+    "text": "grader for local businesses. Put it in"
+  },
+  {
+    "start": 1010.36,
+    "duration": 4.0,
+    "text": "an inbox with a first pass score and the"
+  },
+  {
+    "start": 1012.6,
+    "duration": 4.28,
+    "text": "next step. And let's see if it actually"
+  },
+  {
+    "start": 1014.36,
+    "duration": 4.2,
+    "text": "can do that. Does it open up a new chat"
+  },
+  {
+    "start": 1016.88,
+    "duration": 4.08,
+    "text": "or do we actually have to go and open up"
+  },
+  {
+    "start": 1018.56,
+    "duration": 4.279,
+    "text": "a new chat? Let's see."
+  },
+  {
+    "start": 1020.96,
+    "duration": 4.28,
+    "text": "It says, I'll treat this as two pieces."
+  },
+  {
+    "start": 1022.839,
+    "duration": 4.321,
+    "text": "Use the new Startup Ideas admin skill"
+  },
+  {
+    "start": 1025.24,
+    "duration": 4.04,
+    "text": "instructions and create a fresh chat"
+  },
+  {
+    "start": 1027.16,
+    "duration": 4.039,
+    "text": "thread to do the actual board update."
+  },
+  {
+    "start": 1029.28,
+    "duration": 4.039,
+    "text": "There, yes. I'm loading the skill and"
+  },
+  {
+    "start": 1031.199,
+    "duration": 5.161,
+    "text": "finding the thread creation tool now."
+  },
+  {
+    "start": 1033.319,
+    "duration": 3.961,
+    "text": "The skill says to only use"
+  },
+  {
+    "start": 1036.36,
+    "duration": 2.959,
+    "text": "Oh."
+  },
+  {
+    "start": 1037.28,
+    "duration": 3.76,
+    "text": "Look, it's gone and opened. It's gone"
+  },
+  {
+    "start": 1039.319,
+    "duration": 2.961,
+    "text": "and created the chat. I can open it"
+  },
+  {
+    "start": 1041.04,
+    "duration": 4.159,
+    "text": "right here."
+  },
+  {
+    "start": 1042.28,
+    "duration": 5.0,
+    "text": "So, it says, \"I'm using the skill."
+  },
+  {
+    "start": 1045.199,
+    "duration": 3.321,
+    "text": "Um I'm going to find out how the local"
+  },
+  {
+    "start": 1047.28,
+    "duration": 2.72,
+    "text": "app is meant to run. I'm going to read"
+  },
+  {
+    "start": 1048.52,
+    "duration": 3.92,
+    "text": "the board. I'm going to add the inbox"
+  },
+  {
+    "start": 1050.0,
+    "duration": 4.12,
+    "text": "card and the safe action and verify by"
+  },
+  {
+    "start": 1052.44,
+    "duration": 3.32,
+    "text": "reading again.\" Exactly what I wanted to"
+  },
+  {
+    "start": 1054.12,
+    "duration": 3.64,
+    "text": "do. The project is clean and looks like"
+  },
+  {
+    "start": 1055.76,
+    "duration": 4.24,
+    "text": "a next style app with a worker and a"
+  },
+  {
+    "start": 1057.76,
+    "duration": 3.72,
+    "text": "verifiable script. \"I'm checking the API"
+  },
+  {
+    "start": 1060.0,
+    "duration": 4.84,
+    "text": "implementation now so I can call the"
+  },
+  {
+    "start": 1061.48,
+    "duration": 4.28,
+    "text": "same local service the app expects. The"
+  },
+  {
+    "start": 1064.84,
+    "duration": 3.12,
+    "text": "app"
+  },
+  {
+    "start": 1065.76,
+    "duration": 4.0,
+    "text": "exposes exactly the safe route the skill"
+  },
+  {
+    "start": 1067.96,
+    "duration": 3.32,
+    "text": "expects.\" Yeah. So, this is doing"
+  },
+  {
+    "start": 1069.76,
+    "duration": 5.0,
+    "text": "exactly"
+  },
+  {
+    "start": 1071.28,
+    "duration": 5.8,
+    "text": "what I want it to be doing."
+  },
+  {
+    "start": 1074.76,
+    "duration": 3.64,
+    "text": "And let's see if it works."
+  },
+  {
+    "start": 1077.08,
+    "duration": 3.16,
+    "text": "All right. So, the prompt is done. It"
+  },
+  {
+    "start": 1078.4,
+    "duration": 3.68,
+    "text": "says, \"Done using only the safe board"
+  },
+  {
+    "start": 1080.24,
+    "duration": 4.64,
+    "text": "API,\" which is what we wanted. \"In the"
+  },
+  {
+    "start": 1082.08,
+    "duration": 5.6,
+    "text": "action layer, there's no raw SQL SQL, no"
+  },
+  {
+    "start": 1084.88,
+    "duration": 4.56,
+    "text": "generic database writes, and no deploy.\""
+  },
+  {
+    "start": 1087.68,
+    "duration": 4.08,
+    "text": "It's gone and did it. It went really,"
+  },
+  {
+    "start": 1089.44,
+    "duration": 5.48,
+    "text": "really fast."
+  },
+  {
+    "start": 1091.76,
+    "duration": 3.16,
+    "text": "So, now I'm going to say,"
+  },
+  {
+    "start": 1095.24,
+    "duration": 3.32,
+    "text": "\"Can you publish Now, I'm going to say,"
+  },
+  {
+    "start": 1097.0,
+    "duration": 3.88,
+    "text": "\"Can you publish website?\" and see what"
+  },
+  {
+    "start": 1098.56,
+    "duration": 5.16,
+    "text": "happens."
+  },
+  {
+    "start": 1100.88,
+    "duration": 5.92,
+    "text": "So, it's gone ahead and deployed it."
+  },
+  {
+    "start": 1103.72,
+    "duration": 6.36,
+    "text": "You'll notice that it's this crazy URL."
+  },
+  {
+    "start": 1106.8,
+    "duration": 4.72,
+    "text": "And that's a downside of Codex sites at"
+  },
+  {
+    "start": 1110.08,
+    "duration": 2.68,
+    "text": "the moment. I think this is going to"
+  },
+  {
+    "start": 1111.52,
+    "duration": 3.88,
+    "text": "change. That's my prediction. It's going"
+  },
+  {
+    "start": 1112.76,
+    "duration": 4.08,
+    "text": "to change hopefully soon where they're"
+  },
+  {
+    "start": 1115.4,
+    "duration": 3.36,
+    "text": "going to be able to have custom domains."
+  },
+  {
+    "start": 1116.84,
+    "duration": 4.44,
+    "text": "But, I can go and open it in Codex"
+  },
+  {
+    "start": 1118.76,
+    "duration": 4.16,
+    "text": "browser on the right here. It's got off"
+  },
+  {
+    "start": 1121.28,
+    "duration": 3.48,
+    "text": "built in here."
+  },
+  {
+    "start": 1122.92,
+    "duration": 4.2,
+    "text": "I do have to sign up."
+  },
+  {
+    "start": 1124.76,
+    "duration": 4.32,
+    "text": "So, I'm going to go ahead and sign up."
+  },
+  {
+    "start": 1127.12,
+    "duration": 4.0,
+    "text": "So,"
+  },
+  {
+    "start": 1129.08,
+    "duration": 3.64,
+    "text": "as you can see, this is exactly what we"
+  },
+  {
+    "start": 1131.12,
+    "duration": 3.88,
+    "text": "wanted. We've got the inbox, the"
+  },
+  {
+    "start": 1132.72,
+    "duration": 4.6,
+    "text": "researching, the validated."
+  },
+  {
+    "start": 1135.0,
+    "duration": 3.6,
+    "text": "Um if I make it bigger here, I can see"
+  },
+  {
+    "start": 1137.32,
+    "duration": 3.0,
+    "text": "more."
+  },
+  {
+    "start": 1138.6,
+    "duration": 3.92,
+    "text": "The building, the killed."
+  },
+  {
+    "start": 1140.32,
+    "duration": 3.84,
+    "text": "Um"
+  },
+  {
+    "start": 1142.52,
+    "duration": 3.56,
+    "text": "and it's got everything I've asked for,"
+  },
+  {
+    "start": 1144.16,
+    "duration": 4.64,
+    "text": "right? Um"
+  },
+  {
+    "start": 1146.08,
+    "duration": 5.32,
+    "text": "Now, if I want a new idea, I can go and"
+  },
+  {
+    "start": 1148.8,
+    "duration": 4.52,
+    "text": "actually create a new idea. Or again, I"
+  },
+  {
+    "start": 1151.4,
+    "duration": 5.36,
+    "text": "can use a safe action to go and do it,"
+  },
+  {
+    "start": 1153.32,
+    "duration": 6.96,
+    "text": "or I can have it run an automation like"
+  },
+  {
+    "start": 1156.76,
+    "duration": 4.88,
+    "text": "every week to automatically add to this"
+  },
+  {
+    "start": 1160.28,
+    "duration": 3.16,
+    "text": "board. So, we've seen that you can"
+  },
+  {
+    "start": 1161.64,
+    "duration": 2.6,
+    "text": "actually do that."
+  },
+  {
+    "start": 1163.44,
+    "duration": 2.96,
+    "text": "Um"
+  },
+  {
+    "start": 1164.24,
+    "duration": 3.56,
+    "text": "I can go more in-depth in a future video"
+  },
+  {
+    "start": 1166.4,
+    "duration": 3.04,
+    "text": "if people are interested in like how to"
+  },
+  {
+    "start": 1167.8,
+    "duration": 4.28,
+    "text": "do automations and cron jobs and stuff"
+  },
+  {
+    "start": 1169.44,
+    "duration": 5.16,
+    "text": "like that, but you can basically just uh"
+  },
+  {
+    "start": 1172.08,
+    "duration": 4.0,
+    "text": "you know, ask Codex Sites go and do that"
+  },
+  {
+    "start": 1174.6,
+    "duration": 2.92,
+    "text": "for you."
+  },
+  {
+    "start": 1176.08,
+    "duration": 3.56,
+    "text": "And I think what's really cool is that"
+  },
+  {
+    "start": 1177.52,
+    "duration": 3.72,
+    "text": "like"
+  },
+  {
+    "start": 1179.64,
+    "duration": 3.72,
+    "text": "you know, if you listen to this channel,"
+  },
+  {
+    "start": 1181.24,
+    "duration": 3.84,
+    "text": "a lot of us are interested in creating"
+  },
+  {
+    "start": 1183.36,
+    "duration": 5.2,
+    "text": "startups that"
+  },
+  {
+    "start": 1185.08,
+    "duration": 5.56,
+    "text": "you know, we don't need big teams to to"
+  },
+  {
+    "start": 1188.56,
+    "duration": 4.36,
+    "text": "manage, right? And this whole What's so"
+  },
+  {
+    "start": 1190.64,
+    "duration": 4.32,
+    "text": "cool about this is we're getting to this"
+  },
+  {
+    "start": 1192.92,
+    "duration": 3.84,
+    "text": "with Codex Sites. We're getting to this"
+  },
+  {
+    "start": 1194.96,
+    "duration": 4.08,
+    "text": "If you can create agents that go and"
+  },
+  {
+    "start": 1196.76,
+    "duration": 3.64,
+    "text": "automatically update based on, you know,"
+  },
+  {
+    "start": 1199.04,
+    "duration": 4.44,
+    "text": "different uh"
+  },
+  {
+    "start": 1200.4,
+    "duration": 4.68,
+    "text": "criterias, then and then and it work and"
+  },
+  {
+    "start": 1203.48,
+    "duration": 4.56,
+    "text": "these are products that work and are"
+  },
+  {
+    "start": 1205.08,
+    "duration": 5.24,
+    "text": "valuable to people, then um"
+  },
+  {
+    "start": 1208.04,
+    "duration": 3.32,
+    "text": "that's sort of sort of the dream. So,"
+  },
+  {
+    "start": 1210.32,
+    "duration": 2.12,
+    "text": "this"
+  },
+  {
+    "start": 1211.36,
+    "duration": 3.6,
+    "text": "you know, is it the most beautiful"
+  },
+  {
+    "start": 1212.44,
+    "duration": 5.2,
+    "text": "website on the planet? No. Does it work?"
+  },
+  {
+    "start": 1214.96,
+    "duration": 4.24,
+    "text": "Yes. Does it look decent? Yes. Could I"
+  },
+  {
+    "start": 1217.64,
+    "duration": 2.72,
+    "text": "get it to a point where it looks"
+  },
+  {
+    "start": 1219.2,
+    "duration": 4.32,
+    "text": "beautiful?"
+  },
+  {
+    "start": 1220.36,
+    "duration": 5.0,
+    "text": "Um I can. And"
+  },
+  {
+    "start": 1223.52,
+    "duration": 6.12,
+    "text": "um"
+  },
+  {
+    "start": 1225.36,
+    "duration": 5.88,
+    "text": "and that's that's pretty cool."
+  },
+  {
+    "start": 1229.64,
+    "duration": 4.56,
+    "text": "So,"
+  },
+  {
+    "start": 1231.24,
+    "duration": 6.4,
+    "text": "to to to like TD TLDR it, like what are"
+  },
+  {
+    "start": 1234.2,
+    "duration": 6.28,
+    "text": "the main concepts to understand in"
+  },
+  {
+    "start": 1237.64,
+    "duration": 4.72,
+    "text": "within Codex Sites is number one, you're"
+  },
+  {
+    "start": 1240.48,
+    "duration": 4.24,
+    "text": "going to want to"
+  },
+  {
+    "start": 1242.36,
+    "duration": 5.48,
+    "text": "ask it to have memory, right? You know,"
+  },
+  {
+    "start": 1244.72,
+    "duration": 4.92,
+    "text": "the app saves data, but without this"
+  },
+  {
+    "start": 1247.84,
+    "duration": 3.56,
+    "text": "it's just a demo. So, you're going to"
+  },
+  {
+    "start": 1249.64,
+    "duration": 3.0,
+    "text": "have to ask it to to save memory. You're"
+  },
+  {
+    "start": 1251.4,
+    "duration": 3.56,
+    "text": "going to have to ask it to have a"
+  },
+  {
+    "start": 1252.64,
+    "duration": 6.36,
+    "text": "database. Um a lot of people are"
+  },
+  {
+    "start": 1254.96,
+    "duration": 5.84,
+    "text": "starting to use Convex with um"
+  },
+  {
+    "start": 1259.0,
+    "duration": 5.08,
+    "text": "with Codex Sites. So, that's something"
+  },
+  {
+    "start": 1260.8,
+    "duration": 5.32,
+    "text": "to look into. Um I imagine that over"
+  },
+  {
+    "start": 1264.08,
+    "duration": 4.6,
+    "text": "time it's just going to be easier and"
+  },
+  {
+    "start": 1266.12,
+    "duration": 4.28,
+    "text": "easier to use Codex sites, um but now"
+  },
+  {
+    "start": 1268.68,
+    "duration": 3.44,
+    "text": "you do need a prompt it to do a lot of"
+  },
+  {
+    "start": 1270.4,
+    "duration": 3.72,
+    "text": "these things. The second thing is is"
+  },
+  {
+    "start": 1272.12,
+    "duration": 4.16,
+    "text": "this concept called safe actions. So,"
+  },
+  {
+    "start": 1274.12,
+    "duration": 5.2,
+    "text": "this whole idea that you can have"
+  },
+  {
+    "start": 1276.28,
+    "duration": 5.52,
+    "text": "approved buttons, um"
+  },
+  {
+    "start": 1279.32,
+    "duration": 3.56,
+    "text": "and and through that you can have it"
+  },
+  {
+    "start": 1281.8,
+    "duration": 4.76,
+    "text": "auto"
+  },
+  {
+    "start": 1282.88,
+    "duration": 7.48,
+    "text": "automate uh adding, removing, editing"
+  },
+  {
+    "start": 1286.56,
+    "duration": 5.6,
+    "text": "your apps, um so that, you know, you are"
+  },
+  {
+    "start": 1290.36,
+    "duration": 3.0,
+    "text": "as the human being aren't doing"
+  },
+  {
+    "start": 1292.16,
+    "duration": 2.52,
+    "text": "everything and you don't have to"
+  },
+  {
+    "start": 1293.36,
+    "duration": 4.44,
+    "text": "actually"
+  },
+  {
+    "start": 1294.68,
+    "duration": 4.36,
+    "text": "edit every uh every website or app you"
+  },
+  {
+    "start": 1297.8,
+    "duration": 2.24,
+    "text": "create,"
+  },
+  {
+    "start": 1299.04,
+    "duration": 1.88,
+    "text": "you know?"
+  },
+  {
+    "start": 1300.04,
+    "duration": 2.56,
+    "text": "Uh"
+  },
+  {
+    "start": 1300.92,
+    "duration": 4.76,
+    "text": "I used to run a web design agency. It"
+  },
+  {
+    "start": 1302.6,
+    "duration": 4.28,
+    "text": "was one of my first jobs and"
+  },
+  {
+    "start": 1305.68,
+    "duration": 3.44,
+    "text": "you know, one of the things I used to"
+  },
+  {
+    "start": 1306.88,
+    "duration": 3.96,
+    "text": "say was a website is a living and"
+  },
+  {
+    "start": 1309.12,
+    "duration": 3.32,
+    "text": "breathing entity."
+  },
+  {
+    "start": 1310.84,
+    "duration": 4.84,
+    "text": "Um it isn't something that you hit"
+  },
+  {
+    "start": 1312.44,
+    "duration": 4.84,
+    "text": "publish and you can just like"
+  },
+  {
+    "start": 1315.68,
+    "duration": 4.08,
+    "text": "walk away forever."
+  },
+  {
+    "start": 1317.28,
+    "duration": 5.48,
+    "text": "And, you know, we're now in this era"
+  },
+  {
+    "start": 1319.76,
+    "duration": 6.44,
+    "text": "2026 where the agents are actually doing"
+  },
+  {
+    "start": 1322.76,
+    "duration": 4.04,
+    "text": "the the the updating, the editing,"
+  },
+  {
+    "start": 1326.2,
+    "duration": 2.36,
+    "text": "uh"
+  },
+  {
+    "start": 1326.8,
+    "duration": 5.28,
+    "text": "the removing, and that's through things"
+  },
+  {
+    "start": 1328.56,
+    "duration": 6.2,
+    "text": "like safe actions and skills. Like, use"
+  },
+  {
+    "start": 1332.08,
+    "duration": 4.16,
+    "text": "skills with Codex. We saw how how it"
+  },
+  {
+    "start": 1334.76,
+    "duration": 3.48,
+    "text": "could be valuable in this in this"
+  },
+  {
+    "start": 1336.24,
+    "duration": 4.6,
+    "text": "episode, but a skill is basically this"
+  },
+  {
+    "start": 1338.24,
+    "duration": 5.16,
+    "text": "reusable instruction manual, so Codex"
+  },
+  {
+    "start": 1340.84,
+    "duration": 5.56,
+    "text": "knows how to operate the app later. So,"
+  },
+  {
+    "start": 1343.4,
+    "duration": 5.76,
+    "text": "you're going to need to create skills so"
+  },
+  {
+    "start": 1346.4,
+    "duration": 4.76,
+    "text": "you can use the safe action safe actions"
+  },
+  {
+    "start": 1349.16,
+    "duration": 4.32,
+    "text": "and so that and obviously you're going"
+  },
+  {
+    "start": 1351.16,
+    "duration": 5.52,
+    "text": "to want to store that in the memory so"
+  },
+  {
+    "start": 1353.48,
+    "duration": 6.24,
+    "text": "that it, you know, it it does it safely"
+  },
+  {
+    "start": 1356.68,
+    "duration": 6.44,
+    "text": "and and is giving the right information."
+  },
+  {
+    "start": 1359.72,
+    "duration": 5.97,
+    "text": "So, uh all this to say, the wow moment"
+  },
+  {
+    "start": 1363.12,
+    "duration": 2.6,
+    "text": "for me, um"
+  },
+  {
+    "start": 1365.69,
+    "duration": 1.79,
+    "text": ">> [snorts]"
+  },
+  {
+    "start": 1365.72,
+    "duration": 2.84,
+    "text": ">> is is building apps where I could do"
+  },
+  {
+    "start": 1367.48,
+    "duration": 2.68,
+    "text": "like,"
+  },
+  {
+    "start": 1368.56,
+    "duration": 3.64,
+    "text": "you know, in this example, I could open"
+  },
+  {
+    "start": 1370.16,
+    "duration": 5.4,
+    "text": "a new chat and say add this idea to my"
+  },
+  {
+    "start": 1372.2,
+    "duration": 5.48,
+    "text": "startup ideas OS. It shows it shows it"
+  },
+  {
+    "start": 1375.56,
+    "duration": 4.48,
+    "text": "in the live site updating, right? So,"
+  },
+  {
+    "start": 1377.68,
+    "duration": 3.68,
+    "text": "once it's published, um I could just be"
+  },
+  {
+    "start": 1380.04,
+    "duration": 3.8,
+    "text": "like,"
+  },
+  {
+    "start": 1381.36,
+    "duration": 3.96,
+    "text": "at do this and it's going to add it or I"
+  },
+  {
+    "start": 1383.84,
+    "duration": 5.0,
+    "text": "can have an agent do it and it's going"
+  },
+  {
+    "start": 1385.32,
+    "duration": 6.24,
+    "text": "to add it and it's going to be all on my"
+  },
+  {
+    "start": 1388.84,
+    "duration": 4.2,
+    "text": "live website, which is really cool."
+  },
+  {
+    "start": 1391.56,
+    "duration": 3.24,
+    "text": "Um, I think that a lot of people are"
+  },
+  {
+    "start": 1393.04,
+    "duration": 4.96,
+    "text": "going to use Codex Sites to make like"
+  },
+  {
+    "start": 1394.8,
+    "duration": 5.4,
+    "text": "personal web pages, to make like little"
+  },
+  {
+    "start": 1398.0,
+    "duration": 4.24,
+    "text": "apps and stuff like that."
+  },
+  {
+    "start": 1400.2,
+    "duration": 4.52,
+    "text": "But I actually think that the the real"
+  },
+  {
+    "start": 1402.24,
+    "duration": 5.12,
+    "text": "unlock here is to make products that"
+  },
+  {
+    "start": 1404.72,
+    "duration": 5.0,
+    "text": "Codex can keep operating for you. That"
+  },
+  {
+    "start": 1407.36,
+    "duration": 4.08,
+    "text": "is what's exciting me about Codex Sites"
+  },
+  {
+    "start": 1409.72,
+    "duration": 4.56,
+    "text": "is that"
+  },
+  {
+    "start": 1411.44,
+    "duration": 4.96,
+    "text": "it if we can create ideas and apps and"
+  },
+  {
+    "start": 1414.28,
+    "duration": 3.84,
+    "text": "websites that are automatically updated,"
+  },
+  {
+    "start": 1416.4,
+    "duration": 3.96,
+    "text": "automatically get better, are are"
+  },
+  {
+    "start": 1418.12,
+    "duration": 3.96,
+    "text": "autonomous, I just find that so so"
+  },
+  {
+    "start": 1420.36,
+    "duration": 3.76,
+    "text": "interesting and I think this is a trend"
+  },
+  {
+    "start": 1422.08,
+    "duration": 3.6,
+    "text": "that's only going to get bigger, better,"
+  },
+  {
+    "start": 1424.12,
+    "duration": 4.84,
+    "text": "and it was interesting to see that Codex"
+  },
+  {
+    "start": 1425.68,
+    "duration": 6.6,
+    "text": "Sites is is leading the charge."
+  },
+  {
+    "start": 1428.96,
+    "duration": 5.88,
+    "text": "So, yeah, this has been a inside look as"
+  },
+  {
+    "start": 1432.28,
+    "duration": 4.76,
+    "text": "to how to use Codex Sites, what I think"
+  },
+  {
+    "start": 1434.84,
+    "duration": 4.36,
+    "text": "is interesting about it, some best"
+  },
+  {
+    "start": 1437.04,
+    "duration": 4.64,
+    "text": "practices. I hope it's been helpful. I'm"
+  },
+  {
+    "start": 1439.2,
+    "duration": 4.88,
+    "text": "just trying to share the most the the"
+  },
+  {
+    "start": 1441.68,
+    "duration": 3.96,
+    "text": "new tools that I think are are going to"
+  },
+  {
+    "start": 1444.08,
+    "duration": 2.76,
+    "text": "make uh"
+  },
+  {
+    "start": 1445.64,
+    "duration": 2.76,
+    "text": "increase"
+  },
+  {
+    "start": 1446.84,
+    "duration": 2.64,
+    "text": "I'm just trying to share the the new"
+  },
+  {
+    "start": 1448.4,
+    "duration": 2.44,
+    "text": "tools that are"
+  },
+  {
+    "start": 1449.48,
+    "duration": 3.04,
+    "text": "going to increase the probability of"
+  },
+  {
+    "start": 1450.84,
+    "duration": 2.84,
+    "text": "success for you, whatever it is you're"
+  },
+  {
+    "start": 1452.52,
+    "duration": 2.6,
+    "text": "building,"
+  },
+  {
+    "start": 1453.68,
+    "duration": 2.84,
+    "text": "um and just share the best way to use"
+  },
+  {
+    "start": 1455.12,
+    "duration": 3.68,
+    "text": "these tools,"
+  },
+  {
+    "start": 1456.52,
+    "duration": 4.08,
+    "text": "um and give you ideas along the way."
+  },
+  {
+    "start": 1458.8,
+    "duration": 3.24,
+    "text": "If this gave you an ounce of value,"
+  },
+  {
+    "start": 1460.6,
+    "duration": 3.44,
+    "text": "please"
+  },
+  {
+    "start": 1462.04,
+    "duration": 3.36,
+    "text": "uh like, comment, and subscribe. I'll"
+  },
+  {
+    "start": 1464.04,
+    "duration": 5.16,
+    "text": "see you in the comment section. I read"
+  },
+  {
+    "start": 1465.4,
+    "duration": 5.2,
+    "text": "every single comment and uh I'm I'm"
+  },
+  {
+    "start": 1469.2,
+    "duration": 2.72,
+    "text": "rooting for you. Uh you know, whatever"
+  },
+  {
+    "start": 1470.6,
+    "duration": 3.68,
+    "text": "it is you're building, I'm rooting for"
+  },
+  {
+    "start": 1471.92,
+    "duration": 4.68,
+    "text": "you and I can't wait to see what you"
+  },
+  {
+    "start": 1474.28,
+    "duration": 4.44,
+    "text": "build. I'll see you on the next one and"
+  },
+  {
+    "start": 1476.6,
+    "duration": 6.36,
+    "text": "thank you for"
+  },
+  {
+    "start": 1478.72,
+    "duration": 4.24,
+    "text": "uh joining in the Startup Ideas podcast."
+  }
+]

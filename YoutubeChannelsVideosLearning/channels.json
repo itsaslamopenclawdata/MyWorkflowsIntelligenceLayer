@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "last_updated": "2026-06-06",
+  "channels": [
+    {
+      "name": "Hyperautomation Labs",
+      "slug": "hyperautomation-labs",
+      "channel_id": "UCiax-xbEI0P6Y8C8VwZGMgQ",
+      "handle": "@hyperautomationlabs1045",
+      "url": "https://www.youtube.com/@hyperautomationlabs1045",
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiax-xbEI0P6Y8C8VwZGMgQ",
+      "category": "ai-automation",
+      "priority": "high",
+      "added_on": "2026-06-06",
+      "last_seen_video_id": "d33bg3fiCmM",
+      "last_seen_published": "2026-06-04T05:30:48+00:00",
+      "min_duration_seconds": 300,
+      "skip_rule": null,
+      "enabled": true
+    },
+    {
+      "name": "Greg Isenberg",
+      "slug": "greg-isenberg",
+      "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
+      "handle": "@GregIsenberg",
+      "url": "https://www.youtube.com/@GregIsenberg",
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPjNBjflYl0-HQtUvOx0Ibw",
+      "category": "indie-hacking",
+      "priority": "high",
+      "added_on": "2026-06-06",
+      "last_seen_video_id": "tUeSxXHmE9w",
+      "last_seen_published": "2026-06-04T18:11:16+00:00",
+      "min_duration_seconds": 300,
+      "skip_rule": null,
+      "enabled": true
+    },
+    {
+      "name": "The Solo Entrepreneur",
+      "slug": "the-solo-entrepreneur",
+      "channel_id": "UCV_DLB3VW0szIGQnwel1Nsw",
+      "handle": "@thesoloentrepreneur07",
+      "url": "https://www.youtube.com/@thesoloentrepreneur07",
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCV_DLB3VW0szIGQnwel1Nsw",
+      "category": "solopreneurship",
+      "priority": "high",
+      "added_on": "2026-06-06",
+      "last_seen_video_id": "sGnwgcVd1O0",
+      "last_seen_published": "2026-06-04T15:07:10+00:00",
+      "min_duration_seconds": 300,
+      "skip_rule": null,
+      "enabled": true
+    }
+  ]
+}

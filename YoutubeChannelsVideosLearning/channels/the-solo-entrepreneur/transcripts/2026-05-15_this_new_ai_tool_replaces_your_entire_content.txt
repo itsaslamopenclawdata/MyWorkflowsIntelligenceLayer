@@ -1,0 +1,11 @@
+# Transcript unavailable
+
+# Video: This NEW AI Tool Replaces Your Entire Content Team! (Glif AI)
+# Channel: The Solo Entrepreneur
+# Date: 2026-05-15
+# URL: https://www.youtube.com/watch?v=wjASch99W5U
+# Duration: 11:37
+
+Transcript was not available at fetch time. Description-only notes were generated.
+To regenerate, run the backfill with a fresh transcript fetch:
+  python3 backfill.py --channel-id UCV_DLB3VW0szIGQnwel1Nsw --backfill 10

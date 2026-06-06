@@ -1,0 +1,73 @@
+0:00 Last week, a developer deleted 3 months
+0:03 of work.
+0:04 70% of his code base gone in one commit.
+0:08 He confessed the whole thing on Reddit.
+0:11 Here's the twist. He didn't write most
+0:13 of it. AI did.
+0:15 ChatGPT, Claude, Copilot, the works.
+0:19 He shipped fast, then one feature
+0:21 request brought it all down.
+0:23 Not because it was hard,
+0:26 because he realized he had no idea how
+0:28 his own project worked. It looked great.
+0:31 Clean code, consistent patterns.
+0:34 But the patterns weren't his.
+0:37 He couldn't trace the logic in his head
+0:39 or explain why a single function was
+0:43 built the way it was.
+0:45 Every change meant rereading the whole
+0:47 file like a stranger wrote it because a
+0:50 stranger did.
+0:52 That's when it hit him.
+0:54 The productivity was an illusion.
+0:57 He was shipping code fast, but confusion
+0:59 even faster.
+1:01 So, he did the scary thing.
+1:03 He deleted 70% of it and started over.
+1:06 Real talk.
+1:08 90% of you watching haven't subscribed.
+1:12 On Facebook, subscribe is the supporter
+1:14 button.
+1:15 That is what keeps the lights on here.
+1:18 On YouTube, it's free and it tells the
+1:20 algorithm to send you more.
+1:22 Subscribe to support us. The rewrite
+1:25 took him 2 weeks. The result? Half the
+1:28 lines and he understood everyone.
+1:31 Because once he was in there,
+1:33 he saw what the AI had really done.
+1:36 It wrapped simple calls in whole
+1:38 classes.
+1:39 It built a config system for one
+1:41 setting.
+1:42 It over built everything.
+1:44 AI is trained on giant company code
+1:47 bases. So, it writes like 50 engineers
+1:50 are about to show up. But it was just
+1:52 him. So, here's the rule he walked away
+1:55 with.
+1:56 Treat everything AI writes as a first
+1:59 draft. Never the final answer.
+2:03 Read it, understand it,
+2:05 cut it in half.
+2:07 The moment you stop understanding your
+2:09 own project, you've lost more than you
+2:11 gained.
+2:12 And here's the line from that thread
+2:14 that stuck with me.
+2:16 If you can't explain a piece of code
+2:19 without pointing at the prompt that
+2:21 wrote it,
+2:22 you don't own that code.
+2:24 You're just hosting it.
+2:26 I turned his hard lesson into a free
+2:28 checklist.
+2:30 The first draft rule,
+2:32 the smells to delete on site,
+2:34 and the test that proves you own your
+2:36 code.
+2:38 Comment the word draft and I'll send it
+2:40 over.
+2:40 Bite-size AI drops on Instagram at
+2:43 hyperautomationlabs.
+2:45 Deep dives here on YouTube.

@@ -1,0 +1,258 @@
+0:00 You ask Claude to review 50 things. It
+0:03 confidently fixes 35, tells you it is
+0:06 done and you believe it. That is not a
+0:09 glitch. It is physics. The longer any AI
+0:14 works inside a single conversation, the
+0:17 more three specific things happen to it.
+0:19 It gets lazy and quits early. It starts
+0:23 grading its own homework and calls bad
+0:26 work good. and it slowly forgets what
+0:28 you originally asked. Now, here is the
+0:31 part almost nobody is talking about. An
+0:35 engineer who actually builds claude code
+0:38 at Anthropic just published the fix.
+0:41 By the end of this video, you will have
+0:44 seven battle tested patterns and five
+0:47 prompts you can copy and paste tonight
+0:50 that turn Claude from a forgetful intern
+0:53 into a relentless self-checking team.
+0:56 Let us get into it. First, you have to
+0:59 understand the disease before the cure
+1:01 makes any sense. Anthropic named three
+1:04 failure modes that hit every
+1:06 long-running agent and once you see
+1:08 them, you cannot unsee them. Number one,
+1:12 agentic laziness.
+1:15 On a big multi-art job, Claude stops
+1:17 before the finish line and declares
+1:19 victory. Their own example is brutal. a
+1:23 50 item security review where it quietly
+1:26 handles 35 of them and moves on like the
+1:28 job is done. Number two, self-p
+1:31 preferential bias.
+1:33 When you ask Claude to check or grade
+1:35 its own work against a rubric, it leans
+1:38 toward liking whatever it already
+1:40 produced. It is grading its own homework
+1:43 and it always gives itself an A. Number
+1:46 three, goal drift. across a long
+1:49 session, especially after the
+1:50 conversation gets compacted to save
+1:52 space, it slowly loses the thread and
+1:55 wanders away from what you actually
+1:56 asked for. And here is the uncomfortable
+1:59 truth. Your prompts are probably fine.
+2:03 The real problem is that you have been
+2:06 trapping a genius inside a single
+2:08 context window. And that window is the
+2:11 exact place where all three of these
+2:14 failures are born. So the obvious move
+2:17 is to just tell Claude, "Hey, be more
+2:20 thorough. Double check yourself." And it
+2:23 barely works for one simple reason. You
+2:26 are asking the same tired mind that just
+2:29 did the work to also be the harsh critic
+2:31 of that work. It cannot. It is biased
+2:34 toward its own answers and it is running
+2:36 low on attention. You cannot outprompt a
+2:39 structural problem. The fix is not a
+2:42 better sentence. It is a better shape.
+2:46 Instead of one overworked brain doing
+2:48 everything, you bring in a fresh team
+2:51 with a manager and a rule book. And in
+2:53 cloud code, that team finally has a
+2:56 name. A dynamic workflow. Here is what
+2:59 that actually means in plain English.
+3:02 When you ask for a workflow, Claude does
+3:05 something a little sneaky. It writes a
+3:08 small program, a short script that spins
+3:11 up a team of brand new agents and tells
+3:14 each one exactly what to do. And the
+3:17 magic word there is new. Every agent
+3:21 starts with a clean empty context
+3:23 window. No fatigue, no memory of the
+3:26 last task to be biased about. No drift
+3:30 because it was just born and handed one
+3:33 tiny job. One agent might write the
+3:36 code. A completely separate agent who
+3:39 has never seen that code before is told
+3:41 to attack it and find what is broken. A
+3:44 third agent fixes it. A manager agent
+3:47 collects the results. This is the
+3:49 difference between static and dynamic. A
+3:52 static workflow is a fixed recipe
+3:55 somebody wrote in advance. A dynamic
+3:59 workflow is clawed using the reasoning
+4:01 of Opus 4.8. writing a custom recipe on
+4:05 the spot built for your exact task.
+4:08 Think of it this way. One Claude is an
+4:10 intern. A workflow is an entire
+4:13 department. And Claude just became the
+4:15 manager. Now, the good stuff. Seven
+4:18 patterns the builders themselves use.
+4:21 And I'm going to make every one of them
+4:23 concrete. Pattern one, fan out, and
+4:26 synthesize.
+4:28 Take a huge job, split it into many
+4:30 small pieces, hand each piece to its own
+4:33 fresh agent running in parallel, then
+4:35 merge all of their answers into one.
+4:38 This is the direct cure for laziness
+4:41 because no single agent is asked to hold
+4:43 all 50 items in its head. Each one only
+4:46 has to nail its own slice. Pattern two,
+4:50 adversarial verification. And this is
+4:52 the one that changes everything. After
+4:55 the work is done, you spin up a separate
+4:57 agent whose only job is to tear it
+4:59 apart, not to be nice, to refute it. You
+5:04 literally tell it, "Assume this is wrong
+5:06 until proven right." And because that
+5:08 critic is a different agent with a clean
+5:10 context, it has zero loyalty to the
+5:13 work. That is how you finally kill
+5:16 self-preerential bias. No more grading
+5:19 its own homework. Pattern three, loop
+5:22 until done. Instead of telling Claude to
+5:25 try three times, you tell it to keep
+5:28 going until a real condition is met, no
+5:31 new bugs found, zero failing tests. It
+5:35 literally keeps spawning fresh agents
+5:38 until the work runs dry. That is the
+5:40 patch for the agent that used to quit at
+5:42 35 out of 50. It cannot stop early
+5:46 anymore because early is simply not a
+5:48 stopping condition. Pattern four,
+5:51 generate and filter.
+5:53 Ask for many ideas at once, then run
+5:55 them through a rubric. Throw out the
+5:58 duplicates and keep only the strongest
+6:00 few. It is brainstorming with a built-in
+6:03 quality gate. So, you get the range of
+6:06 50 ideas, but you only have to read the
+6:08 top three. Pattern five, the tournament.
+6:13 This one is beautiful for anything with
+6:15 taste. You have several agents attempt
+6:19 the same task in totally different ways.
+6:22 Then you judge them head-to-head, two at
+6:25 a time, like a bracket until one winner
+6:28 survives, naming a product, choosing a
+6:32 design, picking the cleanest approach.
+6:35 Pattern six, classify and act. A first
+6:39 agent reads the incoming item, decides
+6:42 what type it is, and routes it to the
+6:44 right specialist. Exactly like a sharp
+6:46 receptionist.
+6:48 Perfect for triaging a flood of support
+6:50 tickets or bug reports. And pattern
+6:53 seven, model routing. A cheap, fast
+6:56 agent looks at each subtask and decides
+6:59 how much brain power it actually
+7:01 deserves, sending the easy stuff to a
+7:04 small model and saving the expensive
+7:06 model for the genuinely hard parts. That
+7:09 is how the pros keep the bill sane.
+7:12 Okay, promise kept. Here are five
+7:16 prompts pulled straight from the
+7:18 anthropic post that you can paste into
+7:20 cloud code tonight. One, the flaky test
+7:24 killer. This test fails maybe one in 50
+7:27 runs. Set up a workflow to reproduce it.
+7:30 Form competing theories about the race
+7:32 condition and do not stop until one
+7:36 theory survives the evidence. Two, the
+7:39 self-improvement prompt. using a
+7:42 workflow. Go through my last 50
+7:44 sessions, mine them for corrections I
+7:46 keep making, and turn the recurring ones
+7:48 into rules in my cloud memory file.
+7:51 Three, the hiring filter. Here is a
+7:54 folder of 80 rs. Use a workflow to rank
+7:58 them for the backend role and then
+8:00 double check the top 10. Four, the
+8:02 namer. I need a name for this tool. Use
+8:06 a workflow to brainstorm a bunch of
+8:08 options and run a tournament to pick the
+8:10 top three. And five, the fact checker.
+8:14 Go through my blog post draft and verify
+8:17 every technical claim against the
+8:20 codebase using a workflow. I do not want
+8:22 to ship anything wrong. Five prompts,
+8:26 five superpowers, and I will hand you
+8:28 every one of them in writing in a
+8:30 moment. So, how do you actually turn
+8:32 this on? It is almost too easy. You just
+8:37 say the word workflow in your request.
+8:41 Use a workflow to do this or you set
+8:45 your effort level to ultra code and
+8:48 Claude will decide on its own when a
+8:50 task deserves a full team. Three more
+8:53 things worth knowing. One, if a workflow
+8:56 gets interrupted, you can resume it and
+8:58 it picks right back up where it left
+9:00 off. Two, you can cap the spend by
+9:04 literally saying use 10,000 tokens and
+9:07 it will respect that budget. And three,
+9:10 when you build one you love, you save it
+9:13 with a single key press into your
+9:16 workflows folder or you share it as a
+9:19 skill so your whole team can run it.
+9:22 Now, the part most hype videos will skip
+9:25 because honesty is the only real mode.
+9:29 This is not for everything. A workflow
+9:33 spins up an army of agents and every
+9:36 single one of them costs tokens. Run it
+9:39 on the wrong task and you will torch
+9:42 your budget for nothing. Most normal
+9:44 coding does not need a panel of agents
+9:46 arguing with each other. So the builders
+9:49 give you one filter question and you
+9:51 should tattoo it on your brain. Does
+9:53 this really need more compute? If the
+9:56 task is small or if there is no
+9:59 objective way to measure whether it is
+10:01 right, do not reach for a workflow. Save
+10:04 it for the big high stakes. Must be
+10:07 thorough jobs. A scalpel, not a chainsaw
+10:11 for everything. Step back for a second
+10:14 because this changes how you should
+10:16 think from now on. For 2 years,
+10:18 everybody obsessed over one question.
+10:21 How do I write the perfect prompt? That
+10:24 era is quietly ending.
+10:27 The new question is what is the right
+10:30 shape for this work? And who do I need
+10:33 to be that Claude cannot be by itself?
+10:36 And the answer is the skeptic, the
+10:39 manager, the one who refuses to let it
+10:41 grade its own homework. You are not just
+10:44 a prompter anymore. You are an
+10:46 orchestrator.
+10:48 One Claude is a brilliant, slightly lazy
+10:50 intern. A workflow is a department of
+10:53 fresh sharp specialists who check each
+10:56 other's work and you just got promoted
+10:58 to the person who runs the whole floor.
+11:00 Let us bring it home. Single context.
+11:04 Claude has three weaknesses. It gets
+11:06 lazy. It grades its own homework and it
+11:09 drifts off goal. Dynamic workflows fix
+11:12 all three by handing the work to a team
+11:15 of fresh agents that verify each other.
+11:18 And the seven patterns are simply how
+11:21 you direct that team. And the whole
+11:24 decision comes down to one question. Is
+11:26 this big, high stakes and measurable? If
+11:31 yes, reach for a workflow. If no, keep
+11:34 it simple. I packed everything into one
+11:38 free guide. All seven patterns, all five
+11:42 copy and paste prompts, and the cheat
+11:44 sheet for when not to use it. So you can
+11:46 put this to work today.
+11:48 Comment the word workflow and I will
+11:50 send it straight to you. The deep dives
+11:53 live here on YouTube, so subscribe and
+11:56 the byite-size drops are on Instagram @
+12:00 hyperautomation labs. Now stop trapping
+12:04 a genius in a single window and go build
+12:06 yourself a team.

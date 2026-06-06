@@ -1,0 +1,19 @@
+0:00 Google just dropped Gemma 412B
+0:03 multimodal AI that runs on your laptop.
+0:07 Just 16 gigs of RAM.
+0:11 It sees images and now hears audio
+0:14 natively.
+0:16 The first mid-size Gemma to do it. It
+0:19 rivals Google's 26B model on half the
+0:22 memory.
+0:23 With real reasoning and agentic
+0:26 workflows.
+0:27 Apache 2.0 Open weights
+0:30 150 million downloads. Try it in a
+0:34 couple of clicks.
+0:35 LM Studio or Lama
+0:37 The Google AI Edge Gallery app The AI
+0:41 Edge Eloquent app or the light RT LLM
+0:44 CLI.
+0:45 Frontier AI on your machine.
+0:48 Follow for more.

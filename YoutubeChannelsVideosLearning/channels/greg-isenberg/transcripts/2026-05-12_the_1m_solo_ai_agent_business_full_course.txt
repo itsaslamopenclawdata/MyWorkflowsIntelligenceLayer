@@ -1,0 +1,11 @@
+# Transcript unavailable
+
+# Video: The $1M+ Solo AI Agent Business (Full Course)
+# Channel: Greg Isenberg
+# Date: 2026-05-12
+# URL: https://www.youtube.com/watch?v=BI-MNjm1tTQ
+# Duration: 47:55
+
+Transcript was not available at fetch time. Description-only notes were generated.
+To regenerate, run the backfill with a fresh transcript fetch:
+  python3 backfill.py --channel-id UCPjNBjflYl0-HQtUvOx0Ibw --backfill 10

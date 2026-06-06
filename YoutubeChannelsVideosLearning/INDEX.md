@@ -1,13 +1,38 @@
-# Video Index
+# YouTube Channels — Video Index
 
 Auto-regenerated. One line per video, newest first. Sorted by published date, descending.
 
+**Last updated:** 2026-06-06 21:37 UTC
+**Total videos:** 29 across 3 channels
+
 | Date | Channel | Title | Duration | Video ID | Note |
-|---|---|---|---|---|---|
-| 2026-06-04 | The Solo Entrepreneur | Give Me 15 Minutes — You'll Build & Sell WhatsApp AI Agents! | 25:09 | [sGnwgcVd1O0](https://www.youtube.com/watch?v=sGnwgcVd1O0) | [note](channels/the-solo-entrepreneur/videos/2026-06-04_give-me-15-minutes-youll-build-sell-whatsapp-ai-agents.md) |
+|------|---------|-------|----------|----------|------|
+| 2026-06-06 | Greg Isenberg | Hermes Agent Desktop: Full Setup + Real Use Cases | 43:48 | [EJm8Ka-gVOc](https://www.youtube.com/watch?v=EJm8Ka-gVOc) | [note](channels/greg-isenberg/videos/2026-06-06_hermes-agent-desktop-full-setup-use-cases.md) |
 | 2026-06-04 | Greg Isenberg | OpenAI Codex: Build Apps That Work For You 24/7 | 24:43 | [tUeSxXHmE9w](https://www.youtube.com/watch?v=tUeSxXHmE9w) | [note](channels/greg-isenberg/videos/2026-06-04_openai-codex-build-apps-that-work-for-you.md) |
 | 2026-06-04 | Hyperautomation Labs | I Analyzed All 1,884 Y Combinator AI Startups — What Gets Funded (and What Dies) | 10:17 | [d33bg3fiCmM](https://www.youtube.com/watch?v=d33bg3fiCmM) | [note](channels/hyperautomation-labs/videos/2026-06-04_i-analyzed-all-1884-y-combinator-ai-startups.md) |
-
-**Total videos tracked:** 3
-
-**Channels tracked:** 3
+| 2026-06-04 | Hyperautomation Labs | Gemma 4 12B: Google's Multimodal AI That Runs On Your Laptop | 0:50 | [TTpJVBLTglo](https://www.youtube.com/watch?v=TTpJVBLTglo) | [note](channels/hyperautomation-labs/videos/2026-06-04_gemma-4-12b-google-multimodal-local-laptop.md) |
+| 2026-06-04 | Hyperautomation Labs | He Deleted 3 Months of AI Code in One Commit — Here's What He Learned | 2:48 | [WzSUKcXCklk](https://www.youtube.com/watch?v=WzSUKcXCklk) | [note](channels/hyperautomation-labs/videos/2026-06-04_delete-3-months-ai-code-vibe-coding-lesson.md) |
+| 2026-06-04 | The Solo Entrepreneur | Give Me 15 Minutes — You'll Build & Sell WhatsApp AI Agents! | 25:09 | [sGnwgcVd1O0](https://www.youtube.com/watch?v=sGnwgcVd1O0) | [note](channels/the-solo-entrepreneur/videos/2026-06-04_give-me-15-minutes-youll-build-sell-whatsapp-ai-agents.md) |
+| 2026-06-03 | Hyperautomation Labs | He Asked Claude Code for a Snake Game. The Snake Realized It Was Trapped in One | 2:47 | [LXs72amujW8](https://www.youtube.com/watch?v=LXs72amujW8) | [note](channels/hyperautomation-labs/videos/2026-06-03_claude-code-snake-game-awakening.md) |
+| 2026-06-03 | Hyperautomation Labs | The Anthropic Engineer Who Builds Claude Code Just Fixed Its 3 Worst Habits | 12:08 | [pUPiOXuMRVc](https://www.youtube.com/watch?v=pUPiOXuMRVc) | [note](channels/hyperautomation-labs/videos/2026-06-03_thariq-anthropic-dynamic-workflows-claude-code.md) |
+| 2026-06-03 | Hyperautomation Labs | PewDiePie Gave Away a Free, Private ChatGPT Killer. I Installed It — Here's the Honest Truth | 12:17 | [2paAvq3xylk](https://www.youtube.com/watch?v=2paAvq3xylk) | [note](channels/hyperautomation-labs/videos/2026-06-03_pewdiepie-odysseus-local-ai-workspace.md) |
+| 2026-06-03 | Hyperautomation Labs | If You Sell Your Time, AI Just Came For Your Whole Industry | 14:06 | [XQ_sxFvAVao](https://www.youtube.com/watch?v=XQ_sxFvAVao) | [note](channels/hyperautomation-labs/videos/2026-06-03_yc-ai-native-services-firm-playbook.md) |
+| 2026-06-03 | Hyperautomation Labs | The $50K/Month 'AI Employee' Business — The Honest Blueprint (+ 3 Things That Break It) | 11:35 | [VPz8JhlkQiE](https://www.youtube.com/watch?v=VPz8JhlkQiE) | [note](channels/hyperautomation-labs/videos/2026-06-03_50k-month-ai-employee-b2b-business-blueprint.md) |
+| 2026-06-03 | Hyperautomation Labs | Anthropic Just Ended the 'Free Lunch' for AI Agents — Here's What Changes June 15 | 2:43 | [z42GiFXskRw](https://www.youtube.com/watch?v=z42GiFXskRw) | [note](channels/hyperautomation-labs/videos/2026-06-03_anthropic-jun-15-billing-change-agents.md) |
+| 2026-06-02 | Greg Isenberg | The Next $100B Market: Selling to AI Agents | 14:00 | [MlptIfpoLlw](https://www.youtube.com/watch?v=MlptIfpoLlw) | [note](channels/greg-isenberg/videos/2026-06-02_next-100b-market-selling-to-ai-agents.md) |
+| 2026-06-02 | Hyperautomation Labs | I Deleted Claude for 7 Days. Here's What Actually Happened | 9:47 | [AzPId-GU6ss](https://www.youtube.com/watch?v=AzPId-GU6ss) | [note](channels/hyperautomation-labs/videos/2026-06-02_7-day-claude-detox-activation-energy.md) |
+| 2026-05-29 | Greg Isenberg | How to Use Obsidian with Claude in 61 Seconds | 1:01 | [2VSmDS3ALnw](https://www.youtube.com/watch?v=2VSmDS3ALnw) | [note](channels/greg-isenberg/videos/2026-05-29_obsidian-claude-61-seconds.md) |
+| 2026-05-29 | The Solo Entrepreneur | 5 Apps Making $10K/Month You Can Build Using AI | 17:33 | [zl_HZYtnJsI](https://www.youtube.com/watch?v=zl_HZYtnJsI) | [note](channels/the-solo-entrepreneur/videos/2026-05-29_5-apps-making-10k-month-ai-no-code.md) |
+| 2026-05-27 | Greg Isenberg | Been Playing with This Cool AI Tool from Genspark | 0:54 | [srIaywtgV40](https://www.youtube.com/watch?v=srIaywtgV40) | [note](channels/greg-isenberg/videos/2026-05-27_genspark-claw-outcome-as-a-service.md) |
+| 2026-05-26 | The Solo Entrepreneur | Google Antigravity + Hermes Agent = 1000+ Leads/Day! | 16:55 | [LcGzuygZmFs](https://www.youtube.com/watch?v=LcGzuygZmFs) | [note](channels/the-solo-entrepreneur/videos/2026-05-26_antigravity-hermes-1000-leads-per-day.md) |
+| 2026-05-23 | Greg Isenberg | Hermes Agent Explained | 1:00 | [ecm2ZUOQSTg](https://www.youtube.com/watch?v=ecm2ZUOQSTg) | [note](channels/greg-isenberg/videos/2026-05-23_hermes-agent-explained.md) |
+| 2026-05-23 | The Solo Entrepreneur | Google Just Released a FREE Claude Code — Antigravity 2.0 | 16:06 | [jRgMruJs7uU](https://www.youtube.com/watch?v=jRgMruJs7uU) | [note](channels/the-solo-entrepreneur/videos/2026-05-23_google-antigravity-2-free-claude-code-alternative.md) |
+| 2026-05-20 | The Solo Entrepreneur | Give Me 15 Minutes — You'll Be Building AI Chatbots for Clients! | 15:48 | [u__YufPP0cY](https://www.youtube.com/watch?v=u__YufPP0cY) | [note](channels/the-solo-entrepreneur/videos/2026-05-20_15-min-ai-chatbot-agency-for-clients.md) |
+| 2026-05-18 | Greg Isenberg | 9 Biggest Startup Ideas Right Now (AI, B2C, Mobile, IRL) | 1:08:13 | [IFLY6L3YPGo](https://www.youtube.com/watch?v=IFLY6L3YPGo) | [note](channels/greg-isenberg/videos/2026-05-18_9-biggest-startup-ideas-ai-b2c-mobile-irl.md) |
+| 2026-05-17 | The Solo Entrepreneur | I Made ₹50,000/Month Selling PDFs Online — Just Copy This! | 35:50 | [iVUnA03yrec](https://www.youtube.com/watch?v=iVUnA03yrec) | [note](channels/the-solo-entrepreneur/videos/2026-05-17_pdf-business-50k-month-claude-gumroad.md) |
+| 2026-05-15 | The Solo Entrepreneur | This NEW AI Tool Replaces Your Entire Content Team! (Glif AI) | 11:37 | [wjASch99W5U](https://www.youtube.com/watch?v=wjASch99W5U) | [note](channels/the-solo-entrepreneur/videos/2026-05-15_glif-ai-replaces-content-team.md) |
+| 2026-05-13 | Greg Isenberg | Easily Build Agentic Workflows with Hyperagent | 0:55 | [dLS-6jn9xxc](https://www.youtube.com/watch?v=dLS-6jn9xxc) | [note](channels/greg-isenberg/videos/2026-05-13_easily-build-agentic-workflows-hyperagent.md) |
+| 2026-05-12 | Greg Isenberg | The $1M+ Solo AI Agent Business (Full Course) | 47:55 | [BI-MNjm1tTQ](https://www.youtube.com/watch?v=BI-MNjm1tTQ) | [note](channels/greg-isenberg/videos/2026-05-12_1m-solo-ai-agent-business-full-course.md) |
+| 2026-05-11 | The Solo Entrepreneur | I Replaced 7 Employees With AI Agents — Real Automation Setup | 17:09 | [-T8o57HA8SE](https://www.youtube.com/watch?v=-T8o57HA8SE) | [note](channels/the-solo-entrepreneur/videos/2026-05-11_openclaw-7-ai-employees-real-automation.md) |
+| 2026-05-05 | The Solo Entrepreneur | Building a SaaS Startup Live With Claude Code — From Idea to Launch | 32:04 | [44lPMm3CXQg](https://www.youtube.com/watch?v=44lPMm3CXQg) | [note](channels/the-solo-entrepreneur/videos/2026-05-05_48-hour-saas-build-claude-code-supabase-vercel.md) |
+| 2026-05-01 | The Solo Entrepreneur | I Generated 30 Days of Carousels in 5 Minutes with Google Antigravity! | 8:47 | [wsv4BZqZPPQ](https://www.youtube.com/watch?v=wsv4BZqZPPQ) | [note](channels/the-solo-entrepreneur/videos/2026-05-01_30-days-carousels-5-min-antigravity.md) |

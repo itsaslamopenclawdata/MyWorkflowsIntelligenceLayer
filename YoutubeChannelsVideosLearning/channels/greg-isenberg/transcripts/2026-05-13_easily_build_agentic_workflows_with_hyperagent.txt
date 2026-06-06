@@ -1,0 +1,11 @@
+# Transcript unavailable
+
+# Video: Easily build agentic workflows with Hyperagent
+# Channel: Greg Isenberg
+# Date: 2026-05-13
+# URL: https://www.youtube.com/watch?v=dLS-6jn9xxc
+# Duration: 0:55
+
+Transcript was not available at fetch time. Description-only notes were generated.
+To regenerate, run the backfill with a fresh transcript fetch:
+  python3 backfill.py --channel-id UCPjNBjflYl0-HQtUvOx0Ibw --backfill 10

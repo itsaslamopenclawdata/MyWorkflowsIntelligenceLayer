@@ -1,0 +1,11 @@
+# Transcript unavailable
+
+# Video: Google Just Released a FREE Claude Code — Antigravity 2.0
+# Channel: The Solo Entrepreneur
+# Date: 2026-05-23
+# URL: https://www.youtube.com/watch?v=jRgMruJs7uU
+# Duration: 16:06
+
+Transcript was not available at fetch time. Description-only notes were generated.
+To regenerate, run the backfill with a fresh transcript fetch:
+  python3 backfill.py --channel-id UCV_DLB3VW0szIGQnwel1Nsw --backfill 10

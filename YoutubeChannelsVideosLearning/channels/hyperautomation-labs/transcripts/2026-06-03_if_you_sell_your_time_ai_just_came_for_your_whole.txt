@@ -1,0 +1,294 @@
+0:00 If you sell your time for money, a
+0:02 lawyer, an accountant, a consultant, an
+0:05 agency owner, you need to hear this. YC,
+0:09 the firm behind Stripe, Airbnb, and
+0:13 Coinbase just published a document that
+0:15 is either your retirement plan or your
+0:17 eviction notice. Their bet is this. The
+0:21 biggest companies of the next decade
+0:22 will not be software companies. They
+0:25 will be services companies, law firms,
+0:28 tax practices, insurance carriers
+0:31 rebuilt from scratch with AI doing most
+0:34 of the work. These are markets worth
+0:37 trillions of dollars. And two years ago,
+0:40 this opportunity did not even exist. Now
+0:44 it does. So the only question that
+0:47 actually matters is are you the one who
+0:50 builds the new version of your industry
+0:52 or the one it replaces.
+0:55 In the next 10 minutes I will walk you
+0:57 through the entire playbook, the
+1:00 markets, the traps and the money so you
+1:04 end up on the right side of it. Start
+1:06 with the single idea that makes this
+1:08 whole thing work. The old software model
+1:11 was simple. You build a tool, you sell
+1:15 it, and your customer logs in and does
+1:18 the work themselves. A co-pilot.
+1:21 The AI native services model flips that
+1:24 completely. You do not sell the tool.
+1:27 You sell the finished outcome. The
+1:30 customer hands you the job. Your AI does
+1:33 most of it. Your humans handle the hard
+1:35 parts. And the customer just receives
+1:38 the result. They do not learn anything.
+1:41 They do not change anything. They get
+1:43 their tax return filed, their contract
+1:45 reviewed, their claim processed. That is
+1:48 the difference between selling a drill
+1:50 and selling the hole. And it unlocks
+1:53 markets that pure software could never
+1:55 touch. Tax, audit, insurance, mortgages,
+2:01 parts of healthare and logistics, the
+2:04 work people already pay humans to do,
+2:07 now done by a machine that you run. Here
+2:10 is why this is so dangerous. and so
+2:12 exciting. In all of these industries,
+2:15 the budget already exists. Companies are
+2:19 already paying an outside vendor to do
+2:21 this work. So, you are not inventing a
+2:23 new habit. And you are not asking anyone
+2:26 to try something scary. You are simply
+2:29 showing up where the money already lives
+2:32 and doing the same job faster, cheaper,
+2:36 and more consistently.
+2:38 That is the whole game. You are
+2:40 displacing a vendor, not changing a
+2:43 customer. Which means in every one of
+2:46 these markets, there are really only two
+2:48 roles left. The incumbent who keeps
+2:51 billing by the hour and slowly gets
+2:54 undercut and the AI native founder who
+2:57 quietly eats their lunch. There is no
+3:01 third option where nothing changes. So,
+3:04 let me show you how to tell which
+3:07 markets are about to flip. Starting with
+3:10 whether yours is one of them. IC lays
+3:12 out four traits that make a market
+3:14 perfect for this. Treat them as a
+3:17 checklist for your own industry. Trait
+3:19 one, low trust. And that sounds bad, but
+3:23 it is actually good.
+3:25 It means the work is already outsourced
+3:28 and the customer only cares about the
+3:31 final result, not how it got made. Trait
+3:35 two, low judgment at the task level.
+3:39 If every tiny step needs a human making
+3:42 a real decision, you cannot scale. You
+3:46 want most of the steps automatable with
+3:48 humans holding the wheel in just a few
+3:50 critical places.
+3:53 Trait three, a high intelligence
+3:55 threshold. This sounds like the opposite
+3:58 of trait two, but it is not. The overall
+4:01 work has to be genuinely hard. hard
+4:04 enough that a customer will gladly pay a
+4:06 machine plus a few experts to get it
+4:08 right. Trait four, and this is the
+4:11 surprise, regulation is your friend.
+4:15 Regulated industries scare off lazy
+4:18 competitors and raise the bar, which
+4:20 builds your mode. The clearest example
+4:23 is Panacea, a YC company that does FDA,
+4:28 regulatory work for biotech.
+4:31 They hire veteran FDA consultants, pair
+4:34 them with an AI platform, and deliver
+4:37 approvals faster and cheaper than
+4:39 anyone. If your industry checks these
+4:42 four boxes, keep listening because the
+4:46 rest of this is your blueprint. Before
+4:48 you fall in love with an idea, run it
+4:51 through two brutal honesty tests. The
+4:54 first, YC calls the Sam Alman test. Ask
+4:58 yourself, as the AI models get smarter
+5:02 every few months, does my business get
+5:04 stronger or does the model just do my
+5:07 job for free and wipe me out? You want
+5:10 to be in the first camp where better
+5:12 models make your service better, not
+5:14 obsolete. The second test is even more
+5:17 personal. Are you using humans because
+5:19 the work genuinely needs human judgment?
+5:22 Or are you secretly using them to hide
+5:25 the fact that your product is not good
+5:27 enough yet? Be honest because that gap
+5:30 will eventually crush your margins. And
+5:33 one warning, stay away from anything
+5:36 that needs heavy equipment and on-site
+5:39 physical labor. The beautiful software
+5:42 math does not work when you have to own
+5:45 and operate physical things. Leave that
+5:47 to the robotics founders. Your leverage
+5:50 comes from bits, not trucks. So, who
+5:53 actually wins these companies? YC says
+5:57 the best founders share three traits and
+5:59 you can audit yourself against them
+6:01 right now. One, domain fluency. You are
+6:05 selling to skeptical, sometimes
+6:07 regulated buyers. So you have to bleed
+6:10 credibility.
+6:11 Firsthand experience is best, but
+6:14 honestly learned expertise can work too.
+6:17 You just have to truly know the field.
+6:20 Two, model fluency. You need to know
+6:23 exactly what today's frontier models can
+6:26 and cannot do and design your product to
+6:28 ride the curve as they improve. There is
+6:31 no substitute for real technical depth
+6:33 here. Three, operational rigor. Words
+6:37 like throughput, variance, cycle time,
+6:40 and standard operating procedures. Not
+6:43 glamorous, but you are running an
+6:45 operation and you have to respect that.
+6:48 Look at General Legal, the AI native law
+6:50 firm YC backed. The founders came out of
+6:54 case text and top firms like Kulie and
+6:56 Fenwick and they obsess over throughput
+7:00 even using shift work to cut their
+7:02 turnaround times. The product is the
+7:05 operation. Now building the product and
+7:09 this is where it gets counterintuitive.
+7:11 In normal software, the product is the
+7:14 thing the customer touches. Here the
+7:18 human is the interface and the product
+7:21 is the invisible engine that lets that
+7:24 human do the work of 10 people.
+7:27 So everything changes. First you think
+7:31 like an operator. You hunt for the
+7:33 bottleneck and you build for the
+7:35 bottleneck. Throughput and cycle time
+7:38 become your real metrics. Track them as
+7:41 obsessively as a software company tracks
+7:44 daily active users. Second, and write
+7:47 this one down. Variance is the silent
+7:50 killer. Variance just means inconsistent
+7:53 output. One job is perfect, the next one
+7:56 is sloppy. Customers will forgive you
+7:59 for being a little slow or a little
+8:00 pricey. They will fire you instantly for
+8:03 being unpredictable because
+8:06 inconsistency destroys trust. And third,
+8:10 your humans have to scale nonlinearly.
+8:15 If you need one new employee for every
+8:17 new customer, you do not have a tech
+8:19 company. You have a staffing agency
+8:22 wearing a hoodie. Here is the trap that
+8:25 kills more of these companies than
+8:27 anything else. YC calls it the early
+8:30 demand trap and it feels like success
+8:34 while it is quietly destroying you. When
+8:37 you launch, it is shockingly easy to
+8:39 sign up pilot customers. Everyone wants
+8:42 the cheaper, faster AI version. So you
+8:46 say yes to all of them and then you
+8:49 drown. You are so busy manually serving
+8:53 20 pilots with brute force human labor
+8:56 that you never get the time to build the
+8:58 product that was supposed to automate
+9:00 it. You are now a very stressed agency
+9:03 that will never scale. The
+9:06 counterintuitive fix is this. Cap your
+9:09 first pilots to a tiny handful. Resist
+9:12 the temptation. Use those few customers
+9:14 to learn exactly where AI gives you real
+9:18 leverage and then build fast. The pilot
+9:22 is not revenue. The pilot is the
+9:25 product. Pricing is harder here than in
+9:28 software for one reason. You are not
+9:31 competing with other apps. You are
+9:33 competing directly against the cost of
+9:36 human labor. So sell the outcome, never
+9:40 the seat and never the tokens. You have
+9:44 two clean options per unit pricing, so a
+9:47 price per tax return, per claim, per
+9:49 loan. It is simple and easy to explain
+9:53 or outcome based pricing where you only
+9:56 get paid when the result actually lands.
+9:59 Panacea does exactly this. They charge
+10:02 for the completed study, not for the
+10:04 hours. It aligns you perfectly with the
+10:08 customer. And then there are two pricing
+10:10 models to avoid at all costs. Cost plus
+10:14 where you just mark up your own costs
+10:16 permanently caps your upside. So never
+10:19 do it. And straight up undercutting on
+10:22 price makes your work look cheap and low
+10:23 quality. Do not race to the bottom.
+10:26 Price on the value you deliver. Now the
+10:29 part that makes founders sweat, the P
+10:32 and L, the profit and loss statement.
+10:35 This is where these companies live or
+10:37 die. So, let me make it dead simple. You
+10:41 have three numbers that matter. Revenue,
+10:44 which is the money coming in, cost of
+10:46 goods sold, which is what it actually
+10:48 costs you to deliver the work. And the
+10:51 gap between them, your gross margin. In
+10:55 these businesses, your cost of delivery
+10:57 has three pieces. The AI model costs,
+11:00 the hosting costs, and the humans in the
+11:03 loop.
+11:05 Watch all three like a hawk from day
+11:07 one. Here is the entire bet in one
+11:11 sentence. The more of the work your
+11:13 product automates, the lower your cost
+11:15 of delivery drops and the fatter your
+11:18 margin grows. YC calls this AI operating
+11:22 leverage.
+11:24 Traditional services firms top out
+11:25 around 30% margins. Pure software earns
+11:29 more but on smaller markets. The dream
+11:32 here is software style margins 50% and
+11:36 up on a market two to three times bigger
+11:39 than software. You do not need to be
+11:41 there on day one, but the trajectory has
+11:44 to be believable. One last temptation to
+11:47 kill, especially if you have an operator
+11:50 background. The shortcut sounds genius.
+11:54 Just buy an existing services business,
+11:57 one that already has revenue and
+11:59 customers, and bolt your AI on top. Skip
+12:03 the slow grind. It almost never works.
+12:08 And here is why. You cannot buy product
+12:11 market fit. A legacy firm comes with
+12:14 legacy everything, old expectations, old
+12:17 staff, old ways of measuring
+12:20 performance. Pouring AI on top of all
+12:23 that does not magically change the
+12:24 culture or the cost structure.
+12:27 There is exactly one good reason to buy.
+12:30 When you need a regulatory license fast,
+12:33 like in insurance, and acquiring one is
+12:35 the only way in. Outside of that,
+12:38 building from scratch beats buying
+12:40 almost every single time. So, let us
+12:42 bring it home. AI is not coming for
+12:45 services someday. YC is funding the
+12:48 founders doing it right now. this batch.
+12:52 The playbook is clear. Find a market
+12:55 where the work is outsourced hard and
+12:58 regulated. Sell the outcome, not the
+13:01 software. Treat the operation as the
+13:03 product and guard against variance like
+13:06 your life depends on it. Cap your early
+13:08 pilots, price on value, obsess over your
+13:12 margins, and build instead of buy.
+13:15 Do all of that and AI operating leverage
+13:17 can hand you software margins on a
+13:19 market many times the size. So go back
+13:22 to the very first question
+13:24 in your industry. Are you the vendor who
+13:27 gets displaced or the founder who shows
+13:31 up where the budget already lives? I
+13:34 took this entire YC playbook, the four
+13:37 market tests, the pricing traps, and the
+13:40 P&L math and turned it into one free
+13:43 one-page guide. you can act on today.
+13:46 Just comment the word outcome and I will
+13:48 send it straight to you. The deep dives
+13:51 live here on YouTube, so subscribe and
+13:54 the byite-size drops are on Instagram @
+13:57 hyperautomation labs. Now go build the
+14:00 AI native version of your industry
+14:03 before someone else does.

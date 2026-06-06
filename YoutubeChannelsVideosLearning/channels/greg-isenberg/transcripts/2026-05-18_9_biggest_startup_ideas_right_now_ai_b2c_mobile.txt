@@ -1,0 +1,11 @@
+# Transcript unavailable
+
+# Video: 9 biggest startup ideas right now (AI, B2C, mobile etc)
+# Channel: Greg Isenberg
+# Date: 2026-05-18
+# URL: https://www.youtube.com/watch?v=IFLY6L3YPGo
+# Duration: 1:08:23
+
+Transcript was not available at fetch time. Description-only notes were generated.
+To regenerate, run the backfill with a fresh transcript fetch:
+  python3 backfill.py --channel-id UCPjNBjflYl0-HQtUvOx0Ibw --backfill 10

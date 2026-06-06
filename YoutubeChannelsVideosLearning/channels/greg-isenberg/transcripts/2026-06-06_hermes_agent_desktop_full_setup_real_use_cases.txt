@@ -1,0 +1,1084 @@
+0:00 Hermes desktop app just launched, but
+0:02 how do you actually go and make money,
+0:04 be more productive using Hermes desktop
+0:07 and Hermes agents in general? So, today
+0:10 I have Alex Finn on and he gives you an
+0:12 entire walkthrough of how to use Hermes
+0:14 desktop app, all the nooks and crannies,
+0:17 explains everything so so clearly, and
+0:20 then we go through some use cases. So
+0:22 stick stick around to the end where we
+0:24 show you exactly how you can set up
+0:26 Hermes agents that go and build
+0:29 businesses for you. This is the most
+0:31 comprehensive tutorial on Hermes desktop
+0:34 app and Hermes agents on the internet.
+0:37 And I can't wait for you to actually go
+0:39 learn, build, and have some fun. Enjoy
+0:42 the episode.
+0:52 Alex Finn, I need you by the end of this
+0:56 episode to explain to me why I need to
+0:59 get Hermes Desktop. I need you to walk
+1:02 me through Hermes Desktop. I need you to
+1:04 show me use cases of Hermes that show me
+1:08 how I can make money, be more
+1:11 productive.
+1:12 Um, and I need to you to explain me why
+1:16 I need to get off OpenClaw, why I need
+1:19 to shut down my Telegram and everything
+1:22 in between. Alex Finn, can you do that
+1:25 by the end of the episode? Greg
+1:27 Eisenberg, mission accepted. We will do
+1:31 that. We will go through why Hermes
+1:34 Desktop is the best AI Asian experience
+1:36 on planet Earth. We'll go through every
+1:38 feature, every nuance, every secret, and
+1:41 then we'll show you the sauce. We'll go
+1:43 through all the use cases you can do,
+1:44 every person watching this video so they
+1:47 can get tremendous amount of value out
+1:49 of Hermes Agent.
+1:50 >> All right, let's go.
+1:52 >> All right, we'll do it. Here we go. I'm
+1:54 going to show share my screen. Uh, great
+1:57 to be speaking with you, Greg. I have
+1:59 been deep into Hermes agent desktop the
+2:03 last few days. So, they released this a
+2:05 few days ago now. I wasn't expecting it.
+2:08 Uh I I believe this is like the moment
+2:10 that Hermes overtook OpenClaw to be
+2:14 quite honest. And as most people
+2:16 probably know, I was like the OpenClaw
+2:18 guy. I was at a poker tournament last
+2:20 night and a guy was like, "Hey, you're
+2:21 the guy getting paid by OpenClaw,
+2:22 right?" And I'm like, "No, I don't even
+2:24 talk about OpenClaw anymore. What are
+2:26 you talking about?" Um this is Hermes
+2:29 agent desktop. So before everyone was
+2:33 using Hermes and OpenClaw inside
+2:35 Telegram, inside Signal, iMessage, all
+2:39 of that. I think this is the single best
+2:43 way to use Hermes agent now. I I I think
+2:46 I I don't use Telegram on desktop
+2:48 anymore. I don't use any other
+2:49 experience. This is clearly the best way
+2:52 to be using Hermes agent.
+2:55 There is a lot here. So uh few things,
+2:58 one sessions all here, right? So before
+3:01 in Telegram, if you wanted some idea of
+3:04 sessions or multi-threading, you needed
+3:07 to set up threads in Telegram, which is
+3:09 kind of like an advanced confusing thing
+3:12 to do. I know a lot of nerds watching
+3:13 would be like, "What are you talking
+3:14 about? That's easy." For the average
+3:16 person, setting up threads in Telegram
+3:18 isn't the easiest thing to do. You got
+3:20 to like create separate group chats and
+3:22 then add your bots and then like edit
+3:25 subjects. And here it you every time you
+3:28 talk to your Hermes agent, it just goes
+3:30 into a new session and you can talk to
+3:32 it. So it makes it really nice for like
+3:35 just separating out your context. I
+3:38 think the way most people use Hermes
+3:40 agent by default is they have like kind
+3:41 of like a mono thread, right? Like just
+3:43 one big thread where they talk about
+3:45 everything in it. The issue is is you
+3:47 kind of like pollute your context with
+3:49 the hundred different things you talk
+3:52 about and so your costs skyrocket. Like
+3:54 that's like the number one complaint
+3:55 with Hermes. Oh my god, I'm paying
+3:56 $1,000 a month. You if you manage your
+4:00 context and your sessions well, you are
+4:02 not paying $1,000 a month. You're not
+4:03 paying anything close to it.
+4:05 >> Alex, by the end of this episode, can
+4:07 you show maybe a few ways for us to get
+4:09 our Hermes under control? Like some tips
+4:12 and tricks.
+4:13 >> Absolutely. We'll do that throughout.
+4:15 Then we'll recap at the end. I'll give
+4:17 you a whole bunch of sauce on uh saving
+4:19 money with Hermes as well.
+4:20 >> Okay.
+4:23 So saving money with Hermes number one
+4:26 appropriate sessions context especially
+4:29 if you're using like Opus which has a
+4:31 million parameters
+4:34 context can really inflate your bills
+4:36 like 3 4x your bills. So, if you keep
+4:38 things individual, right, here's my
+4:42 content session, right? Here's my
+4:44 talking about local uh model session.
+4:46 Mode research is my stock research
+4:48 session. With the context nice and slim,
+4:52 I'm saving tons of money cuz the every
+4:54 time I send a message, it'll only be
+4:57 that thread itself. For those who are a
+4:59 little less technical, when you send a
+5:01 message to your agent, right? Uh if I
+5:05 were to say generate me an image of a
+5:08 squirrel
+5:10 with grock, imagine
+5:14 with this message, it sends everything
+5:16 said before that. So if you have one big
+5:20 thread like most people interact with
+5:21 Hermes agent, you're sending a massive
+5:24 messages every single time, which will
+5:26 cost you tons of money. But if you take
+5:28 advantage of Hermes desktop with its
+5:30 multiple sessions and pinning and
+5:32 organization, you can even put sessions
+5:34 in folders,
+5:36 it keeps your context clean, which means
+5:38 your messages are much more slim, which
+5:40 means you save a lot more money on your
+5:42 messages. So, that's one big thing
+5:44 there. The the session management on
+5:48 desktop, it's the best. It's better than
+5:50 Telegram. It's better than the way 99%
+5:52 of people use uh Hermes agent. There's a
+5:56 lot more to it. That's one of my
+5:58 favorites.
+5:59 One of my other favorites is now the
+6:02 organization of profiles. So, if you can
+6:04 see down here, it's a little tiny. Maybe
+6:06 I can zoom in a little bit. Yeah, a
+6:09 little bit. Uh, you can see a bunch of
+6:12 names down here. We got default, Billy,
+6:15 Coder, GPTM, Librarian, Oracle, and
+6:18 Quen. These are all my different Hermes
+6:21 agents. So for those not as familiar in
+6:24 Hermes there is this concept of a
+6:26 profile. You have multiple profiles.
+6:29 Profiles are literally just separate
+6:32 Hermes agents. Each profile has a has a
+6:37 set of skills, has a soul.md, which is
+6:40 their personality, has sets of memories,
+6:44 uh has your history of sessions and
+6:47 chats. They're literally just separate
+6:49 agents. And now with desktop, they're
+6:54 organized really, really nicely. So you
+6:56 can just click and it takes you to your
+6:59 other profile, right? I can just click
+7:01 and it takes me to my GPTM, which is my
+7:04 Hermes powered by GPT55.
+7:07 I click on Quen. This is my Hermes
+7:10 powered by Quen 37 sitting on my DJX
+7:13 Spark on my desk. I click home. That's
+7:16 my default. That takes me to Hermes. I
+7:19 named my default Hermes. Hermes. I just
+7:20 like that name. And that takes me there.
+7:22 Powered by Opus 48. Before like if you
+7:27 wanted to switch profiles, you needed to
+7:30 like go into like your terminal and like
+7:32 do Hermes profile Quen enter like pops
+7:35 open a new. It's like very hard to
+7:37 organize. Now it's very neatly organized
+7:40 here. So I can quickly Okay, I want
+7:43 Quen, which is my local model, to go do
+7:45 this for me. I want GBT Meis, which is
+7:47 my chat GBT model, to go and code this
+7:50 for me. Okay, now I'm going to go back
+7:51 and go back in my Opus one and have them
+7:53 do that. And now it's like really easy
+7:56 to multitask.
+7:58 To give some examples of of when you'd
+8:00 want to multi multitask, for instance,
+8:03 you know, Opus very expensive model. I
+8:05 think Opus 48's the smartest AI model
+8:08 out there. It's also very pricey. So if
+8:10 I'm doing highlevel thinking and
+8:12 strategy, I'm going Opus. Then I'll
+8:15 switch to GPTM which is my uh Chad GPT55
+8:19 model uh on Hermes. Huge limits on Chad
+8:23 GPT. Also very good coding. So I'll come
+8:26 in here. I'll be like, "Hey, build me
+8:28 this app." Quen, that's my local model.
+8:31 Free unlimited intelligence because it's
+8:33 running on my desk. This is for like
+8:35 quick research. Hey, what's uh the top
+8:38 news in AI? I can have it go and scour
+8:40 the web for the top news and it's not
+8:43 going to cost me a thing. completely
+8:44 free. So you got to know which profile
+8:47 is best for which tasks.
+8:49 >> So is the way to think about profiles
+8:52 more around how fast
+8:55 or slow do you want you know a task to
+8:58 be completed or how expensive or cheap?
+9:00 Or is the way to think about it similar
+9:02 to how a paperclip works where you're
+9:04 kind of like designing you know your
+9:06 product manager your marketer your
+9:09 engineer and you have different profiles
+9:11 for different team teammates.
+9:16 >> Yeah it's it's I the way I like to think
+9:18 about it is more on the model basis.
+9:23 Each model has its own strengths and
+9:26 weaknesses. Uh, so we talked a little
+9:29 bit earlier, Greg, about saving money
+9:32 models. If you use them the right way,
+9:34 you'll save tons of money. Coding, I
+9:36 actually think Chad GPT55 is better than
+9:39 Opus 48 for coding, and you get way more
+9:42 limits. You get way more usage on your
+9:44 plan. So, if I'm going to do coding, I'm
+9:47 going to go to GPTs, which is my Chad
+9:49 GPT55 profile. If I'm going to do uh
+9:53 like orchestration, planning, doing
+9:55 in-depth plans, I want to go to my
+9:57 smartest model, which is uh Hermes
+10:00 powered by Opus 48. So, I'm more along
+10:03 the lines of
+10:06 what are the strengths and weaknesses of
+10:08 each model. I'm gonna be honest. I'm not
+10:11 100% bought into the concept of like
+10:15 having 50 different like product
+10:19 manager, graphic designer.
+10:22 I I think that's a lot of um I just
+10:25 think that takes up a lot of context in
+10:28 your uh meat brain on like okay, which
+10:31 one of these 50 profiles do I go to? Do
+10:33 I have a product manager? Do I have a
+10:34 designer? Do I have a writer? I I I
+10:37 think that these models are smart enough
+10:40 and generally intelligent enough where
+10:42 you can basically get away with like I
+10:45 can use Opus for designing a graphic
+10:49 image then writing a YouTube script and
+10:50 then planning my product. So I more
+10:52 think along the lines of what are the
+10:54 strengths of each of the models and and
+10:57 how can I use them to their strengths to
+10:58 get better performance and save money.
+11:01 >> I like that take. It's basically like
+11:03 all that matters is the output and the
+11:05 outcomes. Therefore, just know which
+11:08 model makes the most sense for what
+11:11 you're trying to get accomplished and
+11:12 then use the right profile for that.
+11:15 >> Yeah, I uh I used paperclip and I think
+11:18 it's a very very cool welldesigned
+11:21 product. Um but it's bought into this
+11:24 the concept that you need to have
+11:28 an AI agent in every role. you need to
+11:31 have a senior product manager who
+11:32 manages a design intern who manages the
+11:35 CTO who manages like and the issue is is
+11:39 that when you think about it in that
+11:41 lens which you're totally fine to do
+11:42 because that's it's a more
+11:43 understandable lens for a lot of people.
+11:45 So if it makes more sense to you and you
+11:47 understand your organization better that
+11:49 way then go ahead and do it. The
+11:51 challenge is I I think there's
+11:53 inefficiencies there when it comes to
+11:54 cost. Like if I have to go to my CEO and
+11:58 say, "Hey, build me a uh you know a
+12:00 thumbnail for my latest YouTube video
+12:03 and then they go to like the product
+12:05 manager who then goes to the graphic
+12:06 designer who then goes to the intern.
+12:09 You have call after call after call
+12:11 looking at the context and the soul and
+12:13 the skills of each one of these." And
+12:15 it's like I could have just went to
+12:16 Opus4 and said, "Hey, build me a, you
+12:18 know, an image." Like it's it doesn't
+12:20 have to be that deep. So listen,
+12:22 everyone, you have your own workflows.
+12:25 Do it whatever way you want. I just, for
+12:26 me, I found the most cost savings and
+12:28 efficiency just having it for each
+12:30 model.
+12:32 So those are the profiles. Uh I love
+12:35 going to the profiles. I love being able
+12:37 to go in quickly, talk to, okay, I have
+12:39 a quick research task. I'll go to Quen
+12:41 who's living on my desk, give him a
+12:43 research task to research AI. Uh go to
+12:46 GPT, have them go build out an app for
+12:49 me. profiles. People should be
+12:52 leveraging profiles, setting up profiles
+12:54 for different models. Start saving money
+12:56 that way. Get better productivity that
+12:58 way. Lot of other really cool things
+13:00 here. Artifacts. So, artifacts basically
+13:04 puts all your images, files, and links
+13:08 in one place. And so if you're anything
+13:10 like me, you've been trying to kind of
+13:14 maggyver your AI agent into like a
+13:17 second brain, which it does really well
+13:19 and it works. It's just kind of a system
+13:21 to maintain. And one of those second
+13:24 brain tasks I have is like when I'm
+13:26 coming across things, I see inspiration,
+13:29 I see websites that are cool, tools that
+13:30 are cool, I'll take the links and give
+13:32 it to my agent and say, "Hey, save this
+13:34 link for me. File it away here. Do this
+13:35 for me." now kind of done automatically
+13:38 with artifacts. So, you can come in here
+13:41 and see any links you've sent to your
+13:44 agent. Uh you can see any uh images,
+13:48 media you've created or sent to your
+13:50 agent, any files you've sent back or
+13:53 forth. They're all organized here. And
+13:56 now you can quickly organize them,
+13:58 search through them. So now I don't need
+14:00 to go and be like, "Hey, file this in my
+14:02 second brain under this category and do
+14:04 this." I just send like a link. I got my
+14:07 librarian. My librarian is just kind of
+14:09 my second brain organization agent. I'll
+14:12 just drop links into my librarian. I
+14:14 don't even tell them to do anything
+14:15 with. I'll just hit send. And now I can
+14:17 go to my artifacts and all my links are
+14:20 just like tightly organized here. I can
+14:22 search. I can say Reddit. It shows me
+14:23 all the Reddit ones. So artifacts is
+14:25 sneaky like a really really cool place
+14:28 to centralize
+14:30 all your links and images and files and
+14:32 everything.
+14:33 >> That's really cool. They basically they
+14:35 basically productized the second brain
+14:38 for
+14:40 for an you know an agent platform. Like
+14:42 they probably saw how people were using
+14:44 it and they're like we're just going to
+14:45 make this really easy, really visual.
+14:48 And that's what I'm liking by the way.
+14:51 I'm just I'm seeing this for the first
+14:52 time. That's what I'm liking so far with
+14:54 the whole Hermes desktop experience. It
+14:56 just feels like a more Appleesque
+15:00 product for the open claw type of
+15:04 experience.
+15:06 That's a really good way to put it
+15:08 because, you know, I I've switched over
+15:12 from Open Claw to Hermes and and and for
+15:15 the record, neither of these people are
+15:17 paying me. Neither of these people
+15:19 barely even talk to me. I I I this is
+15:21 purely for the love of the game. Um and
+15:25 you know, one of the a big deal, by the
+15:26 way, you switching from OpenClaw to
+15:28 Hermes. Like, where's the breaking
+15:30 tweet? You know what I mean? Like, you
+15:32 you
+15:34 you like you said, you were an OpenClaw
+15:36 guy. You know, this is a big deal. This
+15:37 is uh
+15:39 >> I was the I was at the top, you know,
+15:41 not to toot my own horn here, pump my
+15:43 own tires, I was at the top of the game
+15:45 of open. This is like Michael Jordan
+15:48 going from basketball to baseball, you
+15:50 know, in 1994. Like, that is this is
+15:53 basically the equivalent of that. And I
+15:55 did it anyway with basically zero
+15:56 fanfare. But I like I I have to I can't
+15:59 keep pushing things that I don't think
+16:01 are as strong anymore just because I'm
+16:03 getting a bunch of clicks and views, you
+16:04 know?
+16:05 >> Yes.
+16:07 you it something I think a subtle shift
+16:09 happened the last couple months where I
+16:13 think
+16:15 the Hermes team very much as you just
+16:17 kind of described went more the Apple
+16:19 route while I think the open claw team
+16:22 went more of the uh Android route in a
+16:25 way where the Hermes updates have been
+16:28 very focused, polished, tested and tied
+16:33 to really nice narratives that are
+16:35 focused on making life easier for the
+16:37 user. While I feel like the open claw
+16:40 updates have been more kind of shotgun,
+16:43 put everything in it, don't test it
+16:45 quite as well, rough around the edges,
+16:48 doesn't work quite as well. We're trying
+16:50 to throw everything in it that will
+16:51 satisfy, you know, the power user,
+16:55 satisfy, you know, the the people who
+16:57 doing a thousand things at once. and
+16:59 like the updates became very unfocused
+17:01 and worst of all unreliable where I was
+17:04 updating and I'm like this is 100% going
+17:06 to break my open claw and then it did
+17:07 break my open claw while Hermes is like
+17:10 their branding is incredible but like
+17:11 their announcements like each update
+17:13 will be like once a week and it'll be
+17:15 like the efficiency update and
+17:17 everything will be very focused on
+17:19 efficiency and like around that
+17:21 narrative and as you kind of just said
+17:23 it's like kind of the Apple route where
+17:25 it's just you know it doesn't need to be
+17:27 a CLI it could be a nice desktop
+17:30 experience that's pleasant for the
+17:31 average person to use.
+17:33 >> Can you walk me through the skills and
+17:35 tools section?
+17:37 >> Yeah, a lot of cool things here. This is
+17:41 a nice interface for all the skills that
+17:45 are installed on your Hermes agent. One
+17:48 thing people don't really realize is out
+17:51 of the box, your Hermes agent has like
+17:54 over 150 skills installed and each one
+17:57 of those actually adds context to your
+18:00 agent and so that's increasing your
+18:03 cost. Now, with this nice user
+18:05 interface, you can come in and you can
+18:08 uh turn off any skills that aren't
+18:12 necessary, and you can also see the new
+18:16 skills being generated based on the
+18:18 actions you take. Not many people
+18:20 realize this. They know Hermes is very
+18:22 self-improving, but they don't realize
+18:24 it's actually creating tons of skills in
+18:26 the background while you're not looking,
+18:28 right? Like I have a 3JS one file game
+18:31 because I build a bunch of 3JS games
+18:33 just for the fun of it. Uh YouTube news
+18:36 scripts, real-time stock dashboard. Like
+18:38 there's a lot of skills that get built
+18:40 here kind of in the background as you're
+18:43 doing things and you can just turn off
+18:45 turn on any ones that aren't relevant to
+18:47 you to to save money and increase
+18:49 efficiency.
+18:52 Tool sets are groups of tools. So this
+18:55 is a new kind of concept being rolled
+18:57 out right now where uh you can group
+19:00 together many skills and tools all in
+19:02 one. So if you're doing something
+19:03 complex, it groups them all together. Uh
+19:06 I got to play around more with this to
+19:07 be quite honest with you. Uh but tool
+19:10 sets something definitely more to be
+19:12 used because it's it's kind of a new
+19:13 concept inside Hermes where you can
+19:15 group together multiple tools and skills
+19:21 that is uh those you also have
+19:23 messaging. So again a lot of really nice
+19:25 things here around just being able to
+19:27 quickly see and visualize the features
+19:29 of Hermes. So if you want to set up more
+19:32 messaging services, you just click it,
+19:34 set it up, right? Before it was you had
+19:36 to go into your CLI Hermes setup,
+19:38 navigate to whatever messaging service.
+19:41 The average person does not want to use
+19:43 a CLI, right? Like I guess I I think
+19:45 there was this huge trend the last few
+19:47 months. CLI, we're going back to CLI.
+19:49 CLI is the future. Everyone will be
+19:50 working the CLI. That doesn't change the
+19:53 fact average people do not want to go in
+19:55 the terminal and do anything, right?
+19:57 They don't want to do anything. I get so
+19:59 many complaints on my YouTube videos
+20:00 when I do setup videos where it's like,
+20:02 "This is so easy. Paste this into your
+20:04 terminal." And I still get comments
+20:05 like, "I don't want to do that. I have
+20:07 no interest in that. That's not that's
+20:09 not for me." So, this makes it just a
+20:13 lot easier. You never have to go into
+20:14 your terminal again. You never have to
+20:16 go in the CLI. You go in, it gives you
+20:18 like exactly what you need to set up
+20:20 your Telegram, and then it just works.
+20:23 So, really easy to set things up here.
+20:27 And then one other thing I uh I like is
+20:30 the cron section. So if you click down
+20:31 here on cron, you will see a lot of your
+20:35 cron jobs you have set up. One of the
+20:37 biggest complaints I get when I do these
+20:40 videos is Alex, you you said to do this
+20:42 to set up a routine. I did it, but it
+20:46 didn't work the next day. The the
+20:47 routine didn't happen.
+20:50 The issue is is when you're using
+20:51 through things through Telegram or the
+20:53 CLI and you set up these cron jobs, for
+20:55 those who may not be as technical, cron
+20:57 jobs, just scheduled tasks your computer
+20:59 does, you don't really have any
+21:01 confirmation that they were created when
+21:03 you ask your agent, hey, every morning
+21:05 9:00 a.m. do this or every night at 10
+21:07 p.m. do this. There's no real way to
+21:09 confirm and actually scheduled those
+21:11 things. Now, with the cron section,
+21:13 which is at the bottom, one click, you
+21:15 can see all your cron jobs. You can see
+21:17 everything that's scheduled and you can
+21:19 even create it manually here. So if you
+21:21 want to come in and say, "Hey, make me a
+21:23 morning brief.
+21:25 Tell me about tell me all the unread
+21:29 emails from the night before." Right?
+21:32 You can come in daily, deliver to the
+21:35 desktop, create the cron. you can have
+21:38 100% confidence this cron job is being
+21:41 created and will happen every day at
+21:42 that time
+21:44 >> because cron jobs are and routines are
+21:48 so important to unlocking the value
+21:51 of Hermes. Um do you have any advice for
+21:55 how do you actually create cron jobs
+21:57 that are worded in a way that actually
+22:01 you know have have a high likelihood of
+22:03 success?
+22:04 >> Yeah. I uh when whenever it comes to
+22:08 doing things more effectively with AI or
+22:12 solving for like kind of unknown
+22:14 unknowns, you know, I know I can be
+22:16 doing this better, but I don't know how
+22:18 to put a better crown job or a better
+22:20 prompt in the answer is always reverse
+22:24 prompting. Always. The answer is I want
+22:28 to Let's do it right now. Actually,
+22:30 let's demo it live.
+22:32 I'm going to do a new session. So, say
+22:34 you're a new user, Hermes. You want to
+22:36 come and you want to set up a crown job
+22:38 for uh every morning for a morning brief
+22:41 with relevant information in it. So,
+22:44 you're going to go, I want to set up a
+22:46 morning brief with you for every morning
+22:51 at 9:00 a.m. That's usually where people
+22:54 stop. But here's where you take it to
+22:55 the next level with reverse prompting.
+22:57 You go. My interests are generally AI,
+23:02 stock investing, tech, and the Boston
+23:07 Celtics,
+23:09 right? Uh what
+23:11 >> controversial controversial
+23:14 >> the Boston Celtics?
+23:15 >> I I would say so. You know, I think a
+23:18 lot of a lot of the listeners of the
+23:19 podcast are big Knicks fans right now.
+23:21 So, you know, that's what I'm seeing the
+23:24 from Yeah, that's what I'm seeing. Enjoy
+23:26 it while it lasts, Knicks fans. It's not
+23:28 going to last because Wemb's coming for
+23:30 you. And everyone in the country is
+23:32 ruined for WBY on this one. Sorry,
+23:33 Knicks fans.
+23:36 >> Um, you get you got your one year in 30
+23:38 years or you have a mild amount of hope.
+23:40 Enjoy it.
+23:41 >> Um, what So, here's where the reverse
+23:44 prompt comes in, right? I just got you
+23:46 just lost like a 100,000 subscribers, by
+23:48 the way. That's me. Sorry, Greg. I owe
+23:50 you one. Um, what would be the best
+23:57 prompt I can use
+24:00 to set this up with you? So, I did a
+24:03 couple things here. I did a couple very
+24:06 important things here. Number one, this
+24:08 is my favorite combo in the world, the
+24:09 brain dump to the reverse prompt. You
+24:12 brain dump in everything about yourself,
+24:15 interest, goals, ambitions, skill sets,
+24:18 things like that. So your agent has
+24:20 context around who you are and then you
+24:23 reverse prompt based on what you know
+24:26 about me. What's the best way to do
+24:28 this? The the the issue many people have
+24:31 is they just kind of wing it and tell
+24:34 the agent to do things. What they forget
+24:37 is you're talking to like super
+24:39 intelligence, right? You're talking to
+24:41 like the smartest thing on planet Earth.
+24:43 So why would you do things your way when
+24:46 you can get help from super intelligence
+24:48 and do it like the best way? So I'm
+24:51 going to hit answer on that. And instead
+24:53 of what most people do is, hey, set set
+24:55 up a morning brief that tells me the
+24:56 news on AI and the Boston Celtics and
+24:59 how Jason Tatum is the best player in
+25:01 the NBA, now it's going to actually tell
+25:05 me
+25:06 the exact prompt to use. So here's the
+25:10 prompt I'd use. And now it gives me this
+25:12 really detailed indepth prompt. Right?
+25:17 You are compiling Alex's daily morning
+25:18 brief. It's currently early morning
+25:20 Eastern time. Pull fresh information
+25:22 from the last 24 hours. Do not rely on
+25:25 memory or stale data. Use web search and
+25:27 exact real headlines, prices, and
+25:29 scores. Cover these four areas. And then
+25:32 it goes in depth. AI, the three four
+25:34 most important developments in AI from
+25:35 the last 24 hours. You know what this
+25:37 fix is? Usually when you say things like
+25:40 tell me the latest AI news, it'll give
+25:42 you headlines from like two months ago,
+25:44 right? Or it'll even give you headlines
+25:45 from like a year ago because of the
+25:47 model's memory cut off. But now because
+25:49 of this better prompting, you'll be sure
+25:51 that it's from the last 24 hours.
+25:54 Market and investing uh yesterday's
+25:57 close and pre-market direction for the
+25:59 S&P, NASDAQ, and notable movers. Flag
+26:02 one or two stock sectors with unusual
+26:04 news. Include any major economic events
+26:06 scheduled for today. Like most people
+26:08 are not going to remember to talk about
+26:10 the Fed CPI earnings or big names. Tech
+26:13 two to three significant tech industry
+26:15 stories beyond pure AI
+26:18 right now. It's like going into extra
+26:19 detail. And what happened now? And
+26:21 here's a big one. Formatting lead with a
+26:23 oneline vibe summary. Use bold letters
+26:25 and type bullets. Like if we use the
+26:28 original prompt most people would use,
+26:29 hey, give me a morning brief everything
+26:31 about AI, it just would have been a like
+26:33 a big dump of text. But now it's nicely
+26:36 formatted so it's easy to read. And so
+26:38 this is the format I'd go. Brain dump to
+26:41 reverse prompt. You're going to get a
+26:42 lot better prompts, cron jobs, and
+26:45 output from uh your agent.
+26:47 >> Great tip. Thank you.
+26:49 >> Of course. Um what else we got here? So
+26:54 that is the cron jobs. Really, really
+26:56 cool stuff. Really amazing to use. Uh
+26:58 you can see your context very easily.
+27:00 Your context window very nicely at the
+27:02 bottom now. Uh, so you can make sure,
+27:04 oh, you know, our context window is
+27:06 filling up. Let's do slash new to start
+27:08 a new session. And that'll clear that.
+27:10 So you can save money there. You can
+27:12 quickly change your models. This is
+27:14 another really big strength of Hermes
+27:17 is they architected their agent a way
+27:20 where you can easil you can switch
+27:23 models much easier than openclaw. Open
+27:26 claw like every model's like hardcoded
+27:28 in to openclaw. So you have to like ask
+27:32 them to switch models and when new
+27:34 models come out you have to wait for
+27:36 openclaw to update with that newest
+27:38 model. Hermes they updated it they have
+27:41 the agent uh work in a dynamic way where
+27:44 it can just swap in models and thinking
+27:46 settings really really easily and the
+27:48 moment a new model drops you can just
+27:50 swap it in. And so now in here we're
+27:53 taking the customization a step further,
+27:55 you know, oh, I'm going to do a simple
+27:56 task, doesn't require much thinking.
+27:58 Let's use like uh Opus 48 with minimal
+28:02 effort or Haiku with minimal effort,
+28:05 things like that. So another really nice
+28:06 way to save money with your agent. Uh
+28:10 lot of other really cool things here.
+28:12 There's this agent window. When you're
+28:13 go and you're you're multitasking, you
+28:15 got a bunch of agents doing things, you
+28:17 can see all your sub agents spin up.
+28:20 Usually a question I get at this point
+28:22 is sub agents. What what's the
+28:23 difference between a sub agent and a
+28:24 profile? So a real Hermes agent. So
+28:28 again the profiles have their own
+28:29 skills, personality, everything. Sub
+28:32 agents are copies of the main agent. So
+28:36 when I go to, you know, Hermes and say,
+28:38 "Hey,
+28:40 go do research and then build an app
+28:42 based on that research." It'll spin up
+28:44 sub agents. Those sub agents are just
+28:47 copies of the main agent. So has the
+28:49 same skills, the same personality, the
+28:53 same everything,
+28:55 but profiles have their own skill sets
+28:58 and context and memories and everything.
+29:00 And so the way you want to think about
+29:02 it is, okay, for what you're doing, does
+29:04 it require a separate set of skills? If
+29:06 it does, then spin up a new profile. Is
+29:10 what I'm doing, can I just use that same
+29:13 set of skills? Just do it multiple times
+29:15 at once. All right, spin up sub aents
+29:17 for that. So agents down here is where
+29:19 you can see those sub aents work.
+29:23 >> What's a what's a concrete what's a
+29:25 concrete example of of that? Like when
+29:28 when would I be in the case where I'd
+29:29 want to
+29:31 use multiple sub aents like what sort of
+29:33 task?
+29:35 So, say I am wanting to build out a
+29:39 micros SAS and I want to it has many
+29:43 different features, maybe five or six
+29:45 different features. Maybe it connects to
+29:47 the X API to pull tweets uh and then it
+29:51 formats the tweets in a nice way uh and
+29:54 then it allows you to share those tweets
+29:56 on Twitter and then send your own
+29:57 version of that tweet. So, it's like
+29:58 five or six different features this
+30:00 micro SAS. I would want to use sub
+30:02 agents for this. I would go to my
+30:05 Hermes. I'd say, "Build me this Micros.
+30:08 Here's the 10 different features. Spin
+30:10 up sub agents to build out each of those
+30:13 features simultaneously." And then it'll
+30:15 go and spin up and they they all have
+30:17 the same skill set, right, which is just
+30:19 coding. I just need a coding agent, but
+30:21 I just need multiple versions of that
+30:23 coding agent. And so it'll spin up five
+30:26 or six sub aents to build out that micro
+30:28 SAS because I just it's doing many
+30:30 things at once. But maybe I wanted to do
+30:33 something like,
+30:35 okay, I'm working on a YouTube video and
+30:40 I need a script. I need a researcher
+30:43 that will get the information that will
+30:45 feed into that script. I need, you know,
+30:48 a thumbnail. So, I need a graphic
+30:52 designer or an agent that is connected
+30:54 to the Grock imagine API. For that, I
+30:56 would want multiple profiles, right? I'd
+30:59 want, you know, for the researcher, I'm
+31:01 going to use Quen, which is my local
+31:02 model. Say, "Hey, research this script,
+31:05 then hand it off to uh hand it off to
+31:09 Hermes, which is my Opus 48 model, and
+31:12 have them actually write the script
+31:14 based on your research, and then hand
+31:16 that off to GPTM, which is my Chad GPT
+31:20 model, and have them use a Chad GPT
+31:23 image generator to build the thumbnail.
+31:25 That would be a good use case for
+31:27 multiple profiles.
+31:30 So the way to think about it to kind of
+31:32 recap,
+31:33 different skill sets needed, use
+31:35 different profiles, one skill set, but
+31:38 just done multiple strands at once. Use
+31:41 sub agents.
+31:44 With that being said, we talked about
+31:48 sessions. So managing what you're
+31:49 talking about, managing context. We
+31:52 talked about artifacts, organizing
+31:55 all of your files, images, media, all of
+31:58 that. We talked about skills, managing
+32:01 your skills, making sure the right
+32:03 skills are turned off and on. Uh we
+32:06 talked about cron jobs, so the schedule
+32:08 tasks. We talked about context models.
+32:13 Should we kind of get into the actions,
+32:15 what you can do with all this, putting
+32:16 it all together?
+32:18 >> Yes, please.
+32:20 All right, let's do it. I will show you
+32:24 one of my use cases I do. This is real
+32:27 life. Have my agents doing this all the
+32:29 time.
+32:32 And uh let me just pull this open over
+32:35 here. I'm going to refresh this. So, one
+32:40 thing as a soloreneur I like to do is I
+32:43 like to solve challenges, right? You
+32:45 know, that's pretty much the best, most
+32:48 ethical way to make money in this world
+32:49 is find other people's challenges and
+32:51 then solve those challenges. And so with
+32:54 my agents available to me, you've never
+32:57 had more power or leverage to find
+33:00 challenges other people have. And so I
+33:03 have a crown job
+33:06 inside my Hermes agent. Let's see if I
+33:08 can show it to you. Is it in this agent
+33:09 here? uh daily AI business opportunity
+33:12 scan. Every 20 minutes I have my agent
+33:17 going and using the Quen 37 model
+33:21 locally. You don't need a local model
+33:23 for this. You don't need a DGX spark.
+33:24 I'll give you an alternative in a
+33:25 second. But because I have this
+33:27 unlimited free super intelligence on my
+33:30 desk, I have a do it every 20 minutes. I
+33:33 have a go and this is kind of like idea
+33:35 brow. These two would fit very well
+33:37 together. idea browser and uh this agent
+33:40 you put them together you got magic but
+33:43 what it does
+33:43 >> a lot of people by the way a lot of
+33:45 people are using idea browser with
+33:46 Hermes but that's a whole other separate
+33:49 uh episode I think I I can do if people
+33:52 are interested
+33:53 >> that's an hour episode there you connect
+33:55 Hermes to idea browse and you have it
+33:57 going just building out each idea
+33:59 >> now that's sauce
+34:03 >> but what I have it doing is I have Quen
+34:07 every 20 minutes going and reading
+34:09 Reddit, reading X, searching for other
+34:13 people's challenges. And I'm going to
+34:14 show you what it builds for me here. And
+34:17 I'm going to show you how I take it a
+34:18 step further. Now, if you want to
+34:20 emulate this, you 100% should.
+34:23 You don't need you don't need to do this
+34:25 every 20 minutes if you're using like a
+34:26 cloud. The reason why this works so well
+34:29 with Quen locally is it's free. So, I
+34:32 can have it do it as much as I want. If
+34:34 you're using like Chad GBT or Opus,
+34:36 >> you'd be paying out the wazoo for this
+34:37 because it costs money every time you do
+34:39 something. So maybe you do this just
+34:41 once a morning to save a little cash.
+34:43 >> But here's the output of that. This cron
+34:47 job I get
+34:51 this custom dashboard it built, which
+34:53 does it look like AI slop? Yes, it does.
+34:56 But I don't care. The the the styling of
+34:58 it doesn't matter to me. But what I get
+35:01 here is Henry going in, which is
+35:05 actually Quen 36 on my DJX Spark. Does
+35:08 it every 20 minutes
+35:10 and it finds challenges
+35:13 from people on Reddit and X, gives me
+35:16 the source thread so I can see what
+35:18 comments. The founder said the whole
+35:20 agency was basically four APIs in a
+35:22 trench coat. And then because my agent
+35:25 knows so much about me and my skill set,
+35:27 it tells me why I'm in position to fix
+35:31 this problem and what should be my first
+35:34 move to solve that challenge.
+35:36 And so now I kind of have this automated
+35:39 business researcher that's going knows
+35:42 me to a tea, knows all my skills,
+35:44 everything, and finds me challenges to
+35:47 solve, right? It knows about my
+35:49 community. So, it knows about my assets,
+35:51 what businesses I have, Vibe Coding
+35:52 Academy,
+35:54 and taking it even a step further, when
+35:56 it finds it appropriate, it even adds
+35:59 this button here. Henry built a pro. So,
+36:01 it automatically built me a prototype
+36:04 for this business idea. And so, if I
+36:06 click that,
+36:08 micro SAS prototype built for that idea
+36:11 it had. And so, now I can be like, okay,
+36:13 is this interesting? Let me test this.
+36:16 Oh, actually, I think there's something
+36:17 here. and then I can productize it and
+36:20 make it shippable. This is kind of how
+36:23 being a soloreneur builder works. You
+36:26 find challenges because you're running
+36:29 efficiently and you're only one person.
+36:30 You don't have much overhead. You can go
+36:32 over these tiny you can go over these
+36:34 tiny slim markets and make a few bucks
+36:37 off of it and that's enough to pay the
+36:38 bills, right? And so this is a a really
+36:40 nice way I have my agent acting as an
+36:43 employee and finding me opportunities
+36:45 around the clock.
+36:47 Side note, so this is really cool. Um,
+36:50 and at the very least get your creative
+36:52 juices flowing, right? So, it might not
+36:55 even be this idea, but you might be
+36:56 like, you know, I'd like this, you know,
+36:58 uh, but if it was in another market or
+37:01 if it was an app instead of this. But my
+37:03 question to you is in terms of local
+37:06 models, is your recommendation
+37:09 that people go out and buy
+37:12 um like what should they be buying
+37:14 basically and why should they be buying
+37:16 it?
+37:18 My recommendation up uh to this or up
+37:21 until recently was uh the Mac Studio.
+37:24 The Mac Studio from a speed and
+37:26 bandwidth perspective isn't as strong as
+37:30 Nvidia
+37:31 um hardware like the Spark and other
+37:34 chips. Uh but you got a lot more unified
+37:37 memory which allowed you to run much
+37:38 cooler models and much better models
+37:41 just a little bit slower. The challenge
+37:43 is is uh the Mac Studio is pretty much
+37:46 sold out on uh any basically every
+37:49 level. You can get it right now, but
+37:50 it's small amounts of memory. It's not
+37:52 like the big uh the big boys that allow
+37:54 you to run really good models. So now I
+37:58 think my recommendation for most people
+38:01 unless you can find, you know, a Mac
+38:03 Studio secondhand or something like
+38:04 that, uh the DJX Sparks a really great
+38:07 plug-and-play device. You you just plug
+38:10 You don't even need a monitor to set it
+38:11 up. like you just plug it into the wall
+38:13 and it works. Um, it has 128 gigabytes
+38:17 of unified memory which basically means
+38:19 you can run any model that goes up to
+38:23 128 gigs. So Quen, uh, I think 27B works
+38:28 really nicely. Any of the new Neotron
+38:30 models. So Nvidia got into the model
+38:32 game recently. Now they're putting out
+38:34 their own open- source models. They're
+38:35 building it with the the Spark in mind.
+38:38 So, I think if you want plugandplay,
+38:42 something to run inference for you to so
+38:43 to run your models, the the DGX Spark is
+38:46 a great option. Uh, I prefer the Mac
+38:48 Studio because it's running on the
+38:51 device I have right here and you can use
+38:53 it. It's like a really nice user
+38:55 interface, the Mac OS. So, that's really
+38:57 nice. But, uh, the Spark is a is a good
+38:59 plug-and-play option if you don't have
+39:01 access to like a really good Mac studio.
+39:03 >> Cool. And and just quickly, like how
+39:05 much is the price on on that baby?
+39:08 They just raised it, I think, to $4,800.
+39:12 Um, which seems like a lot and and it
+39:15 is. Everyone's in different financial
+39:16 situations. It for sure is. Uh, my kind
+39:21 of thesis, which I think is playing out
+39:24 uh in front of us right now, is we are
+39:26 going to have hardware bottlenecks for a
+39:29 very long time now because the AI
+39:31 buildout's happening. And so memory is
+39:33 sky. I just bought a memory card for my
+39:35 Nintendo Switch, too. cost like $100.
+39:37 It's like the craziest thing ever. Like
+39:39 the the cost of memory is skyrocketing.
+39:41 All hardware uh everything like that.
+39:44 And so hardware is getting more
+39:46 expensive. I think you know getting into
+39:48 local models in your own hardware is a
+39:50 very good idea in my opinion. Playing
+39:53 around with LLMs locally is a very good
+39:56 idea in my opinion. Not only for
+39:58 functionalitywise like what I just
+39:59 showed you here, but also for um
+40:03 education and learning wise. So, you
+40:05 know, I think if you can find the room
+40:07 to afford a DGX Spark, I think it's a
+40:10 really good investment.
+40:11 >> My take is play with Hermes, download
+40:14 the app, show that you can that you can
+40:18 make this as a part of your daily
+40:20 soloreneur or, you know, just lifestyle.
+40:22 And once you've gotten your hands a
+40:25 little dirty, then you've proven to
+40:28 yourself that if you have the $5,000
+40:30 that you, you know, you deserve it. Like
+40:32 don't be one of those people that goes
+40:34 and buys the latest and then it sits on
+40:36 a shelf. That's my take.
+40:39 >> You deserve it. That's the takeaway. You
+40:40 deserve it. You owe it to yourself. Get
+40:42 yourself a spark, man.
+40:43 >> You you you owe yourself a spark if you
+40:46 actually
+40:48 go and and and use this thing, right?
+40:51 like and and and and understand how to
+40:53 use it and and play with it and actually
+40:57 show like
+40:59 show that you can create value for
+41:01 yourself cuz then at that point you're
+41:03 going to be like $5,000. Well, if I'm
+41:05 going to make 10x that, then it's a
+41:09 no-brainer, right? Yeah. I think the uh
+41:14 you it's always like the number one
+41:15 question get, oh, how much does that
+41:17 cost? What's that? How much is that? I
+41:19 think people have this weird framing
+41:21 around uh cost when it comes to AI. Like
+41:24 they see the cost of Claude and they see
+41:26 it's oh $200 a month that's really
+41:28 expensive. It's very they're comparing
+41:31 it to like the cost of like Netflix and
+41:33 like Xbox Live and Amazon Prime, right?
+41:36 Those things, they just suck your money
+41:39 and life forces away. They're not adding
+41:41 to your life.
+41:43 >> $200 for Claude, $5,000 for DJX Spark.
+41:46 These are investments in yourself to
+41:48 create more value in the world and you
+41:51 should if used the right way see an ROI.
+41:54 So I would just encourage you to think
+41:56 through different lenses when it comes
+41:57 to costs for these different things.
+42:00 Alex Finn, before we go, is there one
+42:03 question I should have asked you about
+42:06 Hermes desktop app, Hermes agents in
+42:08 general that I haven't
+42:11 um that you think that the audience
+42:13 would benefit from me asking or did you
+42:16 cover it all?
+42:17 >> I covered it all. I think if you were to
+42:20 ask me a question, I'd get more specific
+42:23 on or spend more time on is how the hell
+42:25 do you make money with Hermes? And the
+42:27 answer would be around a lot of what I
+42:30 showed you to the end there, finding
+42:31 challenges, finding uh opportunities to
+42:34 solve. And I think if you're watching
+42:35 this at home, you know, instead of using
+42:38 these agents to kind of play around uh
+42:41 and experiment with, I I think you
+42:42 should be using them to solve other
+42:44 people's challenges because that's how
+42:46 you're going to be able to create the
+42:48 most value for yourself in the entire
+42:50 world.
+42:51 Alex Finn, ladies and gentlemen, thank
+42:53 you so much for hopping on uh on short
+42:56 notice, sharing the sauce with us. As
+42:58 always, I'll include links for where to
+43:01 find Alex in the show notes, in the
+43:02 description, his ex, his YouTube, and
+43:05 everything else in between. Thank you so
+43:07 much. You always hype me up and I love
+43:10 that about you. Um, and uh
+43:14 >> got to be fun. You got to have fun doing
+43:15 this.
+43:16 >> 100%. It is fun, right?
+43:18 How lucky are we that we can play with
+43:20 these tools that they're coming out so
+43:21 often? Um, I like that you're not afraid
+43:24 to
+43:26 share your opinion in real time as new
+43:29 information comes in. Um, and so I like
+43:33 that about you. And you know, from my
+43:36 perspective, it's like I like playing
+43:37 with everything and then and seeing what
+43:40 what what's best for me. So, thanks
+43:42 again.
+43:43 >> Of course. It's a pleasure as always.
+43:45 See you soon, man.
+43:47 See you.

@@ -1,0 +1,207 @@
+0:00 7 days ago, I deleted Claude completely.
+0:04 No autocomplete, no explain this to me,
+0:06 no 2 a.m. rubber duck to think out loud
+0:08 with cold turkey for one full week. I
+0:12 wanted the answer to one uncomfortable
+0:14 question. Had AI actually made me better
+0:17 at my job or had it just made me
+0:20 dependent. By day three, something I did
+0:23 not expect started happening. By day
+0:26 six, I caved. And the reason I caved
+0:29 completely changed how I use AI. Now,
+0:32 this is the honest version. Every single
+0:35 day of it. Let me tell you why I did
+0:38 this. Because it wasn't a stunt. A few
+0:41 weeks ago, I caught myself reaching for
+0:43 Claude to do something embarrassingly
+0:45 small. Rename a variable. Write a
+0:49 two-line function I'd written a 100
+0:51 times before. And I realized I couldn't
+0:53 actually remember the last time I had
+0:56 started anything. code, an email, a plan
+1:00 from a truly blank page on my own. The
+1:03 tool had quietly slid from helping me
+1:05 think to thinking for me. And there's a
+1:07 fear underneath that one. I think a lot
+1:10 of people feel right now and never say
+1:12 out loud. If the AI disappeared
+1:15 tomorrow, would I still be good? Or have
+1:18 I been renting a skill I used to own?
+1:20 There is only one way to actually find
+1:23 out. You take it away. Day one and two
+1:27 were genuinely rough. And I want to be
+1:29 honest about that. The first thing I
+1:31 noticed was the reaching. I would type
+1:35 half a thought and just wait for the
+1:37 gray autocomplete text that was never
+1:40 coming. It's muscle memory now. It's a
+1:43 reflex. I'd hit a small problem,
+1:46 something I absolutely know how to
+1:48 solve. And my first instinct wasn't to
+1:51 think, it was to ask. And every single
+1:55 time I had to catch myself and go, "No,
+1:58 you do this one." Productivity honestly
+2:02 cratered things that took 30 seconds now
+2:05 took 10 minutes. I felt slow. I felt
+2:09 rusty in a way that was a little
+2:11 humiliating. If the experiment had ended
+2:13 on day two, the conclusion would have
+2:16 been simple. I'm hopelessly dependent.
+2:19 This was a mistake. Reinstall it. But I
+2:23 didn't stop on day two. Day three is
+2:25 when it turned and I did not see it
+2:27 coming. I was stuck on a problem, a real
+2:30 one, not a trivial one. And out of pure
+2:33 habit, I went to ask Lord. It wasn't
+2:36 there. So I did the thing I hadn't done
+2:39 in months. I just sat with it. I opened
+2:43 the actual documentation. I read it. I
+2:46 traced the logic by hand. And it took me
+2:49 maybe 20 minutes instead of 20 seconds.
+2:52 But somewhere in those 20 minutes, my
+2:54 brain switched into a gear I had
+2:55 genuinely forgotten existed. That deep,
+2:58 quiet, fully absorbed focus. No tap
+3:02 switching, no waiting on a response, no
+3:04 second guessing. Just me and the
+3:06 problem. By the end of day three, I
+3:09 wasn't frustrated anymore. I was, and
+3:12 this surprised me, kind of enjoying it.
+3:15 By day four, I understood what had
+3:18 actually happened to me and it reframed
+3:20 the whole thing. Here's the realization,
+3:24 and it might be the most important
+3:25 sentence in this video. I had assumed AI
+3:28 was doing my thinking for me. It wasn't.
+3:32 What it was really doing was removing
+3:34 the friction, the struggle, the 20
+3:37 minutes of being stuck. And here is the
+3:40 trap. The friction is not the obstacle
+3:42 to learning. The friction is the
+3:45 learning.
+3:46 Every time I let Claude skip me past the
+3:49 hard part, I also skipped the exact reps
+3:52 that used to make me better.
+3:55 The AI didn't make me dumber. It made me
+3:58 skip the part where I get smarter. I had
+4:01 been trading my own growth for speed,
+4:03 one tiny convenient shortcut at a time,
+4:06 and I never even felt it happening. Now,
+4:08 day five is where I have to be fair
+4:11 because this is not an anti- AI video.
+4:14 And the truth is more interesting than
+4:16 that. The detox had real measurable
+4:20 upsides. I remembered my own codebase
+4:23 again, where things lived, why I had
+4:25 built them that way, because I had
+4:28 actually been touching it instead of
+4:29 narrating requests. I made decisions
+4:32 faster because I wasn't outsourcing
+4:34 every judgment call to a second opinion
+4:36 and then waiting on it. My focus was
+4:38 deeper. My memory was sharper. But, and
+4:42 this matters, I was still slower
+4:44 overall. Some things genuinely are
+4:47 faster with AI. And pretending otherwise
+4:50 would be lying to you. By day five, I
+4:53 wasn't anti-AI or pro AAI. I was sitting
+4:56 in the honest middle where both of those
+4:59 things are true at the same time. And
+5:01 then came day six. I caved. I
+5:04 reinstalled it. But here is the part I
+5:07 really want you to hear because it is
+5:09 the whole point. It was not a hard
+5:12 problem that broke me. It wasn't some
+5:15 gnarly algorithm or a bug I couldn't
+5:17 crack. I had been handling those all
+5:19 week slowly but fine. What broke me was
+5:23 a blank page. I had to write the first
+5:26 draft of something and it doesn't even
+5:28 matter what. And I had been sitting and
+5:30 staring at an empty file for 40 minutes.
+5:33 Not because I didn't know the answer,
+5:35 because I could not start. The cursor
+5:38 just blinked at me and I caved. I opened
+5:42 Claude and typed three lazy words. It
+5:44 gave me a mediocre first draft. I
+5:47 deleted almost all of it. But the second
+5:50 it existed, I was moving again. And that
+5:53 is when everything clicked. Here's what
+5:56 clicked, and it's the thing I wish
+5:57 someone had told me a year ago. AI's
+6:00 real superpower is not intelligence.
+6:04 It's activation energy. Everything else
+6:07 I had outsourced, I could actually do
+6:09 without it. Slower, sure, but I could do
+6:12 it. The answers, the code, the logic,
+6:16 all replaceable by just thinking harder.
+6:19 But the one thing I genuinely could not
+6:21 replace was the way it kills the blank
+6:24 page. It turns nothing into something to
+6:27 react to. And that is the secret.
+6:31 Reacting is easy. Starting is hard. A
+6:35 blinking empty cursor is where almost
+6:38 every project quietly dies. A bad first
+6:42 draft, a rough outline, a wrong but
+6:46 existing answer. That is not the AI
+6:49 doing your work. That is the AI getting
+6:52 you unstuck so you can do your work. The
+6:56 blank page was the only thing I couldn't
+6:59 beat alone and it is the one thing AI
+7:02 beats instantly. So I got my answer to
+7:05 that uncomfortable question from day
+7:07 one. Had AI made me better or just
+7:10 dependent? The honest answer is both.
+7:14 And that is completely fine as long as
+7:17 you are deliberate about which is which.
+7:20 The mistake I had been making wasn't
+7:22 using AI. It was using it for everything
+7:25 by default without ever noticing the
+7:28 difference between momentum and
+7:29 thinking. So now I run one rule. I let
+7:33 AI start things. I do not let it finish
+7:36 my thinking. I use it for activation
+7:39 energy. The blank page, the rough draft,
+7:42 the first version, and then I close it
+7:46 and do the actual work myself friction
+7:49 and all. The detox didn't make me quit
+7:51 Claude. It made me use it on purpose.
+7:55 And on purpose is a completely different
+7:57 tool than by default. And you can run
+7:59 this exact test yourself. You don't need
+8:03 to delete anything for a month. Just a
+8:05 week is enough to feel it. Three things
+8:07 to watch for. One, the friction audit.
+8:12 For one week, every time you reach for
+8:14 AI, pause and ask, am I stuck on
+8:18 starting or am I skipping the reps? If
+8:21 you are skipping the reps, do that one
+8:23 yourself. That is where your edge lives.
+8:27 Two, the blank page rule. Use AI to
+8:31 generate the first version of anything,
+8:34 then immediately take over.
+8:37 Momentum from the machine, judgment from
+8:39 you. Three, notice what you can't do
+8:42 without it. that whatever yours turns
+8:45 out to be is the one thing AI is
+8:48 actually irreplaceable for in your work.
+8:51 Protect it and stop wasting it on
+8:54 everything else. I packaged the whole
+8:56 thing, the 7-day protocol, the friction
+8:59 audit, the exact questions to ask
+9:02 yourself each day into one free guide.
+9:06 Comment the word detox, and I'll send it
+9:08 straight to you. But before you go, here
+9:11 is the last thing this whole week taught
+9:13 me, and it's the part nobody tells you.
+9:16 The people genuinely winning with AI
+9:19 right now are not the power users. They
+9:22 are not the ones using it the most. They
+9:24 are the ones who figured out the single
+9:26 thing it is irreplaceable for and then
+9:28 refuse to use it for anything else.
+9:31 Less, but on purpose, beats more by
+9:34 default. The deep dives live here on
+9:37 YouTube, so subscribe. The byite-size
+9:39 drops are on Instagram @ hyperautomation
+9:43 labs. Now go delete something.

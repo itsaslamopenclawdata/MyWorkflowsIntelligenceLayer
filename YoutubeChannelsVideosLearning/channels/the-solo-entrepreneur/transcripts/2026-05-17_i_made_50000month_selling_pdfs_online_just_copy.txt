@@ -1,0 +1,11 @@
+# Transcript unavailable
+
+# Video: I Made ₹50,000/Month Selling PDFs Online — Just Copy This!
+# Channel: The Solo Entrepreneur
+# Date: 2026-05-17
+# URL: https://www.youtube.com/watch?v=iVUnA03yrec
+# Duration: 35:50
+
+Transcript was not available at fetch time. Description-only notes were generated.
+To regenerate, run the backfill with a fresh transcript fetch:
+  python3 backfill.py --channel-id UCV_DLB3VW0szIGQnwel1Nsw --backfill 10

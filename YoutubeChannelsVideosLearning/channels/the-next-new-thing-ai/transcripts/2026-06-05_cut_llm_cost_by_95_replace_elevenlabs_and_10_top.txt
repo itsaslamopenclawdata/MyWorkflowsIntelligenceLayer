@@ -1,0 +1,1059 @@
+0:00 I've got a free tool that will make
+0:01 videos for you for free and claims to
+0:03 print money for you. PewDiePie, the
+0:05 famous YouTuber, says, "Get rid of Chat
+0:07 GPT." He's got a free replacement and
+0:09 it's amazing. If everything that Claw
+0:11 designs for you just looks like
+0:12 everything Claw designs for everyone
+0:13 else, I've got a taste repo that will
+0:16 fix that and make things look beautiful.
+0:17 And watch out 11 Labs. I have for you a
+0:20 simple way to create voices. Clone your
+0:22 voice or anyone else's and have AI read
+0:25 in that voice. So much more coming up
+0:28 today. presented by Zapier, the AI
+0:31 automation company.
+0:32 >> All right, Peter. Top 10 GitHub repos of
+0:34 the week. Starting with number one of
+0:36 the week is
+0:39 money printer Turbo. I don't know how I
+0:41 feel about this one, but I'll explain
+0:42 what it is. You go in, you type what you
+0:45 want a video to look like, you want it
+0:48 to sound like, and it will actually
+0:50 create the freaking video for you. And
+0:51 in many ways, it is impressive, but once
+0:53 you get into the money printing thing,
+0:55 it feels like it's overhyped. I'm going
+0:57 to show it to you on GitHub so that you
+0:58 get a sense of what it looks like. I'll
+1:00 show you a video of how it works. And
+1:03 I've talked about this before, Peter.
+1:05 This is a way of creating what many
+1:06 people would call AI slop. Maybe I'm
+1:08 being too harsh about it. I don't know.
+1:11 What do you think about this?
+1:13 >> Well, I was hoping that it was just
+1:14 going to like print out money, you know,
+1:15 one of those money guns you get, but um
+1:18 unfortunately not.
+1:19 >> Um no, I mean, in terms of the overall
+1:22 project, it's actually quite well
+1:23 structured and it does what it says it's
+1:25 going to do. Um, but the problem is, do
+1:27 people want to watch these videos? I
+1:29 guess that's the key thing. You know,
+1:30 you as a video producer, it's like, do
+1:31 people want to watch this stuff or would
+1:33 they rather watch someone actually do it
+1:34 for real? Um, you are going to need a
+1:36 lot of bandwidth though if you download
+1:37 this repo. Um, just because it has it's
+1:40 like 700 megabytes in size. I discovered
+1:42 I actually cloned it. Um, and it's full
+1:44 of fonts and samples and stuff like
+1:46 that. So, it's a big one.
+1:48 >> It's fairly easy to use, too, though,
+1:50 once you do get it on your system,
+1:51 right? You just fill out a form or you
+1:53 just Yeah, there it is. You just give it
+1:54 what you need.
+1:56 and it creates it. Okay, maybe overhyped
+1:58 title, but maybe that's how you become
+2:00 number one or
+2:01 >> but you need to plug in some API keys as
+2:03 well because it needs to use OpenAI or
+2:05 Deepc. It can it can support a whole
+2:07 different bunch of APIs, but obviously
+2:09 you are going to be paying for the the
+2:10 output from this, but it will also, one
+2:12 of the cool things about it though is it
+2:14 will pull in um I don't know if you'd
+2:17 call it royalty-free, but kind of like
+2:18 free video that's on the web in certain
+2:21 repositories and then it will integrate
+2:23 that into what it produces. So, it does
+2:25 some mildly clever stuff, even if it
+2:27 isn't quite actually printing money.
+2:30 >> Okay. All right. Maybe I'm being too
+2:31 harsh on it because it's promising a
+2:32 lot, but truthfully, if you can generate
+2:34 even B-roll like this and find it, I
+2:37 think there's value to it.
+2:38 >> Okay. That's number one for the week.
+2:40 Number two is headroom. Your AI agents
+2:43 are burning through money, reading junk,
+2:44 huge logs, bloated files, repeated
+2:46 search results. This sits between your
+2:48 agent and AI company and shrinks
+2:50 everything before it's sent, claiming 60
+2:52 to 95% off your token bill with the same
+2:55 answers. Would you try this? What do you
+2:57 think of this? It's an interesting idea.
+2:59 I like the idea of putting like a proxy
+3:01 in between um your agent and the LLM and
+3:05 then doing things with that kind of gap
+3:09 between to make the the communication
+3:10 more efficient. Just one thing I should
+3:12 pull up on though is that in that
+3:14 headline it says something like reduce
+3:16 your token bill 60 to 95%. Which
+3:19 >> yes,
+3:19 >> if you actually go into they've got a
+3:21 page on their GitHub repo which is
+3:23 actually a real benchmark of what
+3:25 they've actually done with 50,000
+3:27 different sessions that have run through
+3:28 this app
+3:29 >> and the actual median saving is 4.8%. So
+3:33 >> the headline is making it bigger than it
+3:35 is. I mean, I'll just quickly explain
+3:37 what it does just in a technical sense
+3:40 is let's say that your claude code or
+3:42 whatever it is is sending lots of um log
+3:45 files or JSON or something over the
+3:47 wire. This thing will look at that and
+3:50 then compact it down to a more minimal
+3:52 representation that the LLM actually
+3:54 needs. So, for a certain type of
+3:56 debugging session where there's lots of
+3:58 logs flying around, say it may be able
+4:00 to reduce it by 60 to 95%. But in
+4:03 general day-to-day use, um, no, not so
+4:06 much. Um, and that's by their own
+4:08 numbers.
+4:10 >> Would you actually use it? Is there a
+4:12 need for it? I don't think I use claw
+4:13 code enough to need something like this.
+4:15 But what about someone like you?
+4:18 >> Personally, I wouldn't trust it, but
+4:21 that's just that's just me being, you
+4:24 know, critical of these types of things.
+4:27 But, you know, if it works for him, then
+4:29 great. I mean, there's people that would
+4:30 love this type of thing. Um, I just
+4:32 would rather not have something sitting
+4:34 in between me and the
+4:35 >> LL,
+4:36 >> right? Especially for such little value.
+4:39 All right, let's go on to number three.
+4:40 Mark it down. This one I absolutely
+4:42 love. It is back from Microsoft on the
+4:45 top 10 list. What it does is it takes a
+4:47 PDF, a Word doc, a PowerPoint, Excel,
+4:50 whatever, and it converts it into
+4:51 markdown so that it's easy for you to to
+4:54 work with. it's easy for you to um to
+4:57 send to your agent so that you don't end
+4:59 up taking up uh so that you don't end up
+5:01 paying for a lot of tokens just to have
+5:02 your agent convert it. Uh I've got some
+5:05 examples of it here. You take a look at
+5:08 actually here. Let's take a look. Look.
+5:10 Oh, this one I wanted to show. It even
+5:12 took this image on the right and it
+5:14 turned it into a description on the
+5:16 left. In this two panel comic, a cartoon
+5:18 dog sits calmly at a tables, etc., etc.
+5:21 I like that it does that. I've got a
+5:23 short video here uh that I found on
+5:25 YouTube with someone showing how it
+5:27 works on a PDF doc. Look at how
+5:29 beautiful this is. I'm going to mute it
+5:31 while
+5:32 >> all in my virtual environment. I've got
+5:33 a PDF here. Just doc PDF and I can run
+5:37 this in my terminal. I'm going to run
+5:39 mark it down doc PDF output md. That's
+5:43 it. It makes me a file automatically. We
+5:46 can open that file. And inside is sort
+5:49 of what we're hoping to expect here.
+5:50 Headings are clean. Tables actually look
+5:53 like tables.
+5:55 >> Just works. What do you think of this
+5:56 one?
+5:58 >> Right. The real win about this, other
+6:00 than it being from Microsoft, is it's
+6:02 very extensible. And so what I mean by
+6:05 that is that it's kind of like having
+6:06 one program that you can just throw any
+6:08 kind of like media or spreadsheet or
+6:11 word document or whatever and then get
+6:13 out what the agent wants from the end of
+6:15 it. the actual value isn't in doing that
+6:17 conversion because I mean you can take
+6:18 any LLM and it will convert an image
+6:20 into some text but this is so that you
+6:22 can just throw stuff at one thing and
+6:24 get stuff out. The only catch with it is
+6:27 that by default it uses um mostly Azure
+6:31 APIs for doing things like let's say
+6:32 you've got a scanned PDF it will use an
+6:35 Azure API to do the conversion. Um
+6:37 however because it is so extensible you
+6:39 can write your own plugins for it. So it
+6:41 would use whatever you want. So if
+6:44 you've got some magical way of
+6:45 converting, you know, an image into text
+6:47 or whatever, you can add your own
+6:48 plugins to this and build on top of it.
+6:50 It's kind of like a framework.
+6:51 >> Um, and I just like it from that
+6:53 perspective that it's not just one tool
+6:54 for one job. It's like one tool that you
+6:56 can just throw data in, get stuff out,
+6:58 but then extend it with your own
+7:00 building blocks.
+7:02 >> Peter, I freaking love the way that you
+7:03 explain these things. All right, let's
+7:04 go on to the next one. Oh, the next one
+7:06 is my sponsor. It's actually why I'm in
+7:08 a hotel room today. I'm here to meet
+7:09 with the founder of Zapier to talk about
+7:11 how we've been doing with them. And I'll
+7:13 tell you one of the things that excites
+7:14 me and why I think we've been doing
+7:15 really well. Peter, my problem is that I
+7:18 keep moving from like Claude to Codeex
+7:20 to this to that. And I want to bring all
+7:22 of my tools along with me. I don't use
+7:23 ASA, but I do use Gmail and I do use
+7:26 Google calendar and I give it access
+7:27 notion and so on. I want to be able to
+7:30 hand off all of these tools to whatever
+7:31 new thing comes out and know that I both
+7:34 give it the power that it needs, but
+7:36 also have the restrictions that I want
+7:37 to to give it. And that's the beauty of
+7:39 this. The thing that I love about Zapier
+7:41 is they've now become in addition to all
+7:43 the automations we know them for,
+7:44 they've become that trusted middle layer
+7:46 that lets me give permissions to my
+7:48 agents, but also restrictions. They
+7:50 cannot send email. They cannot delete
+7:52 all my files and so on. Fair.
+7:57 Fair. And actually, it kind of ties a
+7:59 bit into that last item that we did in
+8:00 that it's something that sits in the
+8:02 middle. Inputs, outputs. I mean, yeah,
+8:06 there's a common pattern actually with a
+8:07 lot of the projects we're covering. and
+8:09 a dependable company to do it. And not
+8:11 just for me, for people on my team when
+8:12 I want to protect them because they're
+8:13 not as deep in it as I am. All right.
+8:15 And because of Zapier, we're going to do
+8:16 a couple of honorable mentions here in
+8:18 the middle of the top 10. Number one
+8:19 honorable mention. I don't know why this
+8:21 does didn't make the list. This is
+8:23 PewDiePie. He created Odicius. It's a
+8:25 chat GPT alternative that runs on your
+8:27 computer. I think this is really
+8:30 creative. This is the guy who used to
+8:32 play video actually still I think does
+8:33 play video games on YouTube. Um, and
+8:35 here's his realization. and he said
+8:37 actually here let's have let's play him
+8:39 with his realization.
+8:42 >> It's crazy. The point is you realize the
+8:44 model that you can run at home are
+8:46 amazing. The problem is the way you
+8:48 interact with the model. Okay, because I
+8:50 at the time I was trying to self-host
+8:52 the UI for it to get the same experience
+8:55 as I was paying my subscriptions for.
+8:58 >> And I should say this is because he's
+8:59 got these these LLMs that he realized he
+9:02 doesn't have to pay for. He can put on
+9:03 his computer. he doesn't have to pass
+9:04 his data outside of his own little
+9:06 universe, but it's really bad uh user
+9:09 experience.
+9:09 >> And I realized all these things that
+9:11 sort of come together and make this an
+9:13 amazing experience was completely
+9:15 missing. Where's my memory? Where's my
+9:18 deep research? What about the agent?
+9:21 What about all these simple integrations
+9:23 like web hooks? I got I spent like two
+9:24 days trying to integrate that. So that's
+9:27 why I started to build my own. And I
+9:29 thought it was funny as a meme. I'm like
+9:31 look that could be out there. is
+9:33 pounding them.
+9:34 >> And then he did it and it's actually
+9:37 really good. Just unfortunately too
+9:39 techy. Let me show people just a quick
+9:41 uh video of what it looks like on the
+9:42 inside. Um
+9:44 >> and I'm going to send a message.
+9:46 >> Right. This looks a lot like the claw
+9:48 code experience. Check this out.
+9:49 >> Posting the request
+9:51 >> here. It's going to give me a response
+9:53 in a second.
+9:54 >> I should say this is like the claw chat.
+9:56 >> I can see things like amount of context
+9:58 that's used. I can regenerate from here.
+10:01 Rewrite shorter or explain simpler.
+10:03 Let's see how that works.
+10:05 >> Okay, so it's an in place. Um,
+10:08 >> I know this looks basic, but let me show
+10:10 you this
+10:11 >> conversation, which is nice.
+10:13 >> We can edit Oh, interesting. We can edit
+10:14 the AI's response.
+10:16 >> I like editing the AI response. I was
+10:18 talking to Eric Reese, who's got um an
+10:20 AI project that also asks that also
+10:23 enables you to edit the response, and he
+10:24 said it's because everything that is in
+10:26 a chat experience is context for the
+10:29 next response that you get. He goes, "If
+10:31 you just let it have BS in there, it
+10:33 then uses it to understand and so you
+10:35 want to edit." But that's a small
+10:37 feature that I liked. I will actually
+10:38 zoom in and show you on the left. It
+10:40 does way too much. It will do notes and
+10:43 tasks. It actually has um where is it?
+10:46 It will do gallery, which then lets you
+10:48 edit photos. It's just it's very geeky
+10:51 in the most beautiful way. It's perfect
+10:54 for our audience. I don't think it's
+10:55 ready for the average user. What do you
+10:57 think of this?
+10:59 It's an increasingly common thing to do.
+11:01 I mean, it's almost becoming like the
+11:02 the the build your own blog system of
+11:04 like this decade. It's like, oh, build
+11:06 your own agent, build your own harness,
+11:08 build your own thing. And it's good to
+11:10 see someone that is as opinionated as
+11:14 PewDiePie doing it. I mean, I wouldn't
+11:16 necessarily use it because I don't
+11:17 necessarily have the same, you know,
+11:19 values or approach that he does, but I
+11:21 can see why he's doing it. Um, and so
+11:23 it's very exciting to see because he's
+11:24 someone, you know, I think he's still
+11:25 one of the most uh subscribed channels
+11:27 on YouTube, hundreds of millions of
+11:29 subscribers. So, it's just fun to see
+11:31 what he does with that freedom and, you
+11:33 know, the wealth that he's got. Um, and
+11:34 the fact that he's messing around in
+11:36 what kind of we're doing is really fun.
+11:40 >> Yeah. And, you know, if you want to do
+11:41 if you do want privacy and lately I
+11:44 think about all the medical stuff I send
+11:45 into Claude, I get it. True. It's a good
+11:49 >> good tool. All right. Next, GBrain.
+11:51 Again, honorable mention heard on X. Uh,
+11:53 this is Gary Tan building a permanent
+11:56 memory for his AI agents. Then he gave
+11:58 it away. Uh, and he's been adding more
+12:01 and more features to it. I think this is
+12:03 from this week where he added voice, but
+12:05 I Oh, wait. Where is it? Where is it?
+12:07 Uh, here. Let me go right back here
+12:10 because I want people to see what it
+12:11 looks like on the inside. And I've done
+12:12 an interview with
+12:13 >> the folders tab here in AlphaClaw. I can
+12:16 show you my brain here. You can see that
+12:19 we've got companies, we've got we've got
+12:22 people, for example, founders. Adam Gild
+12:26 here created the world's first AI CMO
+12:29 for restaurants. See, so what he's got
+12:32 is a really well organized set of
+12:35 information on the people, the
+12:36 companies, etc. that he works with and
+12:38 and the timeline of what they did.
+12:40 That's what this is about. Making your
+12:42 agent smarter by giving it an organized
+12:44 database. Peter, thoughts?
+12:48 Um it's something that is very useful if
+12:50 you do have a lot of kind of disperate
+12:53 knowledge that you need to tie together
+12:54 in some way. So when it's someone like
+12:56 Gary Tan, so he's the president of Y
+12:59 Combinator for example, so he's working
+13:01 with hundreds of different founders all
+13:02 the time, needs to kind of keep track
+13:04 of, you know, who's who and who's
+13:05 working on what, that type of thing. Um
+13:07 I can see why a brain would be useful
+13:09 for me. I tend to be working on really
+13:10 like tiny tight projects where I kind of
+13:12 know what's going on. So it's not so
+13:13 useful for me. Um but this is an
+13:15 interesting project. um you know I think
+13:17 it is put together by AI um but it's had
+13:20 some really good decisions behind it. So
+13:22 it's using um Postgres as a database
+13:24 which you know a lot of people will like
+13:26 um and it's doing some interesting stuff
+13:27 like uh it's using embeddings um and
+13:30 BM25 ranking for looking stuff up. So
+13:34 the there is some quality behind it but
+13:36 I've not really poked into the middle of
+13:37 this brain. I've not done any brain
+13:39 surgery on it. Um but yeah, people seem
+13:41 to be quite excited about this. they
+13:43 are. If you if you're working with a lot
+13:45 of clients, if you're if you're talking
+13:46 to a lot of people and your agent needs
+13:49 to keep them all in order, this is a
+13:50 good way to do it. All right. Uh next,
+13:52 this one you asked me to add on. This is
+13:55 uh WebRite by Microsoft. What is it?
+13:59 Uh it's another project from Microsoft
+14:01 which I always like to see. Um it kind
+14:03 of builds upon their work with a project
+14:05 called Playright which is basically a
+14:08 library that um developers have used in
+14:12 the past and still still now um to do
+14:15 testing on web apps most commonly. But
+14:17 you could also use it for scraping the
+14:18 web and stuff like that. It's just like
+14:20 a remote control for a browser. The the
+14:23 problem they're trying to address here
+14:25 is that if you want to put an agent in
+14:26 control of a browser, you've got a few
+14:28 different ways you can do it. You can
+14:29 give it the access to the full screen
+14:31 view like some of these computer use
+14:33 things use now. But the problem with
+14:35 that is that while you get to see
+14:36 exactly what a user sees, you are
+14:38 looking at raw pixels and that's quite
+14:40 demanding um in terms of the amount of
+14:43 tokens going over the wire and the speed
+14:45 isn't that great and so on. Um whereas
+14:47 webbrite is much lower level um so that
+14:50 a agent can just see like the different
+14:54 elements on the page but a more
+14:55 technical lower level like um you would
+14:58 if you were programming something to
+15:00 remote control a browser behind the
+15:01 scenes. So their goal here is just to
+15:03 make the whole thing more efficient and
+15:04 significantly faster and more token
+15:06 efficient in particular. Um, it's very
+15:08 early days for this, but I'm excited to
+15:10 see where it goes just because again,
+15:11 it's from Microsoft and they've had a a
+15:14 lot of success in this area with
+15:15 Playright already. And this is I
+15:18 actually can see the web browser as it's
+15:19 using it like in this demo that I just
+15:21 showed.
+15:22 >> Yes. But the but the agent behind the
+15:24 scenes is seeing more like the tree of
+15:25 kind of what's on the page, right?
+15:27 >> So, it's not just it's not saying like
+15:28 look at these pixels and work out what's
+15:30 going on. It's more like look at the
+15:31 code and work out what's going on and
+15:33 then remote control it from there.
+15:35 >> Yeah. uh to create this document that
+15:36 I've been clicking through to show
+15:37 everything. Um, I had to go and find
+15:40 links and what I did was I asked Claude
+15:42 to go find the links and I could see it
+15:44 saying, "Okay, I'm taking a screenshot
+15:45 now. I'm understanding taking a
+15:46 screenshot. That's what you're talking
+15:47 about." It eliminates it. And then the
+15:49 final heard on X. This is really popular
+15:51 on uh on X but not popular enough to
+15:53 make it to the top 10 list. It's uh
+15:56 light parse. What is light parse? I like
+15:59 this one just because it's a common task
+16:01 that we all have. We all have PDFs full
+16:03 of all sorts of things or we receive
+16:05 them. and they're full of media kits and
+16:07 company data and all this type of stuff.
+16:09 Um, and we need to work with them and
+16:11 sometimes they have very weird formats
+16:13 and layouts to them. Um, so, you know,
+16:15 it'd be lovely if we could have
+16:16 everything in markdown, but sadly we
+16:18 can't. Um, so PDFs will often be in
+16:20 columns or they'll have different tables
+16:21 in them, things like that. This is
+16:23 something that, you know, without using
+16:26 AI can break down some of that stuff.
+16:29 Um, and we've had, you know, there's
+16:30 tools that can do OCR and stuff in the
+16:32 past. It's just nice to see something
+16:34 that brings together the OCR and, you
+16:36 know, being aware of layouts and how to
+16:38 process PDFs that we can run entirely
+16:40 locally without, you know, having to
+16:42 shove all of our PDFs up to, you know,
+16:44 Opus or Open AI or whatever
+16:47 >> and it's on on my desktop, doesn't need
+16:49 to have outside connection, and it just
+16:51 works. Yeah. Okay. Excellent. So, unlike
+16:56 the other one that we saw, which does
+16:57 need API, does need outside access, this
+17:00 is light, it's on my computer, works.
+17:02 Okay, let's go on to the next one.
+17:04 Compound Engineering plugin from EveryY.
+17:08 I like EveryY. This is a company that
+17:10 both makes software and writes content
+17:13 about how to make software with AI and
+17:15 how to use AI. I I like it. What is this
+17:18 though?
+17:20 >> Um, I mean, I like every as well. They
+17:21 do some great work and they have so many
+17:23 different weird random little projects
+17:25 and uh services out there. I think you
+17:27 said you said you used one for looking
+17:29 at your email and stuff like that. And
+17:30 the design that they have is amazing as
+17:32 well. This is largely a giant set of
+17:36 skills which tell you all kind of
+17:40 instruct claude and codecs and the way
+17:41 they've coded it is actually kind of
+17:42 cool because it actually plugs into
+17:44 almost any of the main sort of uh you
+17:47 know harnesses and
+17:50 it includes things like you know how to
+17:52 do good git commits. It includes things
+17:53 like even how to program Ruby on rails
+17:55 the DHH way. Um, and the thing I like
+17:58 about these types of repo isn't
+17:59 necessarily just to install them and
+18:01 just roll with it because I don't
+18:02 necessarily like other people's opinions
+18:05 to take over how my agents work, but I
+18:07 like to dig in and actually look at what
+18:08 the skills are and see is there anything
+18:10 in these skills that I can use. Um, and
+18:12 I provided you special access with the
+18:14 directory to show you what those skills
+18:16 are. And it covers all types of things.
+18:18 Um, you know, from front-end design
+18:19 skills to how to think about projects
+18:21 and stuff like that. I like to dig
+18:23 through these and see if there's any.
+18:24 >> Yes, this is where it is. It's under
+18:27 plugins, then compound engineering and
+18:29 skills. You showed me before we got
+18:30 started. And then in here, I can
+18:32 actually see the skill. And what you do
+18:34 is you look through and you say, okay,
+18:35 how are they thinking about this? How
+18:37 are they thinking about uh commit? How
+18:39 are they thinking about each one of
+18:40 these and debugging? And that's what you
+18:42 want out of it.
+18:43 >> Absolutely. Because I don't necessarily
+18:45 want to trust someone with a bunch of
+18:47 rules and then just have them put them
+18:48 into my system and I don't know what
+18:50 they are. I need to look at them anyway.
+18:52 So, I might as well learn from the
+18:53 skills rather than just blindly trust
+18:55 them. And that is actually quite
+18:56 relevant for one of our future items
+18:57 that we're going to cover. So, uh you
+18:59 know, you can't just blindly trust
+19:01 skills just jammed into your context
+19:02 from my perspective.
+19:04 >> And I've got a uh video here that I'll
+19:07 include in the in the report that
+19:09 everyone can get in the description
+19:10 where you can see one of the founders
+19:12 within the every uh community going
+19:15 through and explaining how this works,
+19:16 how he uses it, how they think about
+19:18 compound engineering. All right, I'll
+19:20 let you all watch this afterwards. On to
+19:22 the next one. Stop slop. This is again,
+19:25 last week it was on number it was top
+19:27 10. This week it's top 10. And what it
+19:29 does is it says, "Look, we all know when
+19:31 AI writing is AI writing. There are
+19:34 certain tells. Why don't we just tell
+19:36 the AI to stop using these tells?" I
+19:38 think a great example of it is right
+19:41 here. Actually, not this one, the live
+19:43 demo where they said, "Look, these are
+19:46 the things that we know." like starting
+19:48 off with here's the thing, just get rid
+19:50 of it. It turns out just get rid of it.
+19:52 And there's a few different things that
+19:54 it will eliminate. Would you use this
+19:56 for writing?
+19:58 No. Um, and this is the one. No, this is
+20:01 this is the one that I was foreshadowing
+20:02 actually when I said about don't trust
+20:04 skills straight out of the box. You need
+20:06 to write your own one of these. And the
+20:07 problem with stop slop in particular is
+20:09 there's almost nothing there. Like if
+20:10 you look through the the documents, it's
+20:12 absolutely tiny. It it's just a bunch.
+20:14 It's just like a bunch of small rules.
+20:16 And some of them are very bad. Um, so
+20:19 for example, there's one rule in it that
+20:21 says if any sentence starts with a
+20:24 question that starts with wh, rewrite
+20:26 it. So you can't start a sentence with
+20:28 what or where.
+20:29 >> Um, it says any adverbs, kill them.
+20:32 Well, adverbs
+20:33 >> can be bad, but I wouldn't necessarily
+20:35 say just get rid of every single adverb.
+20:37 >> So I would look at this skill um and
+20:41 say, "Yeah, I want to take this. I want
+20:43 to take that." But I wouldn't just use
+20:44 it blindly because it could just
+20:47 completely neuter, you know, your voice
+20:49 and your writing anyway. I mean, I know
+20:50 this is to process AI writing, but you
+20:54 know, do you want to take everything out
+20:55 of it?
+20:57 >> Yeah.
+20:59 >> Uh, it's okay. I'm in a hotel and uh I
+21:03 guess checkout is a 10 because they just
+21:05 came in to clean up in here. I didn't
+21:07 know. I'll talk to them later.
+21:08 >> I thought you were getting a nice steak
+21:09 delivered.
+21:10 >> Where did you Where did you even see
+21:12 that? the wh pirate. Uh, if you go into
+21:15 skill.m I think it was no actually
+21:18 skilled MD just replies just responds to
+21:20 the other skill files. Um, I don't know
+21:23 where it was. I just wrote down notes
+21:24 when I was reviewing it,
+21:26 >> but it's in one of those markdown files.
+21:28 But yeah, it was just like get rid of
+21:29 this and get rid of that.
+21:30 >> Um, there are other ways that you can
+21:32 look into this, just to let you know.
+21:34 So, anyone that's watching this, if you
+21:36 Google for Wikipedia signs of AI
+21:38 writing, there's another really good
+21:40 document that Wikipedia has put
+21:41 together, um, which also has tons of
+21:44 telltale signs, which you might also
+21:46 want to turn into your own skill file.
+21:48 >> I see. So, you're saying create your own
+21:51 skill file. Don't just use theirs and
+21:53 you can you can use theirs as reference,
+21:55 but not right out of the box.
+21:57 >> Huh.
+21:58 >> Yes. And of course, models keep
+21:59 changing. So, you know, you might be
+22:01 using a model tomorrow. You might be
+22:02 using Opus 4.9 or GPT6 or whatever it is
+22:05 and it might have these different tails.
+22:07 Well, that old document isn't going to
+22:09 work. So, you need to keep on top of it
+22:10 for yourself.
+22:12 >> Okay. All right. I like that warning.
+22:15 Next is super memory. Um, every new chat
+22:18 with Claude or Chat GBT is like meeting
+22:20 a brilliant employee with total amnesia.
+22:22 You're reexlaining everything every
+22:23 time. This gives your AI a long-term
+22:25 memory. Follows you across every tool.
+22:28 Um,
+22:30 what do you think of this? Listen, I've
+22:31 got someone here, uh, Ben Sigman, who
+22:33 actually evaluated this, compared it to
+22:35 others. What do you think of this before
+22:36 we go into his evaluation?
+22:39 I have not tried this, but it does take
+22:40 us back to the GBrain item somewhat in
+22:43 terms of how it works.
+22:45 >> Um, the big thing that Super Memor is
+22:46 doing, which is a bit different, is that
+22:48 they're running it as a commercial
+22:49 service. So, it's a lot easier for
+22:51 people in companies or whatever just to
+22:52 plug in and use it, but you can also use
+22:54 it in the open source form uh for free,
+22:57 too, which is nice. So, I like the way
+22:58 they've structured it from that that
+23:00 perspective. Um, but again, in terms of
+23:02 actually using it, it's not the sort of
+23:04 thing I necessarily would use just
+23:05 because I have my memory structured
+23:07 already in a in a different way.
+23:08 >> How do you memory?
+23:10 >> How do you avoid the total amnesia and
+23:13 or just like one time it knows it, the
+23:15 next time it doesn't.
+23:17 >> I like to start my sessions with the
+23:19 amnesia because I like to point it to
+23:22 things that we've done before as we go.
+23:24 I don't like to just say just here have
+23:26 access to everything. and just go at it.
+23:28 I like to be selective about what I give
+23:30 it because I don't like it when So like
+23:32 even something like Claude or ChatgBT, I
+23:35 don't like it when I ask a question and
+23:37 it uses my prior memories as like, oh,
+23:40 why are you asking that question?
+23:41 Because previously you did X, Y, and Z.
+23:43 And it's like, no, I'm asking this
+23:44 independently of what I previously
+23:46 discussed with you. Um, so I don't want
+23:48 that in my coding either.
+23:51 >> All right, fair point. I've got a video
+23:53 here explaining how it works. I like
+23:55 your feedback on it. Let's go on to the
+23:56 next one. Um, ECC.
+23:59 This is a builder who spent 10 plus
+24:01 months living in AI coding tools,
+24:02 packaged everything he learned into 63
+24:04 specialized agents, 249 skills into one
+24:08 free install. It's the closest thing to
+24:09 an operating system for your AI coding
+24:11 assistant. It's got Does it really have
+24:14 205 stars? And it's one of the biggest
+24:16 repos on GitHub. Does it? Does it?
+24:19 >> It Yeah, it's even more.
+24:23 >> Yeah. and 31,000 forks and still you
+24:26 have a controversial point of view on
+24:28 this. What is that?
+24:30 >> Well, so did you actually I'm sorry.
+24:32 First explain explain it in your words.
+24:34 What is this and then what's your what's
+24:35 your thought on it?
+24:37 >> It's a giant pile of stuff.
+24:39 >> Um yeah, I'm not going to use any
+24:41 offensive terminology. This is clearly,
+24:42 you know, someone has spent a lot of
+24:44 time on this and put something together.
+24:45 Problem is it's just too much. It's
+24:48 like, you know, wheeling in a Boeing 747
+24:50 or something just to, you know, cross
+24:52 the street.
+24:54 Do you do you trust it? Are you going to
+24:55 read for all of it? Now, clearly there's
+24:57 enough people that are lazy enough that
+24:59 they're just going to go, "Oh, great.
+25:00 Loads of stuff. Download, click, star,
+25:03 and everything." But the fact is, I have
+25:05 no idea what any of this is doing or
+25:07 what it's been directed to do. So, why
+25:09 am I just going to trust it out of the
+25:11 gate? Now, the thing about the the one
+25:12 that every did earlier is that at least
+25:14 with every you can trust them. They
+25:16 they're you know who they are. They have
+25:18 a established background and they are
+25:20 experts in using this stuff. But how am
+25:22 I going to trust this to know how to
+25:23 review Go code or Java code or Python
+25:25 code without going through it? And then
+25:27 by the time I've gone through it, I
+25:28 might as well have made my own. So, I
+25:30 don't see the appeal of these types of
+25:32 things. It's too much all at once. I
+25:35 don't either. I could see him wanting to
+25:37 share and other people maybe wanting to
+25:39 learn, but it's just a lot a lot of
+25:41 information in here. A lot of different
+25:42 tools. I've got a video of somebody here
+25:44 actually using it. I'm gonna I won't
+25:47 even play the whole thing, but I'll give
+25:48 people just a taste of Actually, I don't
+25:51 even think it's worth even the taste of
+25:53 it. You'll have the video so you can
+25:54 watch it on your own. Basically, what he
+25:55 said was he said, "I want to add a uh
+25:58 calendar link to my site where people
+26:00 can book meetings with me." He I don't
+26:02 know why he needed the skill in order to
+26:03 do it, but he used the everything Claude
+26:06 code plan. He planned it and he got the
+26:10 Calendarly integration in there.
+26:12 Again, there
+26:13 >> I think these things are great. I think
+26:15 these things are great for the people
+26:17 that made them because they made them
+26:18 the way they want them to make them and
+26:20 they use like their their own like
+26:23 you're if I took my approach and put it
+26:25 into a set of skills then it works great
+26:26 for me doesn't necessarily work well for
+26:28 someone else. So you really need to
+26:29 review these carefully before you go
+26:31 whole hog on it. There's a candy. Yeah,
+26:34 I agree. Okay, next. Um, and I I do
+26:39 think also it's nice to look over
+26:40 somebody's shoulder and see how they do
+26:41 things, see how they structure things.
+26:43 >> Absolutely.
+26:44 >> But like you said, just using it right
+26:46 out of the box. No,
+26:47 >> I like this whole style here. Here's the
+26:50 problem that Taste Skill addresses.
+26:52 >> We now see every time somebody gives us
+26:54 a document that they think looks
+26:56 beautiful, we see that it looks just
+26:57 like Claude because they're using the
+26:59 anthropic design. It drives me freaking
+27:01 crazy. Honestly, I'll be honest with
+27:03 you, Peter. these like web pages that
+27:05 you're all looking at right now. These
+27:06 all looked exactly like Claude. What I
+27:08 did was I couldn't stand looking at them
+27:10 after the first time. I then made some
+27:12 adjustments myself and then I saw a repo
+27:14 in one of our past sessions which said
+27:16 you can take designs from all these
+27:18 other companies and use them. So I did
+27:20 this is from Intercom, the the uh the
+27:23 software company. I use their design and
+27:25 then I changed the colors to make it
+27:26 feel like mine and it worked and it made
+27:28 it feel a little bit better for me. I'll
+27:30 probably keep tweaking it. And what I
+27:32 like about this is that it's doing the
+27:33 same thing. It's saying, "Use this to
+27:36 change your designs. We've got a few.
+27:38 We've got a here this is a video of a
+27:41 creator who tried it and he's going to
+27:42 show what the designs look like and it's
+27:45 of course on the GitHub repo also. What
+27:47 do you Here it is. Look, this definitely
+27:48 doesn't look like anthropics design
+27:50 taste."
+27:50 >> No.
+27:51 >> What do you think of this?
+27:54 This is an area where I'm a little bit
+27:56 more inclined to go along with, you
+27:58 know, having a bunch of different skill
+28:00 files brought into a project.
+28:01 >> And the reason for that is that because
+28:03 it's about taste rather than how to do
+28:06 things.
+28:07 >> And so I don't mind other people's
+28:09 opinions necessarily being brought into
+28:11 design
+28:12 if you like the output because the thing
+28:14 is like if you don't like what it
+28:16 produces, you can say, "Oh, screw that."
+28:17 And then let's go with a different
+28:18 approach. Um, and so this this project
+28:21 does build upon previous kind of steps
+28:24 forward in this area like impeccable.
+28:26 Which I saw actually in the screenshot
+28:28 for that video. Um, is another thing.
+28:30 But the thing is once you design with
+28:32 these skill files, often you will then
+28:35 start to see the same like tropes coming
+28:38 out over and over and over. So again,
+28:39 this is a situation where I think it's
+28:41 good to see what other designers taste
+28:43 is, but then build on it for yourself.
+28:45 Build your own things like this. Um, and
+28:48 you know, the models now are actually so
+28:49 smart, you can even do cool things like
+28:51 if you see a photo that you like. So,
+28:53 for example, I took a photo the other
+28:54 day of the back rooms, you know, that's
+28:56 big at the cinema at the moment.
+28:58 >> Um, and I said, "Design a web page that
+28:59 looks like the back rooms." And threw it
+29:01 into Opus and it did it. And it's like,
+29:03 "Oh, actually, this is kind of cool."
+29:04 Like, it's got the color scheme and, you
+29:06 know, all this type of you can do that
+29:07 now. So, you can just find an aesthetic
+29:09 that you like, throw it at a model, and
+29:11 just do it. You don't necessarily have
+29:12 to say, "Design this whole thing from
+29:14 scratch for me." you can give it
+29:16 inspiration. But if you want to mix in
+29:18 things that, you know, give you like
+29:20 skills like this that give ideas on
+29:22 typography and fonts and stuff like
+29:23 that, blend it in, give it a try, see
+29:25 how it goes. Um, you know, I think these
+29:27 things are kind of cool.
+29:29 >> I do too. I like them for just seeing a
+29:31 different take on what I'm already
+29:33 doing. All right.
+29:33 >> Yeah. Next. Understand anything. Here's
+29:37 the deal. Maybe you created something a
+29:38 few months ago and you forgot what you
+29:40 got there. Or maybe you started at a new
+29:41 project and you're looking at something
+29:43 for the very first time. You've got
+29:44 hundreds of thousands of lines of code.
+29:46 You don't know what anything does, what
+29:47 anything does, what it means. What this
+29:49 will help you is understand it by
+29:51 turning it into a visual that lets you
+29:53 see what's what. That's what understand
+29:56 anything is. What do you think of this?
+29:59 I've not used this one, but it does plug
+30:01 into an idea that I've had for a while
+30:04 now, which is that try and avoid using
+30:07 LLMs for writing too much and focus on
+30:09 using LLM for reading things because
+30:12 they are much better at that job. So, I
+30:15 would be much more likely to take a
+30:16 bunch of skills or, you know, plugins
+30:18 like this and have it process something
+30:20 that already exists because it can
+30:22 extract insights uh from things perhaps
+30:25 better than it could recreate that
+30:26 thing. Um, so yeah, I have absolutely no
+30:29 problem with projects like this. And
+30:30 there is a lot to reading large code
+30:32 projects that you can't just go to, you
+30:35 know, codeex or claude and say, I'll
+30:37 read this project and tell me x, y, and
+30:38 z. Sometimes there is a lot of analysis
+30:41 to be done um, on top of it. And if
+30:43 these skills give it the extra power to
+30:47 get over those hurdles, then it could
+30:49 make the analysis even better. So yeah,
+30:51 but again, I've not used this one, so I
+30:53 don't know how well it does, but a lot
+30:55 of people seem to like it. There's a
+30:57 little bit of controversy here on hacker
+30:59 news. What what could people be upset
+31:01 about with this?
+31:03 >> Uh was there a thing about uh yes,
+31:05 someone was saying that the stars might
+31:07 not be um entirely legit, which is a
+31:10 common problem on GitHub. You know,
+31:12 there's this whole thing about that you
+31:13 can pay uh to get your repo starred.
+31:17 >> And you know, the reason for that is
+31:18 that it's the modern version of Kudos.
+31:21 you know, it's if your repo has 10,000
+31:24 stars on it, then it must be better than
+31:26 one with 100. It's not necessarily true,
+31:28 but it is a h, you know, it's a hurdle
+31:30 to overcome. Um, I don't know anything
+31:32 about this project and whether it's done
+31:33 that, but that is something that I think
+31:34 people in that hacker news thread were
+31:36 >> thinking might get.
+31:38 >> I think we need a better solution for
+31:40 this. We need something like what do
+31:42 people who I care about think of this or
+31:44 how many of the people who are creating
+31:47 gave it star? I don't know. Something
+31:48 dig is is messing with this a little
+31:50 bit. diigg.com.
+31:52 Um, I don't think anyone's nailed it yet
+31:54 and it's bothering me and it's hurting
+31:55 the whole ecosystem. This one you love.
+31:58 You actually told me and this
+32:00 >> Yeah. Vox CPM. What is it?
+32:05 >> Okay. So, we've had a load of
+32:07 texttospech things over the years all
+32:09 the way from the 80s where we had like,
+32:10 you know, robot kind of voices um
+32:12 through to the sort of systems that
+32:14 Stephen Hawkins used. Um, but then in
+32:16 the last five to 10 years, you know, AI
+32:18 has really turned that dial up from like
+32:20 a two out of 10 quality to sort of eight
+32:22 out of 10. Um, and this is actually
+32:24 pretty good. Um, you know, at first it I
+32:27 was saying 11 Labs quality, like that's
+32:30 what they're claiming.
+32:31 >> Um, I would say it's not quite there,
+32:33 but it's like 95% of the way to that.
+32:36 Um, and it was so good actually, I could
+32:38 run it on my own Mac. like it
+32:40 downloaded, compiled, downloaded the
+32:41 model, and I was up and producing audio
+32:44 with this, you know, within 10 minutes.
+32:46 And the output's not bad. And the good
+32:48 thing is you can sculpt it as well. So
+32:50 you can say, I want a voice that sounds
+32:51 like
+32:52 >> X, Y, or Z. And it will do that.
+32:55 >> I'll do it right here. Uh, old man with
+32:57 raspy voice. And then I could have him
+33:02 say, get off my lawn. And this is not
+33:05 working right now on uh on hugging face.
+33:09 Uh, but you get a sense of how it is.
+33:11 >> You can also upload your own uh voice as
+33:14 a reference and allow it to take off
+33:16 from your voice. I've got a video here
+33:18 to show how it works. Um, it's it's been
+33:22 amazing. I don't know how 11 Labs is
+33:23 going to compete when all this stuff is
+33:25 so is so free. It's becoming so
+33:27 accessible. People are are able to use
+33:30 it, like you said, on their own
+33:31 computers. Super easy. What do you
+33:33 think? I don't know where 11 Labs is
+33:34 going to go with this. And so well the
+33:37 one thing that 11 Labs has going for it
+33:39 is that they've really focused on having
+33:42 um professional voice actors actually
+33:44 supply their voices with permission with
+33:46 licensing. So that's the win there is
+33:49 that companies that want to have voices
+33:52 that every single legal thing is ticked
+33:54 and crossed can go to 11 Labs and they
+33:56 provide that kind of compliance side of
+33:58 it. Um, it's not necessarily just about
+34:00 producing speech. It's about producing a
+34:02 paper trail, which you know, actually I
+34:05 realiz I just sounded like Claude then
+34:06 the way that I explained that. Um, but
+34:08 that is basically what it is.
+34:10 >> Yeah, exactly. Um, so the thing is, you
+34:12 know, if you produce audio with this, it
+34:14 could be cloned from anyone's voice and
+34:16 you know,
+34:16 >> right,
+34:17 >> how do you know what your system's doing
+34:18 in the background? You know, it may have
+34:19 downloaded a video of, you know, some
+34:21 famous politician and just cloned a
+34:22 voice for you without knowing it. So
+34:24 >> yeah, 11 Labs isn't going to let you do
+34:26 that. Here, let's hit play on this
+34:28 video, which of course we'll have in the
+34:29 report for everyone who wants it.
+34:32 >> Vox CPM is an innovative end to Eb
+34:35 Beyond the Ancient Oaks and the Misty
+34:37 Trail. A secret remains.
+34:40 >> I'm convinced that Dan from Smart
+34:42 Tutorials on this video is actually just
+34:44 a voice using Vox CPM. Listen to this.
+34:47 Like look at this. I actually think that
+34:48 he that this is
+34:49 >> tutorials. Today we are diving into Vox
+34:52 CPM.
+34:52 >> I don't know. I don't know. I'll let
+34:54 people decide for themselves. All right,
+34:57 that is number 10. We've got the full
+34:59 report in the description so you can
+35:00 play with this, listen to it, try it
+35:02 yourself. And Peter, where do people see
+35:04 you? You can find me on Twitter. Oh,
+35:07 that's not Twitter now anymore. It's X,
+35:08 isn't it? Cooperx86. Um, or pc.org on
+35:11 the web.
+35:12 >> And of course, we'll have a link below.
+35:13 And now that you've listened to this,
+35:14 we've got 10 other repos that were super
+35:16 hot last week, plus three special ones
+35:18 that you've got to see. There's a link
+35:20 right here on the screen. Click it and
+35:21 we'll see you over

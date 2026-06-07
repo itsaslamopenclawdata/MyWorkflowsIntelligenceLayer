@@ -1,0 +1,11 @@
+# Transcript unavailable
+
+# Video: How To Build LLM Wiki In Obsidian? 🧠 A Memory Layer For Any Agentic AI
+# Channel: Wanderloots
+# Date: 2026-05-17
+# URL: https://www.youtube.com/watch?v=QbjAQFJJyt0
+# Duration: 34:08
+
+Transcript was not available at fetch time. Description-only notes were generated.
+To regenerate, run the backfill with a fresh transcript fetch:
+  python3 backfill.py --channel-id UCFiU1vIpPD3lQltke_18m3A --backfill 10

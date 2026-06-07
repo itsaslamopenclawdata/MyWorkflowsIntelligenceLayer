@@ -2,12 +2,19 @@
 
 Auto-regenerated. One line per video, newest first. Sorted by published date, descending.
 
-**Last updated:** 2026-06-06 21:37 UTC
-**Total videos:** 29 across 3 channels
+**Last updated:** 2026-06-07 07:22 UTC
+**Total videos:** 41 across 9 channels
 
 | Date | Channel | Title | Duration | Video ID | Note |
 |------|---------|-------|----------|----------|------|
+| 2026-06-07 | Eddy | Your First 100 Days as an AI Lead | 24:52 | [0QN5yHmdP3k](https://www.youtube.com/watch?v=0QN5yHmdP3k) | [note](channels/eddy/videos/2026-06-07_your-first-100-days-as-an-ai-lead.md) |
+| 2026-06-06 | AI Dot Engineer | Building Interactive UIs in VS Code with MCP Apps — Marlene Mhangami & Liam Hampton, GitHub | 16:06 | [_xIwFcnHqp4](https://www.youtube.com/watch?v=_xIwFcnHqp4) | [note](channels/ai-dot-engineer/videos/2026-06-06_building-interactive-uis-vscode-mcp-apps.md) |
+| 2026-06-06 | AI Dot Engineer | Evals Are Broken, Use Them Anyway — Ara Khan, Cline | 19:04 | [QuuIywMG4s8](https://www.youtube.com/watch?v=QuuIywMG4s8) | [note](channels/ai-dot-engineer/videos/2026-06-06_evals-are-broken-use-them-anyway.md) |
+| 2026-06-06 | Eddy | Why AI Development Needs Agile Rigor and Not Just Better Prompts | 18:03 | [ZgJB1UoGY34](https://www.youtube.com/watch?v=ZgJB1UoGY34) | [note](channels/eddy/videos/2026-06-06_ai-development-needs-agile-rigor.md) |
 | 2026-06-06 | Greg Isenberg | Hermes Agent Desktop: Full Setup + Real Use Cases | 43:48 | [EJm8Ka-gVOc](https://www.youtube.com/watch?v=EJm8Ka-gVOc) | [note](channels/greg-isenberg/videos/2026-06-06_hermes-agent-desktop-full-setup-use-cases.md) |
+| 2026-06-05 | The Next New Thing AI | Your AI Agent Is Missing 8,000+ Tools — Fix It Now | 1:05 | [yG5VXDsCBWE](https://www.youtube.com/watch?v=yG5VXDsCBWE) | [note](channels/the-next-new-thing-ai/videos/2026-06-05_your-ai-agent-missing-8000-tools.md) |
+| 2026-06-05 | The Next New Thing AI | Cut LLM cost by 95%, Replace ElevenLabs, and 10 Top GitHub Repos | 35:23 | [n8rP6Ceskm4](https://www.youtube.com/watch?v=n8rP6Ceskm4) | [note](channels/the-next-new-thing-ai/videos/2026-06-05_10-top-ai-github-repos-weekly.md) |
+| 2026-06-05 | Vendasta | If You're Struggling to Land Your First AI Agent Client, COPY My Proposal | 7:35 | [pdNQ8Kotz3s](https://www.youtube.com/watch?v=pdNQ8Kotz3s) | [note](channels/vendasta/videos/2026-06-05_copy-my-proposal-three-baskets-framework.md) |
 | 2026-06-04 | Greg Isenberg | OpenAI Codex: Build Apps That Work For You 24/7 | 24:43 | [tUeSxXHmE9w](https://www.youtube.com/watch?v=tUeSxXHmE9w) | [note](channels/greg-isenberg/videos/2026-06-04_openai-codex-build-apps-that-work-for-you.md) |
 | 2026-06-04 | Hyperautomation Labs | I Analyzed All 1,884 Y Combinator AI Startups — What Gets Funded (and What Dies) | 10:17 | [d33bg3fiCmM](https://www.youtube.com/watch?v=d33bg3fiCmM) | [note](channels/hyperautomation-labs/videos/2026-06-04_i-analyzed-all-1884-y-combinator-ai-startups.md) |
 | 2026-06-04 | Hyperautomation Labs | Gemma 4 12B: Google's Multimodal AI That Runs On Your Laptop | 0:50 | [TTpJVBLTglo](https://www.youtube.com/watch?v=TTpJVBLTglo) | [note](channels/hyperautomation-labs/videos/2026-06-04_gemma-4-12b-google-multimodal-local-laptop.md) |
@@ -19,8 +26,12 @@ Auto-regenerated. One line per video, newest first. Sorted by published date, de
 | 2026-06-03 | Hyperautomation Labs | If You Sell Your Time, AI Just Came For Your Whole Industry | 14:06 | [XQ_sxFvAVao](https://www.youtube.com/watch?v=XQ_sxFvAVao) | [note](channels/hyperautomation-labs/videos/2026-06-03_yc-ai-native-services-firm-playbook.md) |
 | 2026-06-03 | Hyperautomation Labs | The $50K/Month 'AI Employee' Business — The Honest Blueprint (+ 3 Things That Break It) | 11:35 | [VPz8JhlkQiE](https://www.youtube.com/watch?v=VPz8JhlkQiE) | [note](channels/hyperautomation-labs/videos/2026-06-03_50k-month-ai-employee-b2b-business-blueprint.md) |
 | 2026-06-03 | Hyperautomation Labs | Anthropic Just Ended the 'Free Lunch' for AI Agents — Here's What Changes June 15 | 2:43 | [z42GiFXskRw](https://www.youtube.com/watch?v=z42GiFXskRw) | [note](channels/hyperautomation-labs/videos/2026-06-03_anthropic-jun-15-billing-change-agents.md) |
+| 2026-06-03 | Sharbel | The Hermes Desktop App Changes Everything (Full Setup) | 13:48 | [2pIihd3dpoA](https://www.youtube.com/watch?v=2pIihd3dpoA) | [note](channels/sharbel/videos/2026-06-03_hermes-desktop-app-changes-everything-full-setup.md) |
+| 2026-06-03 | Vendasta | This Unique Niche Scoring Framework Prints AI Agency Millionaires | 18:00 | [IXnSBkiq_5w](https://www.youtube.com/watch?v=IXnSBkiq_5w) | [note](channels/vendasta/videos/2026-06-03_7-point-niche-scoring-framework.md) |
 | 2026-06-02 | Greg Isenberg | The Next $100B Market: Selling to AI Agents | 14:00 | [MlptIfpoLlw](https://www.youtube.com/watch?v=MlptIfpoLlw) | [note](channels/greg-isenberg/videos/2026-06-02_next-100b-market-selling-to-ai-agents.md) |
 | 2026-06-02 | Hyperautomation Labs | I Deleted Claude for 7 Days. Here's What Actually Happened | 9:47 | [AzPId-GU6ss](https://www.youtube.com/watch?v=AzPId-GU6ss) | [note](channels/hyperautomation-labs/videos/2026-06-02_7-day-claude-detox-activation-energy.md) |
+| 2026-06-01 | Sharbel | These Hermes Agent Hacks Will Save You Hours | 19:17 | [FpIvl6b4tRo](https://www.youtube.com/watch?v=FpIvl6b4tRo) | [note](channels/sharbel/videos/2026-06-01_hermes-agent-hacks-save-you-hours.md) |
+| 2026-05-31 | Wanderloots | Obsidian Smart Plugin Workflow — New Smart Connections + Context AI | 25:41 | [_i3577ti8jg](https://www.youtube.com/watch?v=_i3577ti8jg) | [note](channels/wanderloots/videos/2026-05-31_obsidian-smart-plugin-workflow.md) |
 | 2026-05-29 | Greg Isenberg | How to Use Obsidian with Claude in 61 Seconds | 1:01 | [2VSmDS3ALnw](https://www.youtube.com/watch?v=2VSmDS3ALnw) | [note](channels/greg-isenberg/videos/2026-05-29_obsidian-claude-61-seconds.md) |
 | 2026-05-29 | The Solo Entrepreneur | 5 Apps Making $10K/Month You Can Build Using AI | 17:33 | [zl_HZYtnJsI](https://www.youtube.com/watch?v=zl_HZYtnJsI) | [note](channels/the-solo-entrepreneur/videos/2026-05-29_5-apps-making-10k-month-ai-no-code.md) |
 | 2026-05-27 | Greg Isenberg | Been Playing with This Cool AI Tool from Genspark | 0:54 | [srIaywtgV40](https://www.youtube.com/watch?v=srIaywtgV40) | [note](channels/greg-isenberg/videos/2026-05-27_genspark-claw-outcome-as-a-service.md) |
@@ -30,6 +41,7 @@ Auto-regenerated. One line per video, newest first. Sorted by published date, de
 | 2026-05-20 | The Solo Entrepreneur | Give Me 15 Minutes — You'll Be Building AI Chatbots for Clients! | 15:48 | [u__YufPP0cY](https://www.youtube.com/watch?v=u__YufPP0cY) | [note](channels/the-solo-entrepreneur/videos/2026-05-20_15-min-ai-chatbot-agency-for-clients.md) |
 | 2026-05-18 | Greg Isenberg | 9 Biggest Startup Ideas Right Now (AI, B2C, Mobile, IRL) | 1:08:13 | [IFLY6L3YPGo](https://www.youtube.com/watch?v=IFLY6L3YPGo) | [note](channels/greg-isenberg/videos/2026-05-18_9-biggest-startup-ideas-ai-b2c-mobile-irl.md) |
 | 2026-05-17 | The Solo Entrepreneur | I Made ₹50,000/Month Selling PDFs Online — Just Copy This! | 35:50 | [iVUnA03yrec](https://www.youtube.com/watch?v=iVUnA03yrec) | [note](channels/the-solo-entrepreneur/videos/2026-05-17_pdf-business-50k-month-claude-gumroad.md) |
+| 2026-05-17 | Wanderloots | How to Build LLM Wiki in Obsidian — A Memory Layer for Any Agentic AI | 34:08 | [QbjAQFJJyt0](https://www.youtube.com/watch?v=QbjAQFJJyt0) | [note](channels/wanderloots/videos/2026-05-17_how-to-build-llm-wiki-in-obsidian.md) |
 | 2026-05-15 | The Solo Entrepreneur | This NEW AI Tool Replaces Your Entire Content Team! (Glif AI) | 11:37 | [wjASch99W5U](https://www.youtube.com/watch?v=wjASch99W5U) | [note](channels/the-solo-entrepreneur/videos/2026-05-15_glif-ai-replaces-content-team.md) |
 | 2026-05-13 | Greg Isenberg | Easily Build Agentic Workflows with Hyperagent | 0:55 | [dLS-6jn9xxc](https://www.youtube.com/watch?v=dLS-6jn9xxc) | [note](channels/greg-isenberg/videos/2026-05-13_easily-build-agentic-workflows-hyperagent.md) |
 | 2026-05-12 | Greg Isenberg | The $1M+ Solo AI Agent Business (Full Course) | 47:55 | [BI-MNjm1tTQ](https://www.youtube.com/watch?v=BI-MNjm1tTQ) | [note](channels/greg-isenberg/videos/2026-05-12_1m-solo-ai-agent-business-full-course.md) |

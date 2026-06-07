@@ -1,0 +1,11 @@
+# Transcript unavailable
+
+# Video: The Hermes Desktop App Changes Everything (Full Setup)
+# Channel: Sharbel A.
+# Date: 2026-06-03
+# URL: https://www.youtube.com/watch?v=2pIihd3dpoA
+# Duration: 13:48
+
+Transcript was not available at fetch time. Description-only notes were generated.
+To regenerate, run the backfill with a fresh transcript fetch:
+  python3 backfill.py --channel-id UCxLzvFAUbpdNUIh0hGsEH0w --backfill 10

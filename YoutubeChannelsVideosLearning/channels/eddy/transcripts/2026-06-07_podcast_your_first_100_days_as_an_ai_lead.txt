@@ -1,0 +1,11 @@
+# Transcript unavailable
+
+# Video: (Podcast) Your First 100 Days as an AI Lead
+# Channel: Eddy Says Hi #EddySaysHi
+# Date: 2026-06-07
+# URL: https://www.youtube.com/watch?v=0QN5yHmdP3k
+# Duration: 24:52
+
+Transcript was not available at fetch time. Description-only notes were generated.
+To regenerate, run the backfill with a fresh transcript fetch:
+  python3 backfill.py --channel-id UC860VdxDA2EKFW9ezm36MAw --backfill 10

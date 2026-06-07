@@ -1,0 +1,11 @@
+# Transcript unavailable
+
+# Video: Evals Are Broken, Use Them Anyway — Ara Khan, Cline
+# Channel: AI Engineer
+# Date: 2026-06-06
+# URL: https://www.youtube.com/watch?v=QuuIywMG4s8
+# Duration: 19:04
+
+Transcript was not available at fetch time. Description-only notes were generated.
+To regenerate, run the backfill with a fresh transcript fetch:
+  python3 backfill.py --channel-id UCLKPca3kwwd-B59HNr-_lvA --backfill 10

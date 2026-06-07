@@ -1,0 +1,11 @@
+# Transcript unavailable
+
+# Video: Obsidian Smart Plugin Workflow 📝 New Smart Connections + Context AI
+# Channel: Wanderloots
+# Date: 2026-05-31
+# URL: https://www.youtube.com/watch?v=_i3577ti8jg
+# Duration: 25:41
+
+Transcript was not available at fetch time. Description-only notes were generated.
+To regenerate, run the backfill with a fresh transcript fetch:
+  python3 backfill.py --channel-id UCFiU1vIpPD3lQltke_18m3A --backfill 10

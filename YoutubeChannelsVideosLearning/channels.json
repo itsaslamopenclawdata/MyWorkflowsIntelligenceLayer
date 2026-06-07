@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "last_updated": "2026-06-06",
+  "last_updated": "2026-06-07",
   "channels": [
     {
       "name": "Hyperautomation Labs",
@@ -60,8 +60,8 @@
       "category": "tbd",
       "priority": "medium",
       "added_on": "2026-06-06",
-      "last_seen_video_id": null,
-      "last_seen_published": null,
+      "last_seen_video_id": "0QN5yHmdP3k",
+      "last_seen_published": "2026-06-07",
       "min_duration_seconds": 0,
       "skip_rule": null,
       "enabled": true
@@ -76,8 +76,8 @@
       "category": "tbd",
       "priority": "medium",
       "added_on": "2026-06-06",
-      "last_seen_video_id": null,
-      "last_seen_published": null,
+      "last_seen_video_id": "pdNQ8Kotz3s",
+      "last_seen_published": "2026-06-05",
       "min_duration_seconds": 0,
       "skip_rule": null,
       "enabled": true
@@ -92,8 +92,8 @@
       "category": "ai",
       "priority": "medium",
       "added_on": "2026-06-06",
-      "last_seen_video_id": null,
-      "last_seen_published": null,
+      "last_seen_video_id": "yG5VXDsCBWE",
+      "last_seen_published": "2026-06-05",
       "min_duration_seconds": 0,
       "skip_rule": null,
       "enabled": true
@@ -108,8 +108,8 @@
       "category": "tbd",
       "priority": "medium",
       "added_on": "2026-06-06",
-      "last_seen_video_id": null,
-      "last_seen_published": null,
+      "last_seen_video_id": "_i3577ti8jg",
+      "last_seen_published": "2026-05-31",
       "min_duration_seconds": 0,
       "skip_rule": null,
       "enabled": true
@@ -124,8 +124,8 @@
       "category": "tbd",
       "priority": "medium",
       "added_on": "2026-06-06",
-      "last_seen_video_id": null,
-      "last_seen_published": null,
+      "last_seen_video_id": "2pIihd3dpoA",
+      "last_seen_published": "2026-06-03",
       "min_duration_seconds": 0,
       "skip_rule": null,
       "enabled": true
@@ -140,8 +140,8 @@
       "category": "ai-engineering",
       "priority": "high",
       "added_on": "2026-06-06",
-      "last_seen_video_id": null,
-      "last_seen_published": null,
+      "last_seen_video_id": "_xIwFcnHqp4",
+      "last_seen_published": "2026-06-06",
       "min_duration_seconds": 0,
       "skip_rule": null,
       "enabled": true

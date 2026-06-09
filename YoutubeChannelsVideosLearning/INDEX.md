@@ -2,11 +2,20 @@
 
 Auto-regenerated. One line per video, newest first. Sorted by published date, descending.
 
-**Last updated:** 2026-06-07 07:22 UTC
-**Total videos:** 41 across 9 channels
+**Last updated:** 2026-06-09 04:42 UTC
+**Total videos:** 50 across 11 channels
 
 | Date | Channel | Title | Duration | Video ID | Note |
 |------|---------|-------|----------|----------|------|
+| 2026-06-09 | AI Engineer | 2026 AI Engineer Vibe Reel | 1:07 | [gUMwt4-5kn0](https://www.youtube.com/watch?v=gUMwt4-5kn0) | [note](channels/ai-dot-engineer/videos/2026-06-09_ai-engineer-worlds-fair-2026-vibe-reel.md) |
+| 2026-06-08 | AI Engineer | Road to 5 Million Tokens: Breaking Barriers in Long Context Training — Max Ryabinin, Together AI | 15:50 | [TUnPNY4E2fw](https://www.youtube.com/watch?v=TUnPNY4E2fw) | [note](channels/ai-dot-engineer/videos/2026-06-08_together-ai-5m-token-context.md) |
+| 2026-06-08 | AI Engineer | Why Eval++ Is the Next Great Compute Primitive — Sunil Pai & Matt Carrie, Cloudflare | 24:50 | [SKDJo2CopRs](https://www.youtube.com/watch?v=SKDJo2CopRs) | [note](channels/ai-dot-engineer/videos/2026-06-08_cloudflare-eval-plus-durable-objects.md) |
+| 2026-06-08 | AI Engineer | Why More Context Makes Your Agent Dumber and What to Do About It — Nupur Sharma, Qodo | 26:27 | [EcqMYoIV57A](https://www.youtube.com/watch?v=EcqMYoIV57A) | [note](channels/ai-dot-engineer/videos/2026-06-08_context-curse-u-curve.md) |
+| 2026-06-08 | Sharbel A. | I Built My Subscribers' CRAZIEST AI Agent Ideas | 30:23 | [osrE1ouSKBk](https://www.youtube.com/watch?v=osrE1ouSKBk) | [note](channels/sharbel/videos/2026-06-08_sharbel-3-crazy-ai-agent-builds.md) |
+| 2026-06-08 | The Solo Entrepreneur | From Zero to Running AI Agent in 14 Minutes — Hermes App (FREE) | 14:23 | [yxmMKvWHoAA](https://www.youtube.com/watch?v=yxmMKvWHoAA) | [note](channels/the-solo-entrepreneur/videos/2026-06-08_hermes-desktop-app-14-min-setup.md) |
+| 2026-06-07 | AI Engineer | LLM Observability, Evaluation, Experimentation Platform — Dat Ngo, Arize | 16:32 | [JsCCrBF7F1g](https://www.youtube.com/watch?v=JsCCrBF7F1g) | [note](channels/ai-dot-engineer/videos/2026-06-07_arize-llm-observability-evals.md) |
+| 2026-06-07 | AI Engineer | Under 5 minutes to a deployed LLM endpoint — Audry Hsu, RunPod | 13:26 | [ILdE7FaAjVA](https://www.youtube.com/watch?v=ILdE7FaAjVA) | [note](channels/ai-dot-engineer/videos/2026-06-07_runpod-deploy-llm-5-min.md) |
+| 2026-06-07 | AI Engineer | From MCP to Scale: Pipelines That Build Themselves — Rafael Levi, Bright Data | 25:25 | [zTZ0qunQXnM](https://www.youtube.com/watch?v=zTZ0qunQXnM) | [note](channels/ai-dot-engineer/videos/2026-06-07_bright-data-mcp-self-healing-scrapers.md) |
 | 2026-06-07 | Eddy | Your First 100 Days as an AI Lead | 24:52 | [0QN5yHmdP3k](https://www.youtube.com/watch?v=0QN5yHmdP3k) | [note](channels/eddy/videos/2026-06-07_your-first-100-days-as-an-ai-lead.md) |
 | 2026-06-06 | AI Dot Engineer | Building Interactive UIs in VS Code with MCP Apps — Marlene Mhangami & Liam Hampton, GitHub | 16:06 | [_xIwFcnHqp4](https://www.youtube.com/watch?v=_xIwFcnHqp4) | [note](channels/ai-dot-engineer/videos/2026-06-06_building-interactive-uis-vscode-mcp-apps.md) |
 | 2026-06-06 | AI Dot Engineer | Evals Are Broken, Use Them Anyway — Ara Khan, Cline | 19:04 | [QuuIywMG4s8](https://www.youtube.com/watch?v=QuuIywMG4s8) | [note](channels/ai-dot-engineer/videos/2026-06-06_evals-are-broken-use-them-anyway.md) |

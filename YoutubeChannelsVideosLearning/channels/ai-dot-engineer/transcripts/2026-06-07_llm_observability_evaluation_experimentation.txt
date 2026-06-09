@@ -1,0 +1,494 @@
+0:07 [music]
+0:14 >> Okay, I didn't know if there's like a
+0:15 cut scene, but okay, so really nice to
+0:18 meet you all. My name is Dat.
+0:20 I work at Arize AI, so I'll talk a
+0:22 little bit about what that is.
+0:24 A little bit about me and kind of what I
+0:26 want to share today is um
+0:28 you know,
+0:29 I I work very deeply in in the space.
+0:31 I'm an AI architect. I work with a lot
+0:32 of the largest enterprises across the
+0:34 world
+0:35 to talk about, you know, we work on
+0:37 things like observability, evaluation,
+0:39 experimentation, but really it's just
+0:41 how do you make AI work, right? So,
+0:43 I do spend a lot of tokens um
+0:47 in this space. So, this is
+0:49 last OpenAI DevDay. I think I made it to
+0:52 probably somewhere between 100 billion
+0:54 and 1 trillion tokens last year. So, I
+0:56 do I do like to vibe it out. But I do
+0:59 know the space really, really well. We
+1:00 work with some of the world's
+1:02 largest companies and enterprises. So,
+1:05 we get to see their transformation into
+1:06 this space.
+1:07 And really what I wanted to share today
+1:09 was like what do I see in in the
+1:11 industry? So, I think we have a very
+1:13 unique vantage point being the company
+1:15 that we are.
+1:17 So, we get to see what every team is
+1:19 building, how they're building it, what
+1:21 are the biggest pains that they face,
+1:23 and really how they're trying to fix
+1:24 those those things. So, if I had to
+1:27 really distill down, you know, what we
+1:29 do in kind of a nutshell,
+1:31 it's really these three things.
+1:34 Maybe by show of hands, like who's who's
+1:36 built agents, who's building agents,
+1:38 who's productionized agents, who's
+1:40 building harnesses, and who has no idea
+1:43 what a harness is. Okay, we're all we're
+1:45 all pretty okay, all pretty cracked, so
+1:47 that's good.
+1:48 You know, I think it's really funny is
+1:50 that like the AI space, it really just
+1:52 feels like software reimagined.
+1:55 It's really the same set of patterns,
+1:57 just maybe a different flavor coming
+1:59 out. And it's really it feels like
+2:02 magic, but it's not magic, right? It's
+2:04 all just engineering. So, really what
+2:06 we're going to cover today is just three
+2:07 things. The first one is observability,
+2:10 which answers the question of like
+2:11 what's happening in the thing that I've
+2:13 built and what does that look like in in
+2:15 whether it's a harness or an agent. Then
+2:17 we'll go into evals. Evals are just
+2:19 simply how do I derive signal from my
+2:21 systems in some form or fashion, right?
+2:24 And then as we talk about how we make
+2:25 improvements in this new
+2:27 non-deterministic world,
+2:29 you'll come to find out that when you
+2:31 make you know, what you perceive as a
+2:33 fix and you fix the thing that you
+2:34 thought you fixed, you might have
+2:35 actually produced like two or three
+2:37 regressions that you didn't really know
+2:38 about. And so, like in our world, we
+2:41 talk about observability, right?
+2:44 Everything that we do, something that
+2:45 we're super proud about is
+2:47 Otel is a really strong pattern for
+2:49 those in the engineering space, but
+2:51 everything we we do is through open
+2:52 telemetry. So, you know, it doesn't
+2:54 really matter,
+2:56 you know, what particular type of
+2:59 you know, harness agent model setup that
+3:02 you have. The good news is that, you
+3:04 know, being Otel first,
+3:06 we're really prepped for for a lot of
+3:08 these use cases. So, whether it's an
+3:09 auto instrumenter, if you know what that
+3:11 is, but basically you add one line of
+3:12 code, that one line of code will, you
+3:15 know, basically see what's happening
+3:17 around in that particular framework or
+3:18 SDK,
+3:20 create open telemetry traces and spans,
+3:23 and produce, you know, these views kind
+3:25 of here. So, if you've ever seen a trace
+3:26 or span, it's basically the audit record
+3:29 of what did my agent do? Cuz now we know
+3:31 that code doesn't audit agents or
+3:33 harnesses, it's actually the telemetry
+3:35 that does that. So, traces is a big
+3:37 fundamental part of observability.
+3:41 Now, there are many other different
+3:43 parts of observability that you should
+3:44 be thinking about outside of traces and
+3:46 spans.
+3:47 You can think about sessions, too. So, I
+3:49 don't know if you any of you read the
+3:50 Anthropic paper, managed agents that
+3:52 came out 2 days ago. Pretty awesome
+3:54 read.
+3:55 But sessions is another one about like
+3:57 state. So, what are the back and forth
+3:59 maybe conversations, what are the back
+4:00 and forth states that are happening
+4:02 between
+4:03 you can think runs.
+4:05 For a lot of people in the enterprise,
+4:07 they may want to end up running
+4:09 I realize this isn't the easiest to see,
+4:11 so let me change over to
+4:13 light mode.
+4:14 A lot of folks yeah, sorry about that.
+4:18 Yeah.
+4:20 A lot of folks
+4:21 would like to, you know, understand
+4:22 like, "Hey,
+4:24 what is the back and forth
+4:25 conversations?" So,
+4:27 that will be something like a session.
+4:29 So, it's like, "Hey, what are those back
+4:30 and forth conversations that are that
+4:32 are being had?" Great.
+4:34 Now,
+4:36 people like to eval those. So, in the
+4:38 enterprise, you'll see a lot of folks
+4:39 being like, "I don't really care the
+4:40 deep level, you know, the agent did this
+4:43 tool call, that tool call." They may not
+4:45 care about that as much as like, "Hey,
+4:47 was the end user satisfied? Were all
+4:49 their questions kind of answered?"
+4:51 Now, one unique thing, I'll change this
+4:53 over to light mode, too.
+4:55 One unique thing about what we do here
+4:57 at Arize, this is Arize AX,
+5:00 is that sometimes when you think about
+5:01 your agent as not a a non-deterministic
+5:04 call, right? You want to be able to see,
+5:06 "Hey, what did my agent do?" For
+5:08 example, there's different paths that
+5:10 your agent could take, right? So, you
+5:13 know, different branches.
+5:15 But what if you wanted to like look over
+5:16 all instantiations of your agent and get
+5:19 a more distributional view of what's
+5:20 happening? These are kind of like views
+5:23 into like the distribution of your
+5:25 agent. So, what are all the possible
+5:26 paths and branches, also loops?
+5:29 It allows you to answer questions like,
+5:31 "What percentage of my traffic goes down
+5:34 one branch versus another, right? Was
+5:37 there a particular component in that
+5:39 particular, you know, branch that we
+5:41 took that caused whatever, a significant
+5:44 amount of latency?"
+5:45 When we start to talk about agents or
+5:47 different paths, you may think about
+5:49 trajectory evals.
+5:51 So, trajectory could be like, "Hey, I
+5:52 went down this one path and everything
+5:54 was really good, but for some reason
+5:56 when I go down this path, the the evals
+5:58 or the signal that I'm collecting is
+5:59 dropping.
+6:00 Why? What's the root cause? Oh, the root
+6:03 cause issue was that
+6:04 these two components are actually out of
+6:06 order.
+6:07 I did B before A and actually B has a
+6:10 dependency on A. So, actually like it
+6:12 turns out like the way my LLM decided to
+6:14 call these things was was mismatched,
+6:16 right? We need to put some context in
+6:18 there to say, "Hey, actually before you
+6:19 do this, you need to do to do that."
+6:22 So, there's many different, you know,
+6:24 views into observability. Of course,
+6:26 things like analytics aren't dead,
+6:29 either. So, you know, what a lot of the
+6:32 you know, folks in in the enterprise end
+6:34 up looking at is just they just want to
+6:36 build views on what their what their
+6:38 agents look like in real time. And so,
+6:40 being able to customize and build those
+6:41 views out, super, super helpful. And
+6:45 that's that's observability in a
+6:46 nutshell. Is like, can I see all the
+6:48 different layers? We have many, many
+6:50 different types of of layers here.
+6:52 Um
+6:53 You know, the next thing is like, okay,
+6:55 so I have observability, that's kind of
+6:56 step one. It's the same thing that
+6:58 happened in software, right? Now, you
+7:00 have to determine signal, right? And so,
+7:02 signal comes in actually many various
+7:04 forms as well.
+7:06 The way I like to break it down is is
+7:07 kind of these five flavors of signal. Um
+7:10 I think everyone here in the room has
+7:12 heard of LLM as a judge. Um and so,
+7:16 you know, it may seem like a simple
+7:17 concept, but in actuality,
+7:19 it can actually get quite complex
+7:21 and we'll kind of go through all of
+7:23 that.
+7:24 Now, you can't forget about your humans.
+7:26 When you think about humans,
+7:28 whether it's the end users using your
+7:29 product, it's extremely valuable signal.
+7:31 So, whether you're product manager or,
+7:33 you know, someone technical or
+7:35 non-technical, you do care about this
+7:37 signal.
+7:38 We've all heard of golden data sets.
+7:40 They're extremely valuable because it's
+7:42 if the third column here represents
+7:44 quality,
+7:45 you know, you trust the person who who
+7:47 labeled this data because they know the
+7:49 domain.
+7:50 Then you'll, you know, you'll run
+7:51 techniques like, "Hey, I'm going to run
+7:52 my LLM as a judge on some, you know,
+7:55 golden data set so that you can tune
+7:57 your LLM as a judge." You basically say,
+7:58 "Hey, my can I get my LLM to approximate
+8:01 this this thing or this person or this
+8:02 data set that I trust?"
+8:05 And then of course, we're all thinking
+8:06 about costs, as well. So, when we think
+8:08 about costs, you don't always have to
+8:10 use an LLM call or even humans.
+8:13 Determinism is super nice, so think
+8:15 about logic or deterministic based
+8:16 evals. If I go from paragraph to, you
+8:20 know, JSON payload, does this JSON is it
+8:23 a valid JSON? Does it have the schema?
+8:24 Does it have, you know, these fields
+8:26 that are non-null?
+8:28 And then of course, we're all building
+8:31 these things for some, you know, for one
+8:34 of three purposes, I think. So, the
+8:36 business metrics you care about are
+8:37 either some form of like, "How do I make
+8:39 more money? How do I save money? Or how
+8:42 do I save time, right?"
+8:44 And so, what you'll notice as you start
+8:46 to build really good AI products, um
+8:48 you'll start to have two types of
+8:50 personas that kind of end up coming
+8:52 together. So, obviously, you have your
+8:54 technical users, right? These are your
+8:55 AI engineers, your your developers of
+8:58 the world. These people are extremely
+8:59 good at building and automating things,
+9:01 right? They're good at frameworking.
+9:04 But then you have folks who who are
+9:06 maybe less technical, but they
+9:08 understand what the AI experience should
+9:10 be, right? These are like the subject
+9:12 matter experts, the product managers of
+9:13 the world.
+9:15 These folks end up, you know, you want
+9:17 to relegate kind of the work of like,
+9:20 "Hey, this is how the prompt engineering
+9:21 should go. Here's the [clears throat]
+9:22 evals that I care about."
+9:24 Because you want people who can code
+9:26 coding and you want people who know the
+9:27 domain to to work in that domain.
+9:30 And so, in our world, what that looks
+9:32 like is something like this.
+9:35 You know, we allow folks to be able to
+9:36 run evals
+9:38 at
+9:39 just in a non-technical way. Of course,
+9:41 if you are technical, you can attach
+9:42 your evals and and run them kind of
+9:45 programmatically if you want.
+9:46 But in our world, we want to be able to
+9:48 say, "Hey, you know, I want to be able
+9:49 to allow a user to be able to select,
+9:51 you know, their their model, be able to
+9:53 run some out-of-the-box template or
+9:55 customize
+9:57 some eval here."
+9:59 And when we talk about complexity on the
+10:00 eval side, right?
+10:02 Imagine for a second that you have built
+10:04 some some application, some agent, some
+10:06 harness.
+10:07 That harness is got components in it.
+10:10 They may be called deterministically or
+10:12 non-deterministically.
+10:13 Whatever.
+10:15 So evals can be run on you can think
+10:18 a single kind of component. You know, we
+10:20 call that a span kind of eval. Let me
+10:23 kind of come here.
+10:25 So the scope would be one single input
+10:27 and and output.
+10:29 I'll pull up like a more complex
+10:31 view of this, but oops, let me close
+10:34 this.
+10:35 But you can think of the simple span
+10:37 input and output as um hey, I want to
+10:40 look at the input and output of one part
+10:42 of an LLM call. So that's most people
+10:45 understand that and that's really really
+10:46 simple.
+10:48 Now um
+10:49 we also have like multi-span evals. So
+10:52 we can think of that as like hey, in
+10:54 order to run the eval that I want, it
+10:56 actually requires data across many
+10:58 different components in in the system.
+11:00 So if I want to say hey, how well are
+11:02 agents passing data back and forth to
+11:03 each other? Well, it turns out I need
+11:05 the data from every single agent and how
+11:07 they pass data. So that's a multi-span
+11:09 eval and it allows you to run more
+11:11 complexity. If you want to look over all
+11:13 of the spans in in total, that's
+11:15 something like a trajectory eval. Did we
+11:17 call things in the right trajectory to
+11:19 to finish the business process?
+11:21 Um and then there's that session level
+11:23 eval, right? It's it's like zooming out
+11:25 and saying hey, what does the state
+11:26 machine like if I want to evaluate that
+11:28 state machine of um
+11:31 hey, let me turn this light mode. Hey,
+11:33 in this conversation, was the user ever
+11:36 frustrated? Did we answer all of their
+11:38 questions? So think of that as I want to
+11:40 evaluate the state machine. So as you're
+11:42 thinking about evals, it's not
+11:43 generally, you know, it's it's also like
+11:45 hey, what flavor of evals do we want to
+11:46 run, but at what scope and depth? So you
+11:49 can get very granular and then you can
+11:50 also zoom out.
+11:52 And just because you can eval something
+11:54 doesn't mean you always should. It's not
+11:56 this exhaustive thing. You want to see
+11:57 like hey, what are the minimal set of
+12:00 evals I can get away with
+12:02 to understand signal of like is my
+12:05 application working as intended because
+12:07 there's a cost associated with this
+12:09 stuff, right?
+12:11 And so, you know, TLDR,
+12:13 you know, that's that's observability
+12:14 and evals in a nutshell. We'll talk
+12:16 about experimentation and improvement.
+12:18 So not everyone starts with with traces.
+12:22 If you do start with traces, you can
+12:23 take them and do really cool things like
+12:26 um say like hey,
+12:28 show me where some signal is, you know,
+12:30 whatever, bad. Where am I missing stuff,
+12:32 right? Then you can find those things,
+12:35 collect them up into a data set.
+12:37 Also, if you don't have traces, you can
+12:39 just upload a data set outright,
+12:41 input-output pairs.
+12:43 And then from here, you can do things
+12:44 like grab that data set.
+12:46 For example, which is just rows and
+12:48 columns of data. Then you can start to
+12:50 run experiments. Experiments can be
+12:53 changes. So as you think about how do I
+12:55 make things better for my agent or
+12:57 harness, it's generally changes. Changes
+12:59 to prompts, changes to models, changes
+13:01 to orchestration, changes to
+13:03 configurations. Think think that way. Um
+13:06 we allow folks to be able to test these
+13:08 things in a UI or programmatically.
+13:11 But you know, one thing I always like to
+13:13 share with our customers is like where
+13:15 is the space going? What we quickly
+13:17 realized at Arize here is that like
+13:19 most people don't want to live in
+13:21 dashboards or buttons or manual things.
+13:24 And we we very much recognize this.
+13:26 As you think about where the future is
+13:27 going, software will compress. It's
+13:30 going to be easier to build, easier to
+13:31 customize.
+13:33 So everything I just showed you was just
+13:34 like the the nice manual way to see it,
+13:37 but everything we've done, we've allowed
+13:39 you to be able to do this program like
+13:41 through your coding agent. We realize
+13:43 people are very comfortable with their
+13:44 cloud code and code X's. So we expose
+13:46 all the primitives via the CLI and and a
+13:49 set of tools and skills.
+13:51 So that's kind of opinionated.
+13:53 And then there's also an AI system built
+13:55 into all of this too, meaning cloud
+13:57 code, your AI system can end up calling
+13:59 our system. So that you can do things
+14:01 like
+14:02 you know, if you don't want to just
+14:05 figure out these things on your own.
+14:08 We believe a lot of this stuff is is can
+14:09 be automated. So I can go here and ask
+14:12 Alex, obviously cloud code or something
+14:15 outside of the system can call Alex. And
+14:17 you can just simply say like hey, do you
+14:19 see any issues with my application?
+14:23 Um
+14:24 and you know, because we have all the
+14:26 data, because we have the the hooks and
+14:27 everything else,
+14:29 you know, Alex will go in and plan and
+14:31 run these these tasks.
+14:33 So our ultimate goal as a company is
+14:34 actually to automate you out of this
+14:36 process. Observability, evals,
+14:39 experimentation and improvement. We
+14:40 think the whole flywheel
+14:42 is very much
+14:44 automatable. Meaning
+14:46 it's not magic again, but it should feel
+14:48 like magic. So our main goal is like one
+14:50 day you you you work with Arize and you
+14:53 pull this, you know, you pull the
+14:55 ecosystem down
+14:56 and then it just works. We are very
+14:58 heavy believers that you shouldn't even
+15:00 have to choose your evals. Like an AI
+15:02 should have context of like hey, here's
+15:04 the traces, here's what's happening. Let
+15:06 me create evals on the fly and and think
+15:08 about them for you or like hey,
+15:09 something has changed. I know I need a
+15:11 new eval.
+15:12 But you notice Alex is already getting
+15:14 to work with like hey,
+15:15 what's happening here? Looks like we
+15:16 have some high latency. We have, you
+15:18 know, some errors detected, things like
+15:21 that. Um
+15:23 So in a nutshell, this is kind of
+15:25 where we're going and and what we're
+15:26 after.
+15:28 And so as we think about, you know, this
+15:30 this world
+15:31 we actually have two products out today.
+15:33 So for for more of the engineering first
+15:35 folks, we have Arize Phoenix, which is
+15:37 open source. The really nice thing about
+15:39 Phoenix is it's single single container.
+15:42 You can deploy it locally. Doesn't
+15:44 require Kubernetes layer. And then for
+15:46 our largest enterprises, they use
+15:48 Arize AX.
+15:50 Which is kind of generally reserved for
+15:52 um
+15:53 you know, some of the largest
+15:53 enterprises between like Uber and and
+15:55 Booking and and Reddit. You guys can't
+15:57 tell we love dark mode, so we probably
+15:59 should
+16:00 try to go light mode in some stuff, but
+16:02 yeah, in in a nutshell, that's that's
+16:04 kind of what we do and and who we are
+16:05 and
+16:06 you know, if you guys want to chat about
+16:08 anything past that,
+16:09 super excited, but yeah, thank you very
+16:11 much for for your time today.
+16:14 >> [applause]
+16:21 [music]
+16:26 [music]

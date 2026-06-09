@@ -1,0 +1,11 @@
+# Transcript unavailable
+
+# Video: From Zero to Running AI Agent in 14 Minutes — Hermes App (FREE)
+# Channel: The Solo Entrepreneur
+# Date: 2026-06-08
+# URL: https://www.youtube.com/watch?v=yxmMKvWHoAA
+# Duration: 14:23
+
+Transcript was not available at fetch time. Description-only notes were generated.
+To regenerate, run the backfill with a fresh transcript fetch:
+  python3 backfill.py --channel-id UCV_DLB3VW0szIGQnwel1Nsw --backfill 10

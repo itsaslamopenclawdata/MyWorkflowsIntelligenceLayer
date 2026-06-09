@@ -2,12 +2,13 @@
 
 Auto-regenerated. One line per video, newest first. Sorted by published date, descending.
 
-**Last updated:** 2026-06-09 04:42 UTC
-**Total videos:** 50 across 11 channels
+**Last updated:** 2026-06-09 05:50 UTC
+**Total videos:** 51 across 12 channels
 
 | Date | Channel | Title | Duration | Video ID | Note |
 |------|---------|-------|----------|----------|------|
 | 2026-06-09 | AI Engineer | 2026 AI Engineer Vibe Reel | 1:07 | [gUMwt4-5kn0](https://www.youtube.com/watch?v=gUMwt4-5kn0) | [note](channels/ai-dot-engineer/videos/2026-06-09_ai-engineer-worlds-fair-2026-vibe-reel.md) |
+| 2026-06-08 | Google Cloud Tech | Inside Google Antigravity 2.0: The Complete Developer Guide \| The Agent Factory | 34:42 | [Dk4MD6TNiWE](https://www.youtube.com/watch?v=Dk4MD6TNiWE) | [note](channels/google-cloud-tech/videos/2026-06-08_antigravity-2-complete-developer-guide.md) |
 | 2026-06-08 | AI Engineer | Road to 5 Million Tokens: Breaking Barriers in Long Context Training — Max Ryabinin, Together AI | 15:50 | [TUnPNY4E2fw](https://www.youtube.com/watch?v=TUnPNY4E2fw) | [note](channels/ai-dot-engineer/videos/2026-06-08_together-ai-5m-token-context.md) |
 | 2026-06-08 | AI Engineer | Why Eval++ Is the Next Great Compute Primitive — Sunil Pai & Matt Carrie, Cloudflare | 24:50 | [SKDJo2CopRs](https://www.youtube.com/watch?v=SKDJo2CopRs) | [note](channels/ai-dot-engineer/videos/2026-06-08_cloudflare-eval-plus-durable-objects.md) |
 | 2026-06-08 | AI Engineer | Why More Context Makes Your Agent Dumber and What to Do About It — Nupur Sharma, Qodo | 26:27 | [EcqMYoIV57A](https://www.youtube.com/watch?v=EcqMYoIV57A) | [note](channels/ai-dot-engineer/videos/2026-06-08_context-curse-u-curve.md) |

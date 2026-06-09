@@ -1,0 +1,1389 @@
+0:02 The next Hot job for
+software engineers
+0:04 would be consulting to solve
+production failures in web coded
+0:09 apps.
+0:10 I definitely think this is true.
+0:12 Why do I need to learn
+skills that the models just
+0:14 keep getting better.
+0:15 And one of the things I like
+to think about with skills
+0:17 is it's literally a cheat
+sheet for the agent.
+0:20 Anti-gravity was able to build
+this entire extension in Swift
+0:23 based on just the
+prompt that I gave it.
+0:28 Hello, everyone, and welcome
+to the agent factory.
+0:31 A few days ago, I had an
+interesting conversation with
+0:34 a friend where we talked about
+how engineers and practically
+0:37 everyone are expected to perform
+Tenex these days and even 100x
+0:43 using AI and how we are all
+curious about what the future
+0:47 holds for software developers.
+0:49 One of the interesting
+things we were thinking about
+0:52 is how do we make sure we
+are producing high quality
+0:56 code with high output.
+0:58 How much code review
+do we actually
+1:01 need to do for our
+agents, and what
+1:04 is the ideal setup
+for us to actually
+1:07 be successful with our agents.
+1:10 To help us answer some
+of these questions
+1:13 and to showcase how
+Google is thinking
+1:15 about the future of coding.
+1:17 We brought today to the
+show one of Google's
+1:20 top genetic engineers,
+Rohde Davis.
+1:24 Rody has been leading
+dev tooling at Google
+1:27 since project IDX and then
+Firebase Studio with Cloud
+1:31 hosted AI agent IDEs
+and experiences.
+1:35 He has also been a
+major contributor
+1:37 to the launch of Google
+anti-gravity 2.0,
+1:40 where he transitioned
+from an agentic ID
+1:43 to an agent first platform that
+includes the agent manager,
+1:47 the CLI, the SDK and the Ide.
+1:50 Rody, it is so great
+to have you here.
+1:53 Welcome to the show.
+1:54 Thanks for having me, Rohde.
+1:56 You are one of
+the top 100 US OSS
+1:59 contributors on GitHub before
+I. You can code in 18 languages
+2:05 without AI.
+2:07 You are one of the fastest
+coders in the world.
+2:10 How are agents helping you
+scale your impact of the work
+2:14 that you're doing.
+2:15 Thanks yeah, one of
+the interesting things
+2:17 about this field right now is
+AI is accelerating everything,
+2:21 whether it's the learning
+process or building
+2:24 or just researching
+and ideating,
+2:26 it's been amazing to see how
+AI has been able to fit in.
+2:29 For me personally, I've loved
+using AI to reduce the Taleo.
+2:32 For example, I can
+now have it write
+2:35 much richer and
+Fuller test suites
+2:37 than I would have to do by hand.
+2:39 So I can ship things
+with confidence.
+2:41 I can also use AI to
+prototype the first, second,
+2:45 and third versions
+of the app, and then
+2:47 maybe even pivot to a
+different framework or language
+2:49 after I have a really nice set
+of things to build on top of.
+2:53 And then finally, everybody
+has their one thing
+2:55 that they don't like to do.
+2:56 And for me, sometimes that's
+building marketing sites
+2:59 and I really love having
+agents build out a marketing
+3:02 page from my app
+that I'm working on
+3:04 and take screenshots
+and put it all together.
+3:05 Very cool.
+3:06 Building marketing
+websites love it.
+3:09 So as an engineer, can you
+share your setup with us.
+3:13 How do you actually
+work in the day to day.
+3:16 Yeah, so one of the cool
+things about working
+3:19 with tools like
+anti-gravity is we
+3:22 have a lot of things
+that are disposable,
+3:24 including the agent manager, the
+Ide, the CLI, and also the SDK.
+3:30 For me, I am a huge
+proponent of skills.
+3:33 So skills if you're
+not familiar with,
+3:35 are a really cool way for
+you to compress context
+3:37 down for the model.
+3:39 And I like to exploit them
+to have multiple scripts,
+3:42 having reusable types of assets,
+putting design systems inside
+3:46 of them, and really using
+them as triggerable workflows.
+3:49 In addition to
+having things that I
+3:52 want to trigger as a one off
+or build out full applications.
+3:56 So for me, skills
+are an essential part
+3:58 of whatever project I'm
+working on or globally.
+4:02 The types of things like, for
+example, I like to use obsidian,
+4:05 so I'll have my set
+of obsidian skills
+4:07 that I can use when
+working with my note taking
+4:09 apps to build my
+knowledge database.
+4:11 But then I can have Flutter
+skills or Firebase skills
+4:14 if I'm working on
+applications that
+4:15 need to involve data syncing.
+4:17 So do you want to show us some
+of their skills you're using.
+4:21 Maybe absolutely.
+4:22 So here I have
+anti-gravity where
+4:26 I'm going to pull up
+the customizations tab.
+4:28 So there's some
+really cool things
+4:30 that we launched at I/O this
+year, including the Android
+4:33 CLI, which is a
+super amazing way
+4:35 to work with building Android
+applications from the command
+4:38 line.
+4:39 I also have been a huge
+proponent for web first features
+4:42 for a long time, so I have
+things like the Chrome
+4:44 extensions, the DevTools,
+and modern web guidance,
+4:47 which if you haven't been
+using that definitely need to.
+4:50 It makes working with
+modern approach to CSS
+4:53 and other features
+more accessible.
+4:55 And then, of course,
+using things like MCP
+4:58 servers are a great way, so I
+work a lot with Flutter and Dart
+5:01 in various projects,
+and I always
+5:03 have this one
+enabled, which allows
+5:05 me to do hot reloading
+and dev tooling, which
+5:07 really gives anti-gravity a lot
+of the things it needs to build.
+5:12 And also we can see
+the breakdown here.
+5:14 From there, I usually will
+add skills per project.
+5:18 So when it comes to the
+various design systems,
+5:21 for example like
+shadchan, you can
+5:23 have a skill dedicated to that.
+5:25 So the model can
+explore how to use that.
+5:27 I couldn't agree more about
+what you said with the skills
+5:31 and the MCP is like, it really
+changes how you build software.
+5:35 When you give the coding agent
+the right context to work with,
+5:40 it really changes the
+quality and the output
+5:42 of what you bring.
+5:43 How much do you actually review
+the code your agent generate.
+5:47 Yeah, that's a great question.
+5:49 I think for me, I feel like I've
+reviewed more code than I have
+5:54 in the last six
+months than I have
+5:55 in the last couple of
+years, but it's not
+5:58 because I wasn't
+reviewing code before.
+6:00 In fact, I was writing a lot of
+code and reading a lot of code,
+6:03 but now I'm just able
+to produce a lot more.
+6:06 And so for me, I really
+care about code architecture
+6:09 and how things fit
+together as pieces
+6:12 because I like to
+view coding almost
+6:15 like being a bonsai artist.
+6:17 If there's things
+that are growing,
+6:19 I want to constantly pruning it
+so I can work towards something
+6:21 that's simple and simple
+doesn't mean that it's easy.
+6:24 It actually takes a
+lot of skill and energy
+6:27 to make something
+that's straightforward
+6:30 and to the point, and
+can do it in fewer steps.
+6:32 So for me, I'm
+viewing architecture
+6:35 as a way to find something
+that both the agents and I can
+6:38 collaborate on.
+6:39 So I'm kind of moving
+towards flat architectures
+6:42 where state is
+separated from UI,
+6:45 which is separated from data.
+6:46 And not only does it help
+me understand the code,
+6:50 but now I can have
+the agent write stuff
+6:53 and I can quickly know if
+it's going off the track.
+6:55 So for example, if it
+starts putting things
+6:57 in a different folder
+that I'm not expecting,
+7:00 I know how to steer
+the agent and say, OK,
+7:02 let's get back on track
+and make sure we're
+7:03 following this guidance.
+7:05 And it just has a really
+clear, repeatable thing
+7:07 that's worked for me
+across multiple frameworks
+7:09 and languages so far.
+7:11 Very interesting.
+7:12 So would you say that
+you are reviewing
+7:16 100% of the code your agent
+is actually generating.
+7:21 So I would say it really
+depends on what you're doing.
+7:24 So for a marketing
+site where you're
+7:26 doing a lot of HTML and
+CSS and not a lot of logic,
+7:29 I would say no, I'm not
+really caring about the code,
+7:33 but I do care about
+how it looks visually.
+7:35 So I am going to go in
+there and say, OK, we
+7:38 have the missing
+text contrast here.
+7:40 We need to make sure that we're
+using the right shapes here.
+7:42 So it's very design centric
+on the type of feedback
+7:45 I'm giving to it.
+7:46 But then if I'm building
+a back end and go
+7:48 I care very deeply
+about the interfaces,
+7:51 because any small
+change to an API schema
+7:55 drastically increases the
+Taleo of users trying to update
+7:58 and fetch different versions.
+8:00 And you can't just be
+like, oh, whoops, sorry,
+8:02 that was a common mistake.
+8:03 Let me just revert that,
+because now you have people
+8:05 depending on various versions.
+8:06 So I care a lot about
+API contracts and APIs.
+8:11 And so once those are
+reviewed and solidified,
+8:15 as long as the test pass
+and everything else around
+8:17 it can change.
+8:19 I'm way more OK with a lot
+of the code being written,
+8:24 but at the same time, I like
+writing the first example
+8:27 for the agent that
+it then extends
+8:29 the pattern, because
+then I'm not guessing
+8:31 about what it's writing.
+8:33 I've already written the
+first couple versions.
+8:35 And it's just going
+to copy my pattern
+8:37 and fill it out for the
+rest of the code base.
+8:39 Yeah, I love that idea.
+8:41 First, given your own example,
+to give the agent a direction
+8:44 on how you want to build
+it, and then let the agents
+8:47 continue from there.
+8:49 And also, I love the
+distinction between areas
+8:51 that are important to
+review and areas that
+8:54 are enough to see the past.
+8:55 The tests.
+8:56 Is it an important distinction.
+8:58 And I know you've been
+building tools for a while,
+9:02 so how has that changed or
+evolved with anti-gravity?
+9:06 Yeah so one of the
+cool things is now I
+9:08 can just approach like the Taleo
+that I face on a daily basis
+9:12 and say, how can I
+make that better.
+9:14 So, for example, I
+have this project
+9:16 that I made inside
+of Finder where
+9:19 I have this problem
+where I love to think
+9:22 of things in time boxes, right.
+9:24 I know what I worked
+on today and yesterday,
+9:27 in the last week and
+last month and so on,
+9:30 but it's really hard to when
+you're working on multiple Git
+9:33 projects and you have multiple
+things in your file system,
+9:36 it's kind of going all over.
+9:37 So I had anti-gravity build
+something based on tags.
+9:40 So now I can just click on the
+various things like this month,
+9:44 last week, this week
+today and anti-gravity
+9:48 was able to build this
+entire extension in Swift.
+9:51 Based on just the
+prompt that I gave it.
+9:54 I even recreated it as
+a Chrome extension too.
+9:57 And so now I can use
+this editor to build out
+10:01 these workflows for me
+that not only save me time,
+10:04 but it also reduces
+this cognitive toil
+10:07 where I can focus more
+on the design engineering
+10:10 and focus on the
+time that it takes
+10:12 to review all the things
+that are being created
+10:14 and not also have to try to find
+out just where did I last put
+10:18 this thing or what was
+I working on last week.
+10:22 Yeah I love how
+anti-gravity enables
+10:25 you to get to help with
+all of that cognitive toil,
+10:28 as you mentioned.
+10:29 I'm curious, do you feel
+like, besides giving
+10:32 the initial examples, as you
+mentioned, do you actually
+10:35 still write code.
+10:36 Oh, yeah.
+10:37 In fact, I really
+love writing code.
+10:40 I loved code even before there
+was AI to write it for me,
+10:44 but I think it's
+because I just have
+10:46 a fascination with
+how computers work
+10:49 and how we can control them now.
+10:50 There's fun projects, looking
+at really old hardware
+10:54 of how can I write
+something that actually adds
+10:57 new software to that didn't
+exist, or finding things like,
+11:03 I've been really enjoying
+writing go and so
+11:05 the syntax really
+straightforward.
+11:07 And of course, there's
+times that you just
+11:09 want to have it write
+things because you're just
+11:11 trying to solve a task.
+11:13 But now it's like I
+get to understand what.
+11:15 How do the interfaces work.
+11:16 How does the standard
+library work.
+11:18 Because if you
+move through phases
+11:20 of research and
+prototyping and building
+11:23 can then take those things and
+use them in future projects.
+11:26 So I've always tried
+to basically research
+11:29 the building blocks
+that I may not
+11:31 know what I'm
+going to need this,
+11:33 but I want to know it deeply
+so that maybe two years down
+11:35 the road, I face a problem like,
+oh, I know the perfect thing,
+11:39 and I can go reach back
+for that old project
+11:40 and just have something
+that I can pull from.
+11:42 Very cool.
+11:43 I love how passionate
+you are about really
+11:46 understanding how things work.
+11:48 In one of our
+previous episodes, we
+11:50 discussed the launch of Gemma
+4 and we got a lot of questions
+11:54 from developer.
+11:55 Curious to see how to use Gemma
+for without the need to make API
+12:00 calls.
+12:01 Understand your personal
+website actually
+12:04 uses Gemma for extensively.
+12:06 Can you show us.
+12:07 Yeah so in addition to
+building things with Gemma
+12:11 for I personally love using
+LLM Studio to work with Gemma
+12:15 for when I'm on an airplane.
+12:16 And it's been a great way
+to work with agents when
+12:20 it has a really good knowledge
+set for what you need to do.
+12:23 And sometimes it's
+just really trying
+12:25 to autocomplete the thing
+you're trying to remember.
+12:27 You may know roughly
+the right syntax,
+12:29 so you can write a version of
+Gemma for almost always get it.
+12:32 So I wanted to take
+that further, though,
+12:34 and I know that anti-gravity,
+even the very first version,
+12:37 is what I built this with.
+12:39 I wanted to show off something
+that was built with Gemini,
+12:43 but also was something
+that I've been trying
+12:45 to build multiple times,
+and it just kind of kept
+12:47 hitting a wall with CSS or some
+edge case that I would run into,
+12:52 and that was I really liked
+the VS Code kind of style
+12:55 syntax of looking at an
+entire view for a website.
+12:59 So for example, all this
+is just HTML and CSS
+13:03 and it's all built
+with anti-gravity
+13:06 including you can
+change the themes.
+13:09 This is not actually using VS
+Code or anything like that,
+13:12 but it allows you to work
+with a lot of the same syntax.
+13:15 But one of the things that I had
+is this related post section,
+13:19 and I wanted to use AI to
+recommend this stuff using
+13:23 a vector database,
+but I didn't want
+13:25 to have to spin up a server.
+13:26 So I had anti-gravity
+write the Gemma
+13:29 for summaries for
+each of my posts,
+13:31 and then vectorize each one
+of those with embedding Gemma.
+13:34 And then at compile time,
+I was able to basically run
+13:39 a generator that
+would build the site
+13:43 and then create the related
+posts for each of the pages
+13:47 before publishing.
+13:49 That is so cool.
+13:51 So you can basically run this
+offline without connection
+13:54 to service, and
+get recommendations
+13:56 on relevant articles based
+on what you're looking at.
+13:59 That's right.
+13:59 Yeah, and it's
+completely dynamic
+14:01 based on what you're looking at.
+14:02 I know you prepared
+a demo to show
+14:04 us some of the
+multi-agent parallelism
+14:07 that anti-gravity
+2.0 can give us.
+14:09 Do you want to show that.
+14:11 Yeah let's get started.
+14:12 So I'm going to go ahead
+and create a new project
+14:16 in the agent manager.
+14:18 So we can go ahead and
+create quick start which
+14:20 will generate us a random name.
+14:23 I wanted to show something that
+will involve subagents and also
+14:26 use the microphone.
+14:28 So I am going to be
+doing a voice prompt.
+14:30 I'm going to go ahead
+and get started.
+14:33 Build a multi-page
+app with Vite.
+14:35 Use subagents for all the
+parts of the building process.
+14:40 Create a multilingual
+application
+14:42 that's written in English,
+Hindi, Spanish, Chinese
+14:46 and Japanese.
+14:47 We'll use Docker Compose to
+orchestrate the services.
+14:50 The app will be
+a note taking app
+14:52 that lets us write in
+markdown and preview it,
+14:54 as well as being able to
+share notes with a URL.
+14:57 The back end with Go should
+use SQLite to store the notes
+15:01 and also create a
+marketing site for it.
+15:05 So if we stop the
+recording, we can
+15:07 see that one of the nice
+things about the voice input
+15:10 and anti-gravity is it does
+know about coding languages
+15:15 and products and
+things like Gemini app
+15:16 is used to which
+already makes it
+15:18 better than some of the built in
+voice to text kind of systems.
+15:22 I can go ahead and
+kick off the prompt,
+15:24 and this will basically come
+up with an implementation plan
+15:27 for us and start our subagents.
+15:29 And you can see it's already
+been reading the modern web
+15:31 guidance, which
+definitely install it
+15:33 if you haven't already.
+15:35 Yeah while we're
+looking at that,
+15:37 I know we've seen a lot
+of updates in anti-gravity
+15:40 in IO this year.
+15:42 How has anti-gravity evolved
+from your perspective
+15:45 and what do these updates
+unlock for developers.
+15:49 Yeah, so one of the cool
+things that we did at I/O
+15:52 was separate the Ide
+from the agent manager.
+15:57 And at first, this was
+disruptive because people
+16:00 we had this as one
+pre-bundled experience.
+16:03 But one of the interesting
+things that we have now
+16:05 is separate downloads for
+anti-gravity 2.0, the CLI,
+16:10 the Ide and even the SDK.
+16:13 And that gives us the ability
+to install these separately.
+16:17 So for example, if
+you aren't a developer
+16:20 and you're coming
+across anti-gravity,
+16:22 you probably don't
+care about the Ide.
+16:24 And in fact might be
+more confusing if you get
+16:26 dropped into it.
+16:27 And conversely, if all
+you care about is a CLI,
+16:31 then we have the anti-gravity
+CLI that you can install.
+16:33 And basically you don't
+have to worry about having
+16:37 to do anything else.
+16:38 So you can just go into a
+server over SSH, install it,
+16:41 and that's all you need.
+16:42 But we have a really
+great way that
+16:45 lets us use this all together.
+16:47 So you can have a place for
+shared configs and plugins, as
+16:52 well as having a more broad
+way to work across them.
+16:57 So they have their
+own chat history.
+16:58 So if I'm in the main 2.0 and
+I want to do general knowledge
+17:03 work, my Ide chat can
+have separate history
+17:06 that's specific to that project
+or folder I'm working on.
+17:09 But one of the biggest
+changes that we added
+17:11 is when I go create
+a regular project.
+17:14 You can see now we have
+this way to select folders.
+17:17 Now before it used to be every
+Workspace that you opened inside
+17:22 of anti-gravity was one
+folder on the file system.
+17:26 So it was really hard to work
+with multiple things that
+17:29 didn't match one to one.
+17:30 So now I can create
+a single project that
+17:34 has multiple folders, and so
+it can be the front end here
+17:37 and the back end here, my
+obsidian vault, and maybe
+17:40 even the marketing website.
+17:41 And now I can have
+a conversations
+17:43 that span those and then
+have other projects that
+17:46 could involve
+those same folders,
+17:47 but in completely
+different contexts.
+17:50 So for example, you might have
+a project for working with Figma
+17:53 or stitch and all
+your design assets
+17:55 and all the different
+things it touches.
+17:57 And then you may have a
+different one for your API
+18:00 server and may
+connect to databases
+18:03 and other kind of DevTools
+around like the DBA
+18:05 administration of it.
+18:06 And then likewise you
+may have mobile apps.
+18:08 So you might have front
+end docs or guidance
+18:11 around like deploying
+and things like that.
+18:13 So I think it's
+been really great
+18:15 to have that preference about
+how you can Compose things
+18:19 as opposed to
+re-architecting your project
+18:23 to fit anti-gravity.
+18:24 I see.
+18:25 Yeah no, I love that option
+to work on multiple folders
+18:29 within a project to
+work on different parts.
+18:32 I think that unbundling that
+you mentioned between the agent
+18:36 manager to the Ide is
+very fascinating to me.
+18:40 Yeah what do you think
+that unlocks for developers
+18:43 to have this standalone
+desktop orchestration
+18:47 app as an agent manager and
+the separate agentic ID.
+18:51 So one of the cool
+things is just
+18:54 opening up the door
+for building things
+18:56 with the SDK, which developers,
+if they haven't, aren't
+19:00 familiar with it.
+19:00 The SDK is our harness that now
+anti-gravity can write code for.
+19:05 That's in Python that can do
+any type of orchestration.
+19:08 If you want to build your own
+custom workflow that doesn't
+19:11 quite fit into a skill
+or an MCP server,
+19:15 or even the agent
+manager itself,
+19:18 you can build out
+anything you want there
+19:20 as well as now you can do things
+that are non coding related.
+19:25 So for example, you could do
+this before in anti-gravity.
+19:29 But we've made a lot of
+efforts around trying
+19:31 to improve the
+permissions to make sure
+19:34 that it works correctly
+and it doesn't do things
+19:37 that you're not expecting.
+19:38 And each project can have its
+own permissions as opposed
+19:40 to this global level, and also
+being able to basically work
+19:45 with it as you see fit, I see.
+19:48 So while we've been
+talking, I know you've
+19:51 been running multiple things.
+19:52 Can you catch us up on
+what's happening here
+19:54 with anti-gravity?
+19:56 Yeah, right now it
+is basically spun
+19:59 a subagent called the DevOps and
+QA engineer that is literally
+20:04 running through our
+application and trying
+20:07 to complete the tasks,
+calling the API, which
+20:10 is a great way for
+you to use subagents
+20:13 to do different types of hats.
+20:14 You can also have
+subagents do things
+20:16 that you're used to basically
+just splitting up your front end
+20:20 agent and your
+backend agent, and you
+20:22 can both do your own thing.
+20:24 But the really cool
+thing about anti-gravity
+20:27 is like can have subagents
+spin subagents up
+20:29 if you need to or you
+can have one basically
+20:33 come up with a plan
+and it can orchestrate
+20:35 the various types of tasks.
+20:37 And we have things
+like New commands
+20:39 like goal, which is
+highly recommended
+20:42 if you haven't tried it,
+where you can say like,
+20:44 I want you to create a goal
+where we want to get 100% test
+20:47 coverage and you should
+continue running the tests
+20:51 and making the changes
+until you get to 100%
+20:53 And I've done this
+so many times and it
+20:55 works really, really great.
+20:56 And then there's just
+so many other things
+20:58 in here you can grill me
+on is this plan useful.
+21:03 Push back on me, really
+try to get to somewhere
+21:07 where you're trying to head.
+21:08 Oh, these are such helpful tips.
+21:13 Yeah let's see it.
+21:14 I want to see if it also loaded.
+21:16 And there we go.
+21:17 Yeah the note here
+looks like it is.
+21:25 Actually rendering
+the site correctly.
+21:28 And then the share
+URLs are working too.
+21:31 That's awesome.
+21:31 So it's all connecting with the
+back end and stuff like that.
+21:35 So that was great.
+21:36 Very cool.
+21:37 And the translation also works.
+21:40 Let's see.
+21:41 Yeah English to Spanish
+and it did localize it.
+21:45 Wow that is awesome.
+21:47 And what was your input
+provided besides the prompt.
+21:50 The only prompt I
+did was I just said,
+21:53 run the app right at the end.
+21:55 I think it was already
+running in the background,
+21:57 but I just wanted to
+make sure it spun it up.
+21:59 But the prompt was
+what I dictated,
+22:01 which was build a
+multi-page app with Vite de
+22:04 subagents for the various
+parts and multilingual
+22:06 Docker composed, and
+then gave it instructions
+22:08 about how to use SQLite.
+22:10 Wow very impressive.
+22:11 Do you know what.
+22:13 What skills did this.
+22:14 Did the anti-gravity
+use here to build this.
+22:17 So from what I can
+tell, it looked
+22:18 like it used the modern web
+guidance and the Chrome MCP.
+22:22 Yeah, I feel like the skills
+are really making the difference
+22:24 and how successful the agent is
+in actually building something.
+22:28 Yes and I think that that's
+an interesting one too,
+22:31 where people are
+like, well, why do
+22:33 I need to learn skills if the
+models just keep getting better.
+22:35 And one of the things I like
+to think about with skills
+22:38 is it's literally a cheat
+sheet for the agent.
+22:41 So it's the difference
+between and if you're
+22:45 in school at some
+point, it's like it's
+22:47 the difference between
+an open book test
+22:49 and you having one page that you
+could write as many notes on,
+22:53 you're going to be so
+much faster if you spent
+22:55 the time to compress and
+write it down on a note,
+22:58 because you get to review it
+and you just can instantly
+23:01 find what you're looking for.
+23:02 But the open book
+tests sometimes
+23:04 were way slower because you
+didn't prepare anything,
+23:06 and you're constantly trying to
+find where in the book it is.
+23:09 And almost always you're
+going to run out of time.
+23:11 So maybe you can share
+with us some of the skills
+23:14 you're using in our show notes.
+23:17 One of the interesting
+ones that I
+23:19 have that I use in
+a lot of projects
+23:21 is called An Update docs
+one, and it is a great way
+23:25 to think about
+skills, because you'll
+23:28 write context files for every
+folder on your file system.
+23:32 Also, one of the best things you
+can do when writing skills is
+23:35 have it write scripts.
+23:36 You want to have the agent
+run things deterministically
+23:39 in a way that makes it
+easy to repeat over time.
+23:43 And for that, I just
+have a simple thing
+23:45 that's find all the folders
+in this project that
+23:48 don't have a context file.
+23:49 And then now the agent knows
+which one it needs to write.
+23:52 And then also
+another script which
+23:54 is find all the folders
+where the context
+23:57 file is older than all the
+files modified inside of it.
+24:02 So then just those
+two simple things.
+24:03 You can have really extensive
+docs that are always up to date,
+24:07 and you can just invoke
+it whenever you need to.
+24:09 And we even have things like
+scheduled tasks and stuff
+24:11 where you can trigger that.
+24:13 So you have scheduled
+tasks that make
+24:16 sure all of the contexts
+for all of your files
+24:18 is always up to date.
+24:20 You could.
+24:20 Yeah, especially for obsidian or
+other types of tools like that.
+24:23 Yeah you talked about how
+an anti-gravity has evolved,
+24:27 and we now have the
+agent manager and the CLI
+24:29 and the Ide and the SDK.
+24:32 How should I be thinking
+about that as a developer.
+24:35 When should I be using each
+of them in my workflow.
+24:39 So for me, I've been using all
+of them in various contexts.
+24:43 So for example, when I'm
+working on Raspberry Pis
+24:46 and connecting to
+things at my house.
+24:49 I'm going to be using the CLI
+because it's so easy to just
+24:52 install and to get running
+over an SSH connection,
+24:56 but then I'm using
+the agent manager
+24:58 to connect to things like
+any type of API or obsidian,
+25:03 or knowledge work, or even
+reading files and clipping them
+25:08 and converting them to
+markdown from the web page,
+25:10 like building your own
+RSS reader, basically.
+25:13 And then the Ide.
+25:14 I still use a lot for when
+I'm reviewing the code,
+25:17 or I'm wanting to
+make changes, or I'm
+25:20 trying to really understand
+what is being created,
+25:24 and then the SDK is
+that kind of perfect
+25:27 catch all for when there's a
+very specific workflow that you
+25:31 have in mind that you want to
+orchestrate and to call and do
+25:34 things programmatically, it
+is such a great way to have
+25:37 the agent manager write that,
+write that code to do that.
+25:41 I see.
+25:41 That's a very helpful guidance.
+25:44 And you mentioned earlier
+that you use a lot of skills
+25:46 and you also write
+a lot of skills.
+25:48 So how much of the
+skills that you
+25:50 have are skills that
+you have written,
+25:52 and how much are skills that you
+took from some other sources.
+25:56 So when I was first learning
+about skills earlier this year,
+26:00 I was really fascinated
+by turning documentation
+26:03 into skills.
+26:04 So I wrote this
+with anti-gravity.
+26:06 Go see a lie that would parse
+websites and convert them
+26:10 to markdown, and basically
+create folders and subfolders
+26:14 for these various pages.
+26:15 And it actually worked
+really, really great.
+26:18 So at one point I had 400 skills
+installed for various sites
+26:23 that I visited
+frequently, and I was
+26:25 able to do things where I could
+ask it about something very
+26:28 specific in the
+docs, and it could
+26:30 provide really rich
+responses or even
+26:33 tutorials on how to do that.
+26:34 So it was a great way to
+speed up that network latency
+26:38 and also let the models operate
+more efficiently with up
+26:41 to date information,
+or even if it's not
+26:43 up to date, a specific
+version of docs
+26:46 that I needed that
+matched my version,
+26:48 even if it wasn't represented
+well in the training data.
+26:53 Outside of that, I
+also been just working
+26:55 on a lot of skills that are
+useful for the things that I do.
+26:59 So Firebase and
+Flutter and working
+27:01 with design systems and
+go and anything that
+27:05 needs to exist in a framework
+level that's wrapping a CLI
+27:10 is such a great way
+to use a skill for.
+27:13 And then finally writing
+skills for workflows.
+27:16 So just common tasks that I
+need to do multiple times,
+27:20 whether it's like
+filling out GitHub issues
+27:22 or making sure that I have
+certain documentation up
+27:26 to date, or basically triggering
+a certain set of actions
+27:31 to trigger over time.
+27:32 I'll just write a skill
+that has all those steps,
+27:34 and I can provide the
+dynamic data with it.
+27:36 So, rodi, I want us to
+have a little bit of fun.
+27:39 Let's do a rapid fire round.
+27:42 I'll give you a statement
+and you tell me.
+27:43 Agree or we disagree
+or it's complicated.
+27:46 Also, you give me
+a quick reason why.
+27:48 Are you ready.
+27:49 Yes Let's go.
+27:51 The traditional
+local Ide is dead.
+27:54 The future of engineering is
+standalone agent orchestration.
+27:59 It's complicated.
+28:00 And I think that it's
+because I said earlier,
+28:02 I think it depends on
+the project and even
+28:04 the types of things
+that you're working on.
+28:06 By the end of 2026, a
+non-technical founder
+28:10 will successfully build
+and launch a company
+28:13 using only vibe coding.
+28:16 I think that's true.
+28:17 I think the story remains to be
+seen for what happens at year 2,
+28:20 3, 4 and 5, as I think that's
+where the real tough parts are
+28:25 going to come.
+28:25 Review driven development is
+just a training will eventually,
+28:30 we will let agents ship
+straight to production.
+28:34 No, but I think that.
+28:35 What's interesting
+is I think that we're
+28:36 going to see more
+dynamic applications.
+28:39 So instead of going to
+production in the way
+28:41 that a lot of people
+think of I think
+28:43 that we're going to have more of
+these just in time applications
+28:45 that are using genuine and
+requesting interfaces for us
+28:49 just at that moment
+in time, but that's
+28:51 personalized for us and not
+necessarily for the world.
+28:54 Vibe coding will cause more
+catastrophic production failures
+28:58 in the next 18 months than the
+last decade of bad software
+29:02 engineering combined.
+29:04 I think that's true.
+29:05 I think cybersecurity
+is still going
+29:07 to be really important, even
+more than it has in the past.
+29:11 The next Hot job for
+software engineers
+29:13 would be consulting to
+solve production failures
+29:17 in vibe coded apps.
+29:19 I definitely think
+this is true, and I'm
+29:21 very interested to see how
+this pans out, because you're
+29:25 going to have some of these
+apps get really popular
+29:27 and have a lot of
+users, and they're
+29:29 going to want to quickly
+get it really stable.
+29:31 The biggest
+bottleneck in AI speed
+29:34 isn't the models context window.
+29:36 It's poor code base health.
+29:39 I would definitely have
+to agree with that.
+29:41 I think you can.
+29:43 A context window is great,
+even with a million tokens
+29:47 in that context.
+29:48 But if you have really
+bad context going into it,
+29:51 you can only do so much,
+and models can quickly
+29:54 lose track of what
+they're working on.
+29:56 So having clear, concise
+documentation and patterns
+30:00 for it to follow only makes it
+easier to extend that pattern.
+30:03 So one of the first
+things you can
+30:05 do to get your code
+base ready for AI
+30:07 by working in iterating in
+parallel, multi-agent monorepos
+30:11 are complete overkill for
+90% of development teams.
+30:15 I think it's
+complicated because I
+30:17 think it's on the individual,
+not the organization.
+30:19 I think some people are going
+to have really cool, amazing
+30:22 parallel workflows where other
+people, their focus is velocity.
+30:27 They're going to work on one
+task as fast as possible.
+30:29 So they may be spinning up
+agents or multiple things
+30:32 to solve that task, and they'll
+just be rapidly progressing.
+30:35 So I think some
+people are just going
+30:37 to use this completely different
+than they were expecting.
+30:40 If full circle
+rainbow in Zimbabwe
+30:43 is more impressive
+than 100 GitHub stars.
+30:48 Yeah, I would have to agree.
+30:51 This is from your
+time in Africa.
+30:53 Yeah can't confirm it.
+30:56 Yes I love these takes.
+30:58 OK, one final question.
+31:01 How does a developer
+ground themselves
+31:04 in a sea of constantly
+evolving tools and processes
+31:08 that gets updated by the week.
+31:11 I think one of the
+most important things
+31:13 you can do as an engineer is
+focus on why you are hired
+31:17 and what you bring to the table.
+31:19 You are there to help solve
+problems and engineer things
+31:23 that didn't exist before.
+31:24 And how to make things
+faster, more efficient.
+31:27 So instead of focusing
+just on artifacts,
+31:29 think about how can you
+make scalable impact that
+31:32 changes over time and
+reduces the amount of toil
+31:35 that everyone's going through.
+31:36 The other thing that's
+really important
+31:38 is use this moment in
+time to help agents
+31:41 provide better communication.
+31:42 Handoff off for your colleagues.
+31:44 So, for example, if you
+work with designers a lot.
+31:46 Provide richer
+feedback that involves
+31:49 more detailed design system
+notes and designers can
+31:52 do the same.
+31:53 They can provide
+really rich prototypes
+31:54 for an engineer to take off,
+to have something better
+31:57 to work with.
+31:57 And you can do that for so
+many other types of apps,
+32:00 whether you're working
+with engineering or product
+32:02 management or marketing,
+it really doesn't matter.
+32:06 You're using AI to help
+bring a better compressed
+32:10 type of artifact they're
+going to hand off.
+32:12 And that's going to make you
+working together so much easier.
+32:16 And one like great way to
+think about that, I think,
+32:19 is try to make something
+that you hand off so easy
+32:23 to approve that when
+you give it to them,
+32:25 it's already ready
+for them to sign off.
+32:28 If you give them
+something that's well,
+32:29 I already did my part.
+32:30 And then now you
+take it further,
+32:32 they're just going to have
+to spend just as much time
+32:34 getting the context
+in their head,
+32:36 trying to rebuild it and
+take it to the next step.
+32:40 Oh, I love that take about
+AI as a catalyst for better
+32:46 collaboration to
+close our discussion.
+32:49 How do you envision the future
+of software engineering.
+32:53 Yeah, I'm really excited
+by all the things
+32:56 that are going to be explored,
+because now we can try something
+33:00 out on a weekend that usually
+would take us six months.
+33:03 There's so many really
+interesting things in the space
+33:06 happening right now with that.
+33:07 And so I'm just
+personally so excited
+33:10 to see the learnings
+and the boldness
+33:13 to try things that we
+didn't because either it
+33:16 wasn't the language that
+we are familiar with
+33:18 or wasn't the framework
+that we had tried,
+33:20 or even we want to build the
+framework that we wish always
+33:23 existed.
+33:24 I see.
+33:25 Well, the boundaries
+are definitely
+33:27 stretching and stretching.
+33:29 Well, that's a wrap
+for the agent factory.
+33:31 You can find anti-gravity
+2.0 at anti-gravity, Google
+33:36 and all the demos presented
+in the show in the show notes.
+33:39 Please share your
+thoughts and feedback
+33:41 with us in the comments.
+33:43 Also, we just launched a napkin
+challenge with anti-gravity.
+33:47 Both Rudy and myself
+has taken the challenge.
+33:50 Rudy.
+33:50 Yep yeah.
+33:52 And we wanted to invite you,
+the agent factory audience,
+33:56 to take part in it.
+33:57 So it's super easy to join.
+33:59 You just need to provide
+a handwritten sketch
+34:01 of what you like to build
+and get anti-gravity
+34:04 to build it for you.
+34:06 Of course, we really recommend
+having the right skills
+34:08 like Rudy showcased today.
+34:10 Then you can post about it in
+social with the hashtag napkin
+34:13 challenge.
+34:14 We would love to see the cool
+things you will build, so share
+34:18 it with us in the
+comments or in social.
+34:20 And Rudy, thank you so
+much for joining us today.
+34:23 This has been an
+incredible episode.
+34:25 Thanks for having me.
+34:27 See you all in the next
+episode of The Asian factory.
+34:30 And now let's shut down
+the factory for the day.
+34:33 Are you ready, roadie?
+34:35 I'm ready.
+34:36 Powering down.

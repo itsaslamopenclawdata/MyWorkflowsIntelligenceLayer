@@ -145,6 +145,22 @@
       "min_duration_seconds": 0,
       "skip_rule": null,
       "enabled": true
+    },
+    {
+      "name": "Google Cloud Tech",
+      "slug": "google-cloud-tech",
+      "channel_id": "UCJS9pqu9BzkAMNTmzNMNhvg",
+      "handle": "@googlecloudtech",
+      "url": "https://www.youtube.com/@googlecloudtech",
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJS9pqu9BzkAMNTmzNMNhvg",
+      "category": "ai-automation",
+      "priority": "medium",
+      "added_on": "2026-06-09",
+      "last_seen_video_id": "Dk4MD6TNiWE",
+      "last_seen_published": "2026-06-08",
+      "min_duration_seconds": 300,
+      "skip_rule": null,
+      "enabled": true
     }
   ]
 }

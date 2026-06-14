@@ -1,0 +1,421 @@
+---
+title: "Two of the Most Senior AI Engineers Just Said the Same 6 Words — Nobody Can Define Them"
+channel: "Hyperautomation Labs"
+channel_slug: "hyperautomation-labs"
+channel_id: "UCiax-xbEI0P6Y8C8VwZGMgQ"
+published: "2026-06-09"
+duration_seconds: 738
+video_id: "1MyV_D4E1rY"
+url: "https://www.youtube.com/watch?v=1MyV_D4E1rY"
+language: "en"
+tags: [agentic-ai, loops, cron, ralph-loop, peter-steinberger, boris-cherny, claude-code, codex, skills, hyperautomation-labs]
+transcript_status: "full"
+generated_by: "channels-youtube-content"
+generated_on: "2026-06-14"
+---
+
+# Two of the Most Senior AI Engineers Just Said the Same 6 Words — Nobody Can Define Them
+
+**Channel:** Hyperautomation Labs  **Published:** 2026-06-09  **Duration:** 12:18  **Watch:** https://www.youtube.com/watch?v=1MyV_D4E1rY
+
+## TL;DR
+Peter Steinberger (OpenAI, ex-PSPDFKit) and Boris Cherny (creator of Claude Code) both said the same thing in different words: "I don't prompt Claude/Codex anymore. I write loops that prompt my agents." The video unpacks what a loop actually is, traces a 5-year lineage from ReAct (2022) → AutoGPT (2023) → the Ralph loop (Jul 2025) → the `goal` command (this spring) → supervised loops with restart-safe memory (2026). Three hard stops every serious team converges on: max iterations, no-progress detector, hard dollar ceiling. The real asset isn't the loop — it's the skill library the loop calls. Loop engineers replace prompt engineers.
+
+## Key Insights
+- **The 6 words from two very senior engineers.** Peter Steinberger (now at OpenAI, ex-PSPDFKit, ex-OpenClaude maintainer, joined Feb 2026): "You shouldn't be prompting coding agents anymore. You should be designing loops that prompt your agents." Boris Cherny (creator of Claude Code, now reportedly behind ~4% of all public GitHub commits, 259 PRs in one 30-day stretch, deleted his code editor in Nov): "I don't prompt Claude anymore. I have loops running that prompt Claude and figure out what to do. My job is to write loops." These are not influencers — they describe how they actually work. (0:00–2:08)
+- **What a loop actually is — plain version.** "For the last 2 years, you were the loop. You type a prompt. The agent answers. You read it. You fix what's wrong. You prompt again. You are the part in the middle doing the checking. A loop just takes you out of the middle." A loop is a small program that prompts the agent, reads what it produced, decides whether it's done, and if not, prompts again. "A prompt gives the agent an instruction. A loop gives the agent a job and the patience to keep going until that job is actually finished." (2:08–3:00)
+- **5-year lineage — it's not new, but the new layer is real.** Stage 1 (2022): ReAct paper — one model, one loop, a human watching. Stage 2 (2023): AutoGPT — agent prompts itself, famous for spinning forever and finishing nothing. Stage 3 (Jul 2025): the Ralph loop by Jeffrey Huntley — insultingly simple, a one-line script that pipes the same prompt file into the agent over and over, resetting context each pass so it never drifts; teams shipped real software for a few hundred dollars. Stage 4 (this spring): Claude Code + Codex shipped a `goal` command that runs the loop until a separate checker model confirms the work is done. Stage 5 (2026, Steinberger/Boris): **loops that supervise other loops on a schedule with memory that survives a restart**. The last piece is the genuinely new thing. (3:00–4:30)
+- **The skeptic's point is half right: cron jobs have funny rebranding right now.** Cron wakes the loop up — that's a 1975 idea. But cron never had the "part in the middle." A cron job runs a fixed script the same way every time. A loop runs a model that looks at current state, decides what to do, does it, checks whether it worked, decides whether to keep going. **The decision belongs to the agent, not to a line of code you hardcoded.** Honest framing: a loop is cron plus a decision maker in the body. (4:30–5:30)
+- **Loop vs. goal — stop confusing them.** `loop` re-runs your prompt on a schedule (every few minutes, every morning). `goal` keeps running until a checker model decides a written condition is actually true ("all tests in /i_out/ pass and the linter is clean"), then stops. They are not the same. (5:55–6:15)
+- **The single most important piece nobody talks about: a loop is only as trustworthy as its ability to check its own work.** "The agent that wrote the code should never be the only one grading it. One agent writes, a second, fresh agent verifies against the spec. No self-verification and your loop is just an expensive way to generate confident mistakes." (6:15–6:42)
+- **Plot twist: the expensive part of AI coding is no longer writing the code — it's running the loop.** Uber rolled these tools out, blew through its entire annual AI budget in 4 months, and had to cap every engineer at $1,500/tool/month. Quoted engineer: "The only thing agentic about my agents is the bill at the end of the month." Once the model writes code for almost nothing, the cost moves to the loop running it. The failure everyone in production fears: the loop that doesn't stop. (6:42–7:25)
+- **Every serious team converges on three hard stops.** (1) A maximum number of iterations. (2) A no-progress detector — it quits when it stops improving. (3) A hard dollar ceiling. "The romantic version is you write a loop and a thousand agents build your company overnight. The production version is you write the loop and most of your job is making sure it halts." (7:25–7:52)
+- **The "cheap model" sponsored pitch — and the math behind it.** "1.7B tokens for $20" is real only in a perfect best case where almost everything is a cached repeat and you ignore output tokens. Yes, models like DeepSeek are genuinely cheaper — sometimes 10-50x per token than frontier. **But it's a lever, not the answer.** A cheap model running an open-ended loop with no conditions just lets you generate slop faster and burn money at a discount. Model price is the easy part; loop discipline is what saves you. (7:52–8:54)
+- **The loop is just plumbing. The real asset is what the loop calls.** Steinberger's other rule: "If you do something more than once, turn it into a skill. If you do something hard, turn it into a skill afterward, so next time is free." A skill is a folder holding your project's conventions, build steps, mistakes the agent is never allowed to repeat. Written once, read every loop. "A loop with no skills inside it is just a while loop wrapped around a stranger. A loop that calls a library of sharp, named, tested skills is a system that compounds, getting better every single run." (8:54–10:00)
+- **The 2026 skill gap is not prompt engineering — it's loop engineering.** Prompt engineer: crafts a better instruction, gets a better single output, still reviews every result by hand. They are the feedback loop. Loop engineer: designs the system — the loop runs, checks itself, corrects itself, knows when it's done. The system becomes the feedback loop. Tools identical. Mindset completely different. Prompt engineers ask AI for output. Loop engineers build systems that produce verified outcomes. (10:00–10:42)
+- **It does not get easier — it gets harder at a higher altitude.** The leverage point moves up from writing code to writing the thing that writes the code. "Someone still has to decide what to build and judge whether it's any good. That is harder than prompt engineering, not easier." (10:42–11:02)
+- **The final honesty.** Two people can build the exact same loop and get opposite results. One uses it to move faster on work they understand deeply. The other uses it to avoid understanding the work at all. "The loop does not know the difference. You do." (11:22–11:42)
+
+## Notable Quotes
+> "A prompt gives the agent an instruction. A loop gives the agent a job and the patience to keep going until that job is actually finished." — 2:53
+
+> "A loop is cron plus a decision maker in the body. And everything interesting is what you build around that decision, so it doesn't run off a cliff." — 5:23
+
+> "The agent that wrote the code should never be the only one grading it. One agent writes, a second, fresh agent verifies against the spec. No self-verification and your loop is just an expensive way to generate confident mistakes." — 6:28
+
+> "A loop with no skills inside it is just a while loop wrapped around a stranger. A loop that calls a library of sharp, named, tested skills is a system that compounds, getting better every single run." — 9:38
+
+> "The romantic version is you write a loop and a thousand agents build your company overnight. The production version is you write the loop and most of your job is making sure it halts." — 7:45
+
+> "The only thing agentic about my agents is the bill at the end of the month." — 7:11
+
+## Tools and Resources Mentioned
+- **ReAct paper (2022)** — Reason + Act loop pattern; one model, one loop, a human watching.
+- **AutoGPT (2023)** — self-prompting agent, famous for spinning forever.
+- **Ralph loop by Jeffrey Huntley (Jul 2025)** — one-line script piping a prompt file into the agent, resetting context each pass.
+- **Claude Code `goal` command** — runs the loop until a separate checker model confirms a written condition is met.
+- **OpenAI Codex** — Peter's current workplace (joined Feb 2026); Codex shipped a parallel `goal` command.
+- **DeepSeek** — example of a 10-50x cheaper model; the video's point: cheap model + open loop = cheap slop generator.
+- **Skills** — the host's "folder with conventions + build steps + never-repeat-this mistakes" pattern; written once, read every loop.
+- ⚠️ **Note on naming:** "Boris Cherny" referenced here is the Anthropic engineer, NOT any other developer by the same name. "Peter Steinberger" is the PSPDFKit / OpenClaude / OpenAI engineer.
+- **Free field guide** — host offers a 5-year-lineage + loop-vs-goal cheat sheet + 3-hard-stops pack in exchange for a YouTube comment with the word "loop."
+
+## GitHub Repos and URLs Referenced
+- (No specific GitHub repos cited by URL; the Ralph loop by Jeffrey Huntley is referenced by name — `setup-ralph` skill exists in this user's stack for installing the Ralph Wiggum-style autonomous coding loop.)
+
+## Action Items
+- [ ] Audit any "overnight AI" or scheduled agent runs in your stack — do they have all three hard stops (max iterations, no-progress detector, hard dollar ceiling)? If any are missing, add them this week.
+- [ ] Separate `loop` (re-runs on schedule) from `goal` (runs until a checker model says the condition is met). If you're calling them interchangeably, fix that.
+- [ ] Add a second, fresh agent as the verifier for any loop that grades its own output. Self-verification is the most expensive failure mode in production.
+- [ ] Build at least one skill folder this week — a project-specific convention + build steps + "do not repeat this mistake" notes. Wire it into one of your loops.
+- [ ] If you're currently a "prompt engineer," pick one recurring task and convert it to a loop. Measure the delta in (a) time-to-done and (b) verification effort.
+- [ ] Quote Steinberger's rule on your team wiki: "If you do something more than once, turn it into a skill. If you do something hard, turn it into a skill afterward, so next time is free."
+
+## Open Questions
+- What is the actual cost per "loop-with-checks" iteration in the user's stack? The video uses Uber's $1,500/eng/month cap as a benchmark — what's the equivalent for a solo operator?
+- The "memory that survives a restart" stage 5 capability — is that a `CLAUDE.md`-style persistent file, a checkpoint store, or something more? The video gestures at it but doesn't define it.
+- The skill gap framing assumes "loop engineer" is a coherent role. For a solo operator, is the practical move to be a "loop-and-skill engineer" hybrid, or to specialize?
+
+---
+
+<details>
+<summary><b>Raw Transcript</b> (click to expand — full 12:18 transcript)</summary>
+
+0:00 This week, one sentence put the entire
+0:04 AI coding world in a chokehold.
+0:07 Peter Steinberger, now at OpenAI,
+0:10 posted six words.
+0:13 You shouldn't be prompting coding agents
+0:15 anymore.
+0:16 You should be designing loops that
+0:17 prompt your agents.
+0:19 It hit millions of views in a single
+0:21 day.
+0:23 Then Boris Cherny, the man who built
+0:25 Claude Code, said the exact same thing
+0:28 from the other side.
+0:30 I don't prompt Claude anymore.
+0:32 I have loops running that prompt Claude
+0:34 and figure out what to do.
+0:36 My job is to write loops.
+0:38 Two of the most senior AI engineers
+0:41 alive, the same message.
+0:44 And in the replies, the most upvoted
+0:46 answer to what does this actually mean
+0:49 was four words.
+0:51 Nobody knows but him and Boris.
+0:54 So, I went and found the real answer.
+0:57 No jargon.
+0:58 Just the mental model.
+1:00 Here it is.
+1:01 Before the what, the who.
+1:04 Because this only matters if these two
+1:05 actually know.
+1:08 Peter Steinberger built PSPDFKit, the
+1:11 document engine running inside thousands
+1:13 of apps,
+1:14 then built the open agent open Claude.
+1:16 And in February
+1:18 2026, he turned down Meta and Anthropic
+1:23 to join OpenAI and work on Codex.
+1:26 Boris Cherny created Claude Code as a
+1:29 side project back in September 2024.
+1:34 It now reportedly sits behind close to
+1:36 4% of all public commits on GitHub. And
+1:40 here is the receipt that ends the
+1:41 argument.
+1:42 In one 30-day stretch, Boris landed 259
+1:47 pull requests into Claude Code. And
+1:49 every single line was written by Claude
+1:52 Code itself.
+1:54 He deleted his code editor in November
+1:56 and has not opened it since.
+1:58 So, when these two say stop prompting
+2:01 and start looping, they are not selling
+2:03 a course.
+2:04 They are describing how they already
+2:07 work.
+2:08 So, here is the plain version,
+2:10 the one the hype skips.
+2:13 For the last 2 years, you were the loop.
+2:15 You type a prompt.
+2:17 The agent answers. You read it.
+2:19 You fix what's wrong. You prompt again.
+2:23 You are the part in the middle doing the
+2:25 checking.
+2:26 A loop just takes you out of the middle.
+2:30 A loop is a small program you write that
+2:32 prompts the agent for you,
+2:34 reads what it produced,
+2:36 decides whether it's done, and if it
+2:38 isn't, prompts it again.
+2:41 You stop being the thing inside the loop
+2:43 typing prompts.
+2:45 You become the author of the loop.
+2:47 The model becomes a subroutine.
+2:49 Put simply, a prompt gives the agent an
+2:53 instruction.
+2:54 A loop gives the agent a job
+2:57 and the patience to keep going until
+2:59 that job is actually finished.
+3:02 Now, is this genuinely new
+3:04 or is it old wine in a new bottle?
+3:08 Honestly, a bit of both.
+3:11 And the real story is a 5-year lineage.
+3:14 Stage one, 2022,
+3:17 the react paper.
+3:19 A model reasons,
+3:20 takes an action,
+3:21 reads the result, and repeats.
+3:25 One model, one loop, a human watching.
+3:29 Stage two,
+3:30 2023,
+3:32 AutoGPT.
+3:33 It gave the agent a goal and let it
+3:36 prompt itself.
+3:37 And it became famous for spinning
+3:39 forever and finishing nothing.
+3:41 Stage three,
+3:43 July 2025,
+3:45 the Ralph loop
+3:46 by Jeffrey Huntley.
+3:48 Almost insultingly simple.
+3:51 A one-line script that pipes the same
+3:52 prompt file into the agent over and
+3:56 over,
+3:57 resetting the context each pass so it
+3:59 never drifts.
+4:00 Teams shipped real software with it for
+4:03 a few hundred dollars in compute.
+4:05 Stage four this spring, both Cloud Code
+4:08 and Codex
+4:09 shipped a goal command that runs that
+4:11 loop until a separate checker model
+4:14 confirms the work is done.
+4:16 Stage five is what Steinberger and Boris
+4:18 actually mean.
+4:20 Loops that supervise other loops on a
+4:22 schedule with memory that survives a
+4:24 restart. That last part is the genuinely
+4:27 new thing.
+4:28 The sharpest skeptic in the whole debate
+4:30 said it in four words.
+4:32 Cron jobs have funny rebranding right
+4:34 now. And honestly, he's half right.
+4:37 The scheduling part, the thing that
+4:39 wakes the loop up every morning, that is
+4:41 cron.
+4:43 We invented that in 1975.
+4:46 But cron never had the part in the
+4:47 middle.
+4:49 A cron job runs a fixed script the same
+4:52 way every single time.
+4:55 A loop runs a model that looks at the
+4:57 current state,
+4:59 decides what to do next, does it,
+5:01 checks whether it worked, and then
+5:04 decides whether to keep going.
+5:06 The decision belongs to the agent,
+5:08 not to a line of code you hardcoded.
+5:11 So the honest framing is not that loops
+5:14 are magic, and not that loops are just
+5:16 cron.
+5:18 A loop is cron
+5:20 plus
+5:21 a decision maker in the body.
+5:23 And everything interesting is what you
+5:25 build around that decision,
+5:27 so it doesn't run off a cliff.
+5:29 So what do you actually build?
+5:32 Boris gave the starter himself in one
+5:34 line.
+5:35 Loop babysit all my pull requests.
+5:38 Autofix the build. And when comments
+5:40 come in, spin up an agent to handle
+5:43 them.
+5:44 You didn't write the steps.
+5:46 You wrote the intent and the stopping
+5:48 behavior.
+5:50 But there are two commands people
+5:52 constantly confuse. So, get this right.
+5:55 Loop reruns your prompt on a schedule.
+5:57 Every few minutes. Every morning.
+6:00 Goal is different.
+6:02 Goal keeps running
+6:04 until a checker model decides the
+6:05 condition you wrote is actually true.
+6:08 All tests in the i out folder pass and
+6:11 the linter is clean.
+6:13 Then, it stops.
+6:15 And the single most important piece,
+6:17 the one the hype skips
+6:19 and the people actually shipping obsess
+6:21 over.
+6:22 A loop is only as trustworthy
+6:25 as its ability to check its own work.
+6:28 The agent that wrote the code should
+6:29 never be the only one grading it. One
+6:31 agent writes,
+6:32 a third, fresh agent verifies against
+6:35 the spec.
+6:36 No self-verification and your loop is
+6:39 just an expensive way to generate
+6:40 confident mistakes.
+6:42 Now the plot twist, nobody puts on the
+6:45 thumbnail.
+6:46 The expensive part of AI coding is no
+6:49 longer writing the code.
+6:51 It is running the loop.
+6:53 Here's the receipt.
+6:55 Uber rolled these tools out, blew
+6:57 through its entire annual AI budget in 4
+7:00 months, and had to cap every engineer at
+7:03 $1,500 per tool per month.
+7:06 As one engineer put it, "The only thing
+7:09 agentic about my agents is the bill at
+7:12 the end of the month."
+7:13 Once the model writes code for almost
+7:15 nothing, the cost moves to the loop
+7:18 running it.
+7:19 And the failure everyone in production
+7:20 is scared of is the loop that doesn't
+7:23 stop.
+7:24 So, every serious team converges on the
+7:26 same three hard stops.
+7:28 A maximum number of iterations. A no
+7:31 progress detector.
+7:32 So, it quits when it stops improving.
+7:35 And a hard dollar ceiling.
+7:37 The romantic version is
+7:39 you write a loop
+7:41 and a thousand agents build your company
+7:43 overnight.
+7:45 The production version is
+7:47 you write the loop and most of your job
+7:50 is making sure it halts.
+7:52 Which is exactly when the sponsored
+7:54 version of the story shows up in your
+7:57 feed.
+7:58 Just run your loops on a cheap model,
+8:01 they say.
+8:02 1.7 billion tokens for $20. So, I check
+8:06 the math.
+8:08 That number is real only in a perfect
+8:11 best case
+8:12 where almost everything is a cached
+8:14 repeat and you ignore the output tokens
+8:16 entirely.
+8:18 Here's the honest version.
+8:20 Yes,
+8:21 models like DeepSeek are genuinely
+8:22 cheaper.
+8:24 Sometimes
+8:26 10 to 50 times cheaper per token
+8:29 than the frontier models.
+8:30 A cheaper model is one real lever.
+8:34 But, it's a lever, not the answer.
+8:37 A cheap model running an open-ended loop
+8:40 with no conditions
+8:42 just lets you generate slop faster
+8:44 and burn money at a discount.
+8:47 The model price is the easy part.
+8:49 The loop discipline is the part that
+8:52 actually saves you.
+8:54 And here is the part that outlasts all
+8:56 of it. The loop is just plumbing.
+9:00 The real asset is what the loop calls.
+9:03 Steinberger's other rule pairs with the
+9:05 first one and it's the more durable
+9:07 half.
+9:09 If you do something more than once, turn
+9:11 it into a skill.
+9:12 If you do something hard,
+9:14 turn it into a skill afterward, so next
+9:16 time is free.
+9:18 A skill is a folder holding your
+9:21 project's conventions,
+9:22 your build steps,
+9:24 the mistakes the agent is never allowed
+9:27 to repeat.
+9:28 Written once,
+9:29 read every loop.
+9:31 A loop with no skills inside it
+9:34 is just a while loop
+9:36 wrapped around a stranger.
+9:38 A loop
+9:39 that calls a library of sharp
+9:41 named tested skills
+9:44 is a system that compounds
+9:46 getting better every single run.
+9:49 Loops
+9:50 that re-derive your whole project from
+9:54 just burn money.
+9:56 Skills are what make a loop an asset
+9:58 instead of an expense.
+10:00 So, the skill gap opening up in 2026
+10:03 is not about writing better English.
+10:06 A prompt engineer crafts a better
+10:08 instruction,
+10:09 gets a better single output, and still
+10:12 reviews every result by hand.
+10:14 They are the feedback loop.
+10:16 A loop engineer designs the system.
+10:19 The loop runs,
+10:20 checks itself,
+10:22 corrects itself, and knows when it's
+10:24 done.
+10:25 The system becomes the feedback loop.
+10:27 The tools are identical.
+10:30 The mindset is completely different.
+10:33 Prompt engineers ask AI for output.
+10:36 Loop engineers build systems that
+10:38 produce verified outcomes.
+10:40 But, don't mistake this for the work
+10:42 getting easier.
+10:43 Boris's point was never that.
+10:46 The leverage point just moved up an
+10:48 altitude
+10:49 from writing the code to writing the
+10:51 thing that writes the code.
+10:53 Someone still has to decide what to
+10:55 build and judge whether it's any good.
+10:58 That is harder than prompt engineering,
+11:01 not easier.
+11:02 So, that's what a loop actually is.
+11:04 Prompt plus a decision maker.
+11:07 An old idea with a genuinely new layer
+11:10 on top.
+11:11 Powered by skills,
+11:13 capped so it halts, and checked so you
+11:17 can trust it.
+11:18 One more thing
+11:19 nobody says out loud.
+11:22 Two people can build the exact same loop
+11:24 and get opposite results.
+11:26 One uses it to move faster on work they
+11:27 understand deeply.
+11:30 The other uses it to avoid understanding
+11:32 the work at all.
+11:34 The loop does not know the difference.
+11:37 You do.
+11:38 So build the loop, but build it like
+11:40 someone who intends to stay the
+11:42 engineer,
+11:43 not just the person who presses go.
+11:46 I put the whole thing, the five-year
+11:48 lineage, the building blocks, the loop
+11:50 versus gold cheat sheet,
+11:51 and the three hard stops that keep a
+11:53 loop from torching your budget into one
+11:55 free field guide.
+11:57 Just comment the word loop and I'll send
+12:02 it straight to you.
+12:04 I drop bite-size AI breakdowns every day
+12:06 on Instagram
+12:08 and the full deep dives like this one
+12:10 right here on YouTube.
+12:12 Subscribe and I'll keep decoding the
+12:14 things everyone repeats but nobody
+12:16 explains.
+
+</details>

@@ -1,0 +1,663 @@
+---
+title: "Claude Fable 5 is BANNED. What to do?"
+channel: "Greg Isenberg"
+channel_slug: "greg-isenberg"
+channel_id: "UCPjNBjflY0-HQtUvOx0Ibw"
+published: "2026-06-13"
+duration_seconds: 1496
+video_id: "bdhUBBACglw"
+url: "https://www.youtube.com/watch?v=bdhUBBACglw"
+language: "en"
+tags: [claude-fable-5, anthropic, local-models, ollama, lm-studio, deepseek, qwen, gemma, llama, regulation, startup-ideas, greg-isenberg, vendor-collision]
+transcript_status: "full"
+generated_by: "channels-youtube-content"
+generated_on: "2026-06-14"
+---
+
+# Claude Fable 5 is BANNED. What to do?
+
+**Channel:** Greg Isenberg  **Published:** 2026-06-13  **Duration:** 24:56  **Watch:** https://www.youtube.com/watch?v=bdhUBBACglw
+
+## TL;DR
+On 2026-06-13 the US Government sent Anthropic a letter banning Claude Fable 5 (their most powerful model) — disabled for everyone, no warning, no appeal. Greg pivots his entire weekend from "build with Fable 5" to a primer on local models as the "generator in the garage." Walks through Ollama vs LM Studio, hardware-to-model-size mapping, the four key open model families (Qwen 3, DeepSeek, Gemma, Llama), quantization (Q4/Q5), and 5 startup ideas that only exist because of on-device AI. The lesson: "Don't build your entire life on something that can disappear with a single letter. Own a part of your stack." ⚠️ **Vendor disambiguation:** Greg references "Hermes" at 15:03 as "the most used agent in the world... built specifically to run locally and never stop" — this is the THIRD-PARTY personal AI agent (e.g. Nous Research's Hermes), NOT MiniMax Hermes Agent. Different product, same name.
+
+## Key Insights
+- **The trigger event.** Friday 2026-06-13 at 5:21 PM, the US Government sent Anthropic a letter. By Friday night, Claude Fable 5 was disabled for everyone. "We've all been building our businesses, our workflows, our entire creative process on top of models that live on someone else's servers, controlled by someone else's terms, one government letter away from disappearing." (0:00–1:00, 1:17–2:00)
+- **The "generator in the garage" framing.** "Most of the time you're happy being on the grid, right? It's cheaper. It's easier. someone else maintains it. But the people who are truly resilient have a generator on in the garage... a hurricane comes and lights go out, well, they got this generator that continues going and they can actually use their stuff. Local models are basically that generator for you." (2:30–2:58)
+- **The switch flipped ~6 months ago (late 2025).** "Two years ago, running a model on your laptop was literally garbage. Maybe a year ago, too. But today, a model that runs on a gaming GPU or a decent Mac is good enough for about 80% of what most people use things like ChatGPT or Claude for. The gap between free local and expensive cloud closed faster than a lot of people expected." (3:05–3:40)
+- **What a local model is — dead simple.** An AI model that runs entirely on your own computer. No internet, no API key, no per-token cost. No company watches what you do. Download once, runs forever like a video game or photo editor. (3:50–4:30)
+- **Three things local models give you that cloud doesn't.** (1) **Privacy** — your data never leaves your machine; this is the unlock for healthcare, legal, finance industries that legally cannot send data to a third-party API. (2) **Zero marginal cost** — after hardware, every query is free, unlimited; you can run a model 24/7 for a month and the bill is just electricity. (3) **Nobody can turn it off** — works whether the model company exists, whether the government likes it, whether your internet is up. Works on an airplane, works in a bunker. (4:30–6:08)
+- **The honest trade-off.** Local models are generally not as smart as the absolute frontier. The biggest open models can match the cloud but need serious hardware — people on X doing insane things with local often have $5K-$20K machines. The ones that run on a normal laptop are a notch below the best cloud models. **The right reframe: you don't need frontier intelligence for most tasks, you need good-enough intelligence that's private, free, and always on. Match the right model to the right job.** (6:18–7:15)
+- **Learn in this order — start with the runtime, not the model.** (1) Download a runtime first. **Ollama** = command-line, dev favorite, one command and the model runs. **LM Studio** = real interface, model browser, click and it runs, no terminal, the one to start non-technical people on. You'll have a model running in 10-20 minutes. (7:35–8:45)
+- **Hardware-to-model-size mapping (the single most useful thing in the video).** A 4B parameter model runs on basically anything (8GB laptop, even many phones). A 12B model is the sweet spot for 16GB RAM machines — "this is where most people should live." A 27-35B model needs a really good Mac with 30GB+ or a dedicated GPU — where it starts feeling genuinely capable. 70B+ needs a maxed-out Mac Studio or a dedicated box like an Nvidia DGX Spark with 128GB unified memory. The DGX Spark is becoming the "default AI box on your desk for people who are serious." (8:45–10:30)
+- **Four open model families worth learning.** (1) **Qwen 3 / 3.6 (Alibaba)** — best all-around choice, strong at coding, multilingual, clean commercial license, has 27B and 35B versions, "punches above its weight, outperforms previous-generation models 4x their size. If you only learn one, this is probably the one." (2) **DeepSeek** — strong at hard thinking and coding; reasoning models take 10-30 seconds to think before answering (normal). (3) **Gemma (Google)** — runs remarkably small, there's a version that fits in 16GB RAM (fits on your phone), clean writing. (4) **Llama (Meta)** — huge community, ton of fine-tunes, tons of tutorials, "when in doubt, there's probably a llama for your situation." (10:48–13:10)
+- **Quantization — the "high-quality JPEG" trick nobody explains.** Shrinking a model so it runs on weaker hardware with barely any quality loss. Raw model = uncompressed photo. Quantization = high-quality JPEG. Q4/Q5 labels = compression level. Q4 roughly halves the memory a model needs with pretty minimal quality loss. **This is what makes a model that supposedly needs a server run smoothly on your laptop.** (13:15–14:35)
+- **Connect to your agent — the real unlock.** Running a model and chatting is cool, but pointing an agent at your local model is the unlock. Greg: "You can use something like Hermes to do that. Hermes is the most used agent in the world right now... it's actually built specifically to run locally and never stop. You point a Hermes profile at your local model and now you have an agent that runs free, runs offline, remembers everything, writes its own skills and you can message it over your messaging app of choice like Telegram." (15:00–15:32) ⚠️ **This "Hermes" is the third-party personal AI agent (Nous Research's Hermes), NOT MiniMax Hermes Agent.** Same name, different product. Greg has no relationship to MiniMax; this is a generalist creator covering third-party tools.
+- **Context window is your real constraint locally.** Cloud models hand you a giant context window for free. Local models make you pay for it in memory — bigger context eats more RAM. Keep your sessions tight. "Don't dump your entire life into one thread or your machine is going to choke and you're going to be like, 'Local models aren't very good.'" (16:00–16:40)
+- **Small local model + tools beats a giant model with none.** A 12B local model with web search, file access, code execution beats a 70B model with no tools. "The capability gap closes fast when you wire up the right tools. Think about it as the model is the engine and the tools are the wheels." Greg also notes a quirk: as of June 2026, local models sometimes forget tools mid-session — still learning how to work around it. (16:40–17:25)
+- **The fastest way to build the instinct: run a small local model side-by-side with a frontier cloud model for a week.** You'll be shocked how often the free local model is good enough. You'll stop reaching for the expensive option for things a 12B handles fine. "Knowing what to run where is the skill that... we're trying to learn here." (17:50–18:30)
+- **Five startup ideas that only exist now.** (1) **On-device AI for regulated industries** — healthcare, legal, finance have money + problems AI can solve but legally cannot send data to a cloud API. Product runs entirely on the customer's device. "That privacy constraint is your moat." (2) **"Your data never leaves" version of existing AI tools** — pick a popular cloud AI product (notetaker, meeting summary, document analyzer) and build a local version. Pitch line: "Nothing you give us touches the internet." Target lawyers, doctors, therapists, anyone handling sensitive documents. (3) **Airgapped agent for sensitive operations** — defense contractors, certain financial operations, anyone paranoid about leaks. Agent runs fully offline on local hardware. (4) **Offline AI for places with no internet** — ships, planes, rural clinics, field operations, disaster zones. (5) **Resilience as a service** — after this weekend, every serious company is going to ask "what happens to our AI workflows if our provider gets cut off?" Sell the answer: a fallback layer that kicks in when cloud models disappear. Insurance against exactly what just happened with Fable 5. (19:20–22:20)
+- **The closing lesson — durable.** "The lesson isn't that cloud is bad and local is good. That's not the case. The lesson is don't build your entire life on something that can disappear with a single letter. Own a part of your stack. Have the generator in the garage. Local models are the insurance. And this is the weekend I finally bought the policy." (22:20–23:00)
+
+## Notable Quotes
+> "We've all been building our businesses, our workflows, our entire creative process on top of models that live on someone else's servers, controlled by someone else's terms, one government letter away from disappearing." — 0:23
+
+> "The people who are truly resilient have a generator on in the garage... Local models are basically that generator for you." — 2:45
+
+> "You don't need frontier intelligence for most tasks. You need good-enough intelligence that's private, free, and always on. And then you got to match the right model to the right job." — 7:05
+
+> "The single most useful thing to understand in this entire episode is the rough mapping of model size to hardware." — 9:12
+
+> "Qwen 3... if you only learn one [local model family], this is probably the one to learn." — 11:35
+
+> "Quantization... it's the thing that makes your hardware suddenly do twice as much." — 14:30
+
+> "A small local model with web search, file access, the ability to run code beats a giant model with none." — 16:45
+
+> "The lesson isn't that cloud is bad and local is good. The lesson is don't build your entire life on something that can disappear with a single letter." — 22:40
+
+## Tools and Resources Mentioned
+- **Ollama** — command-line local model runtime; one command, dev favorite. `ollama run qwen3:12b` style invocations.
+- **LM Studio** — GUI local model runtime with built-in model browser; recommended starting point for non-technical users.
+- **Qwen 3 / 3.6 (Alibaba)** — best all-around open model family; 12B sweet spot for 16GB RAM, 27B/35B for serious hardware.
+- **DeepSeek** — strong reasoning/coding; reasoning models take 10-30s to think before answering.
+- **Gemma (Google)** — runs remarkably small, has a 16GB-on-phone version.
+- **Llama (Meta)** — biggest community, "there's probably a llama for your situation."
+- **Nvidia DGX Spark** — 128GB unified memory, "default AI box on your desk for people who are serious," runs Linux, designed to stay on 24/7.
+- **Quantization Q4/Q5** — Q4 roughly halves memory with minimal quality loss; the trick that makes big models fit on small hardware.
+- **"Hermes" (third-party, Nous Research)** — Greg's recommended agent for pointing at a local model. ⚠️ **NOT MiniMax Hermes Agent.** Different product, same name. Greg Isenberg is a generalist startup-idea creator, not affiliated with MiniMax.
+- **"Hermes desktop app"** — Greg's prior episode (2026-06-06) covering Hermes profiles and pointing at local models; linked in description.
+
+## GitHub Repos and URLs Referenced
+- (No specific GitHub repos cited by URL in this video. Ollama and LM Studio are referenced by name only.)
+- (Greg's prior "Hermes Agent Desktop" episode: `https://www.youtube.com/watch?v=EJm8Ka-gVOc` — already in this repo at `channels/greg-isenberg/videos/2026-06-06_hermes-agent-desktop-full-setup-use-cases.md`.)
+
+## Action Items
+- [ ] Download Ollama or LM Studio this week. Have a model running in 20 minutes — don't get stuck choosing the "perfect" model first.
+- [ ] Match your hardware to a model size: 16GB RAM → 12B model, 30GB+ Mac or gaming GPU → 27-35B, 128GB unified memory → 70B+. If you don't have 16GB, start with a 4B model.
+- [ ] Pull Qwen 3 12B first (the "if you only learn one" pick). Run it side-by-side with a frontier cloud model for a week on real tasks to build the instinct.
+- [ ] Configure your local model with a small set of tools (web search, file access, code execution) — capability gap closes fast when tools are wired up.
+- [ ] If you sell to regulated industries (healthcare, legal, finance), consider an on-device AI wrapper as a startup angle — the privacy constraint is a moat cloud competitors can't enter.
+- [ ] Audit any product or workflow that depends on a single cloud model (especially one that could be banned) — design a local-model fallback. This is "resilience as a service" if you want to productize it.
+- [ ] Keep agent context windows tight. Don't dump your entire life into one thread on a local model.
+
+## Open Questions
+- How does the third-party "Hermes" agent that Greg references actually work for a solo operator? Is it worth a separate deep-dive, or is MiniMax's Hermes Agent a better fit given the user already runs on it?
+- For a solopreneur without a $5K-$20K machine, what's the realistic ceiling on what a 12B local model (Qwen 3) can do for the user's specific use cases (agent orchestration, content drafting, code)?
+- Greg's "5 startup ideas" are all pitched at B2B SaaS. Which of them translate to indie-hacker / solopreneur velocity, and which require VC-scale GTM?
+
+---
+
+<details>
+<summary><b>Raw Transcript</b> (click to expand — full 24:56 transcript)</summary>
+
+0:00 I had my entire weekend planned [music]
+0:02 out. I was going to lock in and use the
+0:04 most powerful AI model on the planet,
+0:06 Fable 5, to build this crazy idea I've
+0:09 been sitting on. Then Friday at 5:21
+0:08 p.m., the US government sent Anthropic a
+0:11 letter. And by Friday night, the model
+0:13 was gone, disabled for everyone. No
+0:16 warning, no appeal. And I sat there
+0:19 thinking about how fragile this whole
+0:21 thing actually is. We've all been
+0:24 building our businesses, our workflows,
+0:26 our entire creative process on top of
+0:28 models that live on someone else's
+0:30 servers, controlled by someone else's
+0:32 terms, one government letter away from
+0:35 disappearing. So this weekend, I'm not
+0:37 building with any frontier [music]
+0:38 models. Not none. And this is the
+0:40 episode I needed to make. By the end of
+0:43 this episode, you're going to understand
+0:47 what local models are, why they suddenly
+0:50 matter more than they did a week ago,
+0:51 [music] exactly which ones to use, what
+0:54 hardware you need, and a few startup
+0:56 ideas that only exist because
+0:58 intelligence [music] now runs on your
+1:00 desk for free. I think it's opened up a
+1:02 bunch of money-making opportunities that
+1:04 I'm going to share by the end of this
+1:05 episode. Let's get into it. [music]
+1:13 >> [music]
+1:16 >> So, let me paint the picture of what
+1:19 actually happened because the lesson is
+1:22 bigger than just this one model ban. So,
+1:25 Frontier models are incredible. You
+1:27 know, I I'll be the first to say that.
+1:29 Nobody's arguing that. But they all
+1:31 share the same weakness. You don't own
+1:34 them. You rent access. And rented access
+1:38 could be revoked at any time by a
+1:41 government, by a policy change, by a
+1:43 pricing change. Like they could just
+1:45 make it so expensive that it's, you
+1:47 know, you can't access it. By the
+1:50 company deciding your use case,
+1:53 violating a term you didn't read. We
+1:56 just watched this happen in real time.
+1:58 The single most powerful model on Earth
+2:01 is gone overnight. And I want to just be
+2:04 clear that I'm not anticloud. I use
+2:06 these cloud models every day and the
+2:08 cloud models are going to be the
+2:10 strongest. You know, they're going to be
+2:11 better than local models just in terms
+2:14 of like you're getting the best possible
+2:16 stuff. They're the smartest tool
+2:17 available.
+2:19 But what it's taught me is that you do
+2:21 need to own a part of your stack. You
+2:24 need a layer that nobody can take away
+2:26 from you. And the way I think about it
+2:28 is like electricity. Most of the time
+2:30 you're happy being on the grid, right?
+2:32 It's cheaper. It's easier. someone else
+2:34 maintains it. But the people who are
+2:38 truly resilient have a generator on in
+2:41 the garage. You know, a hurricane comes
+2:43 and lights go out, well, they got this
+2:46 generator that that continues going and
+2:48 they can actually use their stuff. Um,
+2:51 local models are basically that
+2:53 generator for you. And I know what a lot
+3:00 of people are going to say in the
+3:02 comments. They're going to be like,
+3:02 "Well, local models aren't good at all."
+3:05 And it's just not that true anymore. I
+3:07 think the switch probably happened about
+3:09 6 months ago. Two years ago, running a
+3:12 model on your laptop was literally
+3:14 garbage. Maybe a year ago, too. Um, but
+3:18 today, a model that runs on a gaming GPU
+3:20 or a decent Mac is good enough for about
+3:23 I would say 80% of what most people use
+3:26 things like chatbt or cloud for. the gap
+3:30 between free and local [snorts] and
+3:34 expensive cloud
+3:36 uh closed faster than I think a lot of
+3:38 people expected, including myself. So,
+3:41 let's actually talk about what a local
+3:43 model is. And I want to make it dead
+3:46 simple. You know how I am on this
+3:48 channel and this podcast. I'd like to
+3:50 just dumb it down uh for for myself and
+3:55 for you because I don't want to scare
+3:57 people off. A local model is an AI model
+3:59 that runs entirely on your own computer.
+4:02 You don't need internet. You don't need
+4:04 an API key. And you don't need per token
+4:07 cost. No company is watching what you
+4:10 do. You just download the model file
+4:13 once and from that point on it's yours.
+4:17 It runs on your machine the same way a
+4:19 video game or a photo editor might run
+4:22 on your your machine. And that's really
+4:24 it. That's the whole concept. We don't
+4:26 need to over complicate it. Basically,
+4:28 the intelligence lives on your hardware
+4:31 instead of someone else's. And you get
+4:33 three main things that you don't get
+4:36 with cloud models. The first thing you
+4:39 get is privacy. Your data never leaves
+4:42 your machine. Um, and it's ju this isn't
+4:45 nice for you just personally. Um, it's
+4:48 an entire unlock for selling to a bunch
+4:50 of different uh industries that you
+4:53 might want to sell to like healthcare or
+4:56 legal
+4:58 or finance industries that legally
+5:01 cannot send their data to a third party
+5:04 API. And there's actually a ton of those
+5:06 industries. Um, we're going to talk
+5:08 about uh more of that when we get into
+5:10 the startup ideas. So, let's let's put
+5:12 put a hold on that. The second main
+5:14 point is you get zero marginal cost. So
+5:18 after you've got the hardware and of
+5:19 course you do need to spend uh money on
+5:21 hardware and hardware is getting more
+5:23 and more expensive.
+5:25 Um but after you've got the hardware uh
+5:28 every query is free uh it's unlimited
+5:31 and you can run a model 24 hours a day
+5:34 for a month and your bill is just going
+5:36 to be the electricity. Um that does
+5:39 really change the math on an entire
+5:41 category of products and it opens up a
+5:43 lot. The third thing is nobody can turn
+5:46 it off. Uh, the model on your drive
+5:48 works whether or not the company that
+5:51 made it even exists. Uh, whether a
+5:54 government likes it or not doesn't
+5:56 matter. Uh, whether or not your internet
+5:58 is up. It works on an airplane. Uh, it
+6:01 works in a bunker. It just works. Um, so
+6:06 yes, you get a lot you you know, you get
+6:08 some main benefits, but with every
+6:11 everything in life, there's pros and
+6:14 there's cons. So, let's talk about what
+6:15 the trade-offs uh are, cuz I don't
+6:18 really want to sell you a fantasy. I'm
+6:19 not here to sell you a fancy. I'm here
+6:21 to tell you what are the pros, what are
+6:22 the cons, and how to and and what I what
+6:25 I think is interesting about it. The
+6:27 trade-off is that local models are
+6:29 generally not as smart as the absolute
+6:32 frontier models. The biggest open models
+6:35 can match the cloud, but they need
+6:38 serious serious hardware. Um, and
+6:41 there's, you know, you'll see people on
+6:43 X and they are doing insane things with
+6:46 local and a lot of the times is they're
+6:48 they're spending 5, 10, 15, $20,000 on
+6:51 machines. The ones that run on a normal
+6:54 laptop are a notch below the best cloud
+6:57 models. Um, but the way I'm starting to
+7:00 think about it and reframing it is you
+7:03 don't need frontier intelligence for for
+7:05 most tasks. You need good enough
+7:08 intelligence that's private, free, and
+7:10 always on. And then you got to match the
+7:13 right model to the right job. And that's
+7:15 becoming a whole new skill set. And
+7:17 we're going to get get to that. So, um,
+7:21 how do we get good at local models,
+7:24 which is something that I'm spending my
+7:25 weekend trying to figure out and sharing
+7:27 everything in real time. This is really
+7:29 the meat of this, uh, episode. If you
+7:32 really want to get good at this and not
+7:35 just nod along and watching YouTube
+7:37 videos and podcasts, here's the order
+7:39 I'd learn it in. Uh, the first is start
+7:43 with runtime. Everyone gets this
+7:45 backwards. They go hunting for the
+7:48 perfect model before they can even run
+7:50 one. That's the wrong order. The first
+7:53 thing you download is the runtime, the
+7:55 program that actually runs models on
+7:58 your machines. There's two main names to
+8:01 know, Olama and LM Studio. Olama is
+8:06 usually the favorite of a lot of my
+8:08 developer friends because it runs from
+8:10 the command line. Uh it's it's
+8:12 relatively uh simple um because it's one
+8:15 command and it and then it runs the
+8:17 model. But LM Studio is the one I'd
+8:20 start non-technical people on because it
+8:22 has a real interface. It's got a model
+8:24 browser. Uh you click and it runs. Um,
+8:28 and there's no terminal and you know
+8:29 those things are scary. Um, the this is
+8:32 sort of the part that a lot of people
+8:34 over complicate it. Um, just download
+8:36 one of these first, whichever one seems
+8:39 uh to resonate with you more and you'll
+8:42 have a model running in, you know, 10,
+8:44 15, 20 minutes. The second thing is
+8:46 you're going to want to match the model
+8:47 to your hardware. A model's size is
+8:51 measured in billions of parameters.
+8:54 You'll see numbers like four uh 4
+8:56 billion, 12 billion, uh 27 billion, 70
+9:00 billion. Bigger basically means smarter,
+9:03 but bigger also means more memory to
+9:06 run. The single most useful thing to
+9:09 understand in this entire episode is the
+9:12 rough mapping of model size to hardware.
+9:15 A 4 billion model runs on basically
+9:18 anything. An 8 GB laptop, uh even a lot
+9:23 of phones. A 12 billion model is the
+9:27 sweet spot for a machine with 16 GB of
+9:29 RAM. This is where most people should
+9:32 live. A 27 to 35 billion model needs a a
+9:36 really good Mac with 30 GB or more or a
+9:41 dedicated GPU. This is where it starts
+9:43 feeling genuinely capable. Uh, in my
+9:46 experience, a 7 billion and up model
+9:49 needs serious hardware. a maxed out Mac
+9:52 Studio or a dedicated box like an Nvidia
+9:56 uh DGX Sparks Spark with a 128 GB uh
+10:02 unified memory.
+10:05 The DJX Spark is interesting and I've
+10:07 talked about
+10:09 it on on this podcast
+10:11 before because it's purposely built for
+10:13 exactly this 128 GB of memory decides to
+10:14 stay on 24/7. It runs Linux and it's
+10:18 really becoming uh the default for AI
+10:21 box on your desk for people who are you
+10:24 know serious. I'm not affiliated with
+10:26 Nvidia. Um just what I'm noticing in the
+10:30 industry you run your model on it uh you
+10:33 leave it running and connect it uh you
+10:37 can connect to it from from your phone. Um
+10:40 so your desk becomes this almost mini at
+10:43 least the way I see it as a mini uh data
+10:45 center.
+10:46 The third uh third thing to know is the
+10:49 third main thing to know is uh knowing
+10:52 which model for which job. Um there's
+10:57 obviously a bunch of models and I can't
+10:59 I don't have enough time to cover all of
+11:01 them, but I'll give you the four main
+11:03 ones that you know you need to know
+11:06 about. Quen 3 and the new 3.6 series.
+11:10 The best all-around choice I think for
+11:12 most people. It's Alibaba's open model
+11:16 uh family. It's it's quite strong at
+11:18 coding, strong at multilingual. It's
+11:21 clean commercial license. They've got a
+11:23 27 billion and a 35 billion uh versions.
+11:27 And they it it feels like it punches
+11:29 above its weight. It outperforms
+11:32 previous generation models, four times
+11:34 their size. Um if you only learn one,
+11:37 this is probably the one to learn. Um,
+11:40 but that's that's one of them. The other
+11:43 one is DeepSeek. You've probably heard
+11:44 of Deepseek. Um, this is uh quite good
+11:48 at hard thinking and coding problems.
+11:52 Um, but heads up uh the reasoning models
+11:54 take 10 to 30 seconds to think before
+11:58 they uh before they answer uh before
+12:00 they answer. And that's normal. Uh if
+12:03 you install DeepS and you're like, why
+12:05 is it taking so long? That's just
+12:07 usually uh what I've seen it takes about
+12:10 10 to 30 seconds. Uh the third is Gemma.
+12:13 Um and this is Google's open model. Um
+12:16 and if I was Google right now, I would
+12:18 be, you know, launching a new version of
+12:20 Gemma right now and just taking
+12:22 advantage of this moment. Um this one
+12:25 runs remarkably small. Uh there's
+12:28 actually a version that fits in 16 GB of
+12:30 RAM. Uh and that one that's the one that
+12:34 can fit on your phone. Uh it's
+12:36 beautiful, clean writing. Um the fact
+12:38 that Google gives this away for free uh
+12:41 is actually crazy. Um and I I wouldn't
+12:44 be surprised if Google double downs on
+12:48 this uh in the future. Then there's
+12:49 Llama by Meta. It's it's uh really
+12:52 become very important in the whole open
+12:56 ecosystem. It's got a huge community, a
+12:59 ton of fine tunes. It's got a lot of
+13:01 tutorials that you can go and check out.
+13:03 it runs almost anywhere. Um, so when in
+13:07 doubt, there's probably a llama for your
+13:08 situation.
+13:10 The fourth main point uh that you should
+13:12 learn around local models is what's
+13:15 called quantization.
+13:18 Um, this no one really talks about and
+13:20 it's a really important trick with
+13:23 respect to local models. Um, and
+13:25 quantization is this concept of
+13:28 shrinking a model so it runs on weaker
+13:31 hardware with barely any loss in
+13:35 quality. Uh, the analogy I think of uh,
+13:38 for this is a raw model is like a
+13:42 uncompressed photo. Quantization is like
+13:45 saving a high quality JPEG. It's a lot
+13:48 smaller and your eye really can tell the
+13:51 difference. When you're downloading
+13:53 models, you'll see labels like Q4 or Q5.
+13:57 Quantization is like uh that's the
+14:01 compression level. Um that's the
+14:03 quantization compression level.
+14:06 And Q4
+14:08 roughly has the memory uh a model needs
+14:12 with pretty minimal quality loss. uh and
+14:16 this is how a model that supposedly
+14:18 needs a server ends up running smoothly
+14:21 on your laptop. So understanding this
+14:24 concept is really key. Um and uh
+14:29 you know is is like it's key because it's
+14:32 it's the thing that makes your hardware
+14:34 suddenly do twice as much. Uh the fifth
+14:37 main point is you're going to want to
+14:39 connect to your agent. Um, so
+14:45 running a model and chatting with it is
+14:48 cool, but the real unlock is pointing an
+14:51 agent at your local model. So you can
+14:54 use something like Hermes to do that.
+14:56 I've covered Hermes. I think last week I
+14:58 did an episode on Hermes desktop app.
+15:01 You can go check that out. Hermes is the
+15:03 most used agent in the world right now,
+15:05 I would say. Uh, it's definitely gaining
+15:08 the most amount of hype and buzz and
+15:11 it's actually built specifically to run
+15:14 locally and never stop.
+15:16 You point a Hermes profile at your local
+15:19 model and now you have an agent that
+15:21 runs free, runs offline, remembers
+15:24 everything, writes its own skills and
+15:26 you can message it over, you know, your
+15:29 messaging app of choice like Telegram or
+15:32 whatever while the heavy work runs on
+15:35 the box of your desk. So, super cool.
+15:37 Again, I have that episode that I did um
+15:41 last week that I'll include in the
+15:43 description if people want to watch it
+15:44 and learn more about agent profiles and
+15:47 pointing it uh to local models. Um so
+15:53 that's those are the key points I would
+15:56 say around what do I need to know about
+15:58 local models?
+16:00 Um that helps you get you know up and
+16:02 running. Um but you know what are you
+16:07 know how do we take it to the next ne
+16:08 next level? How do we separate the pros
+16:10 from the tourist? One is uh the context
+16:14 window is your your real constraint
+16:16 locally. So cloud models hand you a
+16:17 giant context window for free. That's
+16:20 the way to think about it. Local models
+16:23 make you pay for it in memory. So the
+16:25 bigger the context, the more RAM it
+16:28 eats. So keep your sessions tight, super
+16:31 tight, and don't dump your entire life
+16:35 into one thread or your machine is going
+16:38 to choke and you're going to be like,
+16:39 "Local models aren't very good." You're
+16:42 going to want to give your local model
+16:44 tools. So a small local model with web
+16:47 search, file access, the ability to run
+16:50 code beats a giant model with none. The
+16:52 capability gap closes fast when you wire
+16:55 up the right tools. So, think about it
+16:58 as the model is the engine and the tools
+17:00 are the wheels. Now, common thing that
+17:02 happens with local models is sometimes
+17:04 it forgets um your tools. I don't know
+17:08 if other people have noticed this. Um
+17:10 so, I'm still trying to I you know, I'm
+17:12 learning in real time, you know, how to
+17:15 how to get the most of it, how it how it
+17:16 doesn't forget, but just know that that
+17:18 is something that is a quirk that, you
+17:21 know, as of recording this June 2026,
+17:23 uh that happens. Um sometimes
+17:28 um remember that privacy is the killer
+17:31 feature here. So everything is running
+17:33 offline. Your data is not leaving the
+17:34 machine. Um and just you know I I'll
+17:40 talk about that actually more with the
+17:41 startup ideas and how how you can
+17:43 leverage that. Um, the last thing I'll
+17:46 say about, you know, just
+17:48 concepts that separate the pros from the
+17:50 tourists, um, it's actually super
+17:54 helpful to run a small local model
+17:57 versus a frontier cloud model side by
+17:59 side for a week. Um, because that
+18:01 actually helps you build the instinct. I
+18:04 think it's the fastest way to build the
+18:06 instinct actually. And you'll be shocked
+18:08 with how often the free local model is
+18:11 good enough. So you're going to see
+18:13 yourself stop reaching for the expensive
+18:15 option for things a 12 billion, you
+18:18 know, handles fine. And that instinct,
+18:21 knowing what to run where is the skill
+18:24 that I, you know, we're trying to learn
+18:25 here. This this whole Fable 5 moment of
+18:29 being banned and stuff like that. That
+18:31 is just it's just a wakeup call for us
+18:34 to learn how to do local local models.
+18:38 And that's probably why you're here
+18:39 listening to me talk about it today.
+18:42 So I wanted to give this is the
+18:43 start I want to give you some startup
+18:45 ideas. I mean after all this is the
+18:46 startup ideas podcast. I'm here not only
+18:48 to clarify how you you know how you
+18:50 learn how to use AI and be practical but
+18:55 I also am here for helping you uh get
+18:58 your creative juices flowing around
+19:00 startup ideas that only exist uh you
+19:03 know for a certain reason. And there are
+19:05 some startup ideas that only exist now
+19:07 because local models exist and because a
+19:10 lot of people I mean this is mainstream
+19:12 news. A lot of people are seeing like
+19:14 hey these cloud models could get banned.
+19:16 So there's going to be a huge amount of
+19:18 demand in my opinion for local models
+19:21 over the next few years. So one startup
+19:24 idea I wanted to give you is ondevice AI
+19:27 for regulated industries. So this is
+19:29 a big one. We kind of talked about it
+19:31 earlier, but healthcare, legal, finance,
+19:34 they have money, they have problems AI
+19:35 can solve, but they legally cannot send
+19:39 their data to a cloud API. So, a product
+20:02 where the model runs entirely on the
+20:04 customer's device. The data never leaves
+20:06 the building. That opens a market that
+20:09 the cloud-based competitors can't enter
+20:11 right now. So, that privacy constraint
+20:14 is your uh your remote and you just
+20:16 start selling to these types of people.
+20:18 Uh the second startup idea is you you
+20:21 basically
+20:23 you sell it as the data your data never
+20:26 leaves version of existing AI tools. So
+20:30 you know go you know pick any popular
+20:34 cloud AI product notetakers meeting
+20:36 summaries
+20:38 uh document analyzers and then you just
+20:41 build local versions of those products.
+20:42 It's the same product, but the pitch is
+20:45 basically nothing you give us touches
+20:48 the internet. And you slap that on to
+20:50 the main value proposition of the
+20:53 landing page. Uh you do it for lawyers,
+20:55 you do it for doctors, therapists, and
+20:57 anyone handling sensitive documents. Um
+21:00 that is the sentence that might help
+21:02 close the deal. Third startup idea, the
+21:05 airgapped agent for sensitive
+21:08 operations. So, some businesses can't be
+21:10 online at all for security reasons,
+21:12 defense contractors, uh, certain
+21:15 financial operations, anyone paranoid
+21:17 about leaks. So, you do an agent setup
+21:20 that runs fully offline on local
+21:22 hardware, um, and they're going to have,
+21:25 you know, willingness to pay. So it's
+21:27 not just the startup idea number one is
+21:29 just regul uh regulated industries but
+21:31 startup ideas number three is is really
+21:33 around uh leakages and sensitive
+21:21 operations. Um so you might have not
+21:24 such a sensitive industry but they have
+21:26 a sensitive operation. That's that
+21:28 niche. Um the fourth idea I have for you
+21:32 is offline AI for places with no
+21:34 internet. So ships, planes, rural
+21:36 clinics, field operations, disaster
+21:39 zones,
+21:40 um you know, useful AI, useful agents
+21:43 that work with zero internet is a
+21:45 product the entire cloud industry simply
+21:47 just can't serve. Um
+21:51 and then the last idea I'll give you is
+21:54 resilience as a service. So after this
+21:56 weekend, every serious company is going
+21:58 to be asking, "What happens to our AI
+22:01 workflows if our provider gets cut off?"
+22:03 and you just sell the answer. So it's
+22:05 basically a fallback layer that kicks in
+22:08 when cloud models disappears. So you're
+22:11 selling insurance against exactly what
+22:14 happened with the Fable 5 banning. you
+22:17 know, overall this has been I'm still
+22:19 like processing the news and stuff like
+22:21 that, but what I keep coming back to um
+22:25 is this um this weekend uh for me was
+22:29 supposed to be about building with the
+22:32 most powerful model on the planet, but
+22:34 instead it became about something more
+22:37 durable. The lesson isn't that cloud is
+22:39 bad and local is good. I don't want
+22:41 that. That's not the case. The lesson is
+22:44 don't build your entire life on
+22:46 something that can disappear with a
+22:49 single letter. Own a part of your stack.
+22:51 Have the generator in the garage. Local
+22:54 models are the insurance. And this is
+22:56 the weekend I finally bought the policy.
+22:59 Um, and you know, when you play with uh
+23:01 these local models, you're going to
+23:03 learn that yes, they're not perfect.
+23:06 Yes, they're not, you know, the most
+23:09 powerful model on the planet, but for
+23:12 60% 70% 80% of routine tasks, they're
+23:17 actually quite good. And there's a huge
+23:20 range of those use cases. So, over the
+23:24 next few days, uh, I encourage you to to
+23:27 play with these, you know, don't just
+23:28 watch this or listen to this and and
+23:30 nod. download O Lama or LM Studio, pull
+23:34 Quen 3, run it, uh, point Hermes at it,
+23:38 pick a real task, and force yourself to
+23:41 do it entirely local. And that's really
+23:43 how this all all the stuff clicks. Um,
+23:47 and once you actually play with it and
+23:49 you get your hands dirty, uh, you'll
+23:51 understand a little more of what I'm
+23:53 saying. And so then next time something
+23:56 gets banned or something gets priced out
+23:58 of you know oblivion
+24:01 um you can still run your business, you
+24:03 can still ship your ideas, you can still
+24:06 uh do things and you know in the best
+24:10 case scenario is you have cloud models
+24:12 doing XYZ and local models doing ABC.
+24:16 Um, if this was interesting to you, you
+24:19 learned a thing or two, um, do me a do
+24:23 yourself a favor. Actually, I was going
+24:24 to say do me a favor, but do a like, a
+24:27 comment, and subscribe. That just means
+24:29 more of this stuff is going to appear in
+24:31 your feed. Um, and also tells me I
+24:34 should, you know, continue doing this
+24:36 and sharing what I'm learning in real
+24:37 time. Um, I hope uh I hope you build
+24:41 something cool. I hope you learned a
+24:43 thing or two. I'm rooting for you. Now,
+24:46 go build something today that nobody
+24:48 could turn off. And I'll see you in the
+24:51 next one. Take care and have a creative
+24:54 day.
+
+</details>

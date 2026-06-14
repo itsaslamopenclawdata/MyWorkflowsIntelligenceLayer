@@ -1,0 +1,188 @@
+0:01 [snorts]
+0:03 [music]
+0:06 >> All right, let's dive right into this
+0:07 explainer. Today, we are unpacking an
+0:10 absolutely wild, completely true story
+0:12 about a guy named Kostyantyn Vlasenko.
+0:15 He's a non-technical project manager
+0:17 from Ukraine who completely defied all
+0:19 traditional odds to launch a really
+0:21 sophisticated tech startup. Seriously,
+0:23 if you've ever thought that lacking a
+0:25 computer science degree meant you
+0:27 couldn't build a complex product, well,
+0:29 this story is absolutely going to change
+0:30 your mind. Zero. None. That is the exact
+0:34 number of lines of code Kostyantyn had
+0:36 written in his entire life before he
+0:38 decided to build his own software. He
+0:40 wasn't some weekend hobbyist programmer,
+0:42 and he didn't even dabble in Python. As
+0:44 a project manager at Mythical Games in
+0:46 Kyiv, his real expertise was in managing
+0:49 stakeholder pressure and team dynamics,
+0:51 definitely not writing syntax.
+0:54 But here's the crazy part. Six. Six
+0:57 weeks. That's all the time it took him
+0:59 to go from a totally blank screen to a
+1:01 live, fully functional iOS app on the
+1:03 Apple App Store. Now, in the traditional
+1:05 tech world, six weeks is barely enough
+1:07 time to hire a single developer. But
+1:09 Kostyantyn completely bypassed all those
+1:11 traditional hurdles using an AI tool
+1:13 called Claude Code. Part one, the
+1:16 unsolved stress problem.
+1:18 So, to understand his motivation,
+1:20 Kostyantyn was basically scratching a
+1:22 deeply personal itch. His decade in
+1:24 project management was incredibly
+1:26 demanding, and he relied really heavily
+1:28 on breathing techniques.
+1:30 But he noticed this massive flaw in the
+1:32 market. Standard mindfulness apps might
+1:35 gently remind you to breathe at, say,
+1:37 10:00 p.m., but they are entirely blind
+1:40 to when you actually need the help. They
+1:41 just couldn't detect real-time stress
+1:43 signals from personal devices to jump in
+1:46 when it mattered most. Actually, get
+1:48 this. Right before his interview for the
+1:50 article we're exploring today, his own
+1:51 app detected elevated anxiety and
+1:54 proactively suggested a box breathing
+1:56 session. How cool is that?
+1:58 Part two, managing agents like people.
+2:02 Picture this. He's on vacation up in the
+2:04 stunning Ukrainian mountains, and he
+2:06 just decides he's going to build this
+2:08 solution himself. But he didn't treat AI
+2:11 as some fancy autocomplete tool. His
+2:13 mindset shift was brilliant. As he put
+2:15 it, "I realized this was the same thing,
+2:17 only managing agents inside my IDE."
+2:20 Instead of trying to learn how to type
+2:22 out code, he leveraged his actual
+2:23 superpower, his project management
+2:25 experience, to literally orchestrate an
+2:28 AI engineering team. He called his app
+2:30 Respiro, and he structured it using a
+2:32 remarkably sophisticated multi-agent
+2:34 architecture. He didn't just casually
+2:36 ask Claude to build an app. No, he had
+2:38 the AI help build out over 15
+2:40 specialized sub-agents running in
+2:42 parallel. We're talking a dedicated TCA
+2:44 architect, a Swift developer, a metal
+2:46 specialist, a code reviewer, the whole
+2:48 shebang. He was essentially acting as
+2:50 the CEO of a tireless, completely
+2:51 artificial engineering department. Part
+2:54 three, pivoting and building fast.
+2:57 Okay, so his initial minimum viable
+2:59 product, the MVP, took a mere 72 hours
+3:02 to build using React Native. Insane,
+3:04 right? But then he hit a massive wall.
+3:07 He didn't have an Android test phone to
+3:08 verify the cross-platform stuff. Now, in
+3:11 the old days, that would mean weeks of
+3:12 refactoring or going out and buying new
+3:14 hardware. Instead, he just used Claude
+3:17 code to completely rewrite the entire
+3:19 application natively in Swift,
+3:21 completely from scratch in just a few
+3:22 hours. What would normally cost weeks of
+3:24 delay just became a minor afternoon
+3:26 task.
+3:28 The momentum here is just relentless.
+3:31 Think about it. Day one, an idea in the
+3:33 mountains. Day three, boom, an MVP. Week
+3:37 two, a complete architectural rewrite in
+3:40 Swift. And by week six, the app is fully
+3:43 approved and live on the Apple App
+3:44 Store.
+3:45 This entirely proves that the bottleneck
+3:47 in software is no longer code
+3:48 generation. The bottleneck is purely
+3:51 human imagination and management. Part
+3:53 four, navigating the ecosystem. Now, as
+3:56 you probably know, writing in the code
+3:58 is really only half the battle. Actually
+4:00 shipping an app requires navigating some
+4:02 seriously complex developer ecosystems.
+4:05 Kostyantin had absolute zero experience
+4:07 with the notoriously convoluted Apple
+4:09 developer program. So, he just had
+4:11 Claude guide him step-by-step through
+4:13 the maze. And he used the exact same
+4:15 approach for his professional tools,
+4:16 setting up Sentry for error logging, and
+4:18 establishing these super detailed
+4:20 amplitude user funnels for his
+4:21 analytics. And whenever he did get
+4:23 completely lost, like when he was trying
+4:25 to figure out how to generate API tokens
+4:27 inside Meta's famously confusing
+4:28 developer interface, he used what he
+4:30 considers Claude's most underappreciated
+4:32 feature. He simply uploaded screenshots
+4:34 of the confusing UX. Claude's vision
+4:37 capabilities analyzed the screen and
+4:38 told him exactly where to click.
+4:40 Think about how empowering that is. You
+4:42 are quite literally never stuck as long
+4:44 as you can take a screenshot.
+4:45 Part five, the AI founder mindset.
+4:49 This level of execution didn't just
+4:51 launch an incredible side hustle. It
+4:52 actually triggered a massive paradigm
+4:54 shift at his day job. He became an
+4:56 internal advocate at Mythical Games,
+4:59 showing his Claude workflows to his
+5:00 engineering team. Sure, some engineers
+5:03 found it a little hard to relinquish
+5:04 control, but for Kostyantin, it was
+5:06 completely natural. Now, non-programmers
+5:09 like him are directly committing code
+5:11 releases, and Mythical Games even has a
+5:13 small internal team delivering work
+5:15 entirely through Claude. And get this,
+5:17 Claude even doubled as his marketing
+5:19 department. It wasn't just building the
+5:20 product, it was actively helping him
+5:22 sell it. The AI started writing his blog
+5:25 posts, scripting his TikToks, and
+5:27 honestly, it suggested a highly
+5:28 successful growth strategy that
+5:30 Kostyantin admitted he never would have
+5:31 thought of on his own. It told him to
+5:33 pitch Respiro directly to psychologists
+5:35 and mindfulness practitioners. He tried
+5:37 the idea out, and it worked beautifully,
+5:39 leading directly to professional
+5:40 recommendations. This journey has
+5:42 completely erased the boundaries of what
+5:43 he thought was possible. He's actually
+5:45 currently logging 7 to 8 extra hours a
+5:47 day on his product roadmap, and that's
+5:48 after finishing his regular work day. He
+5:50 literally calls Claude coding his new
+5:52 addiction. Konstantin proves for sure
+5:54 that the traditional technical barriers
+5:56 to entry have just completely vanished
+5:58 for anyone willing to learn how to
+5:59 manage AI. So, what is the crucial point
+6:02 to take away from this explainer? Well,
+6:04 if a non-technical manager can build a
+6:06 complex multi-agent iOS app in just 6
+6:09 weeks with absolutely zero lines of
+6:11 prior code, the hard part is no longer
+6:13 building the product. Today, building
+6:16 high-quality software is surprisingly
+6:18 easy. Your only remaining excuse, and
+6:20 honestly your ultimate challenge moving
+6:22 forward, is figuring out how to make
+6:24 people care. So, ask yourself, if
+6:26 building the product is the easy part
+6:27 now, how will you communicate its value
+6:29 to the world?

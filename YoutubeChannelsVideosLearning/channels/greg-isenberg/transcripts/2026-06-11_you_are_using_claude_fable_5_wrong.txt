@@ -1,0 +1,886 @@
+0:00 I've got a dumb question. If the world's
+0:02 most powerful AI model just came out,
+0:04 Fable 5, how are we supposed to use it
+0:07 to make money and be more productive? I
+0:09 mean, I've seen some crazy examples on X
+0:12 of people one-shotting like a Monopoly
+0:14 game, and that's really cool. But how
+0:16 could I use this super intelligence and
+0:19 just point it to different problems to
+0:21 make me money and be more productive?
+0:23 That's what this episode is about. By
+0:25 the end of this episode, you're going to
+0:27 understand why Fable 5 really matters.
+0:30 But more importantly than that, you're
+0:32 going to understand practically how
+0:34 [music] you can use Fable 5 to make
+0:36 money and be more productive. Now is the
+0:39 time that you have this unfair advantage
+0:41 for [music] actually pointing this
+0:42 thing, this insanely powerful model,
+0:45 at problems that could build businesses,
+0:48 that could make you more productive, and
+0:51 to be honest, it's a lot of fun. So,
+0:53 enjoy the episode, and I'll see you in
+0:55 there.
+0:56 >> [music]
+1:00 [music]
+1:04 >> Oh, I needed to make this video. I
+1:06 needed to make this video because 99% of
+1:08 people are using Fable 5 wrong. I mean,
+1:11 this is the most powerful model that
+1:13 we've ever seen, and people are just
+1:17 they're just using it the wrong way.
+1:18 They're not seeing all the
+1:19 opportunities, all the ways to make
+1:21 money, be more productive with it. So, I
+1:23 had to make this episode where I break
+1:25 down
+1:26 how you're using Fable 5 wrong, what are
+1:28 a bunch of use cases, and prompts that
+1:30 you can use today that's going to help
+1:33 you, and a bunch of startup ideas that
+1:35 now, with the most powerful coding agent
+1:38 ever available to mankind, what has that
+1:42 unlocked? That's what this episode is
+1:44 all about.
+1:46 This is a huge unlock, yet all the
+1:49 episodes that I've seen and tutorials
+1:51 and videos that I've seen on the
+1:53 internet have been about benchmarks and
+1:55 things like that. But I wanted to get to
+1:57 the tactical use cases for Fable 5 so
+2:02 that you, after this video, if you stick
+2:04 around till the end, you understand how
+2:07 to use Fable 5
+2:09 um
+2:10 in terms of use cases and in terms of
+2:12 startup ideas so that you can actually
+2:13 build a business and start making money
+2:17 and with Fable 5. Let's get right into
+2:19 it. The first thing is
+2:22 this guy who works at Anthropic used
+2:26 Fable to edit and launch his own launch
+2:30 video and it looked spectacular. I can't
+2:33 believe how good
+2:36 it is. And
+2:38 I will say he definitely
+2:41 had a good camera. You can see here he,
+2:44 you know, he's got a good setup. He's
+2:46 got this cool bookshelf, but he did 17
+2:48 takes in four scenes
+2:51 and it ended up with this beautiful
+2:54 visual, right? And you can see the text
+2:56 looks amazing. This is something that
+2:58 would have cost hundreds of thousands of
+3:00 dollars to make and using Fable with
+3:03 two video edit is totally possible. The
+3:05 prompt is here and I'm going to read it
+3:07 to you. I'm processing the recording of
+3:09 a bunch of videos in Fable full
+3:11 recording. The script for them is in
+3:12 Fable full recording Fable 5 script. I
+3:16 want you to run the 11 Labs
+3:18 transcription service on them and stitch
+3:20 together the best shots into one final
+3:22 clip. A few notes, there are multiple
+3:24 takes per scene. The best takes are
+3:26 usually the one that at the end with the
+3:28 fewest ums, but that can can change. I
+3:31 also reshot the first scene at the end.
+3:33 They should all be organized by
+3:34 timeline. For a few of them, I start the
+3:36 video by saying hey name as a way of
+3:39 starting the sentence warm. We should
+3:41 cut that out. Create a JSON file. Use
+3:44 FFmpeg. Orchestrate this using
+3:47 workflows/gold.
+3:49 Don't stop until you have the final
+3:50 video. So, what do we learn from here?
+3:53 We know that he used 11 Labs, he
+3:55 stitched together the best shots, they
+3:57 created a JSON file, he used FFmpeg,
+4:00 and he orchestrated all of this using
+4:02 workflows using slash goal,
+4:05 and said don't stop until you have a
+4:06 final video.
+4:08 And and it worked. You know, I can go
+4:11 through this deck, but you can see here
+4:14 uh he uses Whisper Whisper Whisper flow,
+4:17 it removed all the ums, the sub-agents
+4:20 picked the best takes, the edit is in
+4:22 this JSON file, and then FFmpeg executes
+4:26 the JSON.
+4:28 Um it stitches together the first cut um
+4:31 from the prompt create a final scene
+4:33 using FFmpeg.
+4:35 Um it actually color grades.
+4:39 Um with this prompt, the color grading
+4:41 feels a bit muted, can you fix that?
+4:43 It's able to color grade, and it looks
+4:45 amazing. Look at that. Just absolutely
+4:48 perfection. That's beautiful.
+4:50 And anyone who's ever done any color
+4:52 grading before knows how hard this is.
+4:55 Um
+4:57 the
+4:58 the static design frames are all there.
+5:02 He uses Remotion to stitch it all
+5:04 together.
+5:06 Each PNG is rebuilt as code.
+5:09 Um
+5:10 and then there's one file that sets the
+5:12 feel, so you got this,
+5:14 you know, beautiful
+5:16 uh
+5:17 beautiful one file here.
+5:19 Um and the point here is
+5:22 you can create a beautiful
+5:25 a darn beautiful video. You can export
+5:27 it to Figma, you can use the Figma MCP,
+5:30 uh and you can just use Fable to build
+5:33 something beautiful.
+5:34 You know, so many people so many of us
+5:36 are vibe coding apps,
+5:38 can't get people to those apps, but when
+5:40 you have something like Fable now, you
+5:43 can use it to actually grow your
+5:45 whatever it is you're working on. And is
+5:47 a great example of that.
+5:49 That's one example.
+5:51 The two is and this is I saw Wiz of Ecom
+5:54 tweeted this.
+5:56 You can create a person you can create a
+5:58 an AI content engine. I saw other people
+6:01 basically asking
+6:03 Fable to create tweets and they were
+6:04 saying it's not actually not that good
+6:06 at writing. It's not really good at
+6:08 writing.
+6:09 It's not good at writing because you
+6:11 haven't put the right inputs, the right
+6:13 strategy, the right weak the engine and
+6:16 then connect it to Fable. So if you want
+6:18 to use Fable as a content engine, here's
+6:21 how you can do it.
+6:23 You're going to want to put your inputs.
+6:25 So you're going to want your origin
+6:26 story, your known for, your offer, your
+6:30 ICP, your frameworks and you can ask
+6:33 Fable to actually help you with that.
+6:35 You can put that in your content brain.
+6:36 You can use something like Obsidian
+6:37 here, your pillars, your funnel
+6:39 structures, your tone.
+6:41 Then every week you can do
+6:44 this, you know, research, scanning
+6:46 niches, finding topics, performance,
+6:49 uh three hypothesis test weekly and that
+6:51 creates the assets as this weekly loop
+6:54 and that uses
+6:55 Fable 5. So Fable 5 runs every system.
+6:58 It reads your charts. The great thing
+7:01 one of the great things about Fable 5 is
+7:03 it's able to visually check out
+7:07 using co-work, um
+7:09 you know, browser using co-work. It's
+7:11 able to go and and and see things and
+7:13 really really understand it and it works
+7:15 for hours on its own.
+7:17 And the third piece,
+7:19 um
+7:20 of of thing that I think people are
+7:21 getting wrong with Fable and then I want
+7:23 to get into actually going into
+7:25 into Claude, showing some use cases
+7:28 and giving startup ideas
+7:31 is my friend Morgan Linton said this. He
+7:32 says, "My biggest takeaway from my first
+7:34 day with Fable, low effort is the
+7:37 alpha."
+7:38 So the mistake a lot of people are
+7:39 making is, you know, the default's on
+7:41 high,
+7:43 but I think that as, you know, I think
+7:44 it's June 22nd, you're it's going to be
+7:47 API pricing. It's not going to be
+7:48 included in your Max account. Um you're
+7:50 not you know, you're going to want to
+7:52 obviously not spend a ton of tokens. So,
+7:54 how do you do that? You're going to want
+7:55 to use something like factory.ai.
+7:59 Uh they have a product called Droid, and
+8:01 Droid is going to basically orchestrate
+8:03 when you're using Fable
+8:05 what effort you're using at, and when
+8:07 are you using something like Opus or
+8:09 other models that are more routine
+8:11 tasks. So, I think you're going to start
+8:12 to see uh just more people using things
+8:15 like Droid, um more people actually
+8:17 doing lower effort for more routine
+8:19 tasks. And just so you know, you know,
+8:22 someone tweeted this here. In fact,
+8:24 Fable low is better than Opus high. So,
+8:26 it's pretty impressive. So, if people
+8:28 want me to do a full uh breakdown on how
+8:31 to use um
+8:33 Droid and factory AI to set up this
+8:36 orchestration, just comment. Uh I can do
+8:38 it. And uh I'll show you how you can set
+8:40 that up.
+8:42 All right.
+8:43 Let's talk about use cases.
+8:45 Let's start with this one actually.
+8:48 If you're anything like me, writing copy
+8:50 is really difficult. And one thing I'm
+8:53 learning is that, you know, copy uh
+8:56 is, you know, one thing I'm actually
+8:58 relearning is that if you have good
+9:00 copy, you're going to be able to uh your
+9:03 conversion rate's going to be higher.
+9:05 So,
+9:06 uh what's really cool is you can use uh
+9:10 you can actually set up a
+9:12 a a copywriting tournament so that you
+9:14 end up creating absolutely stunning
+9:18 uh websites, building websites using
+9:20 Fable uh with incredible copy. So, look
+9:23 at this one prompt
+9:26 uh that I got for this SaaS
+9:29 idea. I took this SaaS idea from my
+9:30 ideabrowser.com. I screenshot I put it
+9:33 in, and I was able to get this
+9:34 incredible idea around backyard homes.
+9:38 So, you put in your
+9:40 your address, it checks your lot, and it
+9:42 says, "Hey, can you build these ADUs,
+9:45 which are basically mini houses, in your
+9:47 backyard?" And when you look at this
+9:50 copy, "Can you build a backyard home on
+9:52 your lot?"
+9:54 Uh
+9:54 enter your address, in minutes you'll
+9:55 have a written verdict. This is a real
+9:57 report. Yours looks like this. And it
+9:59 actually creates it. Look how beautiful
+10:02 this is. The little animations. The copy
+10:05 is incredible. I'm going to show you how
+10:08 to do this.
+10:09 And the way I do it is with something
+10:11 called a landing page tournament. So,
+10:13 let's go into the into the prompt. By
+10:15 the way, in this episode, I'll include
+10:17 all prompts in in the description.
+10:20 Uh
+10:21 And so, you can go and and and grab
+10:23 them.
+10:24 So, I say,
+10:25 "Write my landing page eight different
+10:27 ways. Different hook, different
+10:29 structure each time. Then create five
+10:32 judges, a skeptical CFO, a distracted
+10:34 founder scrolling at midnight, a
+10:35 competitor, my ideal customer, and a
+10:38 conversion copywriter. Have every judge
+10:40 score every version and explain the
+10:42 scores. Kill the losers, merge what
+10:45 worked into a final version, and show me
+10:47 the scoreboard so I can see why it won."
+10:50 And then I just basically attached the
+10:52 idea of the day, "Can I build a backyard
+10:55 home tool to find in minutes from
+10:57 ideabrew.com." I put that in there just
+10:59 to see if it would it would work. And
+11:01 let's actually look at what happened.
+11:03 So, what's great about doing these
+11:05 tournaments, so I use Fable 5 high over
+11:08 here,
+11:10 is it basically
+11:12 instead of getting one option that
+11:14 maybe is okay, you're basically getting
+11:17 it you're pitting it against each
+11:19 other, and you're getting just a lot a
+11:21 lot better a lot better output. So, when
+11:24 we go to the landing page tournament MD,
+11:27 you we basically got eight versions of
+11:29 copy. We had five judges, 40 scores, and
+11:31 one winner.
+11:33 Um and it just does such a good job.
+11:35 I'll go through one of these and and
+11:36 then I'll go to the end just so you can
+11:38 get a sense.
+11:39 So, um actually, I'm just going to skip
+11:41 to the I'm going to skip to the end here
+11:44 just so you can see what happened. So,
+11:45 it created a scoreboard. Um
+11:49 final version. So, the CFO scored at
+11:51 this, the founder scored at this, the
+11:54 competitor scored at that. Um and then
+11:56 based on that, um
+11:59 it said, "This is, you know, just a lot
+12:01 better." So,
+12:03 um
+12:04 I have been writing copy for a lot of
+12:06 years, um
+12:08 on on websites and apps I get, you know,
+12:10 millions I have millions of users.
+12:13 And when I saw the backyard
+12:15 copy, like the one that won, I I
+12:17 I was like, "This is incredible." Um
+12:20 and the the secret sauce is that I use
+12:24 this
+12:26 I use this framework.
+12:29 Um you can see here, like the CFO says,
+12:32 "Yeah, I'm going to score this a six
+12:33 because 2,000 a month is a claim the
+12:35 page must immediately defend or it reads
+12:37 like a Zillow estimate."
+12:39 Um this is what's so crazy about Fable 5
+12:42 is it's it's scary it's scary good. Um
+12:46 like, yeah, a CFO might say that. Um
+12:49 the the midnight founder who's scrolling
+12:52 in the middle of night reads, "$100,000
+12:55 on a guess is a gut punch and it stops
+12:57 the scroll." You know, it's just
+12:59 it's so good and um
+13:03 this is just a really it's something
+13:05 that I'm seeing no one no one use that I
+13:08 think you should be using as well.
+13:11 Um another
+13:13 uh thing that Fable 5 is just incredible
+13:17 at is planning.
+13:19 This is something that if you're
+13:20 building a startup, it's worth
+13:22 considering. So, the interview before
+13:24 the build. So, um the prompt goes, "I
+13:28 want you to build this rough idea. Don't
+13:30 build anything yet. Interview me like
+13:32 Mark Zuckerberg or Sam Altman or Brian
+13:34 Chesky, experts at building companies
+13:37 that get PMF. One question at a time, 15
+13:40 questions max, hunting for the thing I
+13:42 haven't thought about. Push back when my
+13:44 answers are vague. After the interview,
+13:47 write the full spec and list three ways
+13:49 this fails, then build the V1." So, what
+13:52 I'm seeing on X and other places is
+13:55 people are just one prompt-ing
+13:57 these startup ideas.
+14:00 And they're not getting really what they
+14:03 want. It might look visually great, but
+14:05 from my perspective, I don't think it's
+14:07 something that has a high likelihood of
+14:08 PMF, product market fit. So, we're
+14:10 actually going to use this prompt to,
+14:15 uh,
+14:17 Let me go scroll up. We're going to use
+14:18 this prompt so that we can have a spec,
+14:22 a full spec that has a highest
+14:24 likelihood of success. So, I grabbed a
+14:27 idea of the day from,
+14:29 uh,
+14:30 from ideabrowser.com. It's basically
+14:31 this habit widget that pings you at the
+14:34 right moment. Imagine a habit app that
+14:36 basically gives you a push notification
+14:38 and says, "Hey, you need to work out or
+14:40 you need to drink water." or something
+14:41 like that.
+14:43 And what's so crazy about, uh, Fable 5
+14:47 high in this case
+14:48 is it asked me questions. We're going to
+14:51 go through some of the questions. It
+14:52 says, "What habit have you personally
+14:54 failed to keep in the last 12 months?"
+14:57 And I said, "Failed workout streaks."
+15:00 And then I said,
+15:01 "And I'm just a person who wants to
+15:03 unlock my potential and can always do
+15:04 better."
+15:06 And then it goes, "That's half an
+15:07 answer."
+15:09 Like, I'm getting pushback
+15:12 from,
+15:13 uh, Fable. Fable feels like a real
+15:17 person. If that was a real person, if
+15:18 that was a Brian Chesky, if that was a
+15:20 Sam Altman, and they were actually to
+15:22 help me build an app that gets the PMF,
+15:26 they would say something like that. And
+15:28 to this date, I have never had an LM
+15:31 speak to me like that, and I absolutely
+15:34 loved it because that's what I need in
+15:36 order to create an app that has a high
+15:39 likelihood
+15:40 high likelihood of success.
+15:43 So, it says, "Walk me through the actual
+15:45 death of your last workout streak. What
+15:47 were you supposed to work out? What time
+15:49 of day? What happened on the day you
+15:50 missed? Did you miss because you forgot
+15:52 or because you remembered and chose not
+15:54 to?"
+15:55 This matters more than anything in that
+15:57 screenshot.
+15:58 Uh the entire thesis is timing is the
+16:00 problem, a smarter ping fixes it. And
+16:03 then I said, "I let life get in the
+16:05 way."
+16:06 Then it goes,
+16:08 "That's a horoscope answer, Greg. Life
+16:10 got in the way is what everyone says
+16:12 when they haven't watched the tape.
+16:14 You never let a podcast guest get away
+16:17 with that, and you'd say, 'Give me the
+16:19 seed.'"
+16:22 You love to see it. It pushes back, and
+16:24 it helps me, you know, I'm not going to
+16:26 go through all of this cuz that's not
+16:27 the point. The point is it pushes back
+16:29 on on you.
+16:31 And by the end of this,
+16:33 by the end of this,
+16:35 we got an incredible incredible outcome.
+16:38 And I want to I want to talk about it.
+16:40 It says, "The interview changed the
+16:41 product more than you might realize.
+16:43 What we're building shares a name with
+16:45 the idea browser write-up and almost
+16:46 nothing else. No widget
+16:49 which just can't ping you. No week of
+16:52 manual check-ins. You banned homework.
+16:54 No habit platform, workouts only. It's a
+16:57 phone number that can see your calendar
+16:58 and text you with receipts and has a
+17:00 consequence consequence you signed up
+17:03 for. So, basically what it did is it
+17:04 took this idea of like, 'You're going to
+17:06 get a text message.' It Well, you're
+17:08 going to connect it to your calendar,
+17:09 and it's going to basically say, 'You
+17:10 should work out now, and if you don't,
+17:12 you're going to get a
+17:13 a
+17:14 a uh consequence.' It builds the app.
+17:18 Um completely works. It built the spec
+17:22 document.
+17:24 And
+17:27 and uh and it's just something that has
+17:28 a high likelihood of success.
+17:30 So, I don't see anyone doing this um
+17:33 using Fable 5 helping you interview you
+17:37 you know, the key is say say it's a Mark
+17:39 Zuckerberg, say it's a a Bel uh
+17:41 uh a Brian Chesky.
+17:43 And then you get this spec document that
+17:46 really just figures out
+17:48 uh who you are, what the onboarding
+17:50 should be, what the loop should be, and
+17:52 just gives you the highest likelihood of
+17:54 success, and gives you the architecture.
+17:56 You can see here it says build with
+17:57 Python, fast API.
+18:00 Uh AP schedule scheduler,
+18:03 um what the pricing should be, and what
+18:05 the scope what should be out of what
+18:07 should be out of scope for V1.
+18:09 So, just an incredible output, and I
+18:12 I've never seen
+18:14 an LM do something so high-quality.
+18:18 We're going to um we're going to go
+18:20 through a few more use cases. I'm just
+18:22 going to just uh just lightning round it
+18:24 lightning round it. I'm not going to
+18:26 show it in in in Claude.
+18:29 Um but it's just to help you get your
+18:30 creative juices flowing for okay, how
+18:33 else can I use this thing? Um well, you
+18:35 can hire it to kill your company. So,
+18:38 everyone asks for AI everyone asks AI
+18:40 for growth ideas,
+18:41 but you can flip it. Give it everything
+18:44 and a day to destroy you.
+18:46 The magic is it ranks threats by which
+18:48 one could execute itself, which is the
+18:50 only threat ranking that matters now.
+18:53 So, here check this out. You say, here's
+18:56 my P&L, here's my pricing page, my churn
+18:58 data, my last 50 support tickets. You
+19:01 are a well-funded founder who hates me.
+19:03 Spend the day building the company that
+19:05 kills mine. Real plan, positioning,
+19:08 pricing, first 10 customers you'd steal,
+19:11 and the exact email you'd send each one.
+19:13 Then rank every attack by how much of it
+19:16 you can do yourself with no employees.
+19:18 Don't be polite. I'd rather hear it from
+19:21 you than read it in my mind in the churn
+19:23 dashboard.
+19:24 This is the output of this
+19:27 is incredible. So, that insight here is
+19:29 you want to mine your support tickets.
+19:32 Uh Fable is incredible with big data
+19:34 sets. Um it can look at your churn data
+19:38 churn data, and it's going to help you
+19:41 make more money from a SaaS. Now, you
+19:43 can also go and buy a SaaS now. You can
+19:46 actually go and refactor that code using
+19:48 Fable. You can go and look at those
+19:50 support tickets. I've talked about this
+19:51 on the channel. There's an opportunity,
+19:53 especially now with Fable 5, to actually
+19:56 go buy things for not a lot of money,
+19:58 kind of flip it, um
+20:01 you know, or renovate it, maybe flip it,
+20:03 or just keep it for profit and cash
+20:05 flow.
+20:06 But, the idea is basically now uh you
+20:08 have something that is just so high
+20:10 quality.
+20:12 Um we talked about the copy tournament.
+20:14 Um this is a this is a really
+20:16 interesting one. So,
+20:18 you give it 2 years of your notes, your
+20:21 decision docs, your postmortems. You ask
+20:23 it to map every meaningful decision.
+20:26 What I chose, what I believed at the
+20:27 time, what actually happened. Find my
+20:30 patterns. Where am I systematically too
+20:32 early, too late, too optimistic? What do
+20:35 I always say right before a bad call?
+20:37 Write me the one-page operating manual
+20:40 for working Greg that a COO
+20:43 uh would secretly kit uh keep.
+20:46 So, what's really cool about Fable 5 and
+20:49 where we are today, 2026, is you got a 1
+20:51 million
+20:53 token context window, which can hold
+20:55 years of you at once. And I don't see
+20:58 that many people doing this. So,
+21:00 uh maybe you don't have old notes, but
+21:03 you definitely have emails. Um you
+21:05 definitely have text messages, and ask
+21:07 it to find patterns in your decisions
+21:09 that you can't see because you're on the
+21:11 inside. And then just set up routines
+21:13 that remind you of things, right? And
+21:15 make you a better person. That's
+21:17 something that I think we're going to
+21:18 see more of.
+21:20 Number five. So, Fable is really good at
+21:23 noticing what's missing because it
+21:25 explores before it answers. So, you can
+21:28 actually point that at anything. Like,
+21:30 your calendar, or your code base, or
+21:32 your marketing funnel.
+21:35 So, you can say, "Here's my analytics,
+21:37 my content calendar, and my offer. Don't
+21:39 tell me what's wrong with what exists.
+21:42 Spend your time on what's absent. What
+21:44 is every successful company in my space
+21:47 doing that appears nowhere in my
+21:49 business? What customer am I not even
+21:52 trying to reach? What revenue line
+21:54 should exist and doesn't? Rank by money
+21:57 left on the table." So,
+22:00 no-brainer, and something that I started
+22:02 doing this morning, and
+22:04 I've gotten some really interesting
+22:05 insights.
+22:07 Negotiation.
+22:09 You know, if you're in business, you're
+22:11 going to be doing negotiations.
+22:13 And a lot of people actually go to like
+22:16 Perplexity,
+22:17 and they'll or or ChatGPT, and they'll
+22:19 say like, "Hey, I'm going to respond to
+22:21 this email. How would you respond?" Now,
+22:24 with Fable five, you can actually
+22:27 actually have like basically a pro
+22:28 negotiator at the table. Here's what you
+22:30 say, "I'm negotiating a deal with this
+22:33 counterparty. Here's what I know about
+22:35 them and what I want. Become them. Their
+22:37 incentives, their alternatives, their
+22:39 pressure. We negotiate in rounds. You
+22:42 respond the way they actually would,
+22:45 including going quiet or getting
+22:47 aggressive. After each round, break
+22:49 character and tell me what I just gave
+22:52 away for free. Don't let me win because
+22:55 I'm the user."
+22:56 So,
+22:59 just, you know, easy way to to to to
+23:01 just win more deals, get get more out of
+23:03 them. Um and here's the prompt.
+23:07 Um we're going to do two more use cases
+23:09 and we're going to get into startup
+23:10 ideas.
+23:11 Um so
+23:13 you can get a 80-page second opinion
+23:17 with Fable 5. So because Fable 5
+23:20 actually reads tables now, footnotes,
+23:23 charts inside documents, it can see it.
+23:25 Um that's where the bodies are buried,
+23:27 right? Leases, term sheets, insurance
+23:29 policies, vendor contracts. People are
+23:31 seeing incredible uh
+23:35 I think it was Aaron Levie from Box
+23:36 actually said that uh just in terms of
+23:39 legal
+23:40 um
+23:42 you know, he he they've been seeing just
+23:44 incredible outputs from Fable 5. So um
+23:49 here's here's the prompt. Here's the
+23:51 full contract, every exhibit included.
+23:53 Read all of it, especially the tables
+23:55 and schedules. Three lists.
+23:58 What costs me money that isn't obvious?
+24:00 What I'd rather get in 18 months? And
+24:02 what's missing that should be here to
+24:03 protect me? Then tell me the three
+24:05 changes you'd request and exactly how to
+24:07 phrase the ask. Flag anything when I
+24:10 should pay where I should pay a real
+24:12 lawyer to look. Now, I'm not suggesting
+24:14 that you obviously just use AI to um
+24:20 to do your legal work. But let's be
+24:22 real. Law lawyers cost a lot of money.
+24:24 And if you're in a startup, every dollar
+24:26 counts. And some things, you know,
+24:29 I'm just speaking for myself. Some
+24:31 things I'm like, I I don't need to send
+24:33 uh I don't need to send this to a
+24:34 lawyer. And some things
+24:36 uh I just want to know where the flags
+24:38 are. So uh no matter if you're working
+24:40 with a lawyer or not, um
+24:42 you know, do your own research. I'm not
+24:44 saying that you shouldn't work with a
+24:45 real lawyer. I'm saying that
+24:48 even if you're working with a real
+24:49 lawyer, you should put it through Fable
+24:51 5 and say, "What are the flags?" And
+24:53 here's the prompt that you're going to
+24:54 need for that. Boom.
+24:56 Eight. Make it its own tools. This is
+24:59 the most meta one and it's the one that
+25:01 actually separates people who get it. Um
+25:04 so after you've used it after you use
+25:06 Fable 5 for a few weeks, just ask it to
+25:08 study the work and automate itself.
+25:11 Here's here's what I mean. You prompt
+25:12 it. You say, "Look back at everything
+25:15 I've asked you to do this month. Find
+25:17 the requests that repeat. Build yourself
+25:19 tools and reusable instructions for each
+25:22 one so next time it's one sentence
+25:24 instead of 10. Then tell me, based on
+25:27 what I keep asking, what should I be
+25:29 delegating to you that I'm still doing
+25:32 by hand like an animal?"
+25:34 Um and you'll be shocked. I've even done
+25:37 this just over the last 24 hours what
+25:39 you're been able to automate
+25:41 uh
+25:42 and and what you're able to and what
+25:43 kind of software you're able to create
+25:45 uh here.
+25:47 All right.
+25:48 Um I'm going to go over a few startup
+25:50 ideas that are only possible now with
+25:52 Fable 5.
+25:54 Um I have five. Um
+25:56 I'll include the full list and the full
+25:58 prompts in the in the description. I'm
+26:01 only going to have time to go over
+26:02 three. So we're going to go over uh my
+26:04 three favorite ones.
+26:06 Uh the first is a synthetic focus group
+26:09 firm. So D2C
+26:11 brands will spend like $50,000 on media
+26:13 before learning an ad doesn't work. So
+26:16 remember we talked about the copy
+26:17 tournament? Well, you run the tournament
+26:20 as a business. 50 ad variants judged
+26:23 overnight by panels built from the
+26:25 brand's actual customer reviews
+26:27 and then you charge something like
+26:29 $3,000 per launch and maybe that costs
+26:31 you $100 of tokens. And the brand's
+26:34 media buyer becomes your repeat
+26:35 customer. So this is only possible now
+26:38 because sub agents can hold distinct
+26:40 personas and argue instead of a model
+26:43 agreeing with itself. Okay, here's what
+26:45 I mean. Here's the prompt and this is by
+26:47 the way, this is just going to be
+26:48 helpful for anyone even if they
+26:51 uh
+26:52 don't want to use the startup idea, but
+26:53 if they're doing any paid ads
+26:55 themselves, this is going to be helpful,
+26:57 super helpful. So, you give it 500
+27:00 customer reviews. Here are 500 customer
+27:02 reviews for
+27:03 Athletic Greens and their 10 best ads.
+27:06 Build six customer personas from actual
+27:08 review language, not demographics. Then,
+27:11 take these 15 new ad concepts and have
+27:14 every persona score every ad. Would they
+27:17 stop scrolling? Would they click? What's
+27:19 their objection? Output a kill list, a
+27:22 launch list, and the one insight about
+27:24 this customer that the brand that the
+27:26 brand doesn't know. So, someone in the
+27:28 comment section, I can hear them I can
+27:30 hear them now. They're going to say,
+27:33 "Well, why wouldn't they the D2C brands
+27:36 just do that themselves? Like, if Fable
+27:37 5 exists,
+27:39 you know, they're just going to go and
+27:42 do it themselves. They're not going to
+27:43 need your service."
+27:46 Well,
+27:48 that's where you're wrong.
+27:50 Yes. Well, you're right and you're
+27:52 wrong. You're right in the sense that
+27:53 some of them are going to do themselves,
+27:55 but most of them are not. Most of them
+27:57 might be scrolling on Instagram and they
+27:59 see an ad for this and you hit them at
+28:02 the right time and you earn their trust
+28:06 and the and it works and they just get
+28:09 into the flow and and you're in the mix
+28:13 and you don't need that many clients to
+28:15 make a multi-million dollar business
+28:17 from it. So, [snorts]
+28:19 um yes, you're you're definitely right
+28:21 in the sense of
+28:23 um
+28:24 now anyone has these tools, people are
+28:26 going to use it, but they're, you know,
+28:28 the reality is not everyone's going to
+28:29 use it and that's your opportunity.
+28:32 Um and if you can build a funnel around
+28:34 it, there's a business there.
+28:37 Another idea,
+28:38 custom software in 48 hours. Maybe you
+28:41 call this idea like 48hoursoftware.com.
+28:44 Every med spa, contractor, and clinic
+28:46 runs on spreadsheets, group texts,
+28:49 because custom software costs like
+28:51 $80,000 a year. So, you sell them
+28:53 internal tools for $5,000 flat, and you
+28:56 build it in 2 days.
+28:57 The interview prompt is your sales call.
+29:00 You run it with the owner on a Zoom. The
+29:02 spec writes itself while they talk.
+29:05 Fable builds it after.
+29:07 Only possible now because it scopes big
+29:09 messes itself.
+29:13 Um and scoping was always the expensive
+29:14 part. So, I saw on X and it went viral
+29:18 that, you know, there was someone who
+29:20 was recording customer calls, and they
+29:22 built like the customer maybe was
+29:24 complaining or something, and they built
+29:26 an app while the customer was
+29:28 complaining. Let's get into the prompt.
+29:30 You're about to interview a bit uh
+29:33 you know, a med spa owner about the most
+29:35 annoying repeated process in their
+29:36 business. One question at a time, 12
+29:38 question max. In plain English, no tech
+29:41 words. Dig until you can describe their
+29:43 workflow better than they can. Then,
+29:45 write the spec for the smallest tool
+29:48 that kills the annoyance, build it, and
+29:50 write a one-page guide their least
+29:53 technical employee can follow. Now,
+29:55 you're creating internal software that
+29:58 they, you know, would have cost $80,000.
+30:01 Now, they're getting it for $5,000.
+30:03 You're probably spending a couple
+30:04 hundred dollars max on tokens if you're
+30:07 token maxing. Um so, the margins are
+30:10 incredible. Um and you can reinvest that
+30:12 money into the marketing to actually get
+30:15 people into this uh into this uh funnel.
+30:20 I want to give you one more startup
+30:22 idea. So, um
+30:25 it's a contract refund firm. So,
+30:26 mid-size companies sit on hundreds of
+30:29 vendor contracts, but nobody has read
+30:31 those since signing. Auto renewals,
+30:34 underused seats, prices that ratchet 8%
+30:36 a year. You read You read all of them,
+30:39 and then you get to paid 25% of the
+30:41 savings found. So, uh uh it's it's a
+30:45 free product unless you find money for
+30:47 them. It's only possible now with Fable
+30:50 because it reads the tables and
+30:51 schedules insides
+30:54 and schedules insides hundreds of PDFs
+30:56 without dying, which is exactly where
+30:58 the money hides. So, here's the prompt.
+31:00 Here are all of our vendor contracts and
+31:02 12 months of invoices. Cross-reference
+31:04 them. Find auto-renewals in the next 90
+31:07 days. Invoices that don't match
+31:09 contracted rates, seats we pay for but
+31:11 don't use, and the price escalators we
+31:14 can challenge. Rank by dollars. For the
+31:16 top 10, draft the exact email to the
+31:19 vendor, including the leverage we have
+31:21 and the number to ask.
+31:23 And I've got two more bonus startup
+31:25 ideas right here.
+31:27 So, there you have it.
+31:29 Um
+31:30 Fable 5,
+31:32 the most powerful model to ever come
+31:35 out. Um
+31:36 And we're in this honeymoon phase where
+31:39 we uh
+31:41 you know, it's included in a lot of our
+31:43 plans. Um that ends soon.
+31:46 Um
+31:47 but I think it's important for right now
+31:49 just to get really, really good at uh
+31:52 what are the prompts? What are the use
+31:54 cases? What are the opportunities now
+31:56 with Fable 5? Um
+31:58 so that, you know, once it's API token
+32:01 based, we know what what to use it for.
+32:03 So, that's why I made this video. I made
+32:05 This why That's why I made this episode.
+32:07 This episode um
+32:10 was designed to get your creative juices
+32:12 flowing around what is now possible in
+32:14 the world of Fable 5 because so much is
+32:17 possible.
+32:18 Um and I wanted to narrow in on some
+32:20 ideas that are just so high value that
+32:25 to make sure you're not using Fable 5
+32:27 wrong, you know? Um
+32:28 Now you'll know how to create copy
+32:30 better than anyone else. Now you had to
+32:32 know how to create landing pages better
+32:33 than anyone else. Now you know how to,
+32:37 you know different startup ideas going
+32:39 deep into data
+32:41 and and and how you can retool that
+32:44 those ideas and how you can use Fable 5
+32:46 to create create those those products.
+32:47 So hope this has been helpful. That's
+32:50 all I'm trying to do add value to your
+32:51 life.
+32:53 If you enjoyed this episode, please let
+32:55 me know in the comments. I read every
+32:57 single one
+32:59 and all I got to say is I'm rooting for
+33:02 you and I can't wait to see what you
+33:04 build. See you on the next one.
+33:05 Subscribe, like and comment for more.

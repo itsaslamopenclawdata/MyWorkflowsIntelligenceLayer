@@ -1,0 +1,613 @@
+0:00 For the last few years, the uh the
+0:02 prevailing consensus in artificial
+0:04 intelligence has kind of been that if
+0:06 you want a more capable model, you have
+0:07 to fundamentally alter its internal
+0:09 architecture.
+0:10 >> Right. Yeah. You assume you need to, you
+0:11 know, update the mathematical weights
+0:13 inside the neural network.
+0:14 >> Exactly. Like you run these incredibly
+0:17 expensive fine-tuning pipelines on
+0:19 massive clusters of GPUs and you
+0:21 aggressively iterate on the foundational
+0:24 training data. I mean, it is an invasive
+0:26 resource-heavy approach to capability
+0:29 improvement for whoever is building
+0:31 these things.
+0:32 >> And well, it's also an approach that's
+0:33 increasingly running into friction.
+0:35 Updating weights via fine-tuning is
+0:37 computationally expensive. Sure. But
+0:39 more importantly, it introduces this
+0:41 massive risk of
+0:44 um catastrophic forgetting.
+0:46 >> Oh, right. Where modifying the model for
+0:48 a new task accidentally breaks what it
+0:51 already knew.
+0:51 >> Exactly. You improve performance on task
+0:53 B, but it inadvertently degrades its
+0:56 performance on previously mastered task
+0:58 A. So the entire ecosystem has been
+1:00 searching for a way to achieve, you
+1:02 know, fine-tuning level performance
+1:03 gains without actually touching the
+1:05 model's weights.
+1:06 >> Which brings us to today. We are taking
+1:09 you on a deep dive into a framework that
+1:11 actually achieves exactly that. We're
+1:14 looking at a project page in a research
+1:16 paper out of Microsoft research. Uh it's
+1:18 titled Skilopt Executive Strategy for
+1:21 Self-Eolving Agent Skills
+1:23 >> and it operates right alongside a
+1:25 related project called Skillins which is
+1:26 also fascinating.
+1:27 >> Yeah. And our mission for this deep dive
+1:29 is to deconstruct what is honestly a
+1:32 rather profound paradigm shift. We are
+1:34 examining how models are learning to
+1:36 rewrite their own instruction manuals
+1:38 operating entirely in plain text to
+1:41 extract massively higher capabilities
+1:43 from their existing frozen weights. No
+1:46 uh no gradient descent required during
+1:48 deployment.
+1:49 >> To really appreciate the mechanics of
+1:50 scaleup we have to look at how they
+1:52 isolate the trainable state because you
+1:53 know in a traditional setup the
+1:55 trainable state is the billions of
+1:56 parameters within the model itself.
+1:58 >> Right. The math
+1:59 >> the math exactly but scaleop flips that
+2:02 architecture completely. It treats the
+2:03 target model its backend APIs and the
+2:05 entire execution harness as completely
+2:08 frozen.
+2:08 >> Wait let's pause on the term execution
+2:10 harness for a second just to make sure
+2:12 we are visualizing this architecture
+2:14 correctly. Cool.
+2:15 >> Because when we talk about an agent
+2:16 performing a complex task, say um
+2:20 navigating a file system or pulling data
+2:22 from a spreadsheet, the LLM isn't doing
+2:24 that in a vacuum, right?
+2:26 >> No, not at all.
+2:27 >> The harness is the surrounding software
+2:29 wrapper that takes the model's text
+2:31 output, executes it as a Python script
+2:34 or an API call, and feeds the result
+2:36 back into the model's context window. So
+2:39 by freezing the model and the harness,
+2:40 skill up is isolating the actual
+2:42 strategy the agent uses to interact with
+2:44 its environment.
+2:45 >> Right? And what's fascinating here is
+2:47 that we often conflate latent space
+2:49 capability with operational efficiency.
+2:52 A foundational model might have the raw
+2:54 latent knowledge required to perform say
+2:57 advanced data analysis,
+2:58 >> but it still bombs the benchmark.
+3:00 >> Exactly. It fails because its
+3:02 operational procedure is flawed. It
+3:04 might um call the wrong tool or fail to
+3:07 verify a really messy output or it just
+3:10 gets stuck in a repetitive loop when an
+3:11 API returns an error. The bottleneck
+3:14 isn't the model's intelligence, it is
+3:16 the model's executive strategy. So,
+3:19 Skilloft introduces an entirely separate
+3:21 optimizer model to systematically refine
+3:24 that strategy based on empirical
+3:26 evidence. And I look at this like, is
+3:27 this like handing an experienced pilot a
+3:30 highly optimized, dynamically updating
+3:32 pre-flight checklist? Like, you aren't
+3:34 teaching the pilot how to fly the plane.
+3:36 Their raw knowledge, their underlying
+3:38 weights are completely fixed.
+3:39 >> That's a great way to look at it. Yeah.
+3:41 >> Instead, you're systematically refining
+3:42 the exact sequence of steps they take in
+3:44 the cockpit based on an analysis of, you
+3:46 know, every single mistake they've made
+3:48 in past simulations. But I do have to
+3:49 ask, isn't an AI's intelligence
+3:51 fundamentally capped by its underlying
+3:53 weights?
+3:54 >> I mean, eventually, yes. But I would
+3:56 take your analogy a step further. It
+3:58 isn't just updating the checklist based
+3:59 on mistakes. It is employing a rigorous
+4:02 optimization loop to test, validate, and
+4:05 verify that the new checklist doesn't
+4:07 introduce secondary failures. The
+4:09 optimizer model is constantly running a
+4:11 localized search over the space of
+4:13 possible text instructions. Okay, let's
+4:15 unpack this because the idea of a
+4:17 textbased optimization loop sounds super
+4:20 elegant, but executing it without the
+4:23 prompt just devolving into chaotic
+4:25 conflicting instructions. I mean, that
+4:27 requires serious engineering.
+4:29 >> It really does.
+4:30 >> The paper outlines a four-step core loop
+4:32 to achieve this roll out, reflect, edit,
+4:34 and gate. And when you map these steps
+4:36 out, they deliberately mirror the
+4:38 architecture of traditional machine
+4:40 learning, just transposed into the
+4:42 medium of natural language. Yeah, they
+4:43 essentially built an auto
+4:44 differentiation graph using plain
+4:46 English
+4:47 >> which is wild. So I'll walk through the
+4:49 first half of that graph starting with
+4:50 the rollout phase. This functions as the
+4:53 forward pass. The system takes the
+4:55 frozen target model, equips it with the
+4:57 current iteration of the skill document
+4:59 and deploys it into the execution
+5:01 harness to tackle a batch of tasks
+5:03 >> and it logs everything,
+5:05 >> right? The system logs the entire
+5:07 trajectory, every single message
+5:08 generated, every tool called the
+5:11 intermediate steps, and obviously the
+5:13 final benchmark scores.
+5:14 >> And once those trajectories are logged,
+5:16 the system transitions into the reflect
+5:18 phase, which acts as the backward pass.
+5:21 The optimizer model analyzes many
+5:23 batches of those rollouts. But
+5:25 crucially, it doesn't just look at the
+5:27 failures.
+5:27 >> Oh, it doesn't. No, it runs a
+5:29 contrastive analysis between the
+5:31 successful rollouts and the failed
+5:32 rollouts within the same mini batch. The
+5:35 optimizer is tasked with identifying the
+5:37 specific procedural deviations that led
+5:39 to the failures. It isolates the root
+5:42 cause and drafts uh targeted insights on
+5:45 how the procedure can be adjusted
+5:46 without disrupting the successful
+5:48 trajectories.
+5:49 >> Okay, this brings us to step three, the
+5:51 edit phase, which is where I think the
+5:53 most critical engineering challenge
+5:54 lies. Wait, if the optimizer model is
+5:57 simply rewriting the skill document
+5:59 based on its reflections, what prevents
+6:02 it from just executing a massive
+6:04 sweeping rewrite that completely
+6:06 destabilizes the prompt? Like what stops
+6:08 it from accidentally deleting a crucial
+6:10 rule that already works?
+6:12 >> That is the big risk, right? The paper
+6:15 notes, they restrict this using an edit
+6:17 budget which functions as a textual
+6:19 learning rate.
+6:19 >> A textual learning rate.
+6:21 >> Yeah. So a standard optimizer updating
+6:23 mathematical weights uses a learning
+6:25 rate to bound the step size of any
+6:26 single update ensuring it doesn't you
+6:29 know overshoot the local minimum. Skill
+6:31 opt enforces a textual learning rate by
+6:33 strictly formatting the output space of
+6:36 the optimizer model.
+6:37 >> Interesting.
+6:38 >> The optimizer isn't allowed to just
+6:39 output a brand new document. It has to
+6:41 propose structured edits, specifically
+6:43 add, delete, or replace operations. And
+6:45 the edit budget places a hard cap on how
+6:47 many of those operations can be executed
+6:49 per step or how many lines can be
+6:50 altered.
+6:51 >> So it forces the optimizer to make
+6:53 surgical localized adjustments rather
+6:55 than wholesale revisions. It like
+6:57 restricts the exploration space to the
+6:59 immediate neighborhood of the current
+7:01 skill document.
+7:02 >> Exactly. It acts as a strict
+7:03 regularization term and that is paired
+7:05 with these really sophisticated memory
+7:07 components. When an edit is proposed, it
+7:09 isn't implemented blindly. It moves to
+7:11 the fourth step, the gate, which
+7:14 evaluates the newly edited document on a
+7:16 held out validation set.
+7:17 >> Oh, a validation set.
+7:19 >> Yeah. And if the overall performance on
+7:20 that held out set drops, the edit is
+7:23 rejected. But, and this is key, that
+7:25 rejected edit doesn't just disappear, it
+7:28 is stored in a rejected buffer,
+7:30 >> which acts as a form of negative
+7:32 contrastive learning for the optimizer
+7:34 in the next iteration.
+7:35 >> Precisely. During the next reflect
+7:36 phase, the optimizer model ingests that
+7:39 rejected buffer. it sees the exact text
+7:41 edit it attempted previously and the
+7:43 resulting performance drop. This
+7:44 physically prevents the optimizer from
+7:46 getting stuck in cyclical prompt
+7:48 oscillations where it, you know,
+7:50 continuously proposes the same flawed
+7:52 correction iteration after iteration.
+7:54 >> Here's where it gets really interesting,
+7:55 though. We can sit here and analyze the
+7:58 theoretical elegance of this textbased
+8:00 optimization loop all day, but the
+8:02 empirical data in this paper is what
+8:04 makes it a massive breakthrough for you
+8:06 and everyone following this space. The
+8:08 researchers evaluated Skill Opt across
+8:10 52 distinct settings and it cleared the
+8:13 strongest baseline in every single one
+8:15 of them.
+8:15 >> All of them.
+8:16 >> 52 out of 52. That's insane.
+8:18 >> The consistency of the results across
+8:20 such diverse environments is easily the
+8:22 most compelling aspect of the data. They
+8:24 didn't just test this on a single model
+8:25 architecture either.
+8:26 >> No, they evaluated it across seven
+8:28 different target models. They used
+8:30 frontier models like GPT 5.5, various
+8:33 GPT 5.4 four iterations and notably open
+8:37 weight models from the Quinn family. And
+8:39 they ran these through six highly
+8:41 complex benchmark,
+8:42 >> real complex environments.
+8:43 >> Yeah, we're talking about spreadsheet
+8:45 bench, which tests the model's ability
+8:47 to generate Python code to manipulate
+8:49 Excel files, ALF world, which requires
+8:51 complex sequential decision-making in
+8:53 simulated text environments, as well as
+8:55 search QA, Office QA, DOCV, VQA, and
+8:58 live math.
+8:59 >> It is really worth looking at the
+9:00 baseline methods they defeated to
+9:02 understand why this is so significant.
+9:04 methods like textrad, trace to skill,
+9:06 and GPA have attempted similar prompt
+9:09 optimization routines.
+9:10 >> Right?
+9:10 >> Textrad, for instance, attempts to back
+9:12 propagate textual gradients through LLM
+9:15 nodes, but SkillP outperforms them
+9:17 because those previous baselines often
+9:19 struggle with trajectory management.
+9:21 They lack the strict held out gating and
+9:23 rejected memory buffers we talked about,
+9:25 meaning they frequently overwrite
+9:27 successful instructions or they just
+9:29 overfit to narrow training
+9:31 distributions. Skill App's strict
+9:33 structural constraints allow it to
+9:35 consistently scale performance where
+9:36 other methods plateau
+9:38 >> and the performance deltas are
+9:40 staggering, just massive. On spreadsheet
+9:42 bench, running the Cloud Code execution
+9:44 harness with GPT 5.5 as a target, Skill
+9:47 Up drove a plus 58.3 point jump in
+9:50 performance.
+9:51 >> Wow.
+9:51 >> Yeah. And for the much smaller GPT 5.4
+9:54 Nancer running on DOCVQA, which is a
+9:57 visual question answering benchmark,
+9:59 they recorded a plus 49.4 point boost.
+10:01 But I think the data point that stands
+10:03 out the most involves the Quen 3.54B
+10:05 model.
+10:06 >> Oh, the 4 billion parameter one.
+10:07 >> Yes, that is a 4 billion parameter
+10:10 architecture which is incredibly
+10:12 compact. On the ALF world sequential
+10:15 decision-making benchmark, that specific
+10:18 model achieved a plus 50.7 point jump
+10:21 over its baseline. How does a model that
+10:24 small punch so far above its weight
+10:27 class? Well, if we connect this to the
+10:28 bigger picture, the Quinn result
+10:30 beautifully illustrates the core thesis
+10:32 of the paper. A 4 billion parameter
+10:34 model possesses a baseline level of
+10:37 logical reasoning. Right. Right.
+10:38 >> But in an environment like ALF world, it
+10:40 is quickly overwhelmed by the multi-step
+10:42 context window and the procedural
+10:45 complexity of navigating the simulation.
+10:46 >> It just loses track of what it's doing.
+10:48 >> Exactly. Right. But by offloading the
+10:50 burden of executive strategy onto this
+10:52 hyperoptimized external skill document,
+10:54 the model's native weights are freed up
+10:55 to focus entirely on immediate
+10:57 execution. The skill document provides
+10:59 the procedural scaffolding that the
+11:01 model's native architecture just cannot
+11:02 maintain on its own.
+11:03 >> It is essentially giving a smaller model
+11:05 the working memory and strategic
+11:07 foresight of a much larger model simply
+11:09 by supplying it with better text. To
+11:11 really grasp the mechanics of how that
+11:13 scaffolding is built, we need to look
+11:14 under the hood at a specific run. The
+11:16 paper details the evolution of a skill
+11:18 document on that ALF world benchmark
+11:20 using GPT 5.4 mini as the frozen target
+11:24 model and the larger GPT 5.5 as the
+11:27 optimizer. Over the course of the
+11:29 optimization run, the selection score on
+11:31 the validation set rose from 68.6%
+11:34 to 81.4% and the final rigorous
+11:37 benchmark test score improved from 70.9%
+11:40 to 85.8%. And you know the actual
+11:42 semantic content of the rules generated
+11:44 during that run is highly illuminating.
+11:47 The optimizer isn't generating abstract
+11:49 philosophies. It is writing highly
+11:51 specific operational directives based on
+11:53 observed trajectory failures.
+11:55 >> Yeah, I actually pulled some of the
+11:56 exact rules from the final bestkell
+11:58 markdown file they generated. The
+12:00 optimizer added a rule stating count any
+12:02 generic target receptacle instances
+12:04 valid.
+12:04 >> Very specific.
+12:05 >> Super specific. Another addition read,
+12:08 "Keep a strict numbered searched set and
+12:10 do not recheck observed locations." And
+12:13 my personal favorite, which it derived
+12:15 after the agent kept getting stuck in
+12:17 repetitive search loops, was broaden
+12:19 search after several misses in one
+12:21 location type.
+12:22 >> Nice.
+12:23 >> The optimizer systematically diagnosed
+12:25 the miniodel's tendency to loop, and it
+12:28 literally injected a strict procedural
+12:30 circuit breaker into the text prompt to
+12:33 override that behavior. And the paper
+12:35 backs up the necessity of these specific
+12:37 rules through extensive ablation
+12:39 studies. They dismantled the system
+12:41 component by component to prove that the
+12:43 performance gains weren't just, you
+12:45 know, a byproduct of having a smart
+12:46 optimizer model writing prompts.
+12:48 >> Oh, like they tested what happens if you
+12:50 take the safeguards away.
+12:51 >> Yeah, exactly. When they removed the
+12:53 textual learning rate, which allowed the
+12:55 optimizer to make unbounded edits
+12:56 performance drop significantly across
+12:58 search QA, spreadsheet bench, and live
+13:01 math. When they removed the rejected
+13:03 edit buffer, the optimizer lost its
+13:05 negative contrastive capability
+13:06 resulting in severe performance
+13:08 regressions.
+13:08 >> Okay, I actually noticed an anomaly in
+13:11 the data charts for the ALF world run
+13:13 that I think highlights the importance
+13:15 of that gate component. [snorts] The
+13:16 chart tracks both the training rollout
+13:19 score, which is how well the model is
+13:20 performing on the practice tasks, and
+13:22 the selection gate score, which measures
+13:24 performance on the unseen validation
+13:26 tasks. At step four of the training
+13:29 loop, the training score spiked higher
+13:31 than it had at any previous point. Yet,
+13:34 the system rejected the edit. It threw
+13:36 it out completely. Doesn't that mean the
+13:38 system is flawed if it throws out a
+13:39 higher score?
+13:40 >> This raises an important question about
+13:42 distribution shifts during training. And
+13:44 honestly, it highlights why the skill
+13:46 opt architecture is so robust. What you
+13:48 observed at step four is the optimizer
+13:51 successfully gaming the training
+13:52 distribution.
+13:53 >> Gaming it.
+13:54 >> Yes. The optimizer model discovered a
+13:56 text edit that perfectly solved the
+13:58 specific quirks of the practice
+13:59 rollouts. It maximized the training
+14:01 score. But when that heavily tailored
+14:04 skill document was passed through the
+14:05 heldout gate, it failed to generalize to
+14:07 the unseen selection questions. The
+14:09 performance dropped.
+14:10 >> Oh wow. So by rejecting step four, the
+14:13 system prioritizes generalized
+14:15 capability over local maximization. It
+14:17 actively prevents the agent from
+14:19 essentially memorizing the syntax
+14:21 required for the training set at the
+14:22 expense of true operational utility.
+14:24 >> Exactly. And the systems resilience is
+14:26 further demonstrated by how it recovers
+14:28 from those rejections. The paper details
+14:31 that at step three, the system initiated
+14:33 what they call a slow update. After
+14:36 observing several rejected edits, the
+14:38 optimizer utilized its update memory to
+14:40 run a broader longitudinal comparison.
+14:42 >> It's a slow update,
+14:43 >> right? It synthesized a broader search
+14:45 memory update that avoided regressions
+14:46 and consolidated it into the new best
+14:48 skill. Yeah,
+14:49 >> the update memory functions almost like
+14:51 a momentum term in an atom optimizer,
+14:53 smoothing out the optimization
+14:54 trajectory over time.
+14:56 >> Which brings us to the deployment phase
+14:58 and what I consider the ultimate flex of
+15:00 the skill opt framework transferability.
+15:03 We have spent this entire deep dive
+15:05 discussing the complexities of the
+15:06 training loop, the rollouts, the
+15:08 reflections, the edit budgets, the
+15:09 memory buffers. But when it comes time
+15:11 to actually deploy the agent to
+15:13 production, all of that infrastructure
+15:15 is stripped away. The deployment is zero
+15:18 overhead.
+15:19 >> It is entirely unbloated. The end
+15:20 product of this complex computationally
+15:22 intensive optimization loop is simply a
+15:25 single compact markdown file. The target
+15:28 model ingests best skill.md in its
+15:30 system prompt and that is it.
+15:32 >> And because the optimized strategy is
+15:34 encoded purely in natural language
+15:36 rather than mathematical weights, it
+15:38 becomes universally portable. The
+15:40 researchers tested this crossmodel
+15:41 transferability and the implications are
+15:43 profound. They took a live math skill
+15:45 document that had been iteratively
+15:47 optimized specifically for the GPT 5.4
+15:50 model. They took that resulting text
+15:52 file and dropped it into the system
+15:53 prompt of the much smaller GPT 5.4 nano
+15:56 model.
+15:56 >> Completely different model size,
+15:58 >> completely different. And without
+15:59 running any additional optimization
+16:01 loops on the nano model, it instantly
+16:03 registered a plus 15.2 twopoint
+16:06 performance gain on the benchmark
+16:08 >> because the procedural strategy is
+16:10 abstracted away from the specific model
+16:12 architecture. They even took it a step
+16:14 further by demonstrating cross harness
+16:16 transferability. They trained a skill
+16:19 document on spreadsheet bench using the
+16:21 codeex execution harness. They then
+16:23 extracted that skill document and
+16:25 deployed it inside the entirely
+16:27 different cloud code execution harness.
+16:29 The result was a plus 31.8 point
+16:32 performance gain.
+16:33 >> That's crazy. The optimizer isn't just
+16:36 exploiting the idiosyncratic quirks of a
+16:38 specific API or a specific model. It is
+16:40 discovering universally robust
+16:42 computational strategies.
+16:44 >> So what does this all mean? I mean the
+16:45 data point that really crystallizes the
+16:47 potential of this framework is the
+16:48 self-optimization test. The researchers
+16:50 isolated the small GPT 5.4 nano model.
+16:53 Instead of pairing it with a massive
+16:54 frontier model like GPT 5.5 to act as
+16:57 its coach, they configured the nano
+16:58 model to act as its own optimizer,
+17:00 >> which is a huge test.
+17:01 >> It is. It had to execute the rollouts,
+17:04 reflect on its own failures, manage its
+17:06 own edit budget, and propose its own
+17:08 structural revisions.
+17:10 >> And despite being constrained by its
+17:11 smaller parameter count, that
+17:13 self-optimization loop still generated a
+17:16 plus 10.4 point improvement on the
+17:19 spreadsheet bench baseline. That result
+17:22 is critical because it proves that skill
+17:24 opt is not merely a distillation
+17:26 pipeline.
+17:26 >> Right. It's not just copying the
+17:28 homework of a smarter model.
+17:29 >> Exactly. If this were simply
+17:31 distillation, the weaker model could
+17:32 only learn by copying the output of a
+17:34 stronger model. [snorts] But because the
+17:36 editing loop itself, the stringent
+17:38 gating, the memory buffers, the
+17:39 structured diffs forces, rigorous
+17:41 empirical validation, even a match
+17:43 target is optimizer setup can
+17:45 systematically discover novel effective
+17:47 procedures that neither model could
+17:49 produce zero shot. The structural rigor
+17:51 of the text loop drives the
+17:53 intelligence. As we synthesize the
+17:55 findings of this deep dive, I want you
+17:57 to consider the broader shift occurring
+17:59 in how we scale artificial intelligence.
+18:02 For years, the default assumption has
+18:04 been that achieving the next tier of
+18:06 reliability and complex reasoning
+18:08 required massive capital expenditures
+18:10 like training entirely new foundational
+18:12 models from scratch or running endless
+18:14 fine-tuning pipelines.
+18:16 >> Like burning a lot of energy.
+18:17 >> Oh, a ton of energy. But Skill Up proves
+18:19 that a massive reservoir of latent
+18:21 capability is already sitting dormant
+18:23 inside our existing models, trapped
+18:26 behind inefficient executive strategies.
+18:29 By treating natural language as a
+18:30 trainable state and applying the
+18:32 rigorous optimization loops of
+18:34 traditional machine learning to plain
+18:35 text, advanced AI efficiency becomes
+18:38 accessible without altering a single
+18:40 mathematical weight.
+18:41 >> We are um we're basically moving from a
+18:43 paradigm of structural engineering to
+18:45 one of procedural engineering. We're
+18:47 leveraging the universality of natural
+18:48 language to bridge the gap between a
+18:50 model's latent knowledge and its
+18:52 operational execution.
+18:54 >> Which leaves me with a final provocative
+18:56 thought for you to explore on your own.
+18:58 We have discussed how these optimization
+19:00 loops generate highly specific localized
+19:02 text edits, iteratively refining the
+19:05 procedure until it achieves benchmark
+19:07 dominance. But if AI models continue to
+19:10 flawlessly optimize their own natural
+19:12 language instructions, running millions
+19:14 of reflections, validating thousands of
+19:17 edit budgets, and discovering
+19:18 hyperefficient procedural shortcuts that
+19:20 human prompt engineers would never even
+19:22 conceptualize, will these best skill
+19:24 markdown files eventually evolve into an
+19:27 entirely new AI native programming
+19:30 language?
+19:30 >> That is a wild thought,
+19:32 >> right? A language that utilizes standard
+19:34 English vocabulary but is structurally
+19:36 optimized in ways. so alien and so
+19:38 perfectly calibrated for the specific
+19:40 latent space of an LLM that human
+19:42 engineers may eventually struggle to
+19:44 comprehend why the text works so
+19:46 effectively. We may soon be operating in
+19:48 an era where the most critical software
+19:49 in the world is written by AI for AI
+19:52 using English as the compiler.

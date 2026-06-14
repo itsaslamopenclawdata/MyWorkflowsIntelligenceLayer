@@ -1,0 +1,654 @@
+0:01 [snorts]
+0:03 [music]
+0:06 >> Imagine writing like a set of
+0:08 instructions so precise that a machine
+0:10 executes them flawlessly without a
+0:12 single error.
+0:13 >> Right, which sounds great.
+0:14 >> Yeah, only for you to realize the
+0:15 machine just built a highly engineered,
+0:17 perfectly sound bridge to absolutely
+0:20 nowhere.
+0:21 >> It's
+0:22 It's basically the modern developer's
+0:24 ultimate monkey's paw scenario. You get
+0:26 exactly what you ask the system to do,
+0:28 but not at all what you actually wanted.
+0:30 >> Exactly. And that paradox is exactly
+0:33 what we are tackling in our deep dive
+0:34 today. We're exploring how to stop AI
+0:37 from perfectly executing the completely
+0:40 wrong idea.
+0:41 >> Which is a huge problem right now.
+0:43 >> It really is. So, our source material
+0:44 today is this fascinating case study
+0:46 from Anthropic. It's about a startup
+0:48 called Code Rabbit. Uh they were founded
+0:50 back in 2023, and they built an AI code
+0:53 review platform using the Claude model
+0:55 family to power this massive agent
+0:57 orchestration system.
+0:58 >> Yeah, and the sheer vantage point they
+1:00 have on this problem is I mean, it's
+1:02 staggering.
+1:03 >> 2 million pull requests a week.
+1:05 >> Right, 2 million across 15,000
+1:08 customers.
+1:09 Processing that volume of data gives
+1:11 them a god's eye view of where human AI
+1:13 interaction is breaking down at scale.
+1:15 >> And just to define that term quickly for
+1:18 anyone who might be,
+1:20 you know, rusty on their software
+1:21 development cycles. A pull request is
+1:23 essentially a formal proposal to change
+1:26 a code base.
+1:27 >> Exactly. It's a developer saying to
+1:29 their team, uh here's my new code.
+1:31 Please review it before we merge it into
+1:33 the main application.
+1:34 >> So, 2 million times a week, Code Rabbit
+1:37 is watching developers try to merge
+1:39 AI-assisted code into real-world
+1:41 applications.
+1:43 Okay, let's unpack this because before
+1:44 we can get into the uh brilliant
+1:46 orchestration system Code Rabbit
+1:47 engineered, we really have to look at
+1:49 the trap they discovered.
+1:50 >> The perfect wrong code track.
+1:52 >> Right. As AI coding tools have gotten
+1:54 faster, they've collapsed the time it
+1:56 takes to go from a brainstorm to a
+1:57 working prototype, but a very weird
+1:59 failure mode emerged right alongside
+2:01 that speed.
+2:02 >> Yeah, what stands out in the data is
+2:04 that the most frequent failure in these
+2:06 AI-generated pull requests is not broken
+2:08 code.
+2:08 >> It really it's not like syntax errors.
+2:11 >> No, not at all. We aren't talking about
+2:13 syntax errors or infinite loops. The
+2:15 code compiles. It passes the automated
+2:18 tests. The machine is thrilled.
+2:20 >> The machine gives itself a gold star.
+2:22 >> Exactly.
+2:23 But the human is staring at the screen
+2:25 totally frustrated because the
+2:27 underlying business problem wasn't
+2:29 solved.
+2:29 >> Right. And David Locker, who is the VP
+2:32 of AI at Code Rabbit, looked at this and
+2:34 pinpointed the cause entirely upstream
+2:37 of the AI model itself.
+2:38 >> Meaning the failure happens before the
+2:41 AI even starts typing.
+2:42 >> Yes.
+2:43 >> That is the core issue. If you look at
+2:44 human psychology,
+2:46 experienced professionals, whether
+2:47 senior developers, architects, or
+2:49 lawyers,
+2:50 they internalize massive amounts of
+2:52 contextual knowledge over their careers.
+2:54 >> Oh, for sure.
+2:55 >> When two senior developers talk to each
+2:56 other, they use a shorthand. They skip
+2:58 steps in their explanations because they
+3:00 share the same foundational reality, you
+3:03 know, and the same assumptions.
+3:04 >> And the fatal flaw in current AI
+3:06 workflows is that developers
+3:08 instinctively assume the AI shares that
+3:11 internalized context.
+3:12 >> Exactly. They write prompts that leave
+3:14 out what feels blindingly obvious to
+3:16 them.
+3:17 >> But when an AI is given a, you know, a
+3:19 vague prompt with missing context, it
+3:22 doesn't pause and ask for clarification.
+3:24 >> Nope. It just calculates what is
+3:26 statistically plausible and fills in the
+3:28 blanks.
+3:29 >> Which leads to spectacular
+3:30 misunderstandings.
+3:32 The source material actually has the
+3:33 story from David Locker that perfectly
+3:35 captures the frustration.
+3:37 He was working on a personal side
+3:40 project, spending hours iterating back
+3:42 and forth with an AI agent to build a
+3:44 complex memory system for an app.
+3:47 >> Okay.
+3:47 >> And they refine the architecture, the
+3:49 agent writes the code, and it runs
+3:50 flawlessly on the back end. A totally
+3:52 successful technical implementation.
+3:54 >> Right.
+3:54 >> But then Locker asks the agent, "Okay,
+3:56 how does a user actually log in to this
+3:58 system?" And the AI replies, "Oh, you
+4:00 just pass a user token to this
+4:01 endpoint."
+4:02 >> Oh, wow. A response that completely
+4:03 misses the human element of the
+4:05 software.
+4:05 >> Exactly. And just to translate that
+4:07 jargon for a second, passing a user
+4:09 token to an endpoint means the AI built
+4:12 an invisible digital handshake for a
+4:15 machine to authenticate itself.
+4:16 >> Right, it built a secure back end vault.
+4:18 >> Yes.
+4:19 The problem was Locker needed a visual
+4:22 web page where a human being could
+4:24 actually type in a password.
+4:26 But because he only specified that the
+4:28 system required users and didn't
+4:30 explicitly write the words users need a
+4:32 login screen, the AI skipped the human
+4:35 interface entirely.
+4:37 >> It just invented a plausible back end
+4:39 workaround and called it a day.
+4:40 >> Exactly.
+4:41 >> The AI built the vault but forgot the
+4:43 front door.
+4:44 >> And this um this brings us to the true
+4:46 cost of that assumption. Because what
+4:49 happens in software development is that
+4:50 you keep building on top of that
+4:51 foundation.
+4:52 >> Right. You construct the entire house
+4:54 before you realize there's no way to get
+4:56 inside.
+4:56 >> Exactly. In an AI-driven workflow, late
+4:58 validation is incredibly expensive.
+5:01 Discovering a fundamental
+5:02 misunderstanding after the code is
+5:03 written, integrated, and tested means
+5:06 you often have to tear down the entire
+5:07 structure and start over from scratch.
+5:09 >> So, if the problem happens before the
+5:11 code is written,
+5:13 then the solution has to live there,
+5:14 too.
+5:14 >> And that leap is what leads to Code
+5:16 Rabbit's orchestration layer.
+5:18 They designed a system that physically
+5:20 sits between the user's initial coding
+5:23 request and the AI agent that eventually
+5:26 writes the code.
+5:26 >> They inserted a mandatory planning
+5:28 system in front of the execution.
+5:29 >> Yeah, it acts as an intervention. This
+5:32 planning system analyzes the
+5:33 requirements and actively hunts for
+5:36 those hidden implicit assumptions before
+5:38 any code is generated.
+5:40 >> Which is brilliant.
+5:41 >> I have to admit, though, when I was
+5:42 reading this part of the case study, I
+5:44 had an immediate reaction of skepticism.
+5:47 Because here's where it gets really
+5:48 interesting. If you know the Claude
+5:49 ecosystem, you know Claude Code already
+5:51 has something called plan mode built
+5:53 into it.
+5:54 >> Right, it does.
+5:54 >> So why go through all the engineering
+5:56 effort to build a whole separate
+5:59 orchestration layer on top of what the
+6:00 model natively does? I mean, isn't that
+6:02 just adding unnecessary corporate
+6:04 bureaucracy to a tool that's supposed to
+6:06 be fast?
+6:08 >> It's a very fair pushback.
+6:09 >> Yeah.
+6:10 >> And honestly, a very natural reaction
+6:12 for anyone who hates red tape.
+6:13 But the distinction Code Rabbit makes
+6:16 here is crucial. This orchestration
+6:18 layer isn't replacing Claude Code's
+6:20 tactical plan mode.
+6:21 What they built is a much higher-level
+6:24 strategic alignment tool. It generates
+6:26 what is essentially a collaborative
+6:28 product requirements document, or a PRD.
+6:31 >> Oh man, for anyone who has worked in
+6:33 product management, that acronym just
+6:34 gave them a shiver down their spine.
+6:36 >> I know, I know, it sounds so formal. But
+6:39 that formality is the point. This
+6:42 higher-level orchestration happens
+6:43 first. Its entire job is to force all
+6:46 those implicit assumptions out of the
+6:48 developer's head and onto the page.
+6:50 >> To create a highly explicit direction.
+6:51 >> Exactly.
+6:53 Only after that PRD is validated and
+6:55 agreed upon by the human stakeholders,
+6:57 does Claude Code pick it up. Then Claude
+7:00 uses its own tactical plan mode to
+7:02 figure out the fine-grained
+7:03 implementation details, like which
+7:05 specific files to edit.
+7:07 >> Oh, I see the difference now. The
+7:08 orchestration layer decides the what and
+7:10 the why, and then Claude Code decides
+7:11 the how.
+7:12 >> Yes.
+7:13 >> And there's a fascinating byproduct to
+7:14 doing it this way. The plan becomes a
+7:16 shared artifact. It captures the entire
+7:18 context of the decision-making process
+7:20 up front.
+7:21 >> Which is huge for teams.
+7:22 >> Right. Think about the long-term value
+7:24 of that.
+7:25 >> Yeah.
+7:25 >> Six months from now, when you need to
+7:27 onboard a new engineer, you don't just
+7:29 throw them into a massive pile of raw
+7:30 code and say, "Good luck."
+7:32 >> Right. You hand them the explicit
+7:34 planning artifact that explains exactly
+7:36 why the architecture looks the way it
+7:38 does. It's like leaving a detailed map
+7:41 for the people who inherit your work.
+7:43 >> That makes total sense, but that
+7:44 introduces a massive logistical hurdle,
+7:46 doesn't it?
+7:47 >> Also.
+7:47 >> Well, building a highly analytical
+7:49 planning system that interrogates user
+7:51 intent requires a lot of processing
+7:53 power. If Code Rabbit is doing this for
+7:55 2 million pull requests a week, how do
+7:58 they pull off that level of cognitive
+8:00 heavy lifting without burning through an
+8:03 astronomical amount of time and money?
+8:05 >> Yeah, that is the engineering challenge
+8:07 of our era, right? Scaling AI reasoning
+8:10 without bankrupting the company.
+8:12 >> Because making a large language model
+8:14 think deeply is expensive.
+8:16 >> Exactly. And Code Rabbit solved this by
+8:18 rejecting the idea that one AI model
+8:20 should do everything. Instead, they
+8:22 route tasks across the different tiers
+8:25 of the Claude model family based
+8:26 strictly on the complexity of the task.
+8:28 They're constantly optimizing for both
+8:30 cost and latency.
+8:32 >> You know, it reminds me of running a
+8:33 high-end restaurant kitchen.
+8:35 >> Oh, that's a good analogy.
+8:36 >> Yeah, if you have a world-class
+8:37 executive chef, you do not want them
+8:39 standing in the back room for 4 hours
+8:41 chopping 50 lb of onions.
+8:43 >> Right, you are wasting their unique
+8:45 talent and your budget.
+8:46 >> You need that executive chef out front
+8:48 designing the menu and pairing the
+8:50 flavors.
+8:51 >> That kitchen hierarchy
+8:53 maps perfectly to how Code Rabbit uses
+8:56 the Claude models.
+8:56 >> Okay, lay it out for me.
+8:58 >> So, at the top you have Claude Opus.
+9:00 Opus is your executive chef. It drives
+9:02 the main orchestration loop, handles the
+9:04 highest-level strategic work, and
+9:06 designs the architecture.
+9:08 >> So, Opus writes the menu. It does the
+9:10 heavy cognitive lifting to understand
+9:12 the messy human problem.
+9:14 >> Exactly.
+9:15 But, Opus doesn't then execute every
+9:17 single step. It hands that grand
+9:19 strategy down to Claude Sonnet. Sonnet
+9:21 acts as the kitchen manager or the sous
+9:23 chef.
+9:24 It takes the Opus recipe and sequences
+9:27 it into highly structured actionable
+9:29 prep stations. It organizes the workflow
+9:31 so the kitchen runs smoothly.
+9:33 >> Okay, so Opus designs the menu, Sonnet
+9:35 organizes the prep stations. Where does
+9:38 the fastest model, Claude Haiku, fit
+9:40 into the kitchen?
+9:41 >> Haiku is your line cook.
+9:43 Haiku handles the narrowly scoped,
+9:45 highly repetitive operations. Things
+9:47 like context distillation, which
+9:49 essentially means summarizing massive
+9:51 blocks of text into readable chunks.
+9:53 >> Oh, or got you.
+9:54 >> Or targeted tool use, where the
+9:55 instructions are incredibly specific.
+9:57 Basically, if you just need someone to
+9:59 chop the onions as fast as possible,
+10:01 Sonnet hands that task to Haiku.
+10:03 >> Because Haiku is blazing fast and
+10:05 incredibly cost-effective compared to
+10:07 Opus.
+10:08 >> Right. And David Locker is very clear
+10:10 about their philosophy here. If Haiku
+10:11 can do a specific task as well as
+10:13 Sonnet, they use Haiku. They don't just
+10:15 guess which model feels right. They
+10:17 measure the performance of every single
+10:19 step.
+10:19 >> Which just brings up a really critical
+10:20 question about measurement. So, they
+10:22 have this beautifully tiered efficient
+10:24 kitchen generating these high-level
+10:26 product requirement plans.
+10:29 But how do you actually measure the
+10:31 quality of an abstract idea? Like, how
+10:33 do you know an AI-generated plan is good
+10:35 before you let it write the code?
+10:37 >> Yeah, that was the biggest roadblock
+10:38 they hit.
+10:39 >> Because Code Rabbit already had a very
+10:42 mature infrastructure for reviewing
+10:44 finished code.
+10:46 But evaluating the output of a planning
+10:48 phase is entirely different. They had to
+10:50 build an entirely new engineering
+10:52 project just to measure the plan.
+10:54 >> They literally had to build a machine to
+10:55 grade the machine.
+10:56 >> They did. They created this massive
+10:58 evaluation harness. They started
+11:00 old-school with human engineers
+11:03 hand-tuning examples and manually
+11:05 inspecting the plans.
+11:06 >> Right.
+11:06 >> But eventually, they automated it by
+11:08 building a library of LLM judges.
+11:10 >> Okay, stop right there cuz I have to
+11:11 challenge this. Using an LLM to judge
+11:14 another LLM's plan sounds incredibly
+11:16 risky to me.
+11:16 >> Oh, totally.
+11:17 >> Like, how does an AI model act as a
+11:19 judge without just hallucinating its own
+11:21 biases or, you know, hallucinating a
+11:23 fake standard of quality?
+11:25 >> It's a completely valid concern.
+11:27 And the secret is in how you constrain
+11:29 the judge. You don't just hand the LLM a
+11:31 plan and ask is this good?
+11:33 >> Yeah.
+11:33 >> That is way too subjective.
+11:35 >> Right. That invites hallucination.
+11:36 >> Exactly.
+11:38 Instead, Code Rabbit feeds the LLM judge
+11:40 a strictly deterministic rubric.
+11:43 The judge acts more like an inspector
+11:45 with a checklist.
+11:46 >> Oh, okay.
+11:47 >> at the original prompt and the proposed
+11:49 plan and evaluates binary states. Like,
+11:52 did the plan address the database
+11:53 migration? Yes or no?
+11:55 >> Okay, I see.
+11:56 >> Did it include the security parameters
+11:58 requested? Yes or no?
+11:59 >> So, it's removing the creativity from
+12:01 the judgment process and turning it into
+12:03 a strict compliance check.
+12:05 >> Precisely. And through this evaluation
+12:07 harness, they uncovered a massive
+12:08 tension.
+12:09 >> What was that?
+12:10 >> Finding the right level of detail for
+12:12 these plans was much harder than they
+12:13 expected. They called it finding the
+12:15 working level of abstraction.
+12:17 >> [sighs and gasps]
+12:17 >> Because if the plan is too specific, it
+12:19 shatters the moment reality hits it.
+12:21 >> Yes. If a plan is too granular, say the
+12:24 AI dictates, change line 42 of the user
+12:26 authentication file to read exactly this
+12:28 string of text. That plan goes stale
+12:30 almost instantly.
+12:31 >> Why?
+12:32 >> Because the moment another developer on
+12:34 your team commits a minor change to that
+12:36 file,
+12:37 maybe they just add a comment, and line
+12:39 42 suddenly becomes line 45, the entire
+12:42 AI plan breaks.
+12:44 It's too brittle.
+12:45 >> Oh, of course. But if you swing the
+12:47 pendulum the other way and the plan is
+12:49 too high-level and vague, you end up
+12:51 right back at the original monkey's paw
+12:53 problem.
+12:53 >> Exactly.
+12:54 >> You leave room for the AI agent to start
+12:56 filling in the blanks with its own
+12:57 assumptions, and you're back to building
+12:59 a secure vault with no front door.
+13:02 >> That is the core tension. The evaluation
+13:04 harness was the only way they could run
+13:06 thousands of tests to find that
+13:08 Goldilocks zone. You know, a plan
+13:10 explicit enough to prevent assumptions,
+13:12 but resilient enough to survive the
+13:14 natural shifts of a living code base.
+13:16 >> So, how did they ultimately prove this
+13:18 massive investment in orchestration
+13:20 layer actually move the needle?
+13:21 >> By measuring the downstream results.
+13:23 Because these plans eventually produce
+13:25 code, Code Rabbit could run the exact
+13:27 same user requests twice.
+13:28 >> Oh, nice. An AB test?
+13:30 >> Right. Once with the new planning step
+13:32 and once without it. Then they look at
+13:34 the hard metrics. Did the final code
+13:36 actually work? Did the AI invent extra
+13:39 scope that the user didn't ask for?
+13:42 >> Which happens all the time.
+13:43 >> All the time. And crucially, how many
+13:45 computational tokens did it take?
+13:48 >> And by computational tokens, we mean the
+13:49 underlying currency of AI processing
+13:52 power.
+13:52 >> Right. Did the AI spin its wheels and
+13:55 waste compute, or did it get straight to
+13:57 the solution?
+13:58 >> And the results obviously validated
+14:00 their approach. Catching an error in the
+14:02 blueprint stage means the downstream
+14:03 code is vastly cleaner. The plan acts as
+14:06 a team-wide quality gate.
+14:08 >> It fundamentally shifts the cost curve
+14:10 of how software is developed.
+14:12 >> Okay, so we've looked at how a massive
+14:14 startup processing millions of requests
+14:16 engineers this at an enterprise scale.
+14:18 But I want to bring this down to earth
+14:19 for a minute.
+14:20 >> Sure.
+14:20 >> Because when you sit down at your laptop
+14:21 tomorrow to prompt an AI, whether you
+14:23 are writing code, drafting a legal
+14:25 brief, or outlining an essay, you
+14:27 probably don't have a tiered kitchen of
+14:29 Claude models and an automated library
+14:32 of LLM judges waiting in the wings to
+14:33 score your ideas.
+14:35 >> Right. You might not have the enterprise
+14:36 infrastructure, but the methodology is
+14:38 universal.
+14:39 >> Yeah.
+14:40 >> The Code Rabbit team actually distilled
+14:42 their insights into four highly
+14:44 actionable best practices for anyone
+14:46 interacting with an AI model.
+14:48 >> Oh, perfect. So, what does this all mean
+14:50 for you, the listener, the next time you
+14:53 sit down to prompt an AI?
+14:56 Let's break those down, cuz this is the
+14:57 playbook.
+14:57 >> Okay. So, step one is to be relentlessly
+15:00 explicit about the outcome you're trying
+15:02 to create.
+15:03 >> Okay.
+15:03 >> You can't just stop at the basic
+15:05 specifications. You need to define what
+15:07 they call the MPP, the maximum possible
+15:09 product.
+15:10 >> You're meaning define the absolute
+15:12 boundaries of the final state.
+15:14 >> Exactly.
+15:14 >> I am totally guilty of failing at this,
+15:16 by the way. I'll ask an AI to like
+15:18 analyze this data and give me the
+15:20 insights, but I don't define the MPP.
+15:22 >> Right, you just leave it open-ended.
+15:23 >> Yeah. I don't say, "Analyze this data
+15:26 and output the insights as a
+15:27 three-column table formatted for a slide
+15:29 deck, assuming the audience has no
+15:30 technical background." Because if you
+15:32 don't define the container, the AI will
+15:34 just spill the information everywhere.
+15:35 >> That is a perfect example of a missing
+15:37 MPP. You have to paint the entire
+15:39 picture.
+15:40 >> Okay, what's step two?
+15:41 >> Step two is where you put the AI to work
+15:44 evaluating itself.
+15:45 >> Mhm.
+15:46 >> Once you give Claude your highly
+15:47 explicit prompt, you actively
+15:49 interrogate it.
+15:50 >> Wait, how do you mean?
+15:51 >> You ask it, "What is missing from this
+15:53 request?
+15:54 Are there any parts of my plan that are
+15:56 relying on implicit assumptions rather
+15:58 than explicit specifications?"
+16:01 >> I always wondered about the mechanics of
+16:02 this. Does asking an AI to find its own
+16:05 mistakes actually work? Like, doesn't it
+16:07 just agree with you because it's
+16:08 designed to be helpful and agreeable?
+16:10 >> You would think so, but mechanically it
+16:13 works incredibly well because of how
+16:14 large language models function.
+16:16 >> Okay, explain that.
+16:17 >> Well, LLMs are essentially predicting
+16:19 the next word based on the context of
+16:21 your prompt. If your prompt is just
+16:24 build the system, the context window
+16:26 drives the model to predict execution
+16:29 steps. But when you explicitly ask,
+16:31 "Critique this plan and find my
+16:33 assumptions," you're forcing the model
+16:35 to shift its attention mechanism.
+16:37 You activate the pathways in its neural
+16:39 network associated with debugging,
+16:41 analysis, and critical review.
+16:44 It changes the model's stance from a
+16:45 builder to an editor.
+16:47 >> Oh, that is fascinating. You are
+16:49 literally shifting its cognitive gears.
+16:51 >> Mhm.
+16:52 >> Which feeds perfectly into step three,
+16:53 mapping the parameters.
+16:54 >> Yes. Step three is to ask Claude to
+16:57 identify edge cases or workflows that
+16:59 you, the human, might have forgotten.
+17:01 >> Because we all have blind spots.
+17:03 >> Exactly. We tend to design for the happy
+17:06 path where everything goes right. You
+17:08 need to let the AI highlight the
+17:09 scenarios you didn't anticipate. What
+17:11 happens if the user inputs a negative
+17:13 number? What happens if the server times
+17:15 out?
+17:15 >> And the final practice ties all together
+17:17 into a tangible asset.
+17:18 >> Right. Step four, create a record of
+17:21 work. Save your planning artifacts.
+17:23 Before you let the AI write a single
+17:25 line of code or draft the full document,
+17:28 finalize the agreed upon plan and save
+17:30 it somewhere. That chronicle of intent
+17:32 becomes your baseline.
+17:33 >> It's like writing a contract with
+17:34 yourself before the project starts.
+17:36 >> Yes. If the final output looks wrong,
+17:39 you can go back to that baseline and
+17:40 say, "Wait. Did the AI hallucinate or
+17:43 did I actually ask for the wrong thing?"
+17:45 >> Exactly. It is the only reliable way to
+17:47 validate that the final output matches
+17:50 your original intent.
+17:51 >> So, to summarize the ultimate lesson
+17:53 from Code Rabbit's massive experiment,
+17:55 planning quality strictly determines
+17:57 output quality.
+17:58 >> 100%.
+17:59 >> If you want better code, sharper essays,
+18:01 or a deeper analysis from an AI, you
+18:04 have to invest the friction up front.
+18:05 You have to build a highly explicit
+18:07 plan. You simply cannot throw a
+18:09 half-baked, assumed idea at a machine
+18:11 and expect it to serve you a
+18:13 Michelin-star meal.
+18:14 >> You really can't. And there is a final
+18:16 concept from Code Rabbit's operating
+18:18 thesis that is definitely worth mulling
+18:20 over.
+18:21 >> Let's hear it.
+18:21 >> They noted that as these AI models
+18:23 continue to improve at an exponential
+18:25 rate, the literal cost of generating
+18:27 code is rapidly approaching zero.
+18:30 >> Wow.
+18:30 >> It is becoming virtually free to write a
+18:32 thousand lines of perfectly formatted
+18:34 code in seconds.
+18:36 >> So, the execution part of the job is
+18:38 becoming a commodity.
+18:39 >> Exactly.
+18:40 But because execution is so fast and so
+18:43 cheap, the cost of moving in the wrong
+18:45 direction suddenly becomes your absolute
+18:47 biggest expense.
+18:49 The time and energy wasted undoing
+18:51 perfect code that solves the wrong
+18:53 problem,
+18:54 that is what will bankrupt a project
+18:56 today.
+18:57 >> Oh, wow. It fundamentally flips the
+18:59 value proposition of human labor.
+19:01 >> It does.
+19:01 >> In a near-future world where an AI can
+19:04 technically build almost anything
+19:06 instantly, and the typing itself is
+19:08 practically free, knowing what to say
+19:10 becomes priceless?
+19:12 >> Absolutely.
+19:12 >> It makes you wonder if the most valuable
+19:14 technical skill left is simply the
+19:16 deeply human ability to explicitly
+19:18 communicate exactly what we want.
+19:20 >> it just might be.
+19:21 >> Thank you so much for joining us on this
+19:23 deep dive. Take these planning
+19:24 strategies, slow down your workflow just
+19:26 a little bit, and try them out on your
+19:28 next project. We'll catch you next time.
+19:31 >> [music]

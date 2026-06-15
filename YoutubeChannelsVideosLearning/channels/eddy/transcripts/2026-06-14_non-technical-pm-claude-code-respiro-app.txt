@@ -1,0 +1,648 @@
+# (Podcast) How a Non Technical Founder Built a Top iOS App with Claude Code
+# Channel: Eddy Says Hi #EddySaysHi
+# Video ID: Tc3zHU6ITUQ
+# URL: https://www.youtube.com/watch?v=Tc3zHU6ITUQ
+# Generated: 2026-06-15
+# Format: HH:MM:SS text
+
+0:01 [snorts]
+0:03 [music]
+0:06 >> Picture this. You are sitting at your
+0:07 desk, right? And you're
+0:11 uh maybe 15 minutes away from jumping
+0:13 onto this massive high-stakes video
+0:16 call.
+0:16 >> Oh man, the worst feeling. The
+0:17 pre-interview sweat.
+0:19 >> Exactly. It's a huge interview, maybe
+0:21 the most important one of your career.
+0:23 You're running through your talking
+0:24 points, hyper-focused, just staring at
+0:26 the screen.
+0:27 >> zoned in.
+0:28 >> Right. And you don't even realize that
+0:30 your heart rate has quietly skyrocketed.
+0:33 Your breathing has gone completely
+0:34 shallow. You are incredibly stressed,
+0:37 but you're just too in your own head to
+0:38 even notice it.
+0:39 >> Because you're just, you know, you're in
+0:40 survival mode at that point.
+0:42 >> Completely. But suddenly your phone
+0:44 buzzes on the desk. You glance down, and
+0:46 it's a notification. And it says, "Mate,
+0:48 you can just go and do a short box
+0:50 breathing session." Box breathing has
+0:51 previously helped you de-stress.
+0:53 >> See that level of um immediate
+0:56 contextual awareness from a piece of
+0:58 tech is just wild. It completely shifts
+1:00 the paradigm of wellness applications.
+1:02 >> It really does.
+1:03 >> We are moving away from those, you know,
+1:05 scheduled passive reminders and moving
+1:07 toward active real-time biometric
+1:10 intervention.
+1:11 >> And that notification is actually from
+1:13 an app called Respiro.
+1:15 So, for this deep dive, we're looking at
+1:16 a blog post from May 1st, 2026. It's
+1:20 from Anthropic's Day Zero Founder
+1:23 Stories.
+1:24 >> They are a great series, yeah.
+1:26 >> Yeah, it's fascinating. We are exploring
+1:28 the story of Respiro and its creator,
+1:29 Kostyantyn Flosenco.
+1:31 Our mission today is to unpack this like
+1:34 fundamental [snorts] shift in how
+1:36 technology is actually being created
+1:37 right now.
+1:38 >> Right, because the old rules just don't
+1:39 apply anymore.
+1:40 >> Exactly. We are seeing traditional
+1:42 project management skills rapidly
+1:44 replacing traditional coding skills. And
+1:46 Kostyantyn is basically the ultimate
+1:48 case study for this.
+1:49 >> He really is.
+1:49 >> a project manager from Ukraine who had
+1:52 absolutely zero programming experience.
+1:54 I mean, he had never written a single
+1:55 line of code in his life.
+1:57 >> None. Zero.
+1:58 >> Yet he built and shipped this highly
+2:00 complex real-time stress management app
+2:03 to the iOS App Store in just 6 weeks
+2:05 using Claude code.
+2:07 >> Which is just I mean, it's mind-blowing.
+2:09 To understand the magnitude of shipping
+2:11 a native iOS application in 6 weeks with
+2:13 zero programming background, we really
+2:15 have to look at his day job.
+2:16 >> Right. Mythical Games.
+2:17 >> Yeah. Exactly. He spent 10 years as a
+2:20 project manager there in Kyiv.
+2:22 And uh project management in the gaming
+2:24 industry is notoriously high-pressure.
+2:27 >> Oh, I can only imagine.
+2:29 The deadlines in gaming are brutal.
+2:32 >> Yeah, you are constantly managing
+2:33 stakeholder expectations. You're
+2:35 navigating these tricky team dynamics,
+2:38 and you're just racing against this
+2:39 relentless pace of product releases.
+2:42 >> So, dealing with that kind of daily
+2:44 pressure means you obviously need a
+2:46 rock-solid coping mechanism.
+2:48 >> You have to, or you burn out.
+2:49 >> Right. And Kostyantyn relied heavily on
+2:52 breathing techniques and mindfulness.
+2:55 But he ran into this massive frustration
+2:57 with the existing tools on the market.
+2:59 >> issue.
+3:00 >> Exactly. The mindfulness apps out there
+3:02 would just like ping him to do deep
+3:04 breathing at 10:00 p.m.
+3:05 >> Which is I mean, that is practically
+3:07 useless if the actual moment of acute
+3:09 stress happened at 2:00 p.m. during some
+3:12 chaotic product meeting.
+3:14 >> Totally useless. The apps just didn't
+3:15 understand when he was actually stressed
+3:16 in the moment.
+3:17 >> Right. So, he was on vacation in the
+3:19 mountains of Western Ukraine when the
+3:21 concept for Aspiro finally, you know,
+3:23 crystallized for him.
+3:25 >> epiphany.
+3:25 >> Yeah. Exactly. He wanted to build an app
+3:28 that reads real-time stress signals from
+3:30 personal devices and intervenes exactly
+3:33 when the user needs it. He just um he
+3:35 lacked the technical capability to
+3:37 physically write the software.
+3:39 >> But he did know how to manage work.
+3:41 I mean, it at his day job, he'd already
+3:44 been using Claude to automate his
+3:46 project management tasks, right?
+3:48 >> Right. Like updating Jira tickets and
+3:49 posting meeting notes into Slack. Normal
+3:51 PM stuff.
+3:52 >> Exactly. And he had recently started
+3:55 playing around with the Claude code
+3:56 command line interface. He was watching
+3:59 how his engineering team used Claude to
+4:01 write code, and he realized that his
+4:03 decade of managing real people
+4:05 translated perfectly to managing AI
+4:07 agents inside a development environment.
+4:09 >> huge mindset shift.
+4:11 >> Okay, let's unpack this for a second
+4:12 because it sounds like prompt
+4:13 engineering is essentially just the new
+4:15 middle management.
+4:16 >> That is a great way to put it, yeah.
+4:17 >> It's like It's like being a seasoned
+4:19 head chef who suddenly gets a fully
+4:21 automated robotic kitchen. You don't
+4:24 need to know how to physically chop the
+4:26 onions or sear the steak yourself, you
+4:27 know? You just need to know exactly what
+4:30 the final dish should taste like and how
+4:32 to direct the kitchen to achieve it.
+4:34 >> What's fascinating here is that his lack
+4:36 of traditional coding experience meant
+4:38 he completely bypassed all the usual
+4:40 friction points.
+4:41 >> Oh, like overthinking the code.
+4:43 >> Exactly. A trained engineer often gets
+4:45 bogged down in the syntax or, you know,
+4:47 they start debating specific programming
+4:49 languages or agonizing over the minutia
+4:52 of the code structure.
+4:53 >> Or I think it lost in the weeds.
+4:55 >> But Kostyantyn viewed the AI not as a
+4:57 tool, but as a team of workers. He was
+5:00 just doing what he'd always done, which
+5:02 is managing a team to execute a vision.
+5:05 >> And his literal first prompt reflects
+5:07 that perfectly. He actually jokes that
+5:09 he essentially just typed uh "Hey
+5:11 Claude, just give me an application that
+5:13 will make me less stressed."
+5:14 >> I love that. It's so simple.
+5:15 >> Right. He conceptualized something in
+5:17 his head, described it, and just began
+5:20 generating a functional prototype.
+5:21 >> And the timeline of that initial build
+5:24 is just staggering. He built the first
+5:27 version of Respiro in just 72 hours for
+5:30 the Claude Opus 4.6 hackathon.
+5:33 >> Which he ended up winning, by the way.
+5:35 >> Yeah, he won it. Three days to go from a
+5:37 blank screen to a functional real-time
+5:39 biometric application.
+5:41 >> But I mean, he didn't achieve that by
+5:43 just asking one single AI to do
+5:45 everything in one massive block of text.
+5:47 >> No, no, that would never work.
+5:49 >> Because he was thinking like a project
+5:50 manager, he researched how agent systems
+5:53 work.
+5:54 >> Mhm.
+5:54 >> And then he used Claude to build out
+5:56 this really complex multi-agent
+5:58 architecture.
+5:59 >> Yeah, the source mentions he had 15 or
+6:01 more specialized sub-agents all running
+6:03 in parallel.
+6:04 >> 15. He spun up like a TCA architect
+6:07 agent, a dedicated Swift developer
+6:09 agent, a metal specialist for the
+6:11 graphics and hardware acceleration, and
+6:13 even a code reviewer.
+6:14 >> He instantly hired an entire senior
+6:16 engineering department.
+6:17 >> Okay, here's where it gets really
+6:19 interesting though, and I have to push
+6:20 back a little on this whole frictionless
+6:22 narrative.
+6:22 >> Okay, sure.
+6:23 >> Because managing 15 distinct AI agents
+6:25 sounds like absolute chaos to me. I
+6:28 mean, surely he hit a wall.
+6:30 How does a system that complex not just
+6:32 constantly break the build or overwrite
+6:34 each other's work or get hopelessly
+6:36 confused?
+6:37 >> Well, they avoid chaos through strict
+6:40 modularity and defined roles, which
+6:42 Konstantin orchestrated beautifully.
+6:44 >> Okay, how so?
+6:45 >> You mentioned the TCA architect agent
+6:47 earlier, right? TCA stands for the
+6:49 composable architecture.
+6:50 >> Right.
+6:51 >> It is a specific framework for building
+6:53 iOS applications that strictly separates
+6:55 the state of the app, the business
+6:57 logic, and the user interface.
+6:59 >> Oh, I see. So, it forces them into
+7:00 lanes.
+7:01 >> Exactly. By forcing the AI to use TCA,
+7:04 Konstantin ensured that the agents were
+7:06 working in completely isolated silos.
+7:09 So, the metal specialist who's dealing
+7:10 with Apple's hardware-accelerated
+7:12 graphics is only touching the rendering
+7:14 code. It literally cannot accidentally
+7:16 break the core logic.
+7:17 >> Okay, so they aren't all just like
+7:19 fighting over the same document.
+7:21 >> No, they're passing contexts like a
+7:23 relay race.
+7:24 The Swift developer agent writes a
+7:26 module, and then the code reviewer
+7:28 agent, which is specifically prompted to
+7:30 check against Apple's human interface
+7:32 guidelines and performance standards,
+7:34 reviews it.
+7:35 >> And if there's a bug?
+7:36 >> If there is an error, the reviewer kicks
+7:39 it back to the developer agent to fix,
+7:40 all without Konstantin having to read a
+7:42 single line of the output.
+7:44 >> Wow. So, he's just watching the
+7:46 terminal.
+7:46 >> Yeah, just monitoring the workflow and
+7:48 ensuring the final feature matches his
+7:50 overarching product requirement.
+7:52 >> And that structural discipline is
+7:54 actually what saved him when he had to
+7:57 execute this massive technical pivot.
+7:59 Because, you know, he initially built
+8:02 this minimum viable product using a
+8:03 framework called React Native.
+8:05 >> Right, for the hackathon.
+8:06 >> Yeah. But, he didn't actually own an
+8:08 Android phone to test it on. So, he had
+8:10 Claude code rewrite the entire
+8:12 application from scratch into Swift in
+8:15 just a few hours.
+8:16 >> Which is wild.
+8:17 >> It sounds like sci-fi.
+8:19 For anyone listening who isn't, you
+8:20 know, deep into mobile development,
+8:22 React Native is a web-based framework.
+8:25 It uses JavaScript components to
+8:27 basically simulate an app so it can run
+8:30 on both Apple and Android devices.
+8:32 >> Right, it's very different from native
+8:33 code.
+8:34 >> Exactly.
+8:35 Because Swift is Apple's native compiled
+8:38 programming language. They have
+8:40 completely different syntax, totally
+8:42 different memory management, and
+8:43 different structural paradigm.
+8:44 >> Yeah, they don't map one-to-one at all.
+8:46 >> Right. So, in traditional software
+8:48 development, a full language rewrite
+8:50 from React Native to native Swift is a
+8:52 nightmare project. It takes a dedicated
+8:54 engineering team months of planning, QA
+8:57 testing, and debugging.
+8:58 >> And he did it in a few hours.
+9:00 >> A few hours. Doesn't the AI ever get
+9:02 confused when things get that complex?
+9:04 >> Well, the fact that he accomplished a
+9:05 full rewrite in a few hours proves that
+9:08 generating the raw logic of the
+9:09 application is practically solved. The
+9:11 actual friction in modern development
+9:13 lies in deployment now.
+9:15 >> Getting it out of the real world.
+9:16 >> Exactly, getting that code out of the
+9:18 editor.
+9:19 Kostyantyn had never navigated the Apple
+9:22 developer program to actually ship an
+9:24 app. He had never set up complex
+9:26 third-party platforms.
+9:27 >> Right, which are always a headache.
+9:29 >> The source highlights his use of Sentry,
+9:31 which is a tool for error logging, and
+9:33 Amplitude for user analytics.
+9:35 Integrating these platforms requires
+9:37 installing specific software development
+9:39 kits or SDKs.
+9:41 >> And usually navigating those notoriously
+9:43 clunky, confusing enterprise dashboards
+9:46 to generate API keys.
+9:48 >> Ugh.
+9:49 >> Yeah, the dashboards are always the
+9:50 worst part. But when he got stuck on
+9:52 those enterprise interfaces, he didn't
+9:54 try to type out a long explanation of
+9:56 his problem.
+9:57 >> No, he did something much smarter.
+9:59 >> He leveraged Claude's vision
+10:00 capabilities. He literally just took a
+10:01 screenshot of the confusing interface,
+10:04 fed it to Claude, and asked, "Hey, what
+10:05 should I press here?"
+10:06 >> And the source notes that when he gave
+10:08 Claude an API key and a screenshot of
+10:10 the setup page, the AI got it right 99%
+10:13 of the time on the very first try.
+10:15 >> That is incredible.
+10:16 >> For that remaining 1%, he just had to
+10:18 refine his prompt slightly and try
+10:20 again.
+10:21 Visual AI really bridges that massive
+10:24 gap between generating code in a vacuum
+10:26 and deploying a real product.
+10:28 >> Because you aren't just asking the AI to
+10:31 write logic anymore.
+10:32 >> Exactly. You are asking it to look at a
+10:34 user interface, understand the visual
+10:36 hierarchy of a third-party website, and
+10:39 literally guide you through the clicks.
+10:41 >> He specifically mentioned getting lost
+10:43 trying to create an API token on Meta's
+10:46 developer interface, which by the way is
+10:48 a famously labyrinthine dashboard.
+10:51 >> Oh, it's a nightmare to navigate.
+10:53 >> It really is. But the AI acted like a
+10:55 senior developer sitting right over his
+10:57 shoulder. It analyzed the screenshot,
+10:59 drew a mental box around the right menu
+11:01 item, and just guided him through the
+11:02 administrative friction.
+11:04 >> But once that administrative friction
+11:05 was cleared and the app was live in the
+11:07 App Store, Koshy Antin hit a completely
+11:09 different kind of wall.
+11:10 >> Right, the post-launch reality check.
+11:12 >> Yeah. In the Anthropic day zero
+11:14 questionnaire, they ask him what he
+11:16 would have done differently. And he
+11:17 explicitly states his biggest
+11:19 realization is that building the product
+11:21 is now the easy part.
+11:22 >> Which is a crazy thing to say after what
+11:24 he just did.
+11:24 >> Right. But tools like Claude have
+11:27 completely democratized the creation
+11:29 process. They've brought the barrier to
+11:31 entry for making high-quality software
+11:34 down to near zero.
+11:35 >> So, the actual hard part is
+11:36 communicating the product's value and
+11:38 getting people to care that it exists.
+11:40 >> Exactly.
+11:41 >> Because if anyone can build a native iOS
+11:43 app in a weekend, the App Store is going
+11:45 to be completely flooded. Standing out
+11:47 requires a dedicated marketing arm.
+11:50 >> And since he didn't have one, he just
+11:51 pivoted his AI workforce again.
+11:53 >> The AI essentially became his entire
+11:55 growth and data department.
+11:57 >> He needed to understand user behavior to
+11:59 iterate on the product. So, Vlad didn't
+12:01 just integrate the basic Amplitude SDK
+12:04 into the code base, it acted as a data
+12:06 scientist.
+12:07 >> Wow.
+12:07 >> It set up the full user funnels, the
+12:09 retention metrics, and the active
+12:11 tracking for daily and monthly users. It
+12:14 gave him the exact dashboard he needed
+12:16 to see where users were dropping off in
+12:18 the stress relief exercises.
+12:20 >> He also needed content to drive
+12:21 awareness.
+12:22 >> Yep.
+12:23 >> Okay.
+12:23 >> Vlad started writing his blog posts and
+12:25 even helped him script out videos for
+12:27 TikTok.
+12:28 >> But, the most impressive part of this
+12:30 marketing phase, to me, was a growth
+12:33 strategy that Kostyantyn admits he never
+12:35 would have thought of on his own.
+12:36 >> Oh, the B2B2C strategy.
+12:38 >> Yes. The AI analyzed the landscape and
+12:42 suggested that instead of just fighting
+12:43 the algorithmic noise on social media,
+12:46 he should execute a B2B2C strategy,
+12:48 business-to-business-to-consumer.
+12:50 >> It advised him to reach out directly to
+12:52 psychologists and mindfulness
+12:54 practitioners.
+12:54 >> Right, because the hypothesis was that
+12:56 if the app is genuinely effective at
+12:58 intervening during acute stress,
+13:00 clinical professionals are the perfect
+13:02 distribution channel.
+13:03 >> They would recommend Respiro directly to
+13:05 their actual clients.
+13:06 >> Bypassing the need for viral consumer
+13:08 marketing completely.
+13:10 And Kostyantyn tried the outreach, and
+13:12 it actually worked. Practitioners began
+13:14 recommending his app.
+13:15 >> Which brings up a really fascinating
+13:16 point.
+13:17 >> Yeah.
+13:18 >> If we connect this to the bigger
+13:19 picture.
+13:20 >> Uh.
+13:21 >> The AI is acting as the lead developer
+13:23 architecting Swift, it's the data
+13:25 analyst building Amplitude funnels, and
+13:27 D, is the chief marketing officer
+13:29 designing practitioner outreach
+13:30 strategies.
+13:31 >> Right.
+13:32 >> So, at this point, what is the human
+13:34 actually doing?
+13:35 >> Well, I look at it as the human
+13:36 providing the taste, you know, the
+13:39 strategic direction and the relentless
+13:41 consistency to keep pushing the project
+13:44 forward when it gets tedious.
+13:45 >> That's spot on. In that same
+13:47 questionnaire, they ask him who inspires
+13:49 him.
+13:50 And he doesn't name a famous programmer
+13:52 or some tech CEO.
+13:53 >> Who does he name?
+13:54 >> He names LeBron James and Warren
+13:56 Buffett.
+13:56 >> Oh, wow. That's unexpected.
+13:58 >> Right, but it makes perfect sense.
+14:00 Neither of them achieve greatness just
+14:02 through fleeting explosive talent. They
+14:04 built their legacies through extreme
+14:06 patience, long-term discipline, and
+14:08 clarity of thinking over decades.
+14:11 >> So, when the AI can do all the heavy
+14:12 lifting of execution, the differentiator
+14:15 between the successful founder and an
+14:16 unsuccessful one is just that.
+14:19 Discipline and vision.
+14:20 >> Exactly. Kostyantin provides what he
+14:22 calls the autonomous by design vision.
+14:25 >> Which he noted is actually the working
+14:27 title for a book about his startup
+14:29 journey, right?
+14:29 >> Yeah. The human holds the rudder and the
+14:32 AI rows the boat.
+14:33 >> I love that analogy. But, you know,
+14:35 Kostyantin didn't just keep this founder
+14:37 mode mindset isolated to his side
+14:39 project.
+14:40 This way of working inevitably bled over
+14:43 into his day job at Mythical Games.
+14:46 >> The culture clash.
+14:47 >> Yeah. It creates this fascinating
+14:49 culture clash that really speaks to the
+14:52 current moment we're in in the tech
+14:53 industry.
+14:54 Because without having a traditional
+14:56 programming background, he is now
+14:58 actively committing code releases and
+15:00 shipping features directly for his
+15:02 company.
+15:02 >> Which is, I mean, it must have been a
+15:04 shock to the system there.
+15:05 >> Totally. He became this internal
+15:07 advocate for AI-driven development. He
+15:10 shared his specific Claude folder and
+15:12 his workflows with his engineering team.
+15:14 >> And the results were pretty polarizing
+15:16 from what I understand.
+15:17 >> Very. A small internal team at the
+15:19 company formed that now delivers their
+15:20 work entirely through Claude, fully
+15:22 adapting his methods.
+15:23 >> Mhm.
+15:24 >> But Konstantin observed that traditional
+15:26 engineers really struggled with this
+15:27 transition.
+15:28 >> Which makes perfect psychological sense
+15:30 if you think about it.
+15:31 >> Yeah, how so?
+15:31 >> Well, if a developer has spent 10 years
+15:34 mastering the granular syntax of a
+15:35 programming language, their entire
+15:38 professional identity is tied to
+15:40 controlling every single line of code.
+15:42 >> Right, it's their craft.
+15:44 >> Exactly. So, letting go of that control,
+15:47 trusting an AI agent to write the logic
+15:49 while they just manage the output,
+15:51 causes a massive identity crisis.
+15:53 >> Whereas Konstantin found it completely
+15:55 natural precisely because he lacked that
+15:58 deep programming background. He had no
+16:00 preciousness about the code itself.
+16:02 >> He only cared about the outcome.
+16:03 >> Right. And we see this reflected in his
+16:05 current daily routine, which is just so
+16:07 relatable. He finishes his day job as a
+16:09 PM and then logs seven or eight hours of
+16:11 coding sessions for his bureau.
+16:13 >> But his setup is so low-key.
+16:15 >> It is. His environment looks nothing
+16:16 like a traditional hacker movie. He's
+16:18 working 70% of the time on a MacBook.
+16:20 He's got his cat sitting on the desk.
+16:22 He's listening to true crime and founder
+16:24 podcasts in the background. And he only
+16:26 has about five browser tabs open at any
+16:28 time.
+16:29 >> Five tabs? That's the most impressive
+16:30 part.
+16:31 >> Honestly, yeah. And from that relaxed
+16:33 environment, he's actively building out
+16:36 massive new features like voice-guided
+16:38 practices and motion exercises for the
+16:41 next release all from a product roadmap
+16:44 that Claude helped him write.
+16:46 He even calls Claude code his new
+16:48 addiction.
+16:50 >> This raises an important question though
+16:51 about adaptability.
+16:52 >> Right, because what does this all mean
+16:54 for the listener who, you know, just
+16:56 spent four years getting a rigorous
+16:57 computer science degree? Are deep,
+16:59 granular coding skills actually becoming
+17:02 a liability if the engineer cannot learn
+17:05 to let go of the steering wheel and
+17:06 abstract their thinking?
+17:08 >> It's a tough pill to swallow. A deep
+17:10 understanding of computer science
+17:11 principles like how data structures
+17:13 work, how systems scale, how security
+17:15 protocols function, that will all remain
+17:18 incredibly valuable.
+17:19 >> But the day-to-day work is changing.
+17:21 >> Yes. The definition of what it means to
+17:22 be technical is fundamentally shifting
+17:25 up a level. It is moving from writing
+17:27 syntax to orchestrating systems.
+17:29 >> Orchestration over syntax.
+17:31 >> Exactly. The engineers who thrive will
+17:34 use their deep expertise to architect
+17:36 better prompts, design more robust
+17:38 multi-agent systems, and verify the AI's
+17:41 output with a highly critical eye.
+17:44 >> But if an engineer's only value
+17:45 proposition is knowing where the
+17:47 semicolons go,
+17:48 >> they will face a very difficult
+17:50 transition. The premium is now on
+17:52 architectural thinking and project
+17:54 management, which is exactly why a PM
+17:56 like Kostyantin could leapfrog the
+17:58 traditional development process.
+18:00 >> So, to bring this deep dive to a close,
+18:02 let's just look at the massive paradigm
+18:04 shift we've just unpacked here.
+18:06 The historical barrier between having a
+18:07 great idea and actually shipping a
+18:10 functional product has essentially been
+18:12 leveled.
+18:14 >> We just walked through how Kostyantin
+18:15 Placentko took a fleeting idea he had
+18:17 while on a mountain vacation, a stress
+18:19 app that actually read your biometrics
+18:21 and knows when you're stressed, and
+18:23 turned it into a live App Store product
+18:25 with hundreds of users in just 6 weeks.
+18:27 >> Not by learning to code, but by learning
+18:29 to manage AI like a team of human
+18:31 experts.
+18:32 >> Right. He used multi-agent architecture
+18:34 to build the code. He used vision
+18:36 capabilities to navigate the deployment
+18:38 and marketing platforms. And he used his
+18:40 human vision to keep the whole project
+18:42 on track.
+18:43 >> Yeah.
+18:43 >> And the tools he used are available to
+18:45 you right now on the exact same laptop
+18:47 or phone you use every day.
+18:49 >> The friction of creation is just gone.
+18:51 The era of needing a specialized
+18:53 technical co-founder to test a basic
+18:55 software hypothesis is effectively over.
+18:58 >> For decades, the tech industry has told
+19:00 us that building software is an
+19:01 exclusive club. That if you don't speak
+19:04 the language of code, you just can't
+19:05 participate. As we've seen today, that
+19:08 narrative is obsolete.
+19:09 >> It's a new world.
+19:10 >> But this leaves us with an entirely new
+19:12 challenge to mull over as you go about
+19:14 your day.
+19:15 If execution is now functionally free,
+19:17 if a non-technical project manager can
+19:19 build a 15-agent software architecture
+19:21 in 72 hours, what happens when 10
+19:24 million people do exactly that?
+19:25 >> Yeah, what's the differentiator then?
+19:27 >> Exactly. When the barrier to creating
+19:29 perfect software drops to zero, the
+19:31 simple ability to build will no longer
+19:33 make you special. So, in an ocean of
+19:35 infinite perfectly coded applications,
+19:37 what idea are you currently holding back
+19:40 on simply because you've convinced
+19:41 yourself you weren't technical enough to
+19:43 build it?
+19:46 >> [music]

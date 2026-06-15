@@ -1,0 +1,565 @@
+# Free AI Agent, Claude Code Replacement & 7 Other Launches
+# Channel: The Next New Thing
+# Video ID: 7TT2aM_DdTk
+# URL: https://www.youtube.com/watch?v=7TT2aM_DdTk
+# Generated: 2026-06-15
+# Format: HH:MM:SS text
+
+0:00 Today I got the easiest way to install
+0:01 the most powerful agent on your
+0:03 computer. Even your mom could do it and
+0:05 even your smartest friends are going to
+0:06 love how powerful this is. If you don't
+0:08 want to pay for expensive AI models,
+0:09 I've got a free one that is super
+0:11 powerful that will fit on your computer
+0:12 for free. Oo. And if you've been using
+0:14 Fable 5 and it's burning up tokens, I've
+0:16 got a plan for you for saving them and a
+0:19 simple tool that will make it easy for
+0:21 your agents to have access to your
+0:22 websites without sharing your passwords
+0:24 with them. All that and so much more in
+0:26 news you missed this week. Let's get
+0:27 started. Presented by Zapier, the AI
+0:30 automation company. We got AI releases
+0:32 that you probably missed this week.
+0:33 There's a lot going on. Let's get right
+0:34 into it. This is my absolute favorite
+0:36 one. Hermes is on the desktop. If you
+0:39 wanted an agent and the whole terminal
+0:40 experience felt a little rough for you,
+0:42 this is the one that will make it so
+0:44 accessible that it's like any other app.
+0:46 In fact, I feel like it's like Claude
+0:47 Co-work and I feel comfortable putting
+0:49 it on my main device, though I have it
+0:51 on a secondary device, too. Here is a
+0:54 quick video showing you what you could
+0:55 do with it. have Quen every 20 minutes
+0:58 going and reading Reddit.
+1:00 >> This is, by the way, his cron jobs. It's
+1:02 so easy now. Cron jobs. I think they
+1:03 should just call it scheduled tasks now
+1:05 because they're making it more user
+1:06 friendly, right?
+1:07 >> Reading X, searching for other people's
+1:10 challenges. And I'm going to show you
+1:11 what it builds for me here. And I'm
+1:14 going to show you how I take it a step
+1:15 further. Now, if you want to emulate
+1:17 this, you 100% should.
+1:20 You don't need you don't need to do this
+1:21 every 20 minutes if you're using like a
+1:23 cloud. The reason why this works so well
+1:25 with Quen locally is it's free. So I can
+1:28 have it do it as much as
+1:30 >> and we've got a new story about a free
+1:32 model that you can put on pretty
+1:33 inexpensively.
+1:33 >> I want if you're using like GBT or Opus,
+1:36 >> you'd be paying out the wazoo for this
+1:38 because it costs money every time you do
+1:39 something. So maybe you do this just
+1:41 once a morning to save a little cash.
+1:44 >> But here's the output of that. This cron
+1:47 job I get.
+1:49 >> Why is it taking so long? There we go.
+1:50 That's the output right there. What I
+1:52 get here is,
+1:53 >> you know what, it's taking a little
+1:54 while. So, what I'm going to tell you is
+1:56 he now has a list of problems that
+1:58 people have expressed on Reddit, on X,
+2:01 and how he could position his company or
+2:04 services to solve those problems. And if
+2:06 he's building a company that solves
+2:07 people's problems, he wants to hunt for
+2:09 problems. This is one of the reports
+2:10 that he gets. You view Hermes. What do
+2:13 you think of them?
+2:14 >> So, the Hermes desktop app literally
+2:16 feels like the clawed desktop app. Just
+2:18 like you said, it feels like a more a
+2:21 much more powerful claude co-work. And
+2:23 what I love about Hermes is you can have
+2:25 one Hermes agent go and spin up
+2:27 additional Hermes agents. So I've had my
+2:29 main Hermes orchestrator go and spin up
+2:32 seven additional Hermes profiles, each
+2:34 with their own config, their own tools,
+2:36 their own soul.md, all very specialized,
+2:39 capable of doing very specific things in
+2:41 my business. So I think this is a huge
+2:43 step. Nobody. This wasn't going to
+2:45 really take off if it was stuck in the
+2:46 terminal and now I think it will.
+2:48 >> Yeah, look at this. This is what the
+2:49 desktop app looks like. Everything is
+2:50 labeled so cleanly. You see chat
+2:52 sessions on the left. He's pinned four
+2:54 of them on top. Super clear. If you
+2:56 haven't used it, this is the time to get
+2:57 it. It works really well. Let's go on to
+2:59 the next news story, which is of course
+3:01 Claude Fable 5 is out. Carpathy says
+3:04 that this is like having software that
+3:06 comes out of the tap. And I love this
+3:09 guy. Um, here's here's an example of
+3:12 what that looks like when you can have
+3:13 software just come out of the tap.
+3:15 Essentially,
+3:15 >> flawed fable or mythos is absolutely
+3:19 insane. On the left here, we have the
+3:22 actual level lovable mobile app. And
+3:25 here we have a lovable mobile app that I
+3:28 built in two prompts with Claude Fable
+3:31 5. And he, by the way, is showing not
+3:34 only in this video, not only how the the
+3:36 prompts are stupid simple, just two of
+3:39 them. And then he uses his little
+3:41 lovable clone to build a notion app. It
+3:44 is amazing. People are building with it.
+3:47 What do you think of this?
+3:48 >> So, I've been using it myself. I've
+3:50 actually got it uh sitting in cursor
+3:52 right here running a a/go gold project
+3:55 right now that I spun up this morning.
+3:57 But my initial impressions are it is
+3:59 super powerful. Like it just feels way
+4:02 smarter, way better than metho or than
+4:04 uh Opus. First thing I did is I said,
+4:06 "Look at my emails, calendar, and call
+4:09 recordings from the past quarter and
+4:11 give me what you think my Q3 priority
+4:13 should be." The priorities it gave me
+4:16 were exactly what I was anticipating,
+4:18 but it went so much deeper and pulled
+4:20 out insights from calls that I barely
+4:22 even remember having that I mean, it it
+4:26 just absolutely blew my mind with what
+4:28 it gave me. It really feels like a step
+4:30 up from Opus.
+4:31 >> Great point. You know what? We think
+4:32 about it as something that will create
+4:33 apps for you the way that he did right
+4:35 here in this uh in this example. Riley
+4:37 is fantastic with it. But um I use it
+4:40 even in Claude Co-work. It's super
+4:42 simple, but there are problems with it.
+4:44 And I want to talk about that. Um here's
+4:47 one person who says, "Look, a $200
+4:49 Claude Max subscription lasts 90 minutes
+4:51 using Claude Fable 5. Do not use sub
+4:54 agents when using Claude Fable 5." So
+4:56 this is draining people's uh Claude
+4:59 accounts. Here's another one. Claude
+5:00 Fable 5 eats tokens three prompts later
+5:02 and it's 58% to the max 5X plan and I
+5:06 want to show this. I'm actually going to
+5:07 zoom in on what JJ said. Jay is at uh
+5:10 10X. One of my first interviewees was a
+5:13 founder of 10X. They build um they build
+5:16 apps using AI. And one of the things
+5:18 that he did was he said, "Look, I'm
+5:19 going to show you how much money I spent
+5:20 on it. I'm going to show you how I built
+5:21 with it. And I'm going to tell you all
+5:22 the good stuff. I'm going to fast
+5:24 forward through the good stuff because
+5:25 we've all seen the good stuff um and
+5:28 tell you here's what he did or what he
+5:31 says you need to do to avoid burning
+5:33 through tokens. He says run it as a
+5:35 hybrid. He says here's how to keep cost
+5:37 in check without giving up intelligence.
+5:39 Do not run everything in Claude Fable 5.
+5:41 Run a relay across models. Think with
+5:44 Claude Fable 5. Build with 4X or uh GPT
+5:48 5.5 or even Sonnet 46 and then review
+5:50 with Claude Fable 5. I made a mistake
+5:53 yesterday um where I said, you know,
+5:55 this is new. I have to try it. I'm going
+5:57 to have Fable pull all these X posts,
+6:00 all these videos that I'm showing in
+6:02 Co-work. And I did it and it was
+6:04 fantastic. And then the stupid mistake
+6:06 that I made was I had it tweak using
+6:09 Fable and I would say, you know what, I
+6:11 want this slide moved here and I want
+6:12 that slide moved there and I want this.
+6:14 And that just burned through so much
+6:16 that um I kept getting the alert at the
+6:19 end saying, you're almost out of usage
+6:20 for the week. And so that's that's the
+6:22 big lesson from this.
+6:24 >> I did the same thing. So when I was
+6:26 running my initial test with Fable, I
+6:28 was using it in co-work to analyze my ex
+6:30 post, my LinkedIn post,
+6:32 >> repurpose, tell me what I'm doing right,
+6:33 tell me what I'm doing wrong. And I just
+6:35 threw Fable at the whole thing. And like
+6:37 you said, within about 30 minutes, I was
+6:39 at about 70% of not my weekly usage
+6:42 limits, but my session usage limits,
+6:45 which still with a few prompts is kind
+6:48 of insane to be burning through that
+6:49 quickly. Um, all in all, I think JJ's
+6:51 spot on. It's like, look, you've got to,
+6:53 we've always talked about knowing when
+6:55 to use the right tool for the job. Like,
+6:57 that's always been important. Yeah.
+6:58 >> But now it's even more important than
+7:01 ever because of how expensive these new
+7:02 models are going to be. And once it's
+7:04 off your subscription, like once you're
+7:06 paying for usage at API rates here in
+7:08 about a week and a half, that's going to
+7:10 be even more important.
+7:11 >> Yeah, let's get to using it as quickly
+7:13 as possible while it's still available.
+7:14 Okay, this one is also uh another drop
+7:17 lesser known the best open image model
+7:20 and now it can finally spell I want to
+7:23 actually not show their intro video but
+7:25 I found one that's even better. Here it
+7:27 goes
+7:28 >> look like or here's another example
+7:29 where we can generate a group photo of
+7:31 all these characters and indeed most of
+7:34 them do look correct including Stitch
+7:36 and Doctor Strange even the Black
+7:38 Panther who did turn Mulan into a man.
+7:41 It's also great at text rendering. So,
+7:43 here's one of my classic prompts. And as
+7:45 you can see,
+7:45 >> I'm actually going to stop and I'm going
+7:46 to zoom in because you're not going to
+7:48 see the the benefit of it. Here's what
+7:49 it looks like on the left. It looks
+7:51 nice, but it looks almost like the
+7:52 others until you start paying attention
+7:54 to the details and you see that the
+7:55 first line of the Z image one says,
+7:57 "Oops, oops, says oh no, I'm going to
+8:00 I'm going to zoom out. Uh, this is quite
+8:03 a long piece of text." And you realize,
+8:06 oh, text is really hard to get right.
+8:08 Here's the one on the right from Ernie.
+8:10 It says this is quite a long piece of
+8:12 text and it looks nice until you say you
+8:14 see that it says AI image model could
+8:16 could generate accurately and so that's
+8:19 the beauty of this model. It works. It's
+8:22 free. It's available right now. Um any
+8:25 thoughts before we move to the next one?
+8:27 >> Yeah, I mean this has been something
+8:28 that we've seen improving really
+8:30 quickly. I mean think about even a year
+8:31 year and a half ago like pre- nano
+8:33 banana AI images just weren't there and
+8:35 you try to get it to spit out text in an
+8:37 image. Good luck. I mean, it was it
+8:39 couldn't even form words, much less
+8:41 spell them correctly.
+8:42 >> So, it's like we're almost there. I
+8:44 think this is probably the
+8:46 >> um you know, the the breakthrough
+8:48 everybody's been waiting for as far as
+8:49 rendering text in AI generated images.
+8:52 >> Okay. And people keep asking me for all
+8:54 these links. I'll have a link to
+8:56 everything, in fact, to this whole
+8:57 report if you want in the description.
+8:58 Next, of course, Zapier MCP. If you are
+9:01 using Hermes agent or any other agent or
+9:03 any other AI tool and you want to give
+9:04 it all your tools, but give it the
+9:06 restrictions that you want to protect
+9:08 your data and the power you need to get
+9:09 it to actually do real work. There's
+9:11 nothing like Zapier MCP. It is the most
+9:13 beautiful interaction where you can just
+9:15 see the tools that you have and then say
+9:17 I wanted to give it permission to do
+9:18 this, not permission to do that. Go use
+9:20 it right now. zapier.commcp.
+9:23 Next,
+9:25 Meta Business Agent. I am like super
+9:29 unimpressed with Meta's stuff. I think
+9:31 though this is really useful. I'm going
+9:33 to show a video from their launch. I
+9:35 found the right clip. [snorts] Oh, wait.
+9:37 Uh, here it is.
+9:39 Because every business in this room and
+9:42 watching online should have an AI agent.
+9:44 Full stop. Businesses like Albert Artee,
+9:48 a jewelry brand in Mexico. Owner
+9:50 Veronica Gavvara was an early adopter of
+9:52 our business agent and has used it to
+9:54 respond to customers at all hours of the
+9:57 day, so no message goes unanswered. She
+10:00 tells me that it has saved her 80% of
+10:02 her time. It takes care of all the
+10:04 repetitive customer questions so she can
+10:07 focus on her craft. You see, with the
+10:10 Meta Business Agent, you're closing
+10:12 sales even when you're asleep. And I'm
+10:15 excited to announce that the agent is
+10:16 now available across the world to the
+10:19 hundreds of millions of businesses on
+10:21 our WhatsApp business app and on
+10:23 messenger that includes right here in
+10:26 the UK. Okay, let me pause here for a
+10:27 second and I'll tell you the cool thing
+10:29 about this is it will not just answer
+10:31 messages, it will also
+10:34 study the way that you responded to your
+10:36 customers in the past and use that to
+10:38 inform how it responds to messages in
+10:40 the future. you can watch it so that
+10:42 you're you're um making sure that it's
+10:44 not doing anything goofy, but it's it
+10:46 seems simple. It works and I like that
+10:48 they're making this available instantly
+10:49 for people. Thoughts?
+10:51 >> Yeah. So, I think this is a smart move
+10:52 on Meta's part. I mean, obviously
+10:54 WhatsApp is the messaging app of choice
+10:56 for everybody in the world that's not in
+10:58 the US.
+10:59 >> So, right. Uh but you know what they're
+11:02 talking about there, the capability of
+11:03 responding to customers, people that are
+11:05 using WhatsApp for business. I mean,
+11:07 they're they're they're essentially
+11:08 taking the concept that I talk about all
+11:10 the time of speed to lead and baking
+11:12 that into their their native messaging
+11:14 channel. And it's smart. I mean, again,
+11:16 eventually everybody's going to have
+11:17 this. It's just a matter of who gets on
+11:19 it quicker. The fact that it analyzes
+11:21 the way that you already talk to
+11:23 customers and kind of sounds like it's
+11:24 almost building like a brand voice
+11:26 profile for you based on previous
+11:28 conversations is a great feature. And I
+11:31 mean, I'm shocked it took Meta this
+11:33 long, but I think this is going to give
+11:34 them I mean, they have such large
+11:36 distribution with WhatsApp and with
+11:38 Messenger. So, I think this is a step in
+11:40 the right direction for them for sure.
+11:43 Next, Google AI Plus plan is now reduced
+11:46 to $4.99. I put a list together of what
+11:50 you get for it. And so, you're getting
+11:52 Gemini usage limits that are increased,
+11:53 Omniflash video, your daily brief that's
+11:56 scheduled, your AI inbox, all this
+11:58 stuff. And still I am yawning. And
+12:01 partially it's because all this stuff
+12:03 kind of comes in the subscription that I
+12:05 already have. And partially because I
+12:08 really don't care about the price. I'm
+12:10 not someone who looks at my clawed
+12:12 monthly subscription at 20 bucks.
+12:13 Actually, it's more than 20, but even my
+12:15 my open AI at 20 bucks and goes, "Ah,
+12:17 this is too much." What do you think?
+12:19 >> I agree. Right. I mean, everything that
+12:21 Google's offering here inside this this
+12:23 cheaper plan, like I'm not a price
+12:25 conscious AI consumer. I think this is
+12:27 geared towards that person that is, you
+12:30 know, they're relatively new to AI.
+12:32 They're in Gmail, they're in Drive,
+12:33 they're in Google Calendar, and they
+12:35 want to kind of dip their toe in the in
+12:37 AI water, so to speak. And this is a
+12:39 really lowrisk, lowcost way for them to
+12:42 do that. People like you and I, and for
+12:44 the folks listening to this uh
+12:46 conversation, we're already using Claude
+12:48 or OpenAI or Codeex or Claude Code to to
+12:50 do everything that Google is including
+12:52 in that plan there. So, it's like why
+12:54 would we pay any more even if it's $5 a
+12:57 month to do the things that we're
+12:58 already doing with Claude? That's kind
+13:00 of the way that I see it.
+13:01 >> The only advantage to this one is if you
+13:03 need some people on your team to have a
+13:05 lower price. I can't even imagine that.
+13:06 Or people who you know in your life in
+13:08 your family or work who are too cheap to
+13:10 get started properly, maybe you give it
+13:12 to them. The other advantages, it maybe
+13:14 creates a little bit of pricing pressure
+13:15 on the the
+13:17 companies that we like. All right.
+13:19 >> Right.
+13:20 >> Gemma 4. I'm actually going to breeze
+13:22 through this pretty quickly because I
+13:24 the thing that's interesting here is you
+13:26 can now put a full model on your laptop
+13:30 that can do things like we talked agent.
+13:32 We showed Alex earlier talk about how he
+13:34 gets his to do so much because he's not
+13:36 paying for all these uh all this access.
+13:39 You can now do that. It is it is
+13:40 amazing. I've got a video here for
+13:42 everyone who's watching. I have another
+13:43 one here that um
+13:44 >> if you want to indicate
+13:45 >> Oh, here's examples of what you can do
+13:47 with So, these are some examples. So, we
+13:49 like a 7 a.m. morning brief. We could
+13:51 say, "Okay, every day, brief me on
+13:53 everything that happened, and then it
+13:54 just gives us the top priorities, what
+13:56 happened overnight, what it's going to
+13:57 do today." Here's another example. So,
+13:58 you could actually triage your inboxes,
+14:00 look at your emails, and that sort of
+14:02 thing. And here's another one.
+14:04 >> I'll have it for people to look at side
+14:05 by side. He had it. Oh, here. This is
+14:06 kind of interesting.
+14:07 >> Review. So, we could look at everything
+14:09 inside my memory, which we've actually
+14:11 got plugged into the agent operating
+14:12 system as well. So if we go inside the
+14:14 memory section here, we have used
+14:16 obsidian as a second brain.
+14:18 >> Okay. It's there for you. It's easy.
+14:21 It's really nice that this is now
+14:22 available and it's coming in smaller and
+14:24 smaller to take on those little tasks.
+14:25 And the nice thing about Hermes is it's
+14:26 easy to switch model to model.
+14:29 >> Yeah. I mean, the fact that these local
+14:31 models are free, I think this is kind of
+14:33 where everything's going, especially as
+14:35 anthropic like these frontier models get
+14:37 more and more expensive. It's like you
+14:39 don't need a Fable 5 or even like an
+14:41 Opus 48 to do probably 90% of the stuff
+14:44 that the everyday person needs to do
+14:46 with AI. So the fact that these local
+14:48 models are getting um smaller in the
+14:51 sense like in terms of the actual size
+14:52 and pretty much anybody can put it on
+14:55 their normal hardware, their normal
+14:56 computer, that's going to be the future.
+14:58 I think there's a future where people
+15:00 just are running local models on their
+15:02 machine to do most of their daily
+15:04 lifting and then they'll use a, you
+15:06 know, a Fable 5 or a GPT55 or even an
+15:09 Opus to do the heavier tasks. But most
+15:12 people aren't even going to need those
+15:13 models.
+15:14 >> And even for me, frankly, for most of
+15:15 the things that I do, I don't need these
+15:16 heavy models. It's easier to install
+15:18 than I than I realized. I've got this
+15:20 link here so that you can go in and see
+15:21 how to install it. I was actually
+15:22 thinking of walking people step by step
+15:24 through his installation. I said, "No,
+15:25 it's a breeze. Just click, click, click,
+15:26 follow instructions, move on." All
+15:28 right.
+15:28 >> Yep.
+15:29 >> Here's why I included this.
+15:31 Um, I think it's stupid. And this is I'm
+15:34 actually going to open this up in a full
+15:36 tweet here. This is open AI to me right
+15:40 now.
+15:44 >> Can you dye my hair to the color of
+15:45 Argentina? And now OpenAI.
+15:48 >> Dude, what is going on with Open AI?
+15:51 Chat GPT was number one for a long time.
+15:53 This is the nonsense that they put on
+15:55 and they they post about it. This is not
+15:58 where they their attention should be
+15:59 going.
+16:01 >> Yeah. The the tweet itself is insane.
+16:03 It's basically saying like, "Hey, use
+16:04 Chad GBT to include a picture of
+16:07 yourself and change the color of your
+16:08 hair." Like to me, they are so it's so
+16:12 mainstream. Like there there's I think
+16:13 they realize that there's still so many
+16:15 people that have not even used AI. And
+16:17 the fact that you can take a picture of
+16:19 yourself and tell it to change the color
+16:21 of your hair is mind-blowing to like 99%
+16:23 of people. They're still targeting that
+16:25 that market, that TAM that's so massive.
+16:28 They, you know, Codeex obviously has
+16:30 widespread adoption in the developer
+16:32 community and and people that are
+16:34 advanced are using it for that purpose.
+16:36 But I think that they're not they're not
+16:38 forgetting the fact that they are like
+16:40 the main like when people think of AI,
+16:42 they think chat GBT. And I think they're
+16:43 just trying to capitalize on that by by
+16:45 having addressing as large a TAM as
+16:47 possible. But I think it's stupid. I
+16:49 mean, I think it's insane.
+16:51 >> I think it's a mistake. They're
+16:52 constantly telling people they are the
+16:53 Fisher Price of AI models. That this is
+16:55 the basic stuff instead of saying we are
+16:58 the high powered. I'm I'm going to move
+16:59 on. Um I also want to highlight a repo
+17:02 this week. This one has been doing
+17:04 really well this week, getting a lot of
+17:05 attention. It's called agent cookie.
+17:07 Here's the problem that it solves.
+17:09 You want to give your agent, even if
+17:12 it's like claude code or claude,
+17:15 actually not co-work can actually do a
+17:17 really good job in your main browser,
+17:18 but you want to give it access to the
+17:20 sites that you that you need, but you
+17:22 don't want to necessarily log in. And so
+17:23 you're sharing cookies. It works really
+17:26 simply. Oh, do I not have the Yeah,
+17:28 here. This is Katherine talking about
+17:30 how she uses it. The simp the simplicity
+17:33 of being able to give access to your
+17:35 agents, not having them forget how to
+17:36 get in, but not giving them a password.
+17:38 That's the answer here
+17:41 [snorts] and it's available free right
+17:42 now. Sorry, go ahead.
+17:44 >> And I saw that the I think that repo was
+17:46 posted by Matt Van Horn who's the same
+17:48 guy behind the last 30 days skill and a
+17:50 lot of other really cool
+17:52 >> um kind of niche GitHub repos and and
+17:56 tools that I've used and that I know a
+17:57 lot of other people get a ton of value
+17:59 out of. So if it's coming from him, you
+18:01 know it's going to be high quality and
+18:02 you know it's going to do what it says
+18:03 it does. So
+18:04 >> I had no idea it's from him.
+18:06 >> That's what it said. Yeah. the link. The
+18:08 link linked
+18:10 >> Yep. M Van Horn.
+18:11 >> I've been trying to get him on. He's got
+18:13 to come on here at some point and talk
+18:14 to me. He's been doing incredible stuff.
+18:17 Uh all right, we got [snorts] links to
+18:19 that and everything else. All the links
+18:21 below in the description. And uh and now
+18:24 that this is over, I actually have a
+18:26 collection of repos that you can use
+18:28 immediately. There's a link for you
+18:30 right here to watch. Go check that out.

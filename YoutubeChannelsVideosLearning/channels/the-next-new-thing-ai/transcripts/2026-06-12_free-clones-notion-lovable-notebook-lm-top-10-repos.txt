@@ -1,0 +1,973 @@
+# Free clones: Notion, Lovable, Notebook LM + top 10 repos
+# Channel: The Next New Thing
+# Video ID: 2WNl5VidRS8
+# URL: https://www.youtube.com/watch?v=2WNl5VidRS8
+# Generated: 2026-06-15
+# Format: HH:MM:SS text
+
+0:00 You know how everyone's got all these
+0:01 markdown files and you can't keep them
+0:02 in Notion. You don't know where to put
+0:03 them. Obsidian gets too complicated.
+0:05 I've got a beautiful free solution that
+0:07 will work for your LLM and that you will
+0:09 enjoy using too. Again, free. Everyone
+0:11 else's website is starting to look like
+0:13 slop. I've got something that will add
+0:15 taste to your site. And finally, what
+0:17 about when you have your agent try to
+0:18 look up information on the internet and
+0:20 gets blocked blocked? I've got two free
+0:22 solutions that will unblock it and pull
+0:24 the most important data to you. That and
+0:25 so much more coming up. presented by
+0:28 Zapier, the AI automation company.
+0:31 >> Peter, the audience loved you last week.
+0:32 It was the number one GitHub repo show
+0:34 that I ever did. So, I'm glad that
+0:36 you're back. Thank you.
+0:38 >> Let's get into the first repo of the
+0:39 week, which is last 30 days. Skill, I've
+0:41 been really eager to talk about this.
+0:43 Here's what this is about. You and I
+0:44 know that when we're doing research,
+0:45 especially for stuff that I'm doing over
+0:47 here, the most relevant information is
+0:49 on sites that are hard to access like X,
+0:53 which will keep blocking my bots. And
+0:55 it's not just on these sites. It's also
+0:57 within the last 30 days. Don't give me a
+0:58 tweet that happened six six years ago or
+1:01 even frankly uh six months ago. It's not
+1:03 relevant anymore. What he did, Matt, was
+1:05 he created a skill set right here that
+1:09 makes it easy to go and pull that data.
+1:11 And that's why people are loving it.
+1:13 I've actually, I think, plugged it in
+1:14 the f in the past, but it never really
+1:16 made it into the top 10. It is now
+1:18 number one the most popular repo of the
+1:20 week. What do you think of this? I mean,
+1:23 do you want your own little kind of like
+1:25 mini Gartner industry analyst on your
+1:28 side? This is that kind of skill. Uh,
+1:30 you know, it's going to go around and
+1:31 pull stuff from all sorts of places. And
+1:33 >> Mhm.
+1:34 >> you might be like, "Hang on, how's it
+1:35 going to grab stuff from X when I
+1:37 haven't got an API key? I'm not paying
+1:38 for the access." Uh, and that's because
+1:40 hidden within this repo, there's lots of
+1:42 little tools for accessing things like X
+1:44 and YouTube and stuff like that. And it
+1:47 uses your own browser's cookies. So, it
+1:50 kind of acts as if it's you,
+1:53 >> which you know is something you might
+1:54 want to be careful with. Um, but, uh,
+1:57 yeah, if it works, it works. And it is
+1:58 it is a common technique to get around
+2:00 the platforms locking you down. Use the
+2:03 things you've already got that you're
+2:04 logged in with, and then these tools
+2:06 synthesize all that information it finds
+2:08 into a deliverable that then you can
+2:10 read and enjoy and use however you like.
+2:12 I'm pretty sure though they did ask me
+2:13 for my YouTube uh, API key and maybe
+2:16 even my X. I think it's doing it's doing
+2:18 both. I thought I could be wrong, but
+2:21 you're saying the heart of this is it's
+2:23 not supposed to, right?
+2:24 >> It's not supposed to, but you can bring
+2:26 your own keys into this app. So, if
+2:28 you've got keys, then it will use them.
+2:29 Um, but I believe it has fallbacks so
+2:31 that it will use, you know, it will try
+2:33 and slurp things out of your browser if
+2:35 you are logged into those sites.
+2:37 >> Okay. I I like this um video here that
+2:40 shows Matt actually using it. Let's do
+2:42 >> this is one
+2:44 that I did right before we started. So I
+2:47 said last 30 days highest performing
+2:49 cold email frameworks for ICP out output
+2:53 three email variant subject line.
+2:56 So it went on X went on Twitter found
+3:00 Reddit threads expost web pages and what
+3:03 what's interesting how I use this tool
+3:04 is I often don't even read what it says.
+3:08 Like sure it's interesting to see what
+3:09 it learned but mostly I just wanted to
+3:11 write a good email. So I said, "Can you
+3:13 write me some cold emails for getting on
+3:14 Greg Eisenberg's podcast?" Uh, sorry I
+3:17 spelled your name wrong. Good target.
+3:19 Startup ideas later. It's all about
+3:20 unconventional startup ideas, community
+3:21 building unique relevance. Know what's
+3:23 your angle? What's your credibility
+3:25 signal? Any connection points to Greg?
+3:26 Mutual follows. What timely? Uh, talk
+3:29 about AI tools I'm working on and I once
+3:32 made a smart oven. Uh,
+3:36 okay. And then what he's using is he's
+3:38 looking it up, seeing what's hot right
+3:41 now and what's effective for cold email.
+3:42 And then he's having his AI write it for
+3:45 him. Good use case. He's got a few
+3:46 others. And of course, we've got the
+3:48 report here with the full video for
+3:49 people who want to go see it. I love
+3:50 that. Next, number two is Headroom. This
+3:54 has been especially popular this week.
+3:57 How would you explain what this does?
+4:01 So, we had this one last week, but it is
+4:03 back. Um, and the whole way that it
+4:05 works is that it uses various forms of
+4:08 analysis of basically big things that
+4:13 are going over the wire. So things like
+4:14 log files and JSON files and things like
+4:16 that. It kind of has these techniques to
+4:18 boil them down into kind of like minimal
+4:20 representations of what the agent
+4:22 actually requires to do its job. Um, and
+4:25 then that supposedly will significantly
+4:27 reduce the number of tokens going over
+4:29 the wire. And there is some uh you know
+4:31 the truth to this technique. Some of
+4:33 their own benchmarks showed minor gains,
+4:35 but then I believe you have some
+4:36 benchmarks from them that show
+4:38 significantly bigger gains uh when
+4:40 performing specific tasks like debugging
+4:43 and so on and so forth.
+4:46 >> Yeah, it's and I think it's because of
+4:47 Fable. Everyone is now seeing that Fable
+4:49 Fable is really powerful, but at the
+4:51 same time it just burns through tokens.
+4:53 >> A lot of people have burned through
+4:55 tokens within a day um all of their a
+4:57 lotments. And so this is becoming
+4:58 especially hot. Um there is an old post
+5:02 here that I'll include in the show notes
+5:04 for people that that just shows that
+5:09 um actually
+5:12 I I asked you did you understand what he
+5:14 said and you said oh yeah um what what
+5:16 is he saying here? He's evaluating lots
+5:19 of different tools like this. So this is
+5:21 a list of various different tools and
+5:23 technologies being used to basically as
+5:26 I said take things like JSON. So where
+5:28 it says there smart crusher for JSON
+5:30 DDUP and structural compression it's
+5:32 because things like JSON files uh and
+5:35 JSON documents contain often lots of
+5:38 things that repeat over and over and
+5:39 over. So if you can strip all of that
+5:40 out dduplicate it that's what ddup
+5:43 means. Uh then you can sign
+5:45 significantly make it smaller and then
+5:47 smaller equals you know fewer tokens.
+5:49 Uh, and it's the same thing with code as
+5:51 well. So where it says they're aware
+5:53 code compression, that's basically
+5:54 taking the structure of the syntax of
+5:57 code and then boiling it down to just is
+5:59 bare essentials so that you can make the
+6:01 code smaller. Again, fewer tokens over
+6:03 the wire.
+6:04 >> Okay. All right.
+6:07 Let's go on to the next one. I really
+6:10 like this one. I love Notebook LM
+6:12 because this is Google's project where I
+6:15 can really learn things the way that I
+6:16 like to learn things. My way of using it
+6:18 is I will put a big document into it and
+6:20 then I end up with a chatty podcast
+6:22 where two people who sound like NPR
+6:24 hosts are talking about and teaching me
+6:26 the topic. The problem that I have with
+6:29 it is those two people get very boring
+6:31 because you still hear the same two
+6:33 people in the same approach over and
+6:34 over again. And um I think that there
+6:37 are other features I would want and I'd
+6:38 want to pull it away from Google's
+6:40 framework because I think they're
+6:42 smarter models that I'd at least like to
+6:44 experiment with. And so what they did
+6:46 here was, and here it is. It's open
+6:48 notebook. They basically said, "Let's
+6:50 reproduce what notebook is doing, but
+6:52 give people a lot more flexibility. I've
+6:54 got a really good video here that I I'd
+6:57 like to play a little bit of, and I know
+6:59 people have told me to told you, I
+7:01 guess, or told me that we we should not
+7:03 be talking over so much, but I'll let it
+7:05 play a little bit, and when I get
+7:06 annoyed, I'll stop." First, the podcast
+7:08 generator. Notebook. LM made AI podcasts
+7:11 feel actually pretty cool. If you
+7:13 haven't played with it, maybe you
+7:14 should. If I run it here, well,
+7:17 something else happens. Take a listen.
+7:19 >> It's a game changer for researchers
+7:20 looking for autonomy and privacy.
+7:23 Absolutely, Alex. I think one of the
+7:25 coolest aspects of a lama.
+7:27 >> Cool, right? But Open Notebook gives you
+7:29 more control over that format. You can
+7:31 generate podcasts from your sources,
+7:34 configure the structure, and use
+7:36 multiple speaker profiles instead of
+7:38 being stuck with one fixed style.
+7:42 multiple speaker profiles is is where
+7:44 they got me. Maybe not even have two
+7:46 people. It doesn't have to be two
+7:47 different personalities every time, but
+7:49 even have a third person. Anyway, it's
+7:52 great. We have a full link here uh for
+7:54 everybody who wants to go check it out.
+7:56 Any thoughts on this?
+7:58 >> I think the biggest win here is privacy.
+8:00 So, when you're using Google,
+8:02 everything's, you know, going up to
+8:03 their servers or whatever, but this
+8:04 really pitches itself as being something
+8:06 that you can run locally on local
+8:07 models. Now, you might think, oh, it's
+8:10 gonna not sound very good or not perform
+8:13 very well because obviously running
+8:14 local models is very intensive and a lot
+8:16 of people's machines just can't run
+8:18 them. Uh, but as we saw, that's getting
+8:20 better. Uh, and last week we had, I
+8:22 think, something called Vox TTS, which,
+8:24 you know, we tried out and produces
+8:26 absolutely amazing voices in such a
+8:28 small amount of space. Um, that
+8:30 actually, you know, you could produce
+8:32 voices that are entirely prompted. You
+8:34 could say, "Oh, I want it to be someone
+8:35 with a particular accent or, you know, I
+8:37 want it to be,
+8:38 >> you know, you just describe who it is
+8:40 you want it to sound like." Uh, you
+8:42 can't do that with Google. You can do
+8:43 that with local models. So, it is worth
+8:45 a try. Um, you know, but it is going to
+8:47 be worth setting it all up. So, don't
+8:49 think it's just as simple as Notebook
+8:50 LM. You know, you've got you've got
+8:51 things to set up here.
+8:53 >> Um, that team, by the way, reached out
+8:55 to me and I love that they did. I'm
+8:57 hoping I get to talk to them. I've got
+8:58 another video here for you to take a
+9:00 look at when when we're done, folks.
+9:02 And now comes up my comes my sponsor
+9:05 Zapier MCP. If you are here, you are
+9:08 probably messing around with lots of
+9:09 different uh tools, lots of different
+9:11 LLMs, lots of different computers even.
+9:13 In fact, I was complaining to Peter
+9:15 quite a bit listening as he said hello
+9:16 to me with how many things get lost.
+9:18 Skills are in this computer. Anyway, the
+9:20 beauty of Zapier MCP is you get all of
+9:23 your connections to all the tools that
+9:24 you love in one place. It is so easy to
+9:27 use. I really urge you to go and try it
+9:28 out. It's free right now to use it and
+9:31 you can experience what it's like to
+9:32 connect all your tools and give it the
+9:34 the parameters that you want. So maybe
+9:37 they don't have right access, maybe they
+9:38 have read access, maybe they have draft
+9:40 access, etc. And now you have a URL, a
+9:42 simple tool that you can give to every
+9:44 uh every other um product that you work
+9:47 with. Go get it. Go check it out. And
+9:49 thanks to Zapier, we're al also going to
+9:51 get to do these repos worth checking in
+9:54 between here, the top 10. And the first
+9:56 one came from you, Peter. What is this
+9:58 one?
+10:00 >> So, I first saw this in an ex post by
+10:03 Justine Moore, who is a partner um at
+10:05 A16Z,
+10:06 >> and she was very impressed with what
+10:09 came out of this. There, this is the uh
+10:11 the tweet here. So, what you do is you
+10:13 direct this skill um it's a codeexon one
+10:16 at the moment because it uses Codeex's
+10:18 built-in image generation tools. What
+10:20 you do is you point this to like an
+10:22 article and preferably one that you've
+10:23 written yourself. Uh, and it will go
+10:26 through and yes, this all written in
+10:27 Chinese. I did translate it into English
+10:29 to see what it was about, and it's all
+10:30 pretty straightforward, but you point at
+10:32 your content. It works out some
+10:34 metaphors for the different things that
+10:35 you're trying to communicate in that
+10:37 content. Uh, and then turns it into
+10:39 these kind of cool illustrations with
+10:40 this um, black kind of like blob
+10:43 character that you can see. Um, and it
+10:45 adds annotations. And by default, it I
+10:47 think it does actually do it in Chinese,
+10:49 but you can just tell it do it in
+10:50 English and it will do it in English.
+10:52 And uh I've played with this quite a bit
+10:53 and I've actually been really impressed
+10:54 with the kind of the metaphors that come
+10:56 out of it. It's you know quite
+10:57 impressive and it's using uh the GBT
+11:00 image 2 model for generating the images
+11:02 behind the scenes because that's what
+11:03 Codeex uses. I really like that you
+11:06 found this. I mean honestly for me I
+11:07 love that we're doing the top 10 because
+11:09 it says something. But I also actually
+11:12 not also I prefer these great finds that
+11:15 people wouldn't discover otherwise. Like
+11:17 this one. This is called Taria. And this
+11:19 is another one that you found. Oh, this
+11:21 is so beautiful. I'm so glad you turned
+11:23 me on to this. People are going to love
+11:24 it. Uh, what's the problem this is
+11:26 solving? And then what is it looking
+11:27 what does it look like?
+11:29 >> So, lots of people now, um, me included,
+11:33 have lots of markdown notes. Uh, you
+11:35 might want to categorize them and just
+11:36 keep them around, you know, on your
+11:37 system, be able to search them and be
+11:40 able to, you know, look at things and do
+11:41 a whole wizzywig markdown editing thing.
+11:44 This does all of that. So, there's lots
+11:46 of other tools of this kind of nature
+11:48 out there, but this one is open source
+11:50 and it's free and it's particularly
+11:53 focused on AI integration if you want
+11:55 it. I mean, you don't have to use AI
+11:56 with this whatsoever, but you can uh
+11:58 because all of the files that it uses
+12:00 are literally stored on your file
+12:01 system. So, you could have something
+12:03 like, you know, co-work just produce
+12:05 files and edit the files and it doesn't
+12:07 even have to use the app. Like, it can
+12:08 just edit the files on the file system
+12:10 and then they automatically update in
+12:12 real time within this uh you know, note
+12:14 management app. So very cool. I gave it
+12:16 a run um and really liked it, but uh you
+12:19 know, it's a case of migrating over to
+12:21 these things. I've already got my own
+12:22 system, but I would very you much like
+12:24 to try and get that done. I've seen so
+12:26 many people look for tools that will
+12:27 help them keep all their markdown files
+12:29 organized. Obsidian is the one that's
+12:31 talked about the most, but for most
+12:33 people, Obsidian is too much and it's
+12:35 it's just not engaging. Meanwhile, look
+12:38 at this. Pretty looks simple. Looks a
+12:41 lot like Notion to be honest with you.
+12:42 In fact, I don't know why, but they also
+12:43 have at the top right here under
+12:45 properties Notion ID. So, I'm guessing
+12:47 they're pulling documents out of Notion,
+12:48 too. There. Um, but it is such a good
+12:51 find. I love that you got that. Oh,
+12:53 there's Luca, the founder. Um,
+12:55 >> there he is.
+12:57 >> Final one came from me. I'm really
+12:59 excited about this one because as soon
+13:01 as Fable came out, I saw this dude Riley
+13:04 Brown pushed this video on X, which just
+13:07 went insane. Guys, Claude Fable or
+13:12 Mythos is absolutely insane. On the left
+13:16 here, we have the actual level lovable
+13:19 mobile app. And here we have a lovable
+13:22 mobile app that I built in two prompts
+13:25 with Claude Fable 5. This is the chat
+13:27 thread. Here's prompt one. And then I
+13:30 just said run it on simulator 2 and then
+13:32 go. So that just counts as one prompt.
+13:34 And then it did some stuff. Did some
+13:37 stuff. And then I just screenshotted all
+13:39 the screens on Lovable. I just need you
+13:41 to redesign it to look exactly like
+13:43 this. And
+13:45 >> okay, and it did it. It made it look
+13:47 just like Lovable as you can see on your
+13:49 screen. But the cool part is that at the
+13:50 end of it, he said, "You know what? I
+13:52 now want you to build me something." And
+13:54 the thing he said to Lovable to build
+13:55 was Notion. The thing he said to his
+13:58 copycat of Lovable that Fable built is
+14:00 Notion. And then it went headto-head.
+14:02 And you know what he said? In some ways,
+14:04 I really like mine my version better. I
+14:06 guess there were some people who said,
+14:07 "Is this real?" He then put it up on
+14:10 GitHub and said, "Here you go, folks. Go
+14:12 play with it and you see for yourself if
+14:14 this if this stands up." It's got 67
+14:17 stars. I don't necessarily recommend
+14:18 that you replace lovable with this.
+14:20 Like, get it. It's riable. Riley's
+14:23 lovable, but it gives you a sense of
+14:25 what can be done with Fable. And as soon
+14:26 as I saw this, my eyes were open to what
+14:28 I could build. I love this. What do you
+14:30 think?
+14:31 >> I don't have a lot to add to that
+14:32 really. I mean this is clearly one
+14:34 developer's passion project and you know
+14:36 that's one of the reasons that people
+14:37 stick with things like Lovable and Bolt
+14:39 when they get them working is because
+14:41 you know they know there's a massive
+14:42 amount of money on the table and there's
+14:44 a big team and all that type of thing
+14:45 but it is great to see that just
+14:46 individual developers can spin you know
+14:48 spin things like this up now. It's
+14:50 totally within your power if you've uh
+14:52 you know got the skills to do it.
+14:53 >> Don't use it to replace lovable use it
+14:55 to see what you can
+14:56 >> not just yet. No.
+14:57 >> Okay. So now number four repo of the
+14:59 week is PM skills 68 skills and 42
+15:03 chained workflows AC across nine
+15:06 plugins. I was like ho hom about it and
+15:09 I was a little sheepish and then you
+15:10 said no there's a real value here. What
+15:12 do you see that's valuable in this?
+15:15 Again you know this is another one of
+15:17 these repos that's full of different
+15:19 skills and prompts. uh it is basically a
+15:21 big prompt library but this is clearly
+15:24 built by someone who you know has a
+15:26 little bit of knowledge about project
+15:27 management. I know nothing about project
+15:29 management. So any guidance that I could
+15:31 get is valuable. Um but it doesn't it
+15:33 does have some commands in it. So you
+15:35 can do things like uh get it to
+15:36 interview you about your project and so
+15:38 it will just keep drilling you with
+15:40 questions until it can put together a a
+15:42 plan um and it will do things um you
+15:45 know like help you do consulting and
+15:47 strategy and all those types of things.
+15:49 I don't know those areas too well, so
+15:51 this is useful for me. But I would say
+15:54 if you do have any knowledge of those
+15:55 areas, this is another one of those
+15:56 repos to go through, read, and steal
+15:59 from because you might not want to take
+16:02 on their approach to project management
+16:05 wholesale. You might want to come up
+16:06 your own thing. Um, and this will give
+16:08 you a good basis upon which to build
+16:09 your own, you know, tooling to do those
+16:11 interviews on yourself.
+16:13 >> We'll say, you know, I usually like to
+16:14 find YouTube videos that illustrate this
+16:16 to see how other people use it. I found
+16:19 one. These guys went through it and it
+16:21 was terrible. And then I got in my own
+16:23 head. I go,
+16:24 >> I take it all back.
+16:25 >> No, no, no, no, no. It wasn't the skill
+16:26 that's terrible. Their video was skill
+16:28 was terrible. So I go,
+16:29 >> oh no, they've they've got a lot of
+16:31 views, but it makes no sense what
+16:33 they're saying. They're just, am I that
+16:35 bad? And then I started getting in my
+16:36 head about like, I've got to get better
+16:38 here. I've got to prepare more. And then
+16:39 I drove myself and my family crazy this
+16:41 morning trying to like go through this
+16:43 and not be bad and not So anyway, I've
+16:46 got no video on this. Just all I got is
+16:48 a head case on this and I'm working
+16:50 through it. So, let's go on to the next
+16:51 one. OpenAI plugins. This is another one
+16:54 that I didn't fully comprehend the value
+16:56 of until you and I talked and uh it's
+16:59 from OpenAI. It's plugins for their
+17:02 software for Codeex. What is this?
+17:06 Well, of course, I just want to firstly
+17:07 say that, you know, everyone should go
+17:09 and use your um sponsor Zappia,
+17:12 >> but this does provide some similar
+17:15 skills if you're willing to kind of get,
+17:16 you know, deep down dirty with codeex um
+17:19 and you want to plug in things like Asa
+17:21 and Air Table you can see on the screen
+17:23 there, but also things like Gmail and um
+17:25 GCAL and different research things as
+17:27 well I noticed were in there like things
+17:29 I would never use, but there's like
+17:30 research APIs and things if you want to
+17:33 provide access to those to codeex these
+17:36 are the plugins to do so because you
+17:37 know they're kind of semiofficial or
+17:40 probably even fully official. I don't
+17:42 really know what the third parties have
+17:43 to say about it but this is what OpenAI
+17:45 is putting forward as saying like you
+17:46 know you want to hook into like notion
+17:48 for example then install this plugin
+17:50 into codeex and off you go you can ask
+17:52 it to do this and do that. So, um, you
+17:55 know, this is kind of almost like a a
+17:56 homebrew local version of some of like
+17:59 what tools like Zappy are doing in
+18:00 connecting things together, but yeah,
+18:03 you kind of have to figure out all the
+18:05 moving parts for this. What I also saw
+18:07 was that it does it's it's about getting
+18:10 data out of these tools to do something
+18:12 with the tools. It's not just
+18:14 open-ended. So, for example,
+18:17 >> I might connect Notion directly into
+18:19 Claude,
+18:20 >> and that's fine. But what they're trying
+18:22 to say here is if you want to turn a
+18:24 spec into implementation in claude, we
+18:27 also are going to have that covered and
+18:29 this will find the specs, turn it and
+18:31 start to implement. That's it's like a
+18:34 not connect. It's not about the
+18:35 connection from what I understand. It's
+18:37 about the utility with guidance. Am I
+18:39 getting that right?
+18:41 >> No, I totally agree. I mean and this is
+18:43 the type of thing where you can use
+18:45 these tools within your other workflows
+18:48 that you're doing. So let's say you know
+18:49 you're building uh an app in codeex and
+18:52 you want it to use your project
+18:54 management system like say Jira or
+18:56 something like that for doing tickets
+18:58 and said you know you could you can tell
+19:00 it you know go and look at the tickets
+19:02 that are currently on our system pull
+19:04 them down implement something and then
+19:06 update the ticket with comments or
+19:07 whatever it is that you want to do. So
+19:09 it just allows you to plug in these
+19:10 third party systems into your codeex
+19:12 workflow.
+19:14 >> Okay. All right. There's our launch
+19:16 video. I'll leave it for everyone to get
+19:18 in the show notes. We're going to move
+19:19 on to agent reach. This is one CLI that
+19:22 lets your agent read and search Twitter,
+19:24 Reddit, YouTube, GitHub, and other
+19:27 sites. Um,
+19:29 you you made a distinction between this
+19:32 and the first 30 and the last 30 days uh
+19:35 skilled, sorry, the last 30 days repo
+19:37 that we talked about in the beginning.
+19:38 What's the difference here?
+19:40 >> When I looked through the code, I just
+19:41 kind of saw some similarities between
+19:43 the two repos. So that last 30 days
+19:46 thing, you basically give it a topic and
+19:48 it produces a deliverable uh of, you
+19:50 know, what happened in the last 30 days
+19:52 in whatever topic you want, but
+19:53 underneath the hood, it's using a bunch
+19:55 of tools to access things like X and
+19:57 YouTube and so on and pulling data from
+19:59 those to synthesize that report. Well,
+20:02 this is like if you just took that layer
+20:04 of tools and just turned that into a
+20:07 thing. So, if you want more granular
+20:09 access, if you want to be able to ask uh
+20:11 Claude or whatever, you know, go and
+20:12 look on X for such and such or look on
+20:15 YouTube for whatever it is that you
+20:17 want, um then this is the kind of the
+20:19 more surgical like the surgical knife
+20:22 that allows you to do that without
+20:24 producing that big deliverable. You just
+20:25 use it within whatever workflow you're
+20:27 working on at this current moment.
+20:29 >> I like this example for LinkedIn. Tell
+20:31 your agent, "Help me set up LinkedIn."
+20:33 Um yeah, again this is for researching
+20:37 for understanding somebody. When I talk
+20:39 with Adam about tools like this and I
+20:41 say how do you use it? He says that they
+20:43 use it all the time in the venture
+20:44 studio because one of their companies is
+20:46 trying to hire so they want to research
+20:48 people. One of their companies is trying
+20:49 to buy a company or work with the
+20:51 company and so they need good research
+20:53 tools. They don't want to have somebody
+20:54 clicking a mouse on a screen and that's
+20:56 where this comes in. Make sense?
+20:57 >> And it does a few it does a few Chinese
+20:59 social networks as well. I don't know
+21:01 anything about these networks, but
+21:02 >> um I believe the developer is Chinese
+21:04 and so they've added in these various
+21:06 other sites that I'm completely unaware
+21:08 of like was it Billy Billy Billy or
+21:11 something? I don't know. I know nothing
+21:12 about these sites, but uh I guess you
+21:14 know if you want access to them, then
+21:16 great.
+21:17 >> Yeah, I don't know if you noticed, but
+21:18 when I read off the list of sites that
+21:19 you can read from, I intentionally said
+21:21 and others once we had get to the
+21:22 Chinese ones to make sure that I didn't
+21:24 mispronounce them.
+21:24 >> Not familiar with these.
+21:26 >> Okay, the tool still works. Really
+21:28 popular and it's number six this week.
+21:29 Uh again, download everything in the
+21:31 description. Let's go on to this one.
+21:33 Less applicable to our people, but still
+21:35 worth knowing about. This is Nvidia's
+21:36 open platform for world models, data
+21:39 sets, and tools for physical AI. We're
+21:41 now talking about robots, autonomous
+21:43 vehicles, smart infrastructure. I've got
+21:45 kind of a video here to to show.
+21:48 Anything you want to say about this? Um,
+21:51 not really. other than the fact that
+21:52 this is a new kind of what they call an
+21:54 omni model. So it can handle lots of
+21:56 different types of input, not just text,
+21:58 but also, you know, like movement within
+22:01 space and images and all this type of
+22:03 thing.
+22:04 >> So it's good for people that working in
+22:06 the physical space, which is not me. I
+22:08 know absolutely nothing about robotics,
+22:10 but you want to look at robot arms
+22:11 moving around, then this is the place to
+22:13 do it.
+22:14 >> Yeah, they do have that on their site.
+22:15 And I do wonder if people who are who
+22:17 were listening are doing that. I'll tell
+22:19 you this folks, I stopped talking over
+22:21 the videos because one commenter told
+22:25 told us that and Peter uh Peter noticed
+22:27 it and told me if this is something that
+22:29 you're building with, let us know. Let
+22:31 us know how you're using
+22:31 >> of omnidreams, an action conditioned
+22:34 world model. Cosmos predicts the future
+22:38 frame by frame.
+22:40 Post train Cosmos and it becomes a world
+22:42 action model. Perceiving, reasoning,
+22:46 planning, generating actions.
+22:51 Okay. Um, I like that it's here. I like
+22:54 that we're getting more substantive and
+22:56 getting offline. I don't think it's
+22:57 applicable to most people. We'll move on
+22:59 to number eight. Oh, before we do, we
+23:03 keep commenting on how some repos don't
+23:05 seem to fit here. How do they get all
+23:07 these stars? And you have said, look,
+23:10 some people do. Adam actually said some
+23:12 people buy. You've been questioning
+23:13 some. And then you you highlighted
+23:15 these. Uh, what are we looking at here?
+23:19 So, I noticed that this Phantom Stars
+23:22 account, which I know nothing about what
+23:24 this is, but
+23:25 >> it's a tool of some kind that is going
+23:28 around and commenting on different repos
+23:30 where it thinks there has been what it
+23:32 calls fake engagement. So, it's not
+23:34 making a direct, you know, accusation,
+23:36 and we're not making a direct accusation
+23:38 that these projects are engaging in any
+23:39 kind of like buying stars or whatever,
+23:41 >> but it's saying we've noticed that there
+23:43 are these users that are very suspicious
+23:45 and do nothing but go around and like
+23:47 random repos and have no other activity.
+23:49 So, I just thought it was interesting
+23:51 that it cropped up on a few of the ones
+23:52 that we've covered today. But, I guess
+23:54 that makes sense since they are the most
+23:55 popular ones of the week. They're the
+23:57 ones that are most likely to uh attract
+23:59 this, you know, whether or not it's
+24:01 being done intentionally or not.
+24:03 Yeah, they're going to get the most
+24:04 everythings. Okay, so we've got links
+24:06 here for those. It is happening.
+24:07 >> It's a thing.
+24:08 >> Yeah. And if anyone has any information
+24:10 about this, let us know. I'm curious
+24:12 about who's buying stars. What does
+24:13 stars cost? I've been hearing a lot
+24:15 about people who are buying engagement
+24:16 on X and doesn't cost that much. Some
+24:19 anywhere from
+24:20 >> I'll star your repo for $1,000. So, you
+24:22 know, if anyone wants that help, you
+24:25 know,
+24:25 >> they want bots to do it. They want a
+24:27 thousand repos for $1. Okay, this is
+24:30 bringing up Taste Skill is bringing up a
+24:32 really big issue, which is that
+24:34 everybody's design looks the same.
+24:36 Especially if it comes from any of
+24:38 Claude's products, except I don't know
+24:40 about Fable. I've been hearing Fable's
+24:41 getting better at it. But if you want to
+24:42 create your unique taste, if you want to
+24:44 create your unique angle, don't start
+24:46 with what Claude has and adjusted. Start
+24:48 with something brand new. That's the
+24:49 vision here. Um, and they've got here,
+24:52 let me show you a before and after from
+24:53 this video.
+24:56 >> So, you can see this is a very basic
+24:58 landing page. Um, so even though I think
+25:00 it's uh decent, but it's pretty basic.
+25:03 So, let's check out the one that has the
+25:04 test skill.
+25:14 >> Taking a moment, but he'll get it.
+25:16 >> And you can see that this is better. So,
+25:18 this is actually really premium. And you
+25:20 can see that uh the UI is very elevated.
+25:24 So, it's very good. So
+25:28 >> that's that's the idea here. You can
+25:30 take a look at their site, which of
+25:31 course we'll link to, and uh and you can
+25:34 get a sense of their design style. I
+25:36 like it. I like these a lot. What do you
+25:38 think?
+25:40 >> I think it's very important to note that
+25:42 you are basically trading one set of
+25:44 cliches for another with skills like
+25:46 this. So, like when I went into and look
+25:49 through the skill files, you know, it's
+25:50 got all these different kind of like um
+25:51 tones like brutalist design and a
+25:54 minimalist design and a soft design
+25:55 which you can see on that page as well.
+25:57 >> Um and if you go into the skill files,
+25:59 it basically says, oh, you know, like a
+26:00 soft design will use these types of
+26:02 colors and it will use these types of
+26:03 fonts,
+26:04 >> but you're really just over, you know,
+26:05 steering the model away from what it
+26:07 would do by default into this other kind
+26:09 of lane. So, you're just trading one set
+26:11 of cliches for another. Um, but the good
+26:13 thing about it is you can take repos
+26:15 like this. you can go in and say, "Well,
+26:16 actually, I want to make my own style
+26:19 inspired by all of this." Copy and paste
+26:21 it, change the fonts around, change the
+26:22 colors around, and then bam, you've got
+26:24 your own little design system uh come
+26:25 out of it. So, I don't mind repos like
+26:27 this. It is nice to see what other
+26:29 people's takes are on designing things.
+26:32 Um, and it's kind of like fun to play
+26:33 with. Uh, you know, it's not like it's
+26:35 producing code that's going to
+26:37 completely break everything. It is
+26:38 basically just changing the design, the
+26:39 style, the CSS, the fonts, and so on.
+26:42 Um, so yeah, experiment, play, but also
+26:44 again, you know, I've said this on so
+26:45 many repos. It's a case of go into the
+26:47 repos, look at the skills, and see if
+26:49 you're happy with what it's suggesting
+26:51 because you might not like you might not
+26:53 like these designs, but you can change
+26:54 it. What I like about this video from
+26:57 Dev's Kingdom is he he shows how easy it
+27:00 is. He just has it create another
+27:01 version. He clicks it open and he shows
+27:03 us what it looks like. And I think
+27:05 that's another fun thing about this.
+27:06 Just throw your design at it, see what
+27:08 it can do, and then adjust. All right.
+27:11 This is Apple's own tool to run Linux
+27:15 containers as lightweight virtual
+27:17 machines on Apple silicon.
+27:20 This came out at WWDC this week. How and
+27:24 what's going on with this? So I mean
+27:26 this idea um even at Apple has been
+27:30 actually around for you know a year or
+27:32 two now which is that it allows you on
+27:36 Mac OS to basically run Linux within a
+27:38 tiny
+27:40 virtual machine within your machine. Now
+27:43 you've been able to do this with third
+27:44 party tools for a long long long time.
+27:46 This is you know a technology that goes
+27:47 back decades but now Apple's getting in
+27:49 on the action and people were thinking
+27:51 well why why would they want to do that?
+27:54 And that's why the announcements at WWDC
+27:58 this week in particular were interesting
+27:59 is because they're taking it to the next
+28:01 level. So it's not just about running,
+28:03 you know, a random Linux in a VM. You've
+28:05 been able to do that for years. They're
+28:06 focusing more on the integration now
+28:08 between Mac OS and these underlying VMs.
+28:12 So they're adding in things like being
+28:14 able to keep the file system synced
+28:16 between the two. Um, and hopefully, you
+28:19 know, they will eventually get it to the
+28:20 point where it's a bit like there's
+28:21 something in Windows called WSL which
+28:24 allows you to run Linux and it fully
+28:26 integrates with Windows. You can even
+28:27 run graphical apps from Linux and they
+28:30 appear on the screen, you know, almost
+28:31 as if they're Windows applications.
+28:34 The idea is that hopefully you'll be
+28:36 able to do all of this as well with Mac
+28:37 OS eventually. Uh, they're just kind of
+28:40 like teasing out bit after bit and Tim
+28:42 Snif there is one of the people that's
+28:43 actually working on this feature. Um, I
+28:46 mean, one of the things actually I found
+28:47 quite funny about this tweet is that he
+28:49 said, "Oh, you know, I love what's going
+28:50 on with Apple Container." And someone
+28:51 replied back and said, "Oh, you know,
+28:53 we've been able to do this for years and
+28:55 people didn't realize he's the guy
+28:56 actually implementing this stuff." So,
+28:58 it was one of those kind of scenarios,
+29:00 but it's nice to see that Apple's
+29:01 interested in this and they're allowing
+29:03 the people to talk about it. That's
+29:04 quite unusual at Apple with technical
+29:07 stuff. You know, you don't often see
+29:09 them tweeting about things that they're
+29:10 actually implementing. So, it seems like
+29:11 they want to engage with our community
+29:13 and they want, you know, developers and
+29:15 particularly AI developers to use these
+29:18 containers. I mean, they're technically
+29:19 VMs, um, to run workloads safely within
+29:24 a Mac OS machine without it taking over
+29:25 the entire machine. And that is one of
+29:27 the things that this allows you to do.
+29:30 All right,
+29:31 repeat. Mark it down. Coming back again.
+29:34 This one keeps making into the top 10.
+29:36 This is m Microsoft's
+29:38 way of helping you turn PDFs into
+29:42 markdown office docs, images, uh, audio
+29:45 into clean markdown files, even YouTube
+29:47 videos into markdown files. We we've
+29:49 talked about it before. So, you know
+29:50 what? Today, what we're going to do is
+29:52 we're going to have this YouTuber who I
+29:54 I can't tell if this is a real guy or
+29:56 not cuz he's so like he's so always on
+29:59 exactly right here. So, maybe he's super
+30:01 edited. Everyone uploading PDFs to
+30:03 Claude is basically wasting their
+30:05 tokens. And Microsoft had a free
+30:07 solution to this for months. So every
+30:09 time you upload a PDF, Claude has to
+30:11 process the entire thing. The
+30:13 formatting, the broken tables, the
+30:14 images, and all the extra junk inside
+30:16 the file. And each PDF page can consume
+30:18 between 1,500 to 3,000 tokens. So 20page
+30:22 document burns through up to 70,000
+30:24 tokens in one shot. And this is before
+30:26 you even ask your first question. The
+30:28 fix is simple. It's called Market It
+30:29 Down, a free Microsoft tool with over
+30:31 110,000 stars on GitHub. It takes any
+30:34 file, be it PDFs, Word docs, Excel
+30:36 sheets, PowerPoints, or even YouTube
+30:38 videos, and converts them into clean
+30:40 markdown text. This drops your token
+30:42 usage by up to 70%. And Claude actually
+30:45 gives better answers because it was
+30:46 trained on millions of markdown
+30:48 documents and understands the format
+30:49 natively. Plus, Mark Itown comes with an
+30:51 MCP server, meaning when you connect it
+30:53 to Claude desktop, it automatically
+30:55 converts every file you upload to a MD
+30:57 file. So, check the pinned comment for
+30:59 the tool link and the full PDF guide.
+31:03 >> All right. I like his his way of doing
+31:05 it. Do you think he's human?
+31:07 >> I'm not sure. But are you human?
+31:09 >> I would like to be less human.
+31:10 >> I definitely am.
+31:11 >> I would like to be less human. I'd like
+31:13 to get like more AI into the scripting
+31:15 here. Look at how organized he was with
+31:17 that.
+31:18 >> All right. Of course, that report with
+31:20 his video and everything else is going
+31:21 to be in the description. Before we go,
+31:23 Peter, what are you up to this weekend?
+31:26 I am literally doing nothing. I'm
+31:28 attending a family barbecue, but other
+31:30 than that, I'm doing nothing because I
+31:31 just need to decompress. All these stars
+31:33 are literally getting into my head.
+31:35 >> I need to like get rid of the stars.
+31:36 >> That
+31:37 >> Yeah, I am going to be mowing, mowing,
+31:39 mowing this weekend, doing a lot of yard
+31:41 work, and then Olivia is taking the two
+31:43 older boys with her to San Francisco to
+31:45 be with her family. And I've got the
+31:47 baby with me for 10 days. And I don't
+31:50 know what we're going to do.
+31:50 >> I've done that before.
+31:52 >> Yeah, it's um it's something. But, you
+31:55 know, he's in daycare. And then I think
+31:56 I think on the weekends I'm going to
+31:58 take him to um
+31:59 >> to San Antonio. We're in Austin. And
+32:01 I'll take him to a museum where he can
+32:03 run around all the time. And I'll bring
+32:04 my guitar with my earphone so I could
+32:06 practice and just have some downtime
+32:07 while he's running. All right. So, there
+32:10 it is. As the next video now that this
+32:11 is over, you should know that there have
+32:12 been some incredible AI releases this
+32:14 week that did not get a much attention
+32:16 because Fable was big and also because
+32:18 people just don't have that much
+32:19 attention span. We found the best ones.
+32:21 In the next video that you're going to
+32:22 watch, you're going to see them. See you
+32:24 in there.

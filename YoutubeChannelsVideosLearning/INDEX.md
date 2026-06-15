@@ -2,12 +2,13 @@
 
 Auto-regenerated. One line per video, newest first. Sorted by published date, descending.
 
-**Last updated:** 2026-06-15 02:30 UTC
-**Total videos:** 78 across 13 channels
+**Last updated:** 2026-06-15 03:20 UTC
+**Total videos:** 83 across 13 channels
 
 | Date | Channel | Title | Duration | Video ID | Note |
 |------|---------|-------|----------|----------|------|
 | 2026-06-15 | Hyperautomation Labs | I Rebuilt All 7 Claude Fable 5 Demos Anthropic Showed 4.2M People — Here's the Scoreboard | 16:19 | [JQEPHFbLPEY](https://www.youtube.com/watch?v=JQEPHFbLPEY) | [note](channels/hyperautomation-labs/videos/2026-06-15_rebuilt-all-7-claude-fable-5-demos-scoreboard.md) |
+| 2026-06-14 | Eddy | (Podcast) How a Non Technical Founder Built a Top iOS App with Claude Code | 19:51 | [Tc3zHU6ITUQ](https://www.youtube.com/watch?v=Tc3zHU6ITUQ) | [note](channels/eddy/videos/2026-06-14_non-technical-pm-claude-code-respiro-app.md) |
 | 2026-06-14 | Eddy Explainer | Building an App with Zero Coding Skills — Kostyantyn Vlasenko's 6-Week Respiro Story | 6:40 | [e53ubwpu2Oo](https://www.youtube.com/watch?v=e53ubwpu2Oo) | [note](channels/eddy/videos/2026-06-14_kostyantyn-vlasenko-respiro-6-week-claude-code-build.md) |
 | 2026-06-13 | Eddy Explainer | (Podcast) SkillOpt — The Deep Learning Revolution for AI Agent Skills | 20:00 | [IMLsGCTlfJo](https://www.youtube.com/watch?v=IMLsGCTlfJo) | [note](channels/eddy/videos/2026-06-13_podcast-skillopt-deep-learning-revolution-agent-skills.md) |
 | 2026-06-13 | Eddy Explainer | How CodeRabbit Built an AI Agent Orchestration System with Claude | 8:23 | [WR3oLVG4Ji8](https://www.youtube.com/watch?v=WR3oLVG4Ji8) | [note](channels/eddy/videos/2026-06-13_coderabbit-agent-orchestration-planning-first.md) |
@@ -19,6 +20,8 @@ Auto-regenerated. One line per video, newest first. Sorted by published date, de
 | 2026-06-13 | The Solo Entrepreneur | Why Did Government Ban Claude Fable 5? - Dangerous AI Model Ever! | 7:41 | [muP_yTwXn6U](https://www.youtube.com/watch?v=muP_yTwXn6U) | [note](channels/the-solo-entrepreneur/videos/2026-06-13_why-did-government-ban-claude-fable-5.md) |
 | 2026-06-12 | Eddy Explainer | (Podcast) SkillOpt — The Self-Evolving Future of AI Agents | 19:54 | [xJrUbLtiZwg](https://www.youtube.com/watch?v=xJrUbLtiZwg) | [note](channels/eddy/videos/2026-06-12_podcast-skillopt-self-evolving-future-ai-agents.md) |
 | 2026-06-12 | Hyperautomation Labs | Sora Died and OpenAI Deleted Everything — The Free AI Video Stack Nobody Can Shut Down | 14:12 | [6R5Rsv15adI](https://www.youtube.com/watch?v=6R5Rsv15adI) | [note](channels/hyperautomation-labs/videos/2026-06-12_sora-died-free-ai-video-stack-owned.md) |
+| 2026-06-12 | The Next New Thing AI | Free clones: Notion, Lovable, Notebook LM + top 10 repos | 32:25 | [2WNl5VidRS8](https://www.youtube.com/watch?v=2WNl5VidRS8) | [note](channels/the-next-new-thing-ai/videos/2026-06-12_free-clones-notion-lovable-notebook-lm-top-10-repos.md) |
+| 2026-06-12 | Vendasta | The EASIEST AI Agent to Sell to Local Businesses | 5:34 | [4JJROlDxaB4](https://www.youtube.com/watch?v=4JJROlDxaB4) | [note](channels/vendasta/videos/2026-06-12_easiest-ai-agent-sell-local-businesses-receptionist.md) |
 | 2026-06-11 | Eddy Explainer | (Podcast) Google Antigravity 2.0 and the Future of Multi-Agent Orchestration | 17:07 | [kI5DB_UNFUg](https://www.youtube.com/watch?v=kI5DB_UNFUg) | [note](channels/eddy/videos/2026-06-11_podcast-google-antigravity-2-multi-agent-orchestration.md) |
 | 2026-06-11 | Eddy Explainer | Docker vs VMs vs Kubernetes — The Ultimate Home Lab Guide | 6:59 | [HQrbOOVOxt0](https://www.youtube.com/watch?v=HQrbOOVOxt0) | [note](channels/eddy/videos/2026-06-11_docker-vs-vms-vs-kubernetes-home-lab-guide.md) |
 | 2026-06-11 | Eddy Explainer | (Podcast) Docker vs VMs vs Kubernetes — The Ultimate Home Lab Strategy | 23:47 | [8vTxVfwsweU](https://www.youtube.com/watch?v=8vTxVfwsweU) | [note](channels/eddy/videos/2026-06-11_podcast-docker-vms-kubernetes-home-lab-strategy.md) |
@@ -26,10 +29,12 @@ Auto-regenerated. One line per video, newest first. Sorted by published date, de
 | 2026-06-11 | Hyperautomation Labs | Claude Fable 5 Edited Its Own Launch Video — No Human Opened an Editor (Copy the Pipeline) | 15:23 | [HcUok_nxoTA](https://www.youtube.com/watch?v=HcUok_nxoTA) | [note](channels/hyperautomation-labs/videos/2026-06-11_fable-5-edited-own-launch-video-pipeline.md) |
 | 2026-06-11 | Hyperautomation Labs | I Made Opus 4.8 and Fable 5 Build the Same App — Both Worked, Until I Opened the Data | 9:58 | [yKF68OZUGRU](https://www.youtube.com/watch?v=yKF68OZUGRU) | [note](channels/hyperautomation-labs/videos/2026-06-11_opus-48-vs-fable-5-same-app-head-to-head.md) |
 | 2026-06-11 | Hyperautomation Labs | The $0 AI Stack — Free Replacements for $180/Month of AI Subscriptions (and the 3 I'd Still Pay For) | 13:08 | [-jpfZTK6Ioc](https://www.youtube.com/watch?v=-jpfZTK6Ioc) | [note](channels/hyperautomation-labs/videos/2026-06-11_zero-dollar-ai-stack-replaces-180-month.md) |
+| 2026-06-11 | The Next New Thing AI | Free AI Agent, Claude Code Replacement & 7 Other Launches | 18:33 | [7TT2aM_DdTk](https://www.youtube.com/watch?v=7TT2aM_DdTk) | [note](channels/the-next-new-thing-ai/videos/2026-06-11_free-ai-agent-claude-code-replacement-launches.md) |
 | 2026-06-10 | Hyperautomation Labs | 10 More GitHub Repos So Good They Shouldn't Be Free — And the Paid Tools They Kill (Part 2) | 12:17 | [hiX-KFaAuA4](https://www.youtube.com/watch?v=hiX-KFaAuA4) | [note](channels/hyperautomation-labs/videos/2026-06-10_10-more-github-repos-free-kill-paid-tools-part-2.md) |
 | 2026-06-10 | Hyperautomation Labs | Claude Fable 5 Has Been Out 48 Hours — The Wildest Things People Built (and the Bill Nobody Posts) | 13:37 | [VyntpHLY1so](https://www.youtube.com/watch?v=VyntpHLY1so) | [note](channels/hyperautomation-labs/videos/2026-06-10_fable-5-48-hours-wildest-builds-and-bill.md) |
 | 2026-06-10 | Hyperautomation Labs | Nobody Could Define 'Loop Engineering' — an Anthropic Insider Just Published the Recipe (Fable 5) | 15:23 | [ss09UQpGmck](https://www.youtube.com/watch?v=ss09UQpGmck) | [note](channels/hyperautomation-labs/videos/2026-06-10_loop-engineering-fable-5-recipe.md) |
 | 2026-06-10 | The Solo Entrepreneur | I Vibe Coded a SaaS StartUp for ₹0 - Idea to Launch! | 26:07 | [1LB6PGsruYQ](https://www.youtube.com/watch?v=1LB6PGsruYQ) | [note](channels/the-solo-entrepreneur/videos/2026-06-10_i-vibe-coded-a-saas-startup-for-zero-rupees.md) |
+| 2026-06-10 | Vendasta | I Almost Quit Selling AI Agents Until I Learned This | 18:15 | [3kPf2NqKgQQ](https://www.youtube.com/watch?v=3kPf2NqKgQQ) | [note](channels/vendasta/videos/2026-06-10_productize-ai-employees-isabella-bedoya-playbook.md) |
 | 2026-06-09 | AI Engineer | 2026 AI Engineer Vibe Reel | 1:07 | [gUMwt4-5kn0](https://www.youtube.com/watch?v=gUMwt4-5kn0) | [note](channels/ai-dot-engineer/videos/2026-06-09_ai-engineer-worlds-fair-2026-vibe-reel.md) |
 | 2026-06-09 | Hyperautomation Labs | Two of the Most Senior AI Engineers Just Said the Same 6 Words — Nobody Can Define Them | 12:18 | [1MyV_D4E1rY](https://www.youtube.com/watch?v=1MyV_D4E1rY) | [note](channels/hyperautomation-labs/videos/2026-06-09_prompt-engineers-vs-loop-engineers-steinberger-cherny.md) |
 | 2026-06-09 | Hyperautomation Labs | 11 Prompts That Run Claude Code While You Sleep (Meet Hermes — The Honest Overnight Setup) | 13:24 | [-d7AExggxKI](https://www.youtube.com/watch?v=-d7AExggxKI) | [note](channels/hyperautomation-labs/videos/2026-06-09_11-prompts-claude-code-overnight-hermes.md) |

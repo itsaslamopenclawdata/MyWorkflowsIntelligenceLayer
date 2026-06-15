@@ -1,0 +1,11 @@
+# Transcript unavailable
+
+# Video: Why Did Government Ban Claude Fable 5? - Dangerous AI Model Ever!
+# Channel: The Solo Entrepreneur
+# Date: 2026-06-13
+# URL: https://www.youtube.com/watch?v=muP_yTwXn6U
+# Duration: 7:41
+
+Transcript was not available at fetch time. Description-only notes were generated.
+To regenerate, run the backfill with a fresh transcript fetch:
+  python3 backfill.py --channel-id UCV_DLB3VW0szIGQnwel1Nsw --backfill 10

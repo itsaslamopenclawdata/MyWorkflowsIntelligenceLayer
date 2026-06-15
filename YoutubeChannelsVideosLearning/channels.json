@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "last_updated": "2026-06-14",
+  "last_updated": "2026-06-15",
   "channels": [
     {
       "name": "Hyperautomation Labs",
@@ -12,8 +12,8 @@
       "category": "ai-automation",
       "priority": "high",
       "added_on": "2026-06-06",
-      "last_seen_video_id": "VjHG8peizpo",
-      "last_seen_published": "2026-06-13",
+      "last_seen_video_id": "JQEPHFbLPEY",
+      "last_seen_published": "2026-06-15",
       "min_duration_seconds": 300,
       "skip_rule": null,
       "enabled": true
@@ -44,8 +44,8 @@
       "category": "solopreneurship",
       "priority": "high",
       "added_on": "2026-06-06",
-      "last_seen_video_id": "yxmMKvWHoAA",
-      "last_seen_published": "2026-06-08",
+      "last_seen_video_id": "muP_yTwXn6U",
+      "last_seen_published": "2026-06-13",
       "min_duration_seconds": 300,
       "skip_rule": null,
       "enabled": true

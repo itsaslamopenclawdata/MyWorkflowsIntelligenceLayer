@@ -1,0 +1,76 @@
+0:00 Yesterday at 5:21 p.m. Eastern, the US
+0:03 government did something to AI that has
+0:06 never happened before.
+0:08 It ordered the most powerful model on
+0:10 the market shut down.
+0:12 Within hours, Anthropic pulled Fable 5
+0:14 and Mythos 5 for every customer on
+0:16 Earth.
+0:17 3 days after launch.
+0:19 And the official reason is the wildest
+0:21 part. Here's what we know.
+0:24 Anthropic received an export control
+0:26 directive
+0:27 citing national security.
+0:30 The order
+0:31 suspend Fable 5 and Mythos 5 access for
+0:34 every foreign national inside or outside
+0:37 the United States, including Anthropic's
+0:40 own employees. So, Anthropic switched
+0:43 both models off for everyone,
+0:45 everywhere. Every other Claude model
+0:47 still runs.
+0:49 And the letter gave no specific details
+0:52 about the actual threat. Now, decode it.
+0:55 The government believes it found a
+0:57 jailbreak in Fable 5.
+1:00 Anthropic reviewed the demo.
+1:02 Their verdict?
+1:03 Narrow. Not universal.
+1:06 The exploit?
+1:08 Asking the model to read a code base and
+1:10 point out software flaws.
+1:12 Anthropic says other models already do
+1:15 that.
+1:16 Including OpenAI's GPT 5.5 and security
+1:19 defenders use it daily.
+1:22 So, Anthropic is complying but publicly
+1:24 fighting back.
+1:25 A narrow jailbreak, they say, should not
+1:28 recall a model used by hundreds of
+1:30 millions.
+1:31 That's the real story.
+1:33 For the first time ever, a government
+1:36 recalled a live commercial AI model.
+1:39 Real talk.
+1:40 90% of you watching haven't subscribed.
+1:44 On Facebook, subscribe is the supporter
+1:46 button.
+1:47 That is what keeps the lights on here.
+1:50 On YouTube, it's free and it tells the
+1:53 algorithm to send you more. Subscribe to
+1:55 support us. If you build on AI
+1:58 your stack just got a new failure mode.
+2:01 A directive at 5:00 p.m. can switch your
+2:03 model off overnight.
+2:06 Three moves. One, never hardwire a
+2:08 single model.
+2:10 Keep a second provider tested and ready.
+2:14 Two,
+2:15 run your evals on the backup, too.
+2:17 So, a swap doesn't quietly break your
+2:19 product.
+2:20 Three,
+2:21 watch the next 24 hours.
+2:24 Anthropic says it's fighting to restore
+2:25 access.
+2:27 I put the full model recall survival kit
+2:29 in a free PDF.
+2:31 The fallback checklist, the eval parity
+2:33 test, and what this precedent means for
+2:36 your stack.
+2:37 Comment recall and I'll send it.
+2:40 Bite size
+2:42 AI drops on Instagram
+2:43 at Hyper Automation Labs.
+2:46 Deep dives here on YouTube.

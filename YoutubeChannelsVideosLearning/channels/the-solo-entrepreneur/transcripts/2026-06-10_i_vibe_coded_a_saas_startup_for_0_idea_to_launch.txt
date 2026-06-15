@@ -1,0 +1,11 @@
+# Transcript unavailable
+
+# Video: I Vibe Coded a SaaS StartUp for ₹0 - Idea to Launch!
+# Channel: The Solo Entrepreneur
+# Date: 2026-06-10
+# URL: https://www.youtube.com/watch?v=1LB6PGsruYQ
+# Duration: 26:07
+
+Transcript was not available at fetch time. Description-only notes were generated.
+To regenerate, run the backfill with a fresh transcript fetch:
+  python3 backfill.py --channel-id UCV_DLB3VW0szIGQnwel1Nsw --backfill 10

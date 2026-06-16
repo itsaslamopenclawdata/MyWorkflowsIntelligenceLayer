@@ -1,0 +1,428 @@
+---
+title: "I Made Minecraft Using ChatGPT"
+channel: "Sharbel A."
+channel_slug: "sharbel"
+channel_id: "UCxLzvFAUbpdNUIh0hGsEH0w"
+published: "2026-06-15"
+duration_seconds: 1096
+video_id: "ZrpLW27_BRk"
+url: "https://www.youtube.com/watch?v=ZrpLW27_BRk"
+language: "en"
+tags: [chatgpt, ai-coding, game-prototype, minecraft-clone, vibe-coding]
+transcript_status: "fetched"
+generated_by: "channels-youtube-content"
+generated_on: "2026-06-16"
+---
+
+# I Made Minecraft Using ChatGPT
+
+**Channel:** Sharbel A.  **Published:** 2026-06-15  **Duration:** 18:16  **Watch:** https://www.youtube.com/watch?v=ZrpLW27_BRk
+
+## TL;DR
+Sharbel gives ChatGPT the single prompt "make Minecraft" with 7 acceptance criteria (world gen, movement, breaking/placing blocks, inventory/crafting, survival, plus a 1-hour time limit). Across three ~17-20 minute iterations ChatGPT produces a browser-based "Blockcraft Survival" that hits most of the criteria but breaks down on survival (mobs too easy in v1, mostly absent in v3). He lands on a 6/10 verdict — the AI replaced the blank page, not the game developer. The takeaway: AI gets you to "playable" fast, but "playable" is not "fun," and human judgment still owns taste, balance, and feel.
+
+## Key Insights
+- 7-test rubric: world generation, movement, breaking blocks, placing blocks, inventory+crafting, survival, and a 1-hour wall-clock cap. (0:15)
+- Three prompt loops inside the hour, each ~17-20 minutes for ChatGPT to complete — about 60 minutes of compute used. (0:51, 3:06, 7:47)
+- The biggest jump was adding biomes, a held-item hand, harder mobs, and torches with actual light radius. (5:02, 7:04)
+- Final scoring breakdown: world gen 7/10, movement 6/10 (felt "floaty, like a drone with severe anxiety"), mining/placing 7/10, inventory/crafting 7/10 (ugly but functional), survival 4/10 (mobs "fight like a haunted Roomba"), fun factor 6/10. (14:28)
+- Verdict: 6/10 — a "real playable prototype," not a great Minecraft clone. The core loop (mine → craft → build → survive) survived. (16:08)
+- Re-framing the AI's role: it replaced the blank page and gave him a world, controls, mining, placing, inventory, and enough of a loop to test the idea — but did not replace a game developer. (16:19)
+- Sharpest insight: "AI can get you to playable faster than ever, but playable is not the same as fun or good. The more complex the project gets, the more the human role shifts from typing code to judging taste, testing the system, and forcing the AI through some of the boring fixes." (17:00)
+- Concretes the AI's blind spots: it didn't know movement felt bad, that the crafting menu looked awful, or that the enemy was annoying instead of scary. (16:41)
+- Overcorrection pattern: a "few prompts" of feedback collapsed mob count too far, removing the challenge that made the loop work. (15:36)
+
+## Notable Quotes
+> "ChatGPT did not replace a game developer here. It replaced the blank page." — 16:19
+> "AI can get you to playable faster than ever, but playable is not the same as fun or good." — 17:00
+> "The more complex the project gets, the more the human role shifts from typing code to judging taste, testing the system, and forcing the AI through some of the boring fixes." — 17:13
+
+## Tools and Resources Mentioned
+- **ChatGPT** — OpenAI's ChatGPT (vendor: OpenAI). Used via browser for the entire "make Minecraft" build, not a specific code model API.
+- No third-party libraries, frameworks, or assets named. The "Blockcraft Survival" game runs in a browser tab.
+
+## GitHub Repos and URLs Referenced
+- No external URLs in the video body. The Minecraft clone lives at a Sharbel-pasted browser link; not surfaced as a public repo in the transcript.
+
+## Action Items
+- [ ] For your own AI-coding test, define a written rubric of 5-7 concrete acceptance tests BEFORE the first prompt — not vibes-based judging.
+- [ ] Reserve the human role for taste, feel, and balance passes; let the AI do the typing on the boring mechanical fixes.
+- [ ] When an over-correction removes the challenge (final v3 mobs mostly absent), bisect: revert one change at a time rather than continuing to add prompts.
+
+## Open Questions
+- Would Claude with the same prompt and time budget beat ChatGPT on the fun-factor score? (He teases a part 2 with Claude but does not run it here.)
+- Where is the inflection point where the time saved by AI prototyping is eaten by the iteration cost on taste?
+
+---
+
+<details>
+<summary><b>Raw Transcript</b> (click to expand — full HH:MM:SS transcript)</summary>
+
+0:00 I gave Chachi Piti one job, make
+0:03 Minecraft. The prompt is literally going
+0:06 to say, "Make Minecraft." And I'm going
+0:09 to judge it like a player. So, here are
+0:12 the rules. The final game has to pass
+0:15 seven tests. Number one, world
+0:18 generation. Two, movement. Three,
+0:22 breaking blocks. Four, placing blocks.
+0:25 Five, inventory and crafting. Six,
+0:29 survival. Oh, and seven, it has to do
+0:33 that in under one hour. If this works,
+0:36 it means AI can take a massive game idea
+0:40 and turn it into a playable prototype in
+0:42 one sitting. If it fails, we'll know
+0:45 exactly where AI coding still falls
+0:47 apart. Here's the prompt slashgoal make
+0:51 Minecraft. And then I gave it a bunch of
+0:54 instructions as well as the seven
+0:56 measures we're going to use to rate it.
+0:59 And it took it just under 20 minutes to
+1:02 finish its first prompt, which is the
+1:06 perfect time for us to judge it, see how
+1:09 it's doing, and see what the next prompt
+1:12 are. There's still 40 minutes on the
+1:15 line for it, so it better have gotten us
+1:18 80% of the way there. Let's uh paste in
+1:21 the link and uh try it out. Let's go.
+1:24 Block craft survival. Block craft
+1:27 survival. Let's click play and
+1:32 Oh, look. All the commands work so far.
+1:35 And we even go slower in water. Hold on.
+1:38 Yeah, we we go slower in water. All
+1:41 right, let's try Oh, I just realized we
+1:44 don't have hands, so it just does that.
+1:49 when we try to pick an item out.
+1:53 Let's try if we go Oh, we have an
+1:57 inventory as well. And we have crafting.
+2:01 So, we'll need planks and sticks and
+2:05 more planks. Let's see. Can we get a
+2:08 crafting table? So, this is a crafting
+2:10 table. All of the items look the same.
+2:12 They're should be all squares. But if we
+2:15 try to place the crafting table, how do
+2:19 I open it? No block selected.
+2:22 Oh. Oh, the mobs. It's night already.
+2:26 Wait, it's way too easy to kill them.
+2:29 You just spam press hit mob, hit mob,
+2:32 hit mob, and they die. Come here. And we
+2:35 can run as well.
+2:38 This is way too easy. We need to make it
+2:40 a lot harder to kill mobs because that
+2:42 is nowhere near as fun as the real
+2:46 Minecraft where you know it's actually
+2:48 difficult to kill mobs.
+2:52 What is happening to the mobs? You died.
+2:54 The world keeps going. Respawn and try
+2:57 to recover your foothold. All right,
+2:59 let's go out for round two of prompting.
+3:06 All right, there we go. Literally five
+3:09 minutes of me writing a prompt and we're
+3:11 going to come back once it is done. My
+3:14 goodness, this took it another 19
+3:17 minutes, almost another 20 minutes,
+3:19 which means it literally only has 20
+3:22 more minutes left
+3:24 before it can do anything. After that,
+3:27 it cannot touch it anymore. And uh
+3:29 that's it. That would be the final
+3:30 version of the game we can try out. But
+3:33 with that, let's let's see what it did.
+3:35 Let's refresh the link and let's play it
+3:38 out. Click to play. Oh, let's go. We are
+3:41 in a snow biome. So, it added snow. Uh,
+3:46 we have an arm. Although it's floating
+3:48 around, it moves when we try to break
+3:51 something.
+3:56 Let's collect some logs because what I
+3:59 want to do next is try to go to
+4:02 inventory. Okay, we have more things we
+4:04 can build. Let's get some planks, some
+4:07 sticks, and make a crafting table. Some
+4:10 more planks. And let's place the
+4:15 inventory or the crafting table. And
+4:19 let's make a wood sword, a pickaxe, and
+4:23 a shovel and an axe. Basically,
+4:26 everything that we can make.
+4:29 I think Knight is almost here. So, let's
+4:33 run. Let's explore a little bit. Let's
+4:35 see what types of biomes it has because
+4:38 I did ask it for more biomes. It
+4:40 literally only had the plain biome. So,
+4:43 let's go explore. Although, night is
+4:46 coming, which only means trouble. Let's
+4:48 hold our sword.
+4:50 Okay, so second thing, when we hold
+4:52 something, it it doesn't show in our
+4:54 hand, which is something I need to
+4:57 mention to it. It did also make the
+4:59 nighttime a lot darker, which is great
+5:02 because that's how it looks like. Or
+5:04 it's closer to how it looks like in
+5:06 Minecraft. All right, there we go. I
+5:08 think that's a skeleton. Yes. Oh, there
+5:11 you go. So, we can only punch it every
+5:13 couple of seconds, not every single
+5:16 second. Whoa, spider. No, no, no. Oh,
+5:19 we're almost dead. How do I eat an
+5:22 apple? There you go,
+5:25 boy. Okay, I think we're in the grass
+5:28 biome. Oh my god. Okay, now the game is
+5:32 a lot more challenging,
+5:34 not going to lie.
+5:36 Oh my god,
+5:42 we died. That is honestly good news that
+5:45 we died without meaning to. It means the
+5:48 game is hard enough for it to be
+5:50 entertaining, for it to be fun. You want
+5:52 to be able, you want a challenge. You
+5:55 don't want to play something that feels
+5:57 too easy because you're going to get
+5:58 bored very quickly. Do we spawn? Yes, we
+6:01 spawn back with our items. So, what I'm
+6:03 going to do is I'm going to dig, dig,
+6:05 dig, dig. Try to find Oh, here it is. Is
+6:09 that our pickaxe? Yes, that is our
+6:11 pickaxe.
+6:13 I want to see if we can craft torches.
+6:17 There you go. Now we have torches. Do
+6:20 they make things around them brighter?
+6:23 Kind of. Eh,
+6:26 I died. What do you mean I died? No.
+6:29 Come here.
+6:32 Another thing I noticed is it's missing
+6:34 the item wearability element. Meaning,
+6:37 the more you use an item, the more it
+6:40 should wear out and eventually break,
+6:42 which is something very important. And
+6:44 the ad stake in uh Minecraft or higher
+6:49 stakes in Minecraft. I should probably
+6:51 write those down.
+6:59 Oh, we died. And at least now we can
+7:01 test out the torches.
+7:04 Torches make everything around them
+7:07 brighter. Except the torches themselves.
+7:10 They're not bright.
+7:14 Let's put it here.
+7:16 But it's good that they give some light.
+7:21 Oh my god. Then I died again without
+7:23 meaning to. All right, I think I have
+7:26 enough things to give it feedback on.
+7:28 I'm going to give it all the feedback I
+7:30 have. And this is going to be the final
+7:32 time. Probably if it takes the next 20
+7:35 minutes to finish a prompt, then this is
+7:37 going to be its last chance to edit its
+7:41 thing.
+7:47 All right, this is I believe the final
+7:50 prompt I will be giving it if it will be
+7:52 taking 20 minutes to finish it. So
+7:57 let's hit send and
+8:00 cross our fingers.
+8:02 Let's go. See you on the other side. So
+8:04 our third prompt actually took 17
+8:07 minutes, not 20. So technically we still
+8:10 have about 3 to four minutes left. So,
+8:13 what I did is try out the game and sent
+8:16 in one last prompt. Just one last prompt
+8:19 before we officially call it out. And
+8:22 once that prompt is complete, we're
+8:25 going to start the actual challenge of
+8:29 playing the game. With that, we are
+8:31 finally done. And now we're going to
+8:35 start testing out our game. Let's see
+8:38 what we have here. Blockcraft Survival.
+8:42 Let's get started and play. I mean,
+8:45 first up,
+8:48 what is that? A sheep. Let's go. Let's
+8:51 go. Oh, a pig. Log hit pig.
+8:56 Does the pig give us food once we uh
+8:59 kill it? Oh, there we go. We have raw
+9:03 pork chop. All right. Can we Can we
+9:07 We can break wood. Where did the wood
+9:09 go?
+9:11 That is one log.
+9:16 All right. And I'm just going to gather
+9:18 resources before th
+9:21 e night falls. Oh,
+9:24 look at that. It's literally raining
+9:26 apples. I don't think I'll even need to
+9:29 hunt for animals cuz there's so many
+9:31 apples.
+9:31 And creepers explode. Does it actually
+9:33 explode? I don't
+9:38 Oh my god. I I kind of want to test it
+9:40 out if they explode, but I also don't
+9:42 want to die. Oh, they do. They do
+9:46 explode.
+9:49 All right. Where should we build our
+9:52 home? Maybe we should build it in our
+9:54 spawn point. So, I'll let the spiders
+9:56 kill me. Come on, kill me. I'm dead.
+10:00 Let's build here.
+10:05 Why am I making this harder on myself? I
+10:07 can just craft planks. A bunch of
+10:10 planks.
+10:12 Let's put the crafting table inside. We
+10:15 can craft wooden doors. I'm going to
+10:17 craft doors. Put them here. We can craft
+10:20 chests. I'm going to craft one. A wood
+10:24 sword would be pretty helpful right now.
+10:27 And a wood axe and pickaxe. Let's see.
+10:31 Yeah, it gets considerably faster to
+10:35 chop down wood with an axe. That makes
+10:38 sense. So, very nice. Very well done.
+10:43 Can't see anything. I need torches. But
+10:46 in order to get torches, we need coal.
+10:49 How do we find coal?
+10:54 Look at that. All of the the the blocks
+10:57 that I've broken downstairs, they're
+10:59 right here just chilling. Oh, hi there.
+11:08 Oh, that's right. I have doors. So, let
+11:10 me place the doors somewhere.
+11:13 Where is the middle of the house? Let's
+11:16 say here.
+11:19 Okay.
+11:23 I love how the doors function. This is
+11:25 an open door and you can only open one
+11:28 at a time, but doesn't let you go
+11:30 through. If I open the other. Nope. I
+11:32 need to have both open. Oh, that's
+11:34 right. I also have a chest. Do chests
+11:36 work in this game? Yep. Chests work? And
+11:38 just like that, we've built a shelter
+11:45 successfully. Now, all we need to do is
+11:49 survive the night. And for that, we need
+11:51 to build a bed. And for beds, we need
+11:54 three wolves and three planks. All
+11:56 right, let me go ahead and just make
+11:59 better weapons. Let's make a stone
+12:04 sword, a stone axe, a stone pickaxe, a
+12:07 stone shovel, everything stone. Oh, look
+12:10 at that. We can even make armor. Five
+12:12 leather, eight leather, seven leather.
+12:14 I'm guessing we need to kill cows for
+12:17 that. There we go. All right, let's go
+12:19 make a bed. For that, we need sheep.
+12:23 Come here.
+12:24 I am so sorry for what is about to
+12:26 happen.
+12:29 Okay, that is Oh, that pork chop. Pork
+12:31 chop again. Those are pigs. Is that a
+12:34 sheep? No, that that has to be a cow.
+12:36 Yep, that is a cow. What is that? Is
+12:39 that also a cow? That is a cow. That has
+12:42 to be a cow. I'm assuming that is hidden
+12:45 inside the block.
+12:47 What is over there? More cows.
+12:52 There are only cows and pigs. That has
+12:55 to be
+12:57 pig. Why does the pig have black feet?
+13:00 There are literally no signs of sheep.
+13:02 That has to be a sheep. Come on. Sheep.
+13:05 No pig. Maybe I just need to keep
+13:07 exploring.
+13:09 So, either Chachi PT did not put sheep
+13:12 in the game or it's in a different biome
+13:14 that we're somehow not on.
+13:19 Okay, if this is not a sheep, then
+13:23 I guess it did not create Yep, this is a
+13:26 pig. It did not create sheep. So, I
+13:28 guess then in order to survive a night,
+13:30 we're going to have to do it the
+13:32 oldfashioned way of just fighting mobs
+13:36 until one of us dies. Oh, look at that.
+13:39 Even made uh a furnace. So, we can place
+13:43 furnaces down just like that. We can
+13:48 make glass. Hold on. Is there sand in
+13:51 the game? I don't think I've seen sand
+13:55 anywhere in this biome. All right, night
+13:57 survival starts. I'm not seeing any mobs
+14:02 spawn, which is also suspicious because
+14:06 if in fact mobs don't spawn that
+14:09 frequently, then it's not really a
+14:12 challenging game.
+14:15 We just survived the night and we only
+14:18 had to kill one creeper. What? So, did
+14:23 Chacht make Minecraft? Here is the
+14:26 score. When it comes to world
+14:28 generation, I'll give it a 7 out of 10.
+14:31 It created a real block world with
+14:35 terrain, trees, and layers. It is
+14:38 simple, but it passes. When it comes to
+14:41 movement, I'll give it a six out of 10.
+14:45 I mean, it was playable, but very
+14:48 floaty. It felt less like Steve and more
+14:51 like a drone with uh severe anxiety. For
+14:54 mining and placing blocks, we'll give it
+14:56 a seven out of 10. I mean, placing
+14:59 blocks was fine, but every time I would
+15:03 mine a block, it would just float up to
+15:06 the highest block in the game. Inventory
+15:09 and crafting, I'll give a seven out of
+15:11 10. It was ugly, but it was functional.
+15:14 I mean, I could collect resources, craft
+15:16 tools, and use them. Survival I'll give
+15:20 the lowest out of anything with a four
+15:23 out of 10. I mean, the enemy technically
+15:26 spawned, but it fights like a haunted
+15:29 Roomba. And for the fun factor, I'll
+15:31 give a six out of 10, which I did not
+15:34 expect. I mean, it was doing so great
+15:36 until the last literal update where it
+15:39 just removed most mobs. And without a
+15:42 challenge, games aren't as fun anymore.
+15:45 But it still kept the essence of
+15:47 Minecraft, which is the creativity, the
+15:50 things you could craft, the the
+15:52 buildings you could create, the things
+15:54 you could do. And even though the game
+15:57 is broken, it is somewhat weirdly fun
+15:58 because the core loop is still there. We
+16:01 could make it a lot better with just a
+16:06 few prompts. But that being said, the
+16:08 final score I'm giving it is a 6 out of
+16:12 10. It wasn't a great Minecraft clone,
+16:15 but it is a real playable prototype. And
+16:19 that is the actual takeaway I'm taking
+16:22 from this video. ChachiPT did not
+16:24 replace a game developer here. It
+16:26 replaced the blank page. It gave me a
+16:29 world, controls, mining, placing,
+16:32 inventory, and enough of a loop that I
+16:35 could test the idea instead of just
+16:38 talking or thinking about it. But it
+16:41 still needed human judgment at every
+16:43 important moment. I mean, it it didn't
+16:46 know movement felt bad. It didn't know
+16:49 the crafting menu looked awful. It
+16:52 didn't know the enemy was annoying
+16:54 instead of scary. It didn't know when
+16:56 the game felt fun and when it did not.
+17:00 And that is a very real line right now.
+17:03 AI can get you to playable faster than
+17:06 ever, but playable is not the same as
+17:10 fun or good. And the more complex the
+17:13 project gets, the more the human role
+17:16 shifts from typing code to judging
+17:19 taste, testing the system, and forcing
+17:22 the AI through some of the boring fixes.
+17:25 So yeah, ChachiPT made Minecraft,
+17:29 a cursed, broken browserbased Minecraft,
+17:34 but I could mine blocks, craft tools,
+17:37 build a shelter, get attacked at night,
+17:39 and die because my own AI generated mob
+17:43 just ghosted through a wall and just
+17:46 teleported. And that counts. If you want
+17:49 part two, I'll give Claude the exact
+17:52 same challenge and we'll see who makes
+17:55 the better Minecraft. Or we could have
+17:58 it make GTA 6 before Rockstar actually
+18:02 releases it. Let me know what you want
+18:04 to see down in the comments. And if you
+18:06 enjoyed this video, make sure to
+18:08 subscribe for a lot more content like
+18:11 this. And as always, I'll see you in the
+18:14 next video.
+
+</details>

@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "last_updated": "2026-06-15",
+  "last_updated": "2026-06-16",
   "channels": [
     {
       "name": "Hyperautomation Labs",
@@ -124,8 +124,8 @@
       "category": "tbd",
       "priority": "medium",
       "added_on": "2026-06-06",
-      "last_seen_video_id": "osrE1ouSKBk",
-      "last_seen_published": "2026-06-08",
+      "last_seen_video_id": "ZrpLW27_BRk",
+      "last_seen_published": "2026-06-15",
       "min_duration_seconds": 0,
       "skip_rule": null,
       "enabled": true

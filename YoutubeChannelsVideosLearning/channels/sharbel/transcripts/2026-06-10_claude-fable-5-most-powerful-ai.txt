@@ -1,0 +1,548 @@
+# Title: Claude Fable 5 Is The MOST POWERFUL AI!!
+# URL: https://www.youtube.com/watch?v=kP0g7w5kKjM
+# Channel: Sharbel A.
+# Video ID: kP0g7w5kKjM
+
+0:00 This game came from one prompt. This
+0:03 SaaS product came from one prompt. And
+0:06 this entire launch campaign also came
+0:10 from one prompt. I did not tell Claude
+0:13 Fable 5 what files to create. I did not
+0:16 tell it the tech stack. I did not walk
+0:18 it through the steps. I gave it three
+0:21 impossible goals and just let it work.
+0:24 Claude Fable 5 is being hyped as one of
+0:26 the most powerful AI models ever
+0:29 released. Benchmarks are cool, but I
+0:33 don't care if a model is 3% better on a
+0:36 chart. I care if it can take a real goal
+0:39 and turn it into something I can
+0:41 actually use. So, today, that's what I'm
+0:45 doing. I'm testing Claude Fable 5 with
+0:47 three builds that should be way too big
+0:50 for one prompt. By the end, I want to
+0:52 know one thing. Is Claude Fable 5
+0:55 actually the most powerful AI I've ever
+0:58 used? Or is this just another launch
+1:01 cycle with great marketing? Here's the
+1:04 rule for this video. I'm not allowed to
+1:06 break the project into tiny steps for
+1:08 Fable. For each test, I can give Claude
+1:11 Fable 5 one big prompt. That's it.
+1:14 Because that is the real promise of this
+1:16 model is long-running tasks. Can it plan
+1:20 the job, build the thing, catch
+1:22 mistakes,
+1:23 and keep moving without me babysitting
+1:26 every decision it has to take? So,
+1:29 let's start with the dumbest and most
+1:31 unfair test first. Can Claude Fable 5
+1:34 build a full playable game from one
+1:37 prompt? For the first test, I wanted
+1:39 something people could understand
+1:41 instantly. So, I gave it this prompt.
+1:45 Build a complete playable browser game
+1:47 from one prompt. It should have a main
+1:49 character, enemies, quests, upgrades,
+1:52 NPC dialogue, a map, a final boss, and a
+1:55 clear win condition. Make it weird,
+1:58 funny, and impressive enough that
+2:00 someone would want to share it with
+2:01 their friend. That's it. Let's run it.
+2:05 All right. Looks like we are finally
+2:08 done
+2:09 uh here. It took 14 minutes to do it.
+2:13 Now, there's nothing more to do but to
+2:16 try it.
+2:18 All right. Sock and Sorcery, The Quest
+2:20 for the Left Sock, a tale of loss, lint,
+2:23 and revenge. All right, let's uh let's
+2:25 enter this. Let's try it out.
+2:27 All right. Let's see. Where are we?
+2:30 What in the world is this game? Hi, this
+2:32 is me again from the world of
+2:34 post-editing. I just realized I forgot
+2:36 to tell you about the lore of this game.
+2:38 We're playing as Bartholomew, a knightly
+2:41 sock whose left sock has been lost to
+2:44 the laundry. The sock is held by the
+2:46 dryer, devourer of left socks, who
+2:49 apparently has eaten over 4,000 left
+2:53 socks, and our job is to go through the
+2:56 bosses to reach the dryer, the final
+2:59 boss, kill it, and redeem our left sock.
+3:04 We can kill NPCs. The more we kill them,
+3:06 the more lint we get. The more lint we
+3:08 get, the more we can purchase upgrades.
+3:12 But, that being said, have fun watching
+3:14 me die a bunch of times.
+3:16 My left How did I just
+3:20 There was this option all along.
+3:23 Oh my god.
+3:27 I have eaten 4,000 left socks. Do you
+3:29 know why only left ones? Neither do I.
+3:32 It is a compulsion. Give sock back.
+3:35 Come then. Let us stumble. Oh, no, I
+3:37 need to fight it.
+3:39 Oh my god.
+3:41 Oh my god. How do I
+3:44 That is very difficult. It's a lot more
+3:46 difficult than it seems. Oh my god.
+3:52 That is a very tough game, I'm not going
+3:55 to lie.
+3:57 Oh my god. All right, and Fable did give
+4:00 me a finished game, but it gave me
+4:03 something that felt like the first
+4:05 playable prototype of an actual idea. I
+4:08 mean,
+4:09 when you think of AI creating games, I
+4:11 feel like our expectations veer towards
+4:14 it being able to create GTA 6 from
+4:17 scratch with like full
+4:19 >> [snorts]
+4:19 >> insane graphics, but the game it gave me
+4:24 um I mean, although fun and functional
+4:27 throughout the entire thing, which is
+4:29 very impressive, still lacking
+4:32 um sort of I don't know, that impressive
+4:35 look, I would say. That being said, I
+4:38 have actually built games with AI
+4:41 before. I've not released that video
+4:43 yet, so stay tuned if you want to see
+4:46 that. And the first prototype it would
+4:51 give me was non-playable, full of bugs,
+4:55 uh a lot of missing pieces. So, for it
+4:58 to just one-shot it again with one
+5:01 prompt and have everything
+5:04 not broken or nothing broken is quite
+5:08 impressive in that sense. And by the
+5:10 way, if you'd like to try out this game
+5:13 for yourself, see if you can beat the
+5:15 final boss, I'll include the link in
+5:18 bio. You'll be able to play the exact
+5:20 same game Claude Fable 5 just made. The
+5:23 next test, however, is one that really
+5:27 matters for me. Can Fable build
+5:30 something useful?
+5:32 For the second test, I want Claude Fable
+5:34 5 to build a real product, not a landing
+5:38 page pretending to be a product, a
+5:40 working micro SaaS that solves a real
+5:42 problem I actually have.
+5:44 >> [snorts]
+5:44 >> So, I gave it this prompt. Build a
+5:47 working SaaS product from one prompt
+5:49 including a landing page, onboarding
+5:51 dashboard, database schema, user
+5:53 accounts, pricing page, admin panel,
+5:55 analytics, and a realistic demo flow.
+5:57 The product should solve a real creator
+6:00 or business problem. The problem I
+6:02 wanted to solve is a few YouTube content
+6:04 creation. I would like this app to take
+6:07 YouTube ideas and generate titles,
+6:09 thumbnail concepts, intro hooks,
+6:11 competitor angles, retention risk, and a
+6:14 final recommendation for which version
+6:16 is strongest. You can use any tools at
+6:19 your disposal or any LLMs inside the
+6:21 website. Make sure the website is fully
+6:23 functional and outstanding before you
+6:25 hand it off to me. You can get as
+6:27 creative as possible. I want this to be
+6:30 the best SaaS product for YouTubers.
+6:33 That's it. That's the prompt. Let's see
+6:35 what it does. Just like that, we have
+6:37 our second build ready. So, let's go
+6:40 ahead and look at it. Wow. Your video's
+6:44 good. Your packaging is why nobody
+6:45 clicked.
+6:46 Analyze my first idea for free. This is
+6:49 very nice by the way because
+6:51 something
+6:53 a lot of people
+6:55 struggle with, especially if you're new
+6:57 to marketing, you don't really have much
+6:59 experience. This right here
+7:01 is this analyze my first idea for free
+7:05 is a strong selling point, especially
+7:08 at the hero section of a website.
+7:12 Cheaper than one bad upload. This is
+7:16 very good. Very good marketing.
+7:19 Paying for us paying us
+7:21 is cheaper than you uploading a bad
+7:24 video. This is amazing
+7:27 copy, essentially, is what it is.
+7:31 I [laughter] know you guys are watching
+7:32 me geek out over this, but
+7:34 >> [snorts]
+7:34 >> I mean, being someone who works in the
+7:37 marketing industry,
+7:39 being a marketer myself, building or
+7:42 having built a lot of similar products
+7:45 to this before using Opus, using Codex
+7:49 GPT 5.5. This is
+7:51 amazing copy and I have not asked it to
+7:54 do any of this. So, let's uh let's try
+7:56 analyze my first idea for free. 1 second
+7:59 new analysis burn toast lab studio
+8:03 drop your video idea
+8:05 right here.
+8:07 I test out
+8:11 newest
+8:13 release
+8:15 Fable 5
+8:17 by building
+8:19 three builds. All right. This is the
+8:22 video right here. 47 left this month on
+8:25 creator. All right. Uh what happens if
+8:27 we add the context? Who is this for?
+8:30 AI curious
+8:32 people like all of us watching this
+8:35 video right now including myself.
+8:37 Anything else? Uh I'll just keep this as
+8:40 is. Analyze this idea.
+8:44 Building your package. All right. And it
+8:46 keeps past analyses
+8:50 visible. So, it has created a database.
+8:53 Just me seeing this means it has created
+8:55 a database which is insane because
+8:57 previously I'd have to verbally say,
+9:00 "Please build a database where you
+9:03 include blah blah blah." Okay, so it
+9:05 hooked Opus in.
+9:07 It's crazy because Opus used to hook
+9:09 Sonic and it used to see it as its
+9:11 inferior. Now Fable is hooking Opus in.
+9:14 It's like, "Opus, he's my inferior."
+9:17 Just
+9:17 have this model this LLM run your
+9:19 website
+9:21 uh or your analyses. The idea I test out
+9:24 Claude's newest release Fable 5 is a 52.
+9:27 The idea is fine that but the packaging
+9:29 is sleepy.
+9:30 Six ways to say it. I gave Fable 5 an
+9:33 impossible task. This is a nice title.
+9:37 Claude Fable 5, three builds, one brutal
+9:40 verdict.
+9:41 Uh, I I don't know if I agree.
+9:45 But I see I see what it's done. It's
+9:47 created a ranking system, which is nice
+9:50 to see. Now,
+9:52 it would have been helpful for me to
+9:54 give it
+9:55 uh
+9:57 maybe YouTube's algorithm. I mean, it
+9:58 could have just
+10:00 looked for it itself. It could have seen
+10:03 reviews online and um sort of tried to
+10:06 understand what works on YouTube, what
+10:08 is viral, what isn't. [snorts]
+10:10 Uh I don't think any of these would be
+10:13 things I would end up actually putting.
+10:15 So, minus one point for that.
+10:19 Number two, thumbnails, concepts that
+10:21 survive the brutal verdict. So, this is
+10:24 the winner, the three-way split.
+10:27 Three mini app screenshots stacked
+10:29 diagonally, each with a tiny green check
+10:32 or red X. Your hand pointing at the
+10:34 worst one, bright Fable 5 logo glowing
+10:37 on top. This is a very nice thumbnail
+10:40 idea if we're going for this title. So,
+10:43 with this title, this is a great
+10:45 thumbnail idea. So, it wins one point
+10:47 for that.
+10:48 Why it stops the scroll, this is just
+10:50 empty.
+10:51 What the hell?
+10:55 Oh, why it stops the scroll is here.
+10:56 Then why did it replicate it? I don't
+10:58 know. Anyway, your first 15 seconds. In
+11:01 the next 10 minutes, this brand new
+11:03 Claude model is going to build three
+11:04 apps from scratch. Two of them actually
+11:07 work, one of them broke in a way I did
+11:08 not expect. So, I gave it a task no one
+11:11 should be able to do this fast and
+11:13 watched what happened.
+11:15 Great great intro, great hook. I mean,
+11:17 you guys can also give your feedback
+11:19 right here. Am I being delusional,
+11:21 delulu?
+11:23 Or is this actually good? What everyone
+11:25 else is doing, so it did a benchmark of
+11:27 the industry.
+11:29 Your lane, skip specs entirely, make it
+11:31 a live build challenge.
+11:34 How does it know me so well already?
+11:37 Where they will leave you, retention, so
+11:40 things to
+11:42 pay attention to where people might skip
+11:45 the video.
+11:46 Ship this package.
+11:48 Honest call, likely to match or slightly
+11:51 beat channel average. I mean, all all in
+11:54 all, this is solid. Let's go to
+11:57 dashboard.
+11:58 Uh so, dashboard I can run new things,
+12:00 pricing that it create a pricing page.
+12:03 It did. Your current plan, switch to
+12:05 studio.
+12:07 What happens if I switch to studio? All
+12:09 right, it just switches. I don't think
+12:12 it's hooked to a Stripe account,
+12:14 although it does have access to my
+12:17 Stripe API. It could have done that.
+12:21 But, maybe this is because this is a
+12:22 demo. Can I actually sign up?
+12:26 That's what I really care about. Switch
+12:29 to creator. So, if I do that, okay, it
+12:31 just switches automatically. There's no
+12:34 Stripe link to this. I have to say I am
+12:37 impressed with build number two for many
+12:40 reasons. Number one, because it
+12:43 understands marketing copy a lot better
+12:46 than any of the previous models I've
+12:49 used. It understands what makes a good
+12:52 hero website, a good landing page. What
+12:56 hooks people in, what incentivizes
+12:58 people to actually go from just seeing
+13:01 the website to using it. Now, the parts
+13:04 where it loses points is this isn't
+13:07 an insane product. I mean, the idea's
+13:10 great, but I gave it the idea. I might
+13:13 be biased. Maybe the idea sucks, I don't
+13:15 know. You tell me. But, the actual
+13:17 implementation of the idea would this be
+13:21 a product I would personally pay for?
+13:24 If the idea was right, absolutely. I
+13:27 mean, I pay for somewhat of a similar
+13:30 product already. So, I'm the target
+13:33 audience here, not just the developer.
+13:36 But, in its current implementation, this
+13:38 is not a finished product. This is not,
+13:40 "Oh my god, it just built a working SaaS
+13:44 product in one single prompt." Granted,
+13:48 we can go back and prompt it again and
+13:51 again and again. TLDR, is this is leaps
+13:55 ahead of Opus 4.8. Being someone who
+13:58 heavily uses Opus 4.8,
+14:01 I can see myself, my life quality
+14:05 improve drastically now that Fable 5 is
+14:08 out. But, we're still not at a point
+14:11 where you can just type in one prompt
+14:13 and boom,
+14:14 your life dreams and goals and
+14:17 aspirations are achieved and you are now
+14:19 a kajillionaire.
+14:22 Unfortunately, we're not there just yet.
+14:25 By the way, while it was working on this
+14:27 build, I was playing the game from the
+14:29 first build and I still can't beat the
+14:32 final boss. It's just too damn
+14:34 difficult. But, building one product is
+14:37 just one part of making something
+14:40 valuable.
+14:40 >> [snorts]
+14:41 >> The next question is much bigger. Can
+14:44 Fable build the entire launch around
+14:48 that product?
+14:49 >> For this third test, I want to see if
+14:51 Claude Fable 5 can act like an entire
+14:54 startup team. Not just an engineer, a
+14:57 analyst, a strategist, a copywriter, a
+15:01 product person, a launch team, and a
+15:03 content team all in one. So, I gave it
+15:06 this prompt. Create a full launch
+15:08 campaign for Thumb Stop, which is what
+15:10 it just built.
+15:12 Uh make the product positioning, the
+15:14 landing page copy, launch video script,
+15:16 X thread, five short-form scripts, email
+15:19 sequence, founder announcement, pricing
+15:20 strategy, FAQ, and launch dashboard, as
+15:23 well as a product launch video, high
+15:25 quality. Make this a wow factor. Make it
+15:28 feel like a real startup launch. For
+15:30 this prompt, I did prompt it to ultra
+15:32 thing and use ask user questions until
+15:35 you reach clarity. I wanted to sort of
+15:37 give it the same type of prompt I would
+15:38 have given Opus. So, not an unfair
+15:41 comparison. This is how I personally use
+15:44 Claude.
+15:45 And I want to see how it does. So, I'm
+15:47 going to answer the questions and come
+15:49 back once the product is live. Okay,
+15:52 take back what I said. I literally just
+15:54 completed the game.
+15:56 28 minutes. I've been playing it while
+15:59 waiting for the other prompts to finish.
+16:03 This is fun and it's it's challenging. I
+16:07 I have to admit I I was wrong. Oh my
+16:10 god, it just finished right now.
+16:14 Literally, while I was playing the game,
+16:16 took exactly the same amount of time.
+16:18 Uh two rendered MP4s
+16:21 in code with promotion. The soundtrack
+16:24 is an original electronic track I
+16:26 composed. So, it actually made the music
+16:28 for the videos.
+16:30 The metaplay, I ran the launch video's
+16:32 own idea through Thumb Stop. It scored
+16:34 it 74 out of 100. So, your YouTube
+16:37 upload uses the AI's own packaging. It's
+16:40 live on the site. All right, let's start
+16:43 with the founding member offer. So, it's
+16:47 made that. Let's open Thumb Stop. There
+16:50 it is. Yeah. The first 200 creators lock
+16:54 creator at $19 per month forever. Zero
+16:58 out of 200 claimed.
+17:00 Very neat. Claim a founding member and
+17:02 then you'd need to sign up. All right,
+17:05 let's go to admin.
+17:07 Okay, nice. Nice. Okay, I didn't know
+17:10 that. We have a mission control, an
+17:12 admin mission control that shows us our
+17:14 sign-ups, our users, our monthly
+17:17 recurring revenue. This is a demo
+17:19 billing, obviously. No one has
+17:22 subscribed to that yet. Uh
+17:24 the creator's studio, so on which
+17:26 packages are people, top niches.
+17:29 This is very nice.
+17:31 I've built websites
+17:34 that serve and cater to this audience
+17:37 before.
+17:38 Uh
+17:39 very similar offerings, albeit not for
+17:43 YouTube. And I can tell you it's taken
+17:47 me multiple prompts to just reach this
+17:49 stage with Opus. Opus is insane. It's
+17:52 not like Opus sucks. Opus is amazing.
+17:55 This is on a whole other level. Now,
+17:58 this is not, you know,
+17:59 product complete, that's it, we call it
+18:01 a day, we go uh
+18:03 uh toast to a good life, but this is
+18:06 leaps ahead on prompt number one from
+18:10 what Opus and where Opus was.
+18:13 It said to try {slash} launch.
+18:16 Okay, and we can track our launch as
+18:18 well, now that we have a campaign
+18:20 running. So, that being said, let's look
+18:24 at the wow factor, or what is supposed
+18:26 to be the wow factor. It said we had two
+18:28 videos. Uh so, this one and a vertical
+18:31 one. Where can I find them?
+18:35 Where can I find
+18:37 both videos?
+18:39 Can you open them for me?
+18:42 So, we have the first video here, which
+18:44 is the the the full one, uh 1 minute,
+18:47 but I want the vertical one open as
+18:49 well. There it is. It literally just
+18:51 opened it for us. All right, let's start
+18:53 with this one.
+18:56 Let me center it. Really? All right,
+18:58 let's watch it.
+19:11 >> [music]
+19:18 [music]
+19:22 [music]
+19:30 [music]
+19:32 >> Oh my god.
+19:45 >> [music]
+19:52 [music]
+19:58 >> That is an insane
+20:00 hook.
+20:02 And that is an insane tagline. I did not
+20:05 give it this. Win the click before you
+20:08 film.
+20:09 How bad ass is
+20:14 is that?
+20:15 I'm I'm at a loss for words because I've
+20:18 also used Opus
+20:21 so many other AI agents to create launch
+20:25 videos.
+20:26 The fact it just made this from
+20:30 one very small prompt that wasn't just
+20:32 focused on the launch video.
+20:34 >> [snorts]
+20:34 >> The prompt was really it was small and
+20:36 it was focused on the entire campaign.
+20:39 It just made this
+20:41 from the first prompt.
+20:43 There's a lot we can fix, I know,
+20:46 but
+20:47 what just happened? This is insane. This
+20:50 is very good. It made the music. It's
+20:53 it's made the creative uh vision for
+20:56 this video and then it executed. Let's
+20:58 look at the
+20:59 um the vertical one. So, it's 30 seconds
+21:02 long.
+21:05 Okay, it starts with the pain point of
+21:07 the creator, it was the package. [music]
+21:09 There you go, and then it reaches
+21:10 resolution very quickly.
+21:13 It demos the product. It repackaged the
+21:16 long form into a 30-second short form.
+21:19 One third it.
+21:19 >> [music]
+21:20 >> When the click before you sell.
+21:21 Now, I love this. This is insanely good
+21:25 value for what we're getting. I don't
+21:27 think I've ever seen an AI model do this
+21:29 this quickly and this well. I don't
+21:32 know. You guys comment, what do you
+21:34 think of this?
+21:35 Am I insane or is this actually very
+21:39 good? So, now we have to answer the
+21:42 actual question. Is Claude Fable 5 the
+21:45 most powerful AI I've ever used?
+21:49 My answer is yes.
+21:52 But with a very specific caveat. Claude
+21:54 Fable 5 is not the most
+21:57 useful model for every task. If you need
+22:00 a quick answer, this is obviously
+22:03 overkill.
+22:04 If you need a simple rewrite, this is
+22:07 overkill. But if your goal is so big,
+22:11 messy, and hard to break into clean
+22:13 steps, this is the most powerful AI
+22:17 experience I have ever had so far. The
+22:20 reason is not that every output was
+22:23 perfect. I mean, the game had rough
+22:25 parts, the SaaS needed real engineering,
+22:29 uh the launch campaign still needed
+22:32 human taste, but
+22:34 Fable did something that felt different.
+22:37 It took a huge vague goal,
+22:40 planned the system, built the first
+22:43 version, audited its own weaknesses,
+22:46 improved the output, and it kept the
+22:49 whole thing aligned with the original
+22:51 objective. That is a massive jump.
+22:54 Before the hard part was getting AI to
+22:57 produce useful work without it falling
+22:59 apart.
+23:00 Now, the hard part is giving it a goal
+23:04 big enough to be worth the compute.
+23:07 This is why this model feels different.
+23:11 The scary part is not that Claude Fable
+23:13 5 built an app. The scary part is that
+23:15 it built a game, a product, and a launch
+23:18 system from goals that were barely more
+23:20 than a few sentences. And then it
+23:23 understood the work well enough to make
+23:26 it better.
+23:27 This is why I think Claude Fable 5 is
+23:30 the most powerful AI I've ever used. If
+23:33 you'd like to watch more videos like
+23:35 this, make sure to subscribe to my
+23:37 channel.
+23:38 Oh, and would you look at that? The
+23:42 YouTube algorithm gods think you'll love
+23:44 this video next. I'll see you there.

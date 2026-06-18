@@ -1,0 +1,406 @@
+# Video ID: SNJNmBAn87k
+# Title: 10 GitHub Repos So Good They Shouldn't Be Free — Part 3 (Replace $180K/yr of SaaS)
+# Channel: Hyperautomation Labs
+# Published: 2026-06-17
+# Duration: 965s
+# Source: channels-youtube-content
+# Video URL: https://www.youtube.com/watch?v=SNJNmBAn87k
+
+0:00 Two videos ago, I showed you 10 free
+0:02 GitHub repos
+0:04 that quietly replace tools you're paying
+0:07 thousands for.
+0:09 It did 22,000 views.
+0:12 Then part two,
+0:13 10 more.
+0:15 And in the comments, you kept naming the
+0:17 same thing. The bills
+0:19 that actually run a business.
+0:22 Your CRM,
+0:23 your design tool, your analytics, your
+0:27 e-signatures, your password manager.
+0:30 So, this is part three, bum.
+0:33 And it's the most expensive stack yet.
+0:37 10 free open-source repos
+0:40 that together replace over $180,000
+0:44 a year of software.
+0:46 Real repos,
+0:48 real screens. I pulled up every single
+0:51 one. And for each, I'll show you exactly
+0:56 how to stand it up yourself in a
+0:57 weekend.
+0:58 Let's go.
+1:00 Number one, 20.
+1:02 This is a modern open-source CRM.
+1:05 And the second you open it,
+1:08 you'll think you're looking at a paid
+1:09 product.
+1:11 Around 50,000 stars on GitHub.
+1:15 You get a Notion-style deal pipeline you
+1:17 drag cards across.
+1:20 Custom objects, a clean record timeline,
+1:23 keyboard shortcuts,
+1:25 even an API and webhooks.
+1:28 What does it replace? Salesforce.
+1:32 And Salesforce starts at $100 per user
+1:36 per month,
+1:37 climbing to $165 for enterprise.
+1:41 For a five-person sales team, that's
+1:43 $6,000 a year. Gone.
+1:47 Here's how you run it this weekend.
+1:49 Clone the repo.
+1:51 One Docker Compose command, and it's
+1:53 live on localhost.
+1:55 Point it at a managed post dress.
+1:58 Add a domain.
+1:59 And your whole team is on it by Monday.
+2:03 Honest catch.
+2:04 It's AGPL.
+2:06 And a few deep enterprise features
+2:09 aren't there yet.
+2:10 But for a startup tracking deals,
+2:13 you will not miss Salesforce.
+2:15 Number two, Appsmith.
+2:18 Every company eventually builds ugly
+2:21 internal tools.
+2:23 Admin panels, dashboards, support
+2:26 consoles.
+2:27 Most teams pay Retool $50 per user per
+2:31 month to do it.
+2:33 Appsmith is the free open source version
+2:36 thing. Around 40,000 stars.
+2:40 You drag widgets onto a canvas.
+2:43 Tables, forms,
+2:45 charts,
+2:47 buttons,
+2:48 bind them to any database or REST API,
+2:51 write a little JavaScript,
+2:53 and you've got an internal app in an
+2:55 afternoon.
+2:57 The builder looks and feels exactly like
+3:00 Retool.
+3:02 10 builders on Retool business is $6,000
+3:05 a year.
+3:07 Appsmith is zero.
+3:09 Unlimited seats.
+3:11 Weekend setup. One docker run
+3:14 with the Appsmith community image.
+3:17 Open the editor in your browser.
+3:20 Connect your post dress
+3:22 or my sequel
+3:24 and build.
+3:25 Self-hosted
+3:27 means your customer data never leaves
+3:30 your servers,
+3:31 which is the real reason teams switch.
+3:34 Honest catch.
+3:36 Very heavy apps can feel sluggish, so
+3:39 keep each tool focused.
+3:41 But for the admin panel you keep putting
+3:44 off,
+3:45 that's a Saturday.
+3:47 Number three, Apache Superset. And this
+3:50 is the giant killer.
+3:52 70 plus thousand stars, originally built
+3:56 inside Airbnb. Now a top level Apache
+3:59 project.
+4:00 It's full business intelligence.
+4:03 A sequel lab where you query your
+4:05 warehouse.
+4:06 Then turn any query into one of 40 plus
+4:10 chart types.
+4:11 Then
+4:12 drop those charts into dense interactive
+4:14 dashboards.
+4:16 The screen I pulled up
+4:18 looks like a Fortune 500 analytics
+4:20 suite.
+4:22 What does it replace?
+4:24 Tableau
+4:25 at $75 per user per month or Looker
+4:30 which enterprises pay 60 to $150,000
+4:34 a year for.
+4:35 This single free repo erases that line
+4:39 item.
+4:40 Weekend setup.
+4:41 Clone it, Docker compose up with their
+4:44 image tag file,
+4:45 log in, and point it at Postgres,
+4:49 BigQuery, Snowflake, whatever you've
+4:51 got.
+4:52 Honest catch.
+4:54 First setup has more moving parts than
+4:56 the others, so read the docs.
+4:59 But once it's running, your whole
+5:01 company gets dashboards
+5:03 for the price of the server it sits on.
+5:06 Number four.
+5:07 DocuSeal.
+5:09 This one gets the loudest. Wait, that's
+5:12 free.
+5:13 DocuSign charges
+5:15 $45 per user per month
+5:19 just to send documents for signature.
+5:22 DocuSeal does the same thing.
+5:24 Open source,
+5:26 about 17,000 stars.
+5:29 You upload a PDF,
+5:31 drag signature, date,
+5:33 initial, and text fields right onto it.
+5:38 Send a link,
+5:39 and the signer fills it in from any
+5:41 device
+5:42 with a full audit trail and a
+5:43 tamper-proof completed document.
+5:46 The field editor on screen is
+5:48 genuinely as smooth as DocuSign's.
+5:51 Three users on DocuSign
+5:55 is over $1,600 a year you stop paying.
+5:59 And the deploy is the easiest in this
+6:01 whole video.
+6:03 One Docker run
+6:04 DocuSeal/docuseal
+6:07 and you have a working e-signature
+6:09 platform.
+6:11 That's not a weekend, that's a coffee
+6:12 break.
+6:13 Honest catch.
+6:15 It's leaner on integrations than
+6:17 DocuSign's enterprise tier.
+6:19 But for contracts, NDAs, and onboarding
+6:22 the paperwork,
+6:23 it is more than enough and it's yours.
+6:26 Number five, Penpot.
+6:29 Designers, this one's for you.
+6:32 Penpot is open source design and
+6:34 prototyping.
+6:36 Around 50,000 stars.
+6:38 And it's a real Figma alternative, not a
+6:42 toy.
+6:43 Vector editing,
+6:45 components,
+6:46 multiplayer cursors,
+6:48 so your team designs together in real
+6:50 time.
+6:51 Prototyping and a developer handoff mode
+6:54 that spits out the CSS.
+6:57 Because it's built on open web
+6:58 standards,
+7:00 the code it generates is clean.
+7:02 It replaces Figma,
+7:04 which is $16 per editor per month,
+7:08 about $1,900 a year for a 10-person
+7:11 design team.
+7:13 Weekend setup.
+7:14 Grab their Docker Compose file,
+7:17 bring it up, and your team opens it in
+7:19 the browser.
+7:20 No installs.
+7:22 You can even keep your design files
+7:24 completely in-house,
+7:26 which agencies and regulated companies
+7:29 love.
+7:30 Honest catch.
+7:31 The plugin ecosystem is smaller than
+7:34 Figma's and a few power features lag.
+7:37 But for 90% of product design work, your
+7:40 team can move over and never look back.
+7:43 Number six, Affine.
+7:46 Around 70,000 stars and it's two paid
+7:49 tools in one.
+7:51 It's a Notion-style docs and database
+7:54 workspace and an infinite whiteboard
+7:57 like Miro.
+7:58 And the magic is they're the same
+8:00 canvas.
+8:02 You can take a document block
+8:04 and drop it straight onto the
+8:05 whiteboard.
+8:06 So, your notes and your diagrams live
+8:08 together.
+8:10 It's local first,
+8:12 meaning it works offline and your data
+8:14 sits on your machine, not someone else's
+8:17 cloud.
+8:19 That replaces Notion
+8:21 at $18 per user per month
+8:24 plus the separate Miro subscription
+8:27 you'd otherwise stack on top.
+8:30 For a 10-person team, that's well over
+8:33 $2,000 a year.
+8:35 Weekend setup. A single Docker command
+8:39 pulls the Affine image and you're
+8:42 running your own workspace.
+8:45 Point it at storage and invite the team.
+8:49 Honest catch, real-time multiplayer is
+8:52 still maturing versus Notion.
+8:56 But if you want your second brain to
+8:58 actually be yours, offline, private and
+9:01 free,
+9:02 this is it.
+9:04 Number seven, Cap.
+9:06 If your team runs on Loom, watch this.
+9:10 Cap is open-source screen recording
+9:12 about 18,000 stars
+9:15 and it's beautiful.
+9:17 Record your screen and camera,
+9:20 get an instant shareable link with the
+9:22 video,
+9:23 a transcript and comments or export a
+9:26 high-quality local file.
+9:29 The share page looks just like Loom's.
+9:32 Loom business is $12 to $15 per creator
+9:35 per month.
+9:37 For a five-person team, that's around
+9:39 $900 a year.
+9:41 Cap is free.
+9:43 And because you can self-host the
+9:45 sharing infrastructure,
+9:47 your internal walkthroughs and customer
+9:49 recordings never sit on a third-party
+9:53 servers.
+9:54 Weekend setup. The desktop app works on
+9:57 Mac and Windows out of the box.
+10:00 And for team sharing, you deploy their
+10:02 server with Docker Compose
+10:05 or one-click on Railway.
+10:07 Then point the app at it.
+10:09 Honest catch.
+10:11 The self-hosted sharing stack is newer
+10:14 than the polished desktop app.
+10:17 But for async stand-ups and quick demos,
+10:20 Cap fully replaces Loom.
+10:23 Number eight, List Monk.
+10:25 This is the one that kills the most
+10:27 boring, painful bill,
+10:29 email.
+10:31 Mailchimp charges by your list size,
+10:33 $100 a month at 5,000 subscribers,
+10:37 climbing past 270 as you grow.
+10:42 List Monk
+10:43 is a free, open-source newsletter and
+10:45 mailing list manager,
+10:47 about 22,000 stars.
+10:50 And it is blisteringly fast
+10:52 because it's a single Go binary.
+10:55 You import subscribers, build campaigns,
+10:58 segment with SQL-style queries,
+11:01 and watch opens,
+11:03 clicks, and bounces on a live dashboard.
+11:06 Plug it into Amazon SES,
+11:09 and you're sending email
+11:11 for pennies per thousand
+11:13 instead of hundreds a month.
+11:15 Weekend setup.
+11:17 Docker Compose up with List Monk
+11:20 and Postgres.
+11:22 Set your SMTP or SES credentials,
+11:26 import your list, and send.
+11:29 Honest catch.
+11:31 You manage your own sending reputation
+11:33 and deliverability, which Mailchimp baby
+11:36 sits for you.
+11:37 But, if your list is growing and the
+11:40 bill is scaling right along with it,
+11:42 this pays for itself in week one.
+11:45 Number nine,
+11:47 Qdrant must I take Qdrant.
+11:50 And this is the one for anyone building
+11:52 with AI.
+11:54 Every AI app that does search, memory,
+11:57 or retrieval
+11:59 needs a vector database.
+12:01 And most people reach for Pinecone,
+12:04 which starts around $50 a month and
+12:08 climbs fast with usage.
+12:11 Qdrant is a free, open-source vector
+12:13 database
+12:15 written in Rust
+12:17 around 30,000 stars.
+12:20 And it is fast.
+12:22 It ships with a built-in web dashboard,
+12:25 where you can actually see your vectors
+12:28 plotted in space.
+12:30 Run searches and inspect collections.
+12:33 The most visually striking screen in
+12:35 this whole video.
+12:37 It replaces Pinecone and pricey Algolia
+12:40 search tiers.
+12:41 And at scale, that's hundreds to
+12:44 thousands of dollars a month back in
+12:45 your pocket.
+12:47 The deploy is the cleanest here.
+12:50 Docker run -p 6333 Qdrant/Qdrant.
+12:55 One line and your vector database is
+12:57 live with the dashboard at localhost.
+13:00 Honest catch,
+13:02 you run the infrastructure yourself.
+13:05 But for a side project or a startup's
+13:07 retrieval pipeline,
+13:09 Qdrant is genuinely excellent and free.
+13:13 Number 10, Vaultwarden. Your team is
+13:15 almost certainly paying for a password
+13:17 manager.
+13:19 1Password business is around $8 per user
+13:22 per month.
+13:24 20 people is roughly $1,900 a year.
+13:28 Vaultwarden is a lightweight open-source
+13:32 server
+13:33 around 60,000 stars that speaks the
+13:37 Bitwarden protocol.
+13:39 And here's the kicker.
+13:41 Every official Bitwarden app and browser
+13:43 extension works with it because to the
+13:45 apps, it just looks like Bitwarden.
+13:49 So, your team gets the polished clients
+13:51 while you quietly host the vault.
+13:54 You get unlimited users, organizations,
+13:58 sharing, and two-factor
+14:01 features the paid tiers get behind
+14:04 upgrades.
+14:06 Weekend setup is famously easy.
+14:09 One Docker run with Vaultwarden/server
+14:14 behind HTTPS.
+14:16 Install the normal Bitwarden extension.
+14:20 Point it at your domain. Done.
+14:23 Honest catch.
+14:25 You're now responsible for backups and
+14:28 locking down that server, so do it
+14:30 properly.
+14:31 But for a small team
+14:34 that just balked at another per-seat
+14:38 password bill,
+14:40 this is the answer.
+14:42 And it's been battle-tested by tens of
+14:44 thousands of self-hosters.
+14:46 So, there it is.
+14:48 10 free open-source repos.
+14:52 20.
+14:53 Appsmith. Superset. DocuSeal. Penpot.
+14:58 iFind.
+15:00 Cap.
+15:01 Listmonk. Queue rant. And Vaultwarden.
+15:06 Together, they replace over $180,000
+15:10 a year of software.
+15:11 And every one of them you can stand up
+15:13 in a weekend.
+15:15 I put all 30 repos from parts one, two,
+15:18 and three
+15:20 with the exact deploy commands and links
+15:23 into one free PDF,
+15:26 the free SaaS killer stack.
+15:29 Comment the word killer and I'll send it
+15:31 straight to you.
+15:33 If you want to go deeper, my complete
+15:35 guide to Claude Code, the OpenAI Codex
+15:38 guide, the Claude Co-Work sales
+15:40 playbook,
+15:42 and the Claude certified architect prep
+15:44 kit are all linked below.
+15:48 Follow Hyperautomation Labs on Instagram
+15:51 for the short version,
+15:53 on Facebook, and subscribe right here on
+15:56 YouTube.
+15:58 Part four is already in the works, and
+16:01 the builds only get bigger.
+16:03 See you there.

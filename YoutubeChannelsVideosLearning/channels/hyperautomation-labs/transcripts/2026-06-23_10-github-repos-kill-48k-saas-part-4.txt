@@ -1,0 +1,431 @@
+# Transcript: 10 GitHub Repos So Good They Shouldn't Be Free — Part 4 (Kill $48K/yr of SaaS)
+# Channel: Hyperautomation Labs
+# Duration: 942s
+# Video ID: 1SZT6P7Yr0k
+
+0:00 Three times now, I've shown you free
+0:02 GitHub repos that quietly replace
+0:05 software you're paying a fortune for.
+0:07 And in the comments, you keep asking the
+0:09 same question.
+0:10 What else can I stop paying for? So,
+0:12 here's part four.
+0:14 10 more open-source repos,
+0:17 each one killing a famous paid tool.
+0:19 Your automation bill, your database,
+0:22 your team chat, your help desk.
+0:24 And this time, I'm putting a counter in
+0:27 the corner.
+0:28 Every repo we cover, watch it climb.
+0:30 Because together, these 10 replace more
+0:33 than $48,000 a year of software.
+0:36 Real repos, live star counts, real
+0:39 screens. I opened every single one.
+0:42 And for each, the exact command to stand
+0:46 it up yourself this weekend.
+0:48 Let's start killing some bills.
+0:50 Number one, N8N.
+0:53 If you've ever paid for Zapier,
+0:55 this is the one that stinks.
+0:57 N8N is open-source workflow automation.
+1:01 And with over 190,000
+1:03 stars, it's one of the most loved repos
+1:07 on all of GitHub.
+1:08 You build automations on a visual
+1:10 canvas, drag a trigger, wire it to
+1:13 actions, branch the logic across more
+1:16 than 500 integrations,
+1:18 apps, APIs, and webhooks, all with your
+1:22 own keys.
+1:23 And it's AI native, so you can drop any
+1:26 large language model into a flow and
+1:29 build a real agent.
+1:30 What does it replace? Zapier.
+1:33 Zapier's team plan is $69 a month, $828
+1:38 a year. And because they bill by tasks,
+1:40 it only climbs as you automate more.
+1:43 N8N is a flat zero.
+1:45 Weekend setup. One Docker run, open
+1:48 localhost:5678,
+1:51 connect your apps and credentials, build
+1:53 the workflow, and flip it to active.
+1:56 Honest catch. It's fair code licensed,
+1:58 which means it's free to self-host all
+2:00 day. You just can't repackage it and
+2:02 resell it as your own SaaS. For
+2:03 everything else,
+2:05 that's Zapier's bill deleted.
+2:07 Number two, NocoDB.
+2:10 Airtable is gorgeous until the per-seat
+2:13 bill arrives.
+2:14 NocoDB is the open-source answer.
+2:16 About 63,000 stars,
+2:19 and it turns any database into a smart
+2:22 Airtable-style spreadsheet.
+2:25 Grid view, Kanban, gallery,
+2:27 forms,
+2:28 point it at your data and start working.
+2:32 The difference that matters,
+2:33 you bring your own database.
+2:36 Postgres or MySQL
+2:39 sitting on your infrastructure, so the
+2:41 data is genuinely yours.
+2:43 And it ships with REST endpoints and
+2:44 webhooks, so you can automate and build
+2:46 on top of it.
+2:48 Airtable's team plan is $20 per seat per
+2:50 month.
+2:51 20 seats is $4,800 a year.
+2:54 NocoDB is zero, and seats don't cost you
+2:57 a thing.
+2:58 Weekend set up, one Docker run,
+3:01 open localhost
+3:02 8080,
+3:04 connect your Postgres or MySQL,
+3:07 invite the team, and build your first
+3:09 base.
+3:11 Honest catch.
+3:12 NocoDB recently moved to a sustainable
+3:14 use license, so it's free to run
+3:16 internally for your business.
+3:17 You just can't turn around and resell it
+3:19 as a hosted product.
+3:22 But for the team base you're currently
+3:23 renting from Airtable,
+3:25 this is the grid
+3:27 minus the seats.
+3:29 Number three,
+3:30 Mattermost.
+3:31 Slack is the bill nobody questions
+3:34 until you self-host.
+3:36 Mattermost is open-source team chat,
+3:38 around 38,000 stars, and it's the full
+3:41 Slack workflow.
+3:43 Channels,
+3:44 direct messages, threads, search, and
+3:47 integrations
+3:49 on your own servers.
+3:51 The big one,
+3:52 unlimited message
+3:54 history.
+3:55 No 90-day cutoff, no paywall on your own
+3:58 conversations.
+3:59 And because it's self-hosted,
+4:01 your data stays in house.
+4:03 Which is exactly why regulated and
+4:05 security-conscious teams move to it.
+4:08 Slack's Pro plan
+4:09 is $7.25 per user per month.
+4:13 For 20 people, that's $1,740 a year.
+4:16 Mattermost Team Edition is free.
+4:19 Now, the honest part, and it matters.
+4:22 Install Team Edition cup. That's the
+4:24 free build with no message cap.
+4:27 Do not grab Mattermost entry, which
+4:29 limits you to 10,000 messages.
+4:32 Team Edition has no single sign-on
+4:34 and tops out around 250 users.
+4:37 So, it's perfect for a startup. Not a
+4:40 10,000-person enterprise.
+4:42 We can set up one Docker run with the
+4:45 Team Edition image.
+4:46 Open localhost 8065.
+4:50 Create your team and invite everyone.
+4:53 You trade a monthly Slack bill
+4:55 for a little sysadmin effort.
+4:57 And you own every message.
+4:59 Number four, Hopscotch.
+5:02 Every developer knows Postman.
+5:04 And every developer's company eventually
+5:07 gets the Postman bill.
+5:09 Hopscotch is the open-source API client,
+5:12 nearly 80,000 stars,
+5:13 and it's fast and clean.
+5:16 Fire off REST,
+5:17 GraphQL, and WebSocket requests.
+5:20 Organize them into collections, save
+5:22 environments, and automate your tests.
+5:25 And the best part for this video,
+5:27 it's truly MIT licensed. Real open
+5:30 source.
+5:31 No source-available asterisk.
+5:34 Postman's Team plan is $19 per user per
+5:37 month.
+5:38 20 developers is $4,560
+5:42 a year
+5:43 for software that used to be free.
+5:45 Hopscotch erases that with no seat map
+5:48 and no cloud lock-in.
+5:51 Weekend setup.
+5:52 Run it with one Docker command.
+5:54 Or honestly, just use the web app. Then
+5:57 import your existing Postman
+5:59 collections.
+6:00 They come straight over.
+6:02 And share the workspace with your team.
+6:04 Honest catch.
+6:06 Self-hosting means you set up your own
+6:08 auth and single sign-on.
+6:10 And the enterprise governance features
+6:12 are lighter than Postman's top tier.
+6:15 But for the day-to-day work of building
+6:16 and testing APIs,
+6:18 it's Postman's power with zero seats to
+6:21 pay for.
+6:22 Number five, Plane.
+6:24 If your team is stuck between Jira's
+6:26 complexity and Linear's price,
+6:30 this is the escape hatch.
+6:32 Plane is open-source project management.
+6:35 About 52,000 stars.
+6:37 And it nails the balance.
+6:39 As clean as Linear, as powerful as Jira.
+6:42 Issues, cycles, modules, and every view
+6:45 you'd want.
+6:46 List, board, calendar, even Gantt and
+6:50 spreadsheet.
+6:51 What does it replace?
+6:53 Jira, at around $7.90 per user per
+6:56 month.
+6:57 For 25 people, that's roughly $2,300 a
+7:01 year.
+7:02 And Linear, at $16 a user on its
+7:05 business tier.
+7:06 Plane's community edition is free and
+7:08 self-hosted.
+7:09 So, your roadmap and your data stay
+7:12 yours.
+7:13 Weekend setup and pay attention
+7:16 Grab the community edition setup script
+7:18 from their GitHub releases.
+7:19 Run that one.
+7:21 Not the plane.plane installer.
+7:23 Because that one is the paid commercial
+7:24 edition.
+7:25 Run the script. Docker brings the whole
+7:27 thing up. Then create your first project
+7:30 and start a cycle.
+7:32 Honest catch. The free community edition
+7:35 is not the paid commercial edition.
+7:37 So, make sure you install the right one.
+7:40 But for a team
+7:41 that wants Jira's muscle and Linear's
+7:44 polish without either invoice
+7:46 Plane is it.
+7:48 Number six, Ghost.
+7:50 Creators, this one is a tax refund.
+7:54 If you publish a paid newsletter on
+7:56 Substack,
+7:58 they take 10% of everything you earn
+8:01 forever.
+8:02 On $50,000 of revenue, that's $5,000 a
+8:06 year gone every year just for hosting.
+8:10 Ghost is open-source publishing, about
+8:13 54,000 stars,
+8:15 and it's a full newsletter and website
+8:17 platform with paid memberships built in.
+8:20 You connect Stripe directly,
+8:22 which means you keep 100% of your
+8:25 subscription revenue.
+8:27 It's MIT licensed.
+8:29 You own your subscriber list outright,
+8:31 and there's no platform tax and no
+8:33 lock-in.
+8:35 We can set up bring up the official
+8:37 Docker Compose stack. That's Ghost,
+8:40 MySQL, and Caddy together.
+8:42 Add your domain and your Stripe keys.
+8:45 Import your subscribers and publish.
+8:47 Honest catch, you're now running your
+8:49 own hosting and email deliverability,
+8:52 and you give up Substack's built-in
+8:54 discovery network. So, you bring your
+8:56 own audience.
+8:57 But once your newsletter is actually
+8:58 making money,
+9:00 that 10% Substack skims gets painful
+9:02 fast,
+9:03 and Ghost lets you keep all of it.
+9:05 Number seven, Sterling PDF, and this
+9:08 one's for everyone, not just developers.
+9:11 Adobe Acrobat Pro is the subscription
+9:14 that just will not die.
+9:16 Sterling PDF is an open-source toolbox
+9:19 of over 100 PDF tools, more than 80,000
+9:22 stars, running right in your browser.
+9:25 Merge, split, rotate, compress, OCR,
+9:30 convert to and from Office and images,
+9:32 fill and sign, even redact. And the
+9:35 killer feature, it runs locally.
+9:37 So your documents never leave your
+9:39 machine.
+9:40 No uploading a sensitive contract to
+9:42 some random website just to merge two
+9:45 pages.
+9:46 Acrobat Pro for teams is $23.99
+9:51 per license per month.
+9:53 20 licenses is 5,000 758
+9:57 dollars a year.
+9:59 Sterling PDF is free.
+10:02 Weekend setup couldn't be simpler.
+10:04 One docker run, open localhost 8080
+10:09 and drag a PDF into any tool you need.
+10:11 Honest catch. It's open core. So a
+10:14 handful of advanced and single sign-on
+10:16 features sit in paid tiers.
+10:17 And the hosted business plan is a
+10:19 separate product.
+10:21 But the self-hosted version you run
+10:22 yourself has the full toolbox, free.
+10:25 That's Acrobat's toolbox.
+10:27 Offline.
+10:28 Number eight, MeiliSearch.
+10:31 Anyone who's added search to an app
+10:33 knows the name Algolia
+10:35 and knows the bill.
+10:37 MeiliSearch is the open-source search
+10:39 engine, around 58,000 stars, written in
+10:42 Rust, and it is instant.
+10:45 Typo-tolerant, search as you type
+10:47 results in under 50 milliseconds with
+10:50 faceting, filters, and custom ranking
+10:53 through a clean drop-in API.
+10:56 It's one tiny binary that scales with
+10:57 you.
+10:58 What does it replace?
+11:00 Algolia, where roughly a million
+11:02 searches a month runs you about 5,900
+11:06 dollars a year.
+11:07 And Algolia bills by every search and
+11:09 every record. So it climbs as your app
+11:11 grows. MeiliSearch, self-hosted, is
+11:14 free.
+11:16 Weekend setup. One docker run, the API
+11:19 goes live on localhost 7700.
+11:23 Push your documents into an index and
+11:25 wire your search box to the endpoint.
+11:27 You'll have instant search the same
+11:29 afternoon.
+11:30 Honest catch.
+11:31 The core is MIT.
+11:33 But, a few advanced enterprise features
+11:35 are under a business source license, not
+11:37 fully open.
+11:39 For the search bar on your product,
+11:40 though, this is Algolia grade search,
+11:43 self-hosted and free.
+11:44 Number nine, SigNoz.
+11:47 If you run anything in production, you
+11:49 know Datadog.
+11:51 And you felt the invoice.
+11:53 SigNoz is open source observability,
+11:56 about 27,000 stars.
+11:58 And it puts your metrics, traces, and
+12:00 logs in one single pane of glass.
+12:03 It's built natively on OpenTelemetry,
+12:06 the open standard,
+12:07 which means no proprietary agents and no
+12:10 vendor lock-in.
+12:11 You instrument once, and you can leave
+12:13 anytime.
+12:15 And self-hosted, your telemetry stays
+12:17 yours.
+12:18 Datadog's infrastructure monitoring is
+12:20 $15 per host per month.
+12:23 20 hosts is $3,600 a year. And that's
+12:27 before you add their APM and log
+12:28 products,
+12:30 which is where Datadog bills really
+12:31 explode.
+12:33 SigNoz folds all of that into one free
+12:35 tool.
+12:36 Weekend setup. Clone the repo.
+12:39 Go into the deploy folder.
+12:41 Docker compose up. Then point your
+12:43 OpenTelemetry SDK at it,
+12:45 and watch the traces and logs start
+12:47 flowing in.
+12:49 On a sketch,
+12:50 the core is MIT.
+12:52 But, some enterprise features live in a
+12:54 separate paid directory.
+12:56 For a team that just wants to see what
+12:57 their app is doing without a five-figure
+13:00 monitoring bill,
+13:01 that's Datadog's value without Datadog.
+13:03 Number 10,
+13:05 Chatwoot.
+13:06 And we're ending on the most expensive
+13:08 bill of them all.
+13:10 Customer support software is brutally
+13:12 pricey.
+13:13 Zendesk's Suite
+13:15 professional plan is $115 per agent per
+13:17 month.
+13:18 Just 10 agents is $13,800
+13:22 a year.
+13:23 Chatwoot is the open source support
+13:25 suite, around 33,000 stars,
+13:28 and it's the whole desk.
+13:30 One omnichannel inbox that pulls in
+13:32 email, live chat, WhatsApp, Instagram,
+13:34 and Facebook.
+13:36 Plus a help center, chatbots, canned
+13:39 replies, automations, and CSAT surveys.
+13:43 It replaces both Zendesk and Intercom.
+13:46 And the core is MIT licensed, so you can
+13:48 self-host the entire thing.
+13:51 Weekend setup.
+13:52 Bring up the production Docker Compose.
+13:54 Chatwoot with Postgres and Redis.
+13:56 Connect your inboxes, add your agents,
+13:59 and go live.
+14:01 Honest catch. The core is MIT.
+14:04 But a few enterprise features sit in a
+14:06 proprietary directory.
+14:08 But watch that counter in the corner.
+14:09 Adding Chatwoot just pushed us past
+14:12 $48,000 a year of software replaced.
+14:15 With this one repo killing nearly 14,000
+14:17 of it.
+14:18 Zendesk's entire support desk
+14:21 for zero.
+14:22 So, there's part four.
+14:24 10 free open source repos.
+14:26 And And And And NocoDB,
+14:29 Mattermost,
+14:30 Hopscotch,
+14:32 Plane, Ghost Trailday, Sterling PDF
+14:34 Viewer,
+14:35 Milli Search,
+14:37 Signoz, and Chatwoot.
+14:40 Together, they kill more than $48,000 a
+14:42 year of software.
+14:44 And every single one you can stand up in
+14:46 a weekend.
+14:47 Now, I've collected all 40 repos from
+14:50 parts one through four with the exact
+14:53 deploy command for each into one free
+14:55 PDF. The Unbuild Stack.
+14:59 Comment the word "unbill"
+15:01 and I'll send it straight to you.
+15:03 Or grab it at
+15:04 hyperautomationlabs.co/free/unbill.
+15:08 If you want to go deeper, my complete
+15:10 guide to Claude Code, the Open AI Codex
+15:13 Guide, the Claude Code Work Sales
+15:15 Playbook, and the Claude Certified
+15:17 Architect Prep Kit are all linked in the
+15:20 description.
+15:22 Follow Hyper Automation Labs on
+15:23 Instagram for the shortcuts.
+15:25 Join us on Facebook. And subscribe right
+15:27 here on YouTube. That's where these deep
+15:29 dives live.
+15:31 Quick tip. If I'm talking too slow for
+15:32 you,
+15:33 bump it to 1 and 1/4 speed.
+15:35 Part 5 is already loading. So, drop a
+15:37 comment and tell me exactly which paid
+15:39 tool you want me to kill next. See you
+15:40 there.

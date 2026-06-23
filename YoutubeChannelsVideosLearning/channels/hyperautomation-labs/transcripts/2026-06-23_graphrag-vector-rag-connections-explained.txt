@@ -1,0 +1,355 @@
+# Transcript: Your AI Reads Everything But Connects Nothing — GraphRAG Explained
+# Channel: Hyperautomation Labs
+# Duration: 784s
+# Video ID: 5LBj7XSaxSI
+
+0:00 Here is a question, your AI cannot
+0:02 answer.
+0:03 You feed it a thousand company documents
+0:06 and you ask,
+0:08 "What are the main themes across all of
+0:10 this?"
+0:11 And it falls flat.
+0:13 Not because the answer isn't in there,
+0:15 it's because of how it searches.
+0:18 Normal rag reads every document, but it
+0:21 can only ever grab a few isolated
+0:23 paragraphs at a time. The ones that look
+0:26 similar to your question.
+0:28 So, it can quote you a single line
+0:30 beautifully, but it cannot connect two
+0:32 facts that live on different pages.
+0:34 It reads everything and connects
+0:37 nothing.
+0:38 Today, a fix from Microsoft Research
+0:40 changes that completely.
+0:42 It's called Graph Rag and instead of
+0:45 searching your text, it maps it.
+0:47 Once you see how it works, you'll
+0:49 understand why this is the next era of
+0:51 retrieval. Let me show you.
+0:53 First, let's be fair to normal rag
+0:56 because it is genuinely useful.
+0:59 Here's how it works.
+1:01 You take your documents and you chop
+1:03 them into chunks.
+1:05 You turn each chunk into a vector.
+1:08 A list of numbers that captures its
+1:10 meaning and you store all of them.
+1:13 Then, when you ask a question, your
+1:16 question becomes a vector, too.
+1:18 And the system grabs the top handful of
+1:20 chunks that sit closest to it. That's
+1:23 it.
+1:24 Find the most similar paragraphs, stuff
+1:26 them into the prompt, answer.
+1:29 And for a narrow factual like, "What is
+1:32 the refund window in this contract?" it
+1:34 works great.
+1:36 The answer lives in one chunk and
+1:38 similarity search walks right up to it.
+1:41 But notice the quiet assumption baked
+1:43 into this whole design.
+1:45 It assumes every answer lives inside one
+1:48 nearby chunk and that assumption is
+1:50 exactly where it breaks.
+1:52 Here are the three questions that
+1:54 shatter normal rag.
+1:55 Number one,
+1:57 connecting the dots.
+1:59 When the answer requires stitching
+2:01 together facts scattered across many
+2:04 different documents, similarity search
+2:06 can't do it because no single chunk
+2:09 contains the whole picture.
+2:11 Microsoft's own words,
+2:13 baseline rag struggles to connect the
+2:15 dots.
+2:16 Number two, multi-hop reasoning.
+2:20 Who funded the company that acquired the
+2:22 startup this researcher founded?
+2:25 To answer that, you have to hop across a
+2:27 chain of links, and the bridge facts in
+2:29 the middle
+2:31 don't even look similar to your
+2:32 question.
+2:33 So, the search never retrieves them.
+2:36 And number three, the big one,
+2:38 global questions.
+2:40 What are the main themes?
+2:42 What changed over time?
+2:44 Who are the key players?
+2:46 These are summarization over the entire
+2:48 corpus,
+2:49 not a lookup.
+2:52 And top K similarity only ever sees a
+2:55 tiny slice.
+2:56 So, it literally cannot answer a
+2:59 question about the whole.
+3:01 These aren't edge cases.
+3:03 This is most of the interesting
+3:04 questions you'd ever want to ask.
+3:07 So, Graph RAG asks a completely
+3:09 different question.
+3:11 What if we stop searching the text and
+3:13 start mapping the knowledge inside it?
+3:15 Watch what happens.
+3:17 Instead of leaving your documents as a
+3:19 pile of paragraphs,
+3:21 Graph RAG reads them and pulls out the
+3:23 things, the entities.
+3:26 People,
+3:27 companies, products, places, concepts.
+3:31 And then, crucially,
+3:33 it pulls out the relationships between
+3:35 them.
+3:36 This person founded that company.
+3:40 That company acquired this product.
+3:43 Connect enough of those, and your flat
+3:45 pile of text becomes a web, a knowledge
+3:48 graph.
+3:50 Now, the connections between facts
+3:53 aren't lost in the gaps between chunks.
+3:55 They are the data.
+3:58 And the moment your knowledge is a graph
+4:00 instead of a bag of paragraphs,
+4:03 every question that used to be
+4:05 impossible becomes a walk across the
+4:07 map.
+4:08 So, how does it actually build that map?
+4:11 This is the indexing pipeline. And the
+4:13 clever move is that it uses the language
+4:16 model itself as the builder.
+4:19 Step one,
+4:21 it still chunks your documents into
+4:23 pieces.
+4:24 But step two is where it diverges.
+4:27 For every chunk, the LLM reads it and
+4:30 extracts a structured list.
+4:33 Here are the entities in this text with
+4:35 a short description of each. And here
+4:38 are the relationships between them.
+4:41 Then it does that across every chunk and
+4:43 stitches the results together.
+4:46 When the same entity shows up in 10
+4:48 different documents,
+4:50 those 10 mentions get merged into one
+4:52 node.
+4:54 And all its descriptions get summarized
+4:56 into one.
+4:57 By the end, you don't have a thousand
+5:00 disconnected chunks.
+5:01 You have one connected graph of who and
+5:05 what and exactly how they all relate.
+5:08 But a giant graph on its own is just a
+5:10 hairball. The real magic is the next
+5:12 step.
+5:13 GraphRAG runs a community detection
+5:16 algorithm called Leiden over the graph.
+5:18 In plain English, it finds the clusters.
+5:22 Groups of entities that are far more
+5:25 connected to each other than to anything
+5:27 else.
+5:28 These are communities, natural topics,
+5:31 that emerge straight from the structure
+5:33 of your data
+5:34 without you ever defining them. And it
+5:37 does this hierarchically.
+5:39 Big top-level communities at level zero
+5:42 broken into finer and finer
+5:44 subcommunities as you go deeper.
+5:47 Then, the key move
+5:49 it has the language model
+5:51 write a summary report
+5:53 for every single community at every
+5:55 level.
+5:56 So, now
+5:57 your data has a table of contents it
+5:59 wrote itself.
+6:01 High-level themes at the top.
+6:03 Fine-grained detail at the bottom.
+6:06 And that is what makes global questions
+6:08 finally answerable.
+6:10 Now, you've got the graph and the
+6:11 community summaries.
+6:13 Here's how you actually ask it things.
+6:16 GraphRAG has two modes.
+6:19 The first is local search
+6:21 for specific questions about one entity.
+6:24 It finds the entity you asked about,
+6:27 then fans out across its neighbors,
+6:30 its relationships,
+6:31 and the original text around it,
+6:33 and builds a focused answer.
+6:36 That's your precise, zoomed-in lookup.
+6:39 The second mode is the one that changes
+6:42 everything.
+6:43 Global search for whole corpus
+6:45 questions.
+6:47 Instead of grabbing a few chunks,
+6:49 it takes all those community summaries
+6:51 it pre-wrote,
+6:52 and runs a map reduce.
+6:55 Map.
+6:56 Every community summary independently
+6:59 proposes partial answers to your
+7:01 question,
+7:02 each with a score.
+7:04 Reduce.
+7:05 It ranks all those points by importance,
+7:08 and combines the best into one final
+7:11 answer.
+7:12 So, when you ask,
+7:14 "What are the main themes?" it's no
+7:16 longer guessing from a few paragraphs.
+7:18 It's synthesizing across a summary of
+7:21 your entire data set.
+7:23 Okay, but does it actually win?
+7:26 Microsoft tested GraphRAG head-to-head
+7:29 against normal vector rag, and had a
+7:31 language model judge which answers were
+7:34 better.
+7:35 Let me be precise,
+7:37 because precision is the whole point of
+7:39 this channel.
+7:41 These are win rates.
+7:43 How often the judge preferred GraphRAG,
+7:46 not accuracy scores.
+7:48 On comprehensiveness, did the answer
+7:51 cover the question fully?
+7:52 GraphRAG won between 72 and 83% of the
+7:56 time.
+7:57 On diversity, did it bring varied
+8:00 perspectives?
+8:01 It won between 62 and 82%.
+8:05 And here's the kicker. It does this
+8:07 efficiently.
+8:09 Answering from the top-level community
+8:11 summaries used over 97% fewer tokens
+8:14 than stuffing in the full source text.
+8:16 But, I'll be honest with you.
+8:19 Vector RAG still wins on one thing,
+8:22 directness.
+8:24 For a quick, narrow, factual lookup,
+8:26 plain RAG is sharper and cheaper.
+8:29 GraphRAG earns its keep on the big,
+8:32 connected questions.
+8:34 So, where does this actually matter?
+8:37 Anywhere the value lives in the
+8:39 connections,
+8:40 not the individual facts.
+8:42 Fraud and financial investigation,
+8:45 where a scheme is invisible in any
+8:48 single transaction,
+8:50 but obvious once you connect the
+8:52 accounts.
+8:53 This is a textbook graph problem.
+8:56 Enterprise knowledge bases,
+8:58 where the answer to a real question is
+9:01 spread across wikis, tickets, and chat
+9:04 logs
+9:05 that no single search ever stitches
+9:07 together.
+9:08 Legal,
+9:09 connecting statutes, contracts, and case
+9:12 law into one traceable chain.
+9:15 Medicine and research,
+9:17 linking patients, studies, and findings
+9:20 across thousands of papers.
+9:22 The pattern is always the same.
+9:25 If your hardest questions need you to
+9:26 traverse relationships,
+9:29 not just look up a fact, that is exactly
+9:31 where GraphRAG pulls ahead.
+9:33 Now, let me be straight with you about
+9:36 the cost,
+9:37 Because nothing here is free magic.
+9:40 Building that graph is expensive.
+9:42 Remember,
+9:43 the language model
+9:45 has to read every chunk to extract
+9:48 entities and relationships,
+9:49 and then summarize every community.
+9:52 That's a lot of LLM calls up front
+9:55 before you've asked a single question.
+9:58 And global search isn't one call,
+10:00 either.
+10:01 It fans out across many summaries.
+10:03 So, it costs more than a simple lookup.
+10:06 Microsoft knows this,
+10:08 which is why they shipped a lighter
+10:10 version called lazy graph rag.
+10:13 It skips the heavy up-front
+10:14 summarization, and they report indexing
+10:17 costs of around 0.1%
+10:20 of full graph rag.
+10:23 Basically, the same price as plain
+10:25 vector rag,
+10:26 while keeping most of the quality.
+10:29 So, the honest rule is this.
+10:32 For simple factual lookups, plain rag is
+10:35 still the right
+10:36 cheap tool.
+10:38 Reach for graph rag when the questions
+10:40 get big and connected.
+10:42 And reach for the lazy variant when
+10:44 budget is tight.
+10:45 And the best part, you can use this
+10:47 today, all of it open source.
+10:50 The reference implementation is
+10:52 Microsoft graph rag,
+10:54 free on GitHub under an open license.
+10:57 And it gives you the whole pipeline we
+10:59 just walked through. Extract, build,
+11:02 cluster, summarize,
+11:04 query.
+11:06 If you live in a real graph database,
+11:08 Neo4j ships an official graph rag
+11:11 package with retrievers that even turn
+11:14 plain English into graph queries for
+11:16 you.
+11:16 If you build with Llama index, there's
+11:19 the property graph index. And if you're
+11:21 in LangChain, there's a graph
+11:23 transformer that turns raw text into a
+11:26 graph of nodes and relationships out of
+11:29 the box.
+11:30 Pick whichever matches your stack. The
+11:32 point is the on-ramp is shorter than you
+11:35 think. And the moment your data is a
+11:38 graph, your AI stops reading in the
+11:40 dark.
+11:41 So, here is the one idea to carry with
+11:43 you.
+11:45 Normal rag finds paragraphs
+11:47 that look like your question.
+11:50 Graph rag maps
+11:52 how everything connects
+11:54 and then
+11:56 reasons over that map.
+11:58 That's the leap from searching text to
+12:01 understanding structure.
+12:03 Now, if this rewired how you think about
+12:06 retrieval, I packed everything into a
+12:08 free graph rag playbook.
+12:11 The full pipeline on one page, when to
+12:13 use graph versus vector search,
+12:15 and the exact tools to start with today.
+12:19 To get it, just comment the word graph
+12:21 rag and I'll send it straight to you.
+12:24 And a quick, honest ask.
+12:27 A lot of you watch every one of these
+12:29 and still haven't subscribed.
+12:31 On YouTube, subscribing is free.
+12:34 And it's the single thing that tells the
+12:36 algorithm to show this to more builders.
+12:40 On Facebook, hit follow.
+12:42 And the supporter membership is what
+12:45 keeps these deep dives coming.
+12:48 And on Instagram, I post the short
+12:50 version of every breakdown.
+12:52 If you want to go deeper, my complete
+12:54 Claude code guide is linked in the
+12:56 description.
+12:58 Your AI has been reading in the dark. Go
+13:01 give it the map.

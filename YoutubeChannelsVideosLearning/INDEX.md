@@ -2,11 +2,14 @@
 
 Auto-regenerated. One line per video, newest first. Sorted by published date, descending.
 
-**Last updated:** 2026-06-18 03:20 UTC
-**Total videos:** 88 across 13 channels
+**Last updated:** 2026-06-23 08:55 UTC
+**Total videos:** 91 across 13 channels
 
 | Date | Channel | Title | Duration | Video ID | Note |
 |------|---------|-------|----------|----------|------|
+| 2026-06-23 | Hyperautomation Labs | Your AI Reads Everything But Connects Nothing — GraphRAG Explained | 13:04 | [5LBj7XSaxSI](https://www.youtube.com/watch?v=5LBj7XSaxSI) | [note](channels/hyperautomation-labs/videos/2026-06-23_graphrag-vector-rag-connections-explained.md) |
+| 2026-06-23 | Hyperautomation Labs | I Read 900 Real AI Engineer Job Posts — The 2026 Roadmap Is Upside Down | 14:18 | [7O4WwH-yCZE](https://www.youtube.com/watch?v=7O4WwH-yCZE) | [note](channels/hyperautomation-labs/videos/2026-06-23_2026-ai-engineer-roadmap-real-job-data.md) |
+| 2026-06-23 | Hyperautomation Labs | 10 GitHub Repos So Good They Shouldn't Be Free — Part 4 (Kill $48K/yr of SaaS) | 15:42 | [1SZT6P7Yr0k](https://www.youtube.com/watch?v=1SZT6P7Yr0k) | [note](channels/hyperautomation-labs/videos/2026-06-23_10-github-repos-kill-48k-saas-part-4.md) |
 | 2026-06-17 | Hyperautomation Labs | 10 GitHub Repos So Good They Shouldn't Be Free — Part 3 (Replace $180K/yr of SaaS) | 16:05 | [SNJNmBAn87k](https://www.youtube.com/watch?v=SNJNmBAn87k) | [note](channels/hyperautomation-labs/videos/2026-06-17_10-github-repos-180k-saas-part-3.md) |
 | 2026-06-17 | Hyperautomation Labs | YC Just Said Stop Hunting the Perfect Startup Idea — I Turned Their Framework Into 6 Claude Prompts | 12:45 | [-ya1zrj608c](https://www.youtube.com/watch?v=-ya1zrj608c) | [note](channels/hyperautomation-labs/videos/2026-06-17_yc-idea-engine-6-claude-prompts.md) |
 | 2026-06-15 | Hyperautomation Labs | I Rebuilt All 7 Claude Fable 5 Demos Anthropic Showed 4.2M People — Here's the Scoreboard | 16:19 | [JQEPHFbLPEY](https://www.youtube.com/watch?v=JQEPHFbLPEY) | [note](channels/hyperautomation-labs/videos/2026-06-15_rebuilt-all-7-claude-fable-5-demos-scoreboard.md) |

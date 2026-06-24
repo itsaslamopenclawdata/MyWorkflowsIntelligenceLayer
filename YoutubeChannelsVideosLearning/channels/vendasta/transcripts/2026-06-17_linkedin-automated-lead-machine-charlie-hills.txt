@@ -1,0 +1,821 @@
+# Transcript: He Turned LinkedIn Into an Automated Lead Machine for Agency Owners
+# Channel: Vendasta
+# Duration: 1747s
+# Video ID: pMby6rWCSDA
+
+0:00 If you're an agency owner, and LinkedIn
+0:02 isn't generating leads, I can almost
+0:04 guarantee the problem isn't your
+0:06 content.
+0:07 >> That's Charlie Hills, the LinkedIn
+0:09 growth strategist who built 200,000
+0:11 followers in under 2 years, and turned
+0:14 it into a client pipeline that runs on
+0:16 autopilot. But here's what makes Charlie
+0:18 different. He's not chasing vanity
+0:20 metrics. He's seen creators with a
+0:22 million followers get crickets on their
+0:24 posts, while agency owners with just a
+0:26 few thousand are generating hundreds of
+0:28 thousands in revenue. The difference? A
+0:31 system. One built on frameworks, not
+0:33 hacks.
+0:34 >> The thing nobody told me is that the
+0:36 first 6 months feel like you're talking
+0:38 to yourself. That's not a sign to stop.
+0:40 That's the algorithm deciding if you're
+0:41 serious.
+0:42 >> But here's the thing most people get
+0:43 wrong.
+0:44 >> The dirty secret to LinkedIn in 2026?
+0:47 It's that AI made it easier to publish,
+0:50 and harder to stand out. The biggest
+0:52 growth hack for LinkedIn is to
+0:54 >> In this episode, you'll learn how to
+0:56 turn your LinkedIn profile into a
+0:58 conversion machine.
+0:59 >> Most people pin their top posts to
+1:01 feature section, which is the biggest
+1:03 mistake you can make when optimizing
+1:04 your profile.
+1:05 >> How to use AI without sounding like AI.
+1:08 >> If a stranger could have written it,
+1:09 then delete it. Rewrite it. Has
+1:12 completely changed what a good creator
+1:14 versus a bad creator is on LinkedIn now.
+1:16 >> And the exact nine prompts Charlie used
+1:19 to build his 200,000 following.
+1:21 >> My first post ended up going mega viral.
+1:23 400,000 impressions within days, and
+1:26 that ultimately ended up changing my
+1:28 life.
+1:33 >> You generated over 200,000 followers in
+1:37 a little over a year. How often do you
+1:38 post? And what is the sort of the
+1:41 minimum posting effort that come someone
+1:43 could expect to have to make in order to
+1:45 get to say their first 10,000 followers?
+1:48 >> So [snorts] for me personally, I post
+1:50 every single day.
+1:52 At a period, I was posting twice a day.
+1:55 I wouldn't advise that personally,
+1:56 because if you're just starting out,
+1:58 ultimately, you want to manage quality
+2:01 over quantity.
+2:02 But, it is very important to get as much
+2:04 data as possible when you're just
+2:06 starting out, because you have no idea
+2:08 what works. You don't know if it's
+2:10 documents or if it's cheat sheets that
+2:12 will perform well for your LinkedIn. So,
+2:14 [snorts] my advice for someone just
+2:15 starting out would be to post as much as
+2:18 is sustainable, and then get as much
+2:21 data as possible, because then, once you
+2:23 have the formula, then you can also you
+2:25 double down on that. I think LinkedIn is
+2:27 the number one channel for agency owners
+2:29 to generate leads, because it's the best
+2:33 way to build long-term authority versus
+2:36 cold emails, ads. Once you reach out to
+2:39 people, once they see your ads, then
+2:41 they might be deterred. They're not
+2:43 interested. Whereas, LinkedIn is the one
+2:45 way to
+2:47 continually compound and grow your
+2:50 authority and audience, and continue to
+2:53 reach new people for basically free.
+2:56 Whereas, ads, especially on LinkedIn,
+2:58 are incredibly expensive. Whereas,
+3:01 posting organic content
+3:03 is free. Anybody can do it. You have
+3:05 full control. It's the best way to build
+3:07 a pipeline machine in the long term. I'm
+3:09 talking years, not just a few weeks, but
+3:12 long-term strategic um modes that give
+3:17 your business a safety net that nothing
+3:19 else can do, because AI can do almost
+3:21 anything now. One of the biggest modes
+3:24 left is distribution. If you have
+3:26 hundreds of thousands of followers,
+3:28 it's the one way to know for sure that
+3:31 your services, your products will people
+3:33 will be interested and ready to buy from
+3:35 you, because you built that goodwill and
+3:36 long-term trust over the years that
+3:38 you've been publishing on LinkedIn.
+3:40 You're selling AI to businesses. If your
+3:42 own content sounds robotic, you've
+3:44 already lost the pitch before the
+3:45 conversation started. If you're an
+3:47 agency owner, and LinkedIn isn't
+3:49 generating leads, I can almost guarantee
+3:51 the problem is in your content.
+3:54 >> Yeah, I've talked to a lot of business
+3:55 owners lately um that feel like LinkedIn
+3:58 is harder than it's ever been. More more
+4:01 creators, more AI,
+4:03 uh more noise,
+4:05 and uh so what what do you think the the
+4:09 main reason is behind this feeling that
+4:12 things are more difficult today than it
+4:13 has been in the past?
+4:14 >> So, when I first started out, the
+4:16 LinkedIn algorithm was favorable. It was
+4:19 much more favorable than it is now.
+4:21 And that was around uh 2024, and
+4:24 literally people were still complaining
+4:26 about reach back then.
+4:27 Versus now it's dropped off
+4:30 a cliff edge. Reach is down 80% versus
+4:33 what it was a year or two ago.
+4:36 And the reason for that is ultimately
+4:38 LinkedIn are encouraging people to spend
+4:40 more on paid ads.
+4:42 But also yeah, AI has just made content
+4:46 so saturated. LinkedIn prior to ChatGPT
+4:49 and the AI revolution, it was very
+4:51 professional and people would actually
+4:53 write thought-out posts. But now it's
+4:56 like anybody can just generate content
+4:57 and post. So, I say it's a bit of both.
+5:00 LinkedIn user users have shot up to over
+5:04 1 billion now versus a few years back it
+5:07 was half of that.
+5:08 Uh but then also yeah, the AI content
+5:10 saturation and LinkedIn generally just
+5:11 wanting to cash in
+5:13 on their platform. I'd say it's a
+5:15 three-pronged reason ultimately. And the
+5:18 worst way that people are using it is
+5:20 not just to write posts, but it's the
+5:22 comments. I'd say half of LinkedIn
+5:24 comments now are AI-generated, and
+5:27 that's the quickest way to kill your
+5:29 personal brand, to kill your reputation.
+5:31 So, it makes sense if to outsource it,
+5:34 but you have to outsource it tastefully.
+5:35 Because this is your reputation. This is
+5:37 your name. This is your education, your
+5:40 certifications all listed on the
+5:41 platform. People will instantly just not
+5:44 want to buy from you if you use AI
+5:47 distastefully on LinkedIn.
+5:48 >> Um here's something that I hear people
+5:50 recommend all the time. It's find your
+5:51 voice or find your niche.
+5:53 But you say the biggest reason why
+5:55 people don't achieve growth uh on
+5:57 platforms like LinkedIn is because they
+5:59 don't have a key differentiator. How do
+6:01 you help someone identify
+6:04 things that will actually make them
+6:06 worth following?
+6:07 >> So for me personally, it is that unique
+6:10 point of view
+6:12 because
+6:13 before AI, you could write a very
+6:15 generic how-to style piece of content.
+6:17 People would lap that up. People would
+6:19 love it. But since AI, anybody can now
+6:22 go to ChatGPT and generate top 10 tips
+6:24 to avoid burnout, for example.
+6:27 Instead, it has to be a very specific
+6:29 way about how you did it. That's um and
+6:32 how you avoided the burnout. And that's
+6:34 why storytelling and how I did it versus
+6:38 how to do it has completely changed my
+6:41 perception of what a good creator versus
+6:44 a bad creator is on LinkedIn now. If
+6:46 someone is just posting generic content,
+6:49 then I'm not going to follow them. I'm
+6:51 not going to want to buy from them. One
+6:52 of the biggest rules for me when writing
+6:54 LinkedIn posts is I always like to keep
+6:55 in mind if a stranger could have written
+6:57 it, then delete it. Rewrite it. Add more
+7:00 anecdotes. Add more unique point of
+7:02 view. But ultimately, I always say to
+7:05 people and clients, you are the content.
+7:07 You um
+7:09 every single moment in your day and life
+7:11 is content. You I've worked with people
+7:13 from all sorts of niches
+7:15 from
+7:16 kidswear design to um sewing um
+7:21 like s- sewing consultants. It's It's
+7:24 crazy. Like I've worked with all of them
+7:26 and I find that these people always
+7:28 surprise me
+7:29 because ultimately they're tapping into
+7:32 their very niche expertise and reaching
+7:35 the right people because
+7:38 they're following that how I approach
+7:40 versus how to. They are sharing with the
+7:43 audience exactly how they did it.
+7:47 >> Before someone gets started on LinkedIn,
+7:50 what does their profile have to say?
+7:52 What's the one thing that has to show up
+7:54 in their headline?
+7:55 >> So, for me personally, I follow a very
+7:58 simple formula.
+7:59 And for
+8:01 all my clients, too. It's very much I
+8:02 help you achieve X
+8:05 through this process. It's a very simple
+8:08 headline, but it works for any niche,
+8:10 any industry,
+8:12 and any business. Essentially,
+8:14 it's your unique way of achieving
+8:17 business results. So, for me personally,
+8:19 it's I help you create authentic AI
+8:21 content, or I help you actually use AI
+8:23 for content. Um and that's an instant
+8:26 differentiator for me.
+8:29 Outside of that, it's obviously your
+8:31 banner, your about section, especially
+8:34 having like your core promise on your
+8:36 banner,
+8:37 um which is
+8:39 mine is I help you scale your personal
+8:41 brand and business
+8:42 through AI content systems and strategy.
+8:45 And then also listing social proof. With
+8:47 the about section, this is probably one
+8:49 of the biggest things that I see people
+8:50 struggle with is that they'll write it
+8:52 in third person, which used to be a
+8:54 popular way to write it a few years
+8:56 back, but now it has to be so targeted
+8:58 and so clear how you help people achieve
+9:00 business results. So, you can follow a
+9:02 very simple framework here such as PAS,
+9:05 which stands for problem, agitate,
+9:06 solution. And honestly, what you want to
+9:08 do there is really take the reader on a
+9:11 journey through the their frustrations
+9:13 so it feels like you're speaking
+9:14 directly to them. Uh outside of that,
+9:17 the featured section is an absolute
+9:18 must. Most people pin their top posts to
+9:22 to their featured section, which is the
+9:24 biggest mistake you can make when
+9:25 optimizing your profile. You want to
+9:27 have ideally
+9:29 um
+9:30 your website, um a lead magnet, or
+9:33 taking people to your newsletter.
+9:35 Because this is your opportunity to
+9:37 de-platform people and to actually get
+9:39 them to convert and buy your services.
+9:41 >> You know, there's sort of three major
+9:44 content buckets that you that you've
+9:45 talked about. Um, can you can you give
+9:47 us like examples of what some of the
+9:49 posts would look like and
+9:52 particularly if you're thinking as an
+9:54 example for an agency owner
+9:56 specifically?
+9:57 >> Yeah, I like to look at LinkedIn content
+9:59 in
+10:00 and these three separate ways. So,
+10:01 there's growth content. There's content
+10:03 that is going to generate you
+10:06 so many views. And I think ultimately
+10:08 people should be doing this
+10:10 70% of the time. I mean, that's what I
+10:12 do personally. I'm
+10:14 posting for growth almost every single
+10:16 day. And this content, for me
+10:18 personally, it's
+10:19 about the latest industry news. I'm
+10:21 talking about Nana Banana.
+10:23 So, for agency owners, they could you
+10:26 know, leverage the most recent news,
+10:27 whether that's AI, whether that's
+10:30 um, yeah, anything in their industry and
+10:33 share it on LinkedIn because the sooner
+10:34 you
+10:36 share this news, then the better the
+10:38 results going to be. This one did very
+10:40 well for me. It generated half a million
+10:41 impressions.
+10:42 Why? Because
+10:44 I literally posted this the day after
+10:46 Nana Banana 2 came out. Then there's
+10:49 also authority content.
+10:51 So, this content will demonstrate how
+10:55 you do something specifically. So, for
+10:58 me, it's creating AI content. In this
+11:01 case,
+11:02 I demonstrated my framework, which I
+11:04 call the share framework. And this was
+11:06 my very specific process on how I advise
+11:10 people to achieve LinkedIn growth with
+11:12 AI.
+11:14 And in this instance,
+11:16 I wrote, instead of giving a very
+11:18 general observation about the latest
+11:20 industry news, I said, you know, I've
+11:22 achieved this and this is the framework
+11:25 that made it happen. That's instantly
+11:27 intriguing. So, that's what I call
+11:29 authority content and I'd advise doing
+11:31 this
+11:32 somewhere between 20% of the time, maybe
+11:34 up to 30, potentially even 40% of the
+11:38 time because
+11:39 this is your differentiator. This is
+11:41 your unique process and expertise.
+11:44 And then finally, we have conversion
+11:45 content.
+11:47 So,
+11:48 I'm less of a fan of posting conversion
+11:49 content
+11:50 >> [snorts]
+11:51 >> because ultimately it does get the
+11:52 lowest amount of views,
+11:54 but obviously it equates to the highest
+11:57 amount of leads generated. So, in this
+12:00 instance, I was promoting a cohort that
+12:02 was that I'm running at the moment. And
+12:07 it doesn't start with hey guys, I'm
+12:09 launching a cohort, please sign up. I It
+12:12 started with storytelling.
+12:14 I said when I started on LinkedIn, I was
+12:15 lost. My post used to die at 400
+12:17 impressions. That's instantly speaking
+12:19 to my ICP's one of their biggest pain
+12:22 points.
+12:23 And ultimately, that then intrigues them
+12:25 enough to hopefully click on the post,
+12:28 which they did. And
+12:30 then after I've told a bit of a story, I
+12:33 then get into the pitch. I don't dive
+12:34 straight into that immediately.
+12:37 >> [snorts]
+12:38 >> And in the carousel, I've included
+12:40 client results. I'm It's very It's
+12:42 literally just an overview of my cohort.
+12:44 But because I intrigued people with the
+12:47 hook and also the carousel cover, the
+12:49 two most important things, the written
+12:51 hook and then the visual hook, that
+12:53 worked. And despite not generating the
+12:56 most views, it did equate to the most
+12:58 revenue generated versus growth content
+13:01 like this. So, that's how I look at
+13:04 content, 70% growth content, 20%
+13:07 authority content, and then finally 10%
+13:09 conversion content.
+13:10 >> I was just wondering if you could walk
+13:11 through one of your posts and um
+13:16 like an example of breaking it down
+13:19 by its different components, the hook,
+13:21 the retention mechanism, proof, steps,
+13:23 call to action.
+13:24 >> It's very simple to me because I've been
+13:25 doing it for a while now, and I know for
+13:26 most people, it's not just as simple as
+13:28 okay, boom, here you go, here's the
+13:30 post. But ultimately, the two components
+13:32 you want to focus on are
+13:34 the hook and the visual hook, because
+13:35 the rest of the post doesn't have to be
+13:37 formatted
+13:38 like a staircase. That's how we write
+13:40 posts on LinkedIn. It's very much like
+13:42 very short lines of text, as you're
+13:44 seeing here.
+13:46 Uh but all you need is a hook and a
+13:47 visual hook, and then a very simple
+13:50 repost call to action. You could just
+13:53 use a simple repost um call to action
+13:55 here, or you could leave something like
+13:57 PS, I run uh
+13:59 an agency, sign up here to book a call
+14:02 with me. And that works, too, because
+14:04 you're
+14:06 leveraging the hopefully hundreds of
+14:07 thousands of impressions that you're
+14:09 generating here.
+14:10 And people might see your content and
+14:11 and like it. So, there's no like
+14:13 clear-cut formula for writing an
+14:14 exceptional LinkedIn post.
+14:17 All I'd recommend is mastering the power
+14:19 of hooks um and
+14:21 good graphics. That's what matters the
+14:23 most. But for me personally, I'm I'm
+14:25 noticing a big uplift in course style
+14:28 posts. I'll see if I can get one up, but
+14:31 last year,
+14:33 lead magnets were the top like one of
+14:35 the top performing posts on LinkedIn,
+14:37 and they did a great job at generating
+14:39 leads.
+14:40 Uh I mean, the clue's in the name there,
+14:42 but ultimately, in the past mm 6 months
+14:45 or so, there's been a massive shift
+14:47 towards these compilation style posts.
+14:50 Again, the hook here.
+14:52 And what this hook has done well is that
+14:54 I've leveraged
+14:55 a specific number, $10,000 worth of AI
+14:58 education, I said.
+15:00 And using digits and
+15:02 stats and numbers in the hook is a great
+15:05 way to really help intrigue the reader
+15:07 and draw their eye.
+15:09 But this post did exceptionally well,
+15:12 because it didn't generate as many views
+15:13 as that
+15:14 other growth content piece I shared with
+15:17 you, but it generated, you know, near
+15:20 nearly 1,000 followers.
+15:22 And that's because it's a compilation
+15:24 style post. There's a ton of value here
+15:27 in this um
+15:28 in this post with
+15:30 links to
+15:31 um on how to learn uh Claude, which is
+15:34 Anthropic's AI.
+15:36 And these are taking over LinkedIn right
+15:37 now. Previously, having links in posts
+15:40 would have tanked your reach, whereas
+15:42 it's proven that if you have more than
+15:44 five links in a post, your reach
+15:46 actually goes up to some something like
+15:48 four five X because people see immediate
+15:51 value in it. So,
+15:53 yeah, this one did very well because of
+15:55 the links in post, but also the
+15:56 recentcy. Anthropic just dropped these
+15:58 courses. So, that is the kind of the
+16:00 magic formula there. It's
+16:03 recentcy,
+16:04 um relevance, and also
+16:07 engineering it for virality with the
+16:09 hook and also the format here in this
+16:11 instance.
+16:12 >> Well, how how do you generate ideas?
+16:14 When an idea is generated, what are sort
+16:17 of the next steps? Where does the AI
+16:19 come from? What are the different, you
+16:21 know, models that you're using? Do Do
+16:24 And do do the different models have
+16:25 different jobs that you're using them
+16:27 for? Um and so walk us through this
+16:29 process a little bit.
+16:31 >> Think of it like running a kitchen. AI
+16:32 can chop, mix, and prep at impossible
+16:35 speed, but the menu, the flavor, and the
+16:37 final taste still depends on the chef um
+16:40 because the context, it's it's me and
+16:44 yeah, that's very much down to me the
+16:46 human and us to come up with. So,
+16:48 I have a very messy notes page on my
+16:52 MacBook. And basically, this is where
+16:55 all of my posts live uh post ideas live.
+16:58 Um and I don't use AI to generate
+17:00 content ideas. Unless you've got a ton
+17:03 of context and you're staring at a blank
+17:05 page, I'd
+17:06 advise against it because the best
+17:08 ideas, the most viral stuff, always
+17:10 comes when you're about to go to sleep
+17:12 or when you're in in the shower.
+17:13 Literally,
+17:15 it has to come from you the human. So, I
+17:17 keep it on my notes page. This is, you
+17:19 know, not AI related. It's just my way
+17:21 of
+17:22 keeping all of my best ideas saved. And
+17:26 I actually get a lot of inspiration from
+17:29 the likes of Instagram and X. By seeing
+17:31 something good do super well on one
+17:33 platform, it means why won't it do well
+17:35 on another platform?
+17:37 Then when it comes to actually creating
+17:38 the content, I'm using Claude. Claude is
+17:41 the best LLM, especially since Opus 4.6.
+17:45 I love this model so much. The way it
+17:48 reasons, the way it replies, it's
+17:50 honestly leading the pack by a big, big
+17:55 gap now. And ultimately what I do is I
+17:58 follow a strategy whereby I'm going to
+18:01 write a newsletter. I publish a
+18:02 newsletter to Substack every Sunday.
+18:04 That will then
+18:07 filter into my content strategy for the
+18:09 entire week. Because I'll write one long
+18:12 piece of content, and then ultimately
+18:15 that's going to become three, four,
+18:16 five, six, even sometimes a whole week
+18:18 of content. And what I'm doing here is
+18:21 I've got a project in Claude, which is
+18:24 going to help me write my newsletter.
+18:25 So, for example, this was this was the
+18:27 first draft, and it's it's well written
+18:29 because I've got custom instructions in
+18:32 there. I've got my own
+18:34 previously written newsletters, so it
+18:36 knows exactly how to write in my style.
+18:38 Not a generic newsletter that just
+18:40 screams AI. I'm ultimately what I've
+18:42 done is I've provided it with a lot of
+18:43 context here, for example.
+18:45 I saw a really well-structured carousel
+18:48 on Instagram. It was about Claude code,
+18:51 which is you know, Claude co-work, which
+18:53 is all the rage right now. And I I
+18:56 simply gave it a very simple prompt. I
+18:58 said, you know, write a newsletter about
+19:00 the complete
+19:01 Claude guide. And then I just gave it a
+19:04 few other additional points that I
+19:05 wanted to include. And then I I I have a
+19:08 great first draft for my newsletter.
+19:11 Um
+19:12 and yeah, I didn't just stop there. This
+19:14 thread is incredibly long. I'm I'm
+19:16 talking with the AI for
+19:19 a very long time to create these posts
+19:22 um specifically for my newsletter. But
+19:25 then the beautiful thing about this is
+19:26 that then I'm using
+19:29 Gemini um to create graphics like this.
+19:32 This is a a great graphic which prior to
+19:35 the inception of Nana Banana Pro, it
+19:38 would have been very very hard to create
+19:40 this level of graphic for LinkedIn.
+19:42 Yeah, it's not perfect. Uh some of the
+19:44 text is a little bit hard to read, but
+19:46 the way I'm looking at AI models and
+19:48 tools now is it's
+19:50 Claude Opus for anything written
+19:53 and then it's Gemini from Google for
+19:56 anything visual. That's the very simple
+19:58 way I'm approaching AI tools at the
+20:00 minute.
+20:01 And
+20:02 this is great. I've been posting
+20:04 AI-generated graphics on LinkedIn for
+20:06 months now. And I was actually one of
+20:08 the first people to really kind of push
+20:09 this format.
+20:11 There was whiteboards going viral all
+20:12 over LinkedIn. And why does it work?
+20:15 Because whiteboards and that style feel
+20:17 very educational, very authentic, and it
+20:20 just stop the scrolling in the feed. So,
+20:23 that's basically my content strategy.
+20:25 It's quite simple, actually, but it does
+20:28 work incredibly well.
+20:29 >> And you And you've produced something
+20:31 that people can't just generate on their
+20:33 own without all of the different context
+20:35 that you're layering in to your chat
+20:38 with Claude as you're producing this
+20:39 content.
+20:40 >> Exactly. And everything is tested by me.
+20:42 I'm I'm I'm not going to just copy-paste
+20:44 something and then publish it, you know,
+20:46 I make sure that I agree with everything
+20:49 on on here.
+20:50 Um and I've tested it myself first hand.
+20:52 That is one of the biggest things you
+20:54 must do before publishing content
+20:55 because
+20:56 yeah, it's not a good look otherwise.
+20:59 >> Walk us through this process a little
+21:01 bit.
+21:01 >> I built this system over 2 years of
+21:03 posting on LinkedIn. Every prompt has
+21:05 been refined through dozens of
+21:07 iterations. I'm giving you the version
+21:09 that works, not the first draft. First
+21:11 one is the LinkedIn profile optimizer.
+21:13 Your profile is your landing page. Most
+21:15 people treat it like a CV. That's the
+21:17 wrong approach. This prompt turns your
+21:19 profile into a conversion tool. Feed it
+21:21 your current profile, tell it your goal,
+21:23 and it rebuilds every section for that
+21:25 specific outcome. Book calls, inbound
+21:28 leads, newsletter subscribers, whatever
+21:30 you're optimizing for.
+21:31 The prompt asks you for seven inputs,
+21:34 then delivers five outputs, and four
+21:36 ready-to-use image generation prompts.
+21:38 You get a new headline, about section,
+21:40 experience section, feature section
+21:41 strategy, and individual prompts for
+21:43 your banner, profile picture, and two
+21:45 feature tiles. I run this through Google
+21:47 Gemini Pro. Here's the exact prompts.
+21:50 So, here's how I use it. I download my
+21:52 LinkedIn profile as a PDF straight from
+21:54 LinkedIn. You basically click the three
+21:56 dots on your profile card, then save to
+21:58 PDF.
+21:59 Then you open a new Gemini chat, switch
+22:02 to pro mode, enable Canvas, and upload
+22:05 the PDF alongside the prompts.
+22:07 Gemini processes the PDF and generates a
+22:09 full strategy brief inside Canvas. It
+22:12 gives you three headline options, a
+22:13 mobile-formatted about section,
+22:16 storytelling experience rewrites,
+22:18 feature section strategy, and four image
+22:20 generation prompts for your banner,
+22:21 profile picture, and
+22:23 feature tiles. Copy the prompts in, and
+22:26 for the banner and the profile picture,
+22:28 upload your headshot photo alongside it.
+22:30 The feature tiles don't need a photo.
+22:32 Save each generated image and upload
+22:35 them straight to LinkedIn. The full
+22:37 process from PDF download to updated
+22:39 profile picture took one session. The
+22:41 written sections get you about 80% of
+22:43 the way there. The part you need to add
+22:45 yourself is your latest milestone,
+22:47 metrics, and client results. It works
+22:50 with what you give it. If your profile
+22:52 still references numbers from 6 months
+22:53 ago, the output will, too. Update your
+22:56 inputs before you run this.
+22:59 For even more contextualized results,
+23:01 attach a Notebook LM note
+23:04 as part of your initial input. Because
+23:06 the more context it has about your
+23:08 business, your wins, and your audience,
+23:09 the more specific the output gets.
+23:12 Each image was generated one by one, and
+23:15 I've compiled them here so you have the
+23:16 full set together. Here's prompt two.
+23:19 This is for content ideation. This
+23:21 prompt turns Perplexity into a research
+23:23 machine that surfaces the 20 most
+23:25 relevant stories in your niche from the
+23:27 last 7 days. Here's the full prompt.
+23:31 I ran this with AI marketing as my
+23:32 niche. Perplexity returned a table of
+23:34 themes from each past week. Each row
+23:37 included verified links, the platforms
+23:40 where the conversation was happening,
+23:41 and a shareable angle I could turn into
+23:43 a post.
+23:45 You take any row of the table and turn
+23:47 it into a LinkedIn post.
+23:49 And you can run this at the start of
+23:51 each day or each week, depending on how
+23:53 much content you want to share. Prompt
+23:55 three is content ideation part two.
+23:58 Because prompt two surfaces trending
+23:59 stories from from the web, this one does
+24:02 something different. It generates
+24:04 content ideas from your own expertise.
+24:06 This content comes from Justin Welsh's
+24:08 content matrix. It was created years
+24:10 ago, and it's still one of the most
+24:12 valuable content ideation prompts
+24:13 available. The matrix maps your content
+24:16 pillars against different content types
+24:18 get and gives you dozens of ideas in a
+24:20 single output. Here's the prompt. Fill
+24:23 in the placeholders before you run it.
+24:25 The description of who you are, what you
+24:27 do needs to be at least two paragraphs.
+24:31 And you need to be very specific. The
+24:32 more detail you give it, the more
+24:34 relevant the ideas.
+24:35 For the Y axis, add your content
+24:37 pillars. These are three to four topics
+24:39 you want to be known for. Mine would be
+24:41 AI content creation, LinkedIn growth,
+24:44 personal branding, and marketing
+24:45 automation. Claude returns a matrix
+24:47 table. Your pillars run down the left
+24:49 side, eight content types run across the
+24:51 top. Every cell contains a specific
+24:54 content idea tailored to your niche. So
+24:56 you know whether you're writing a how-to
+24:58 guide, a contrarian take, or a
+25:00 comparison post. Prompt four is for
+25:03 captivating hooks. This is one of the
+25:05 simplest prompts in the library, but
+25:07 it's also one of the most effective.
+25:10 Here's the prompt. I gave it a topic
+25:11 about Claude replacing a team of 50, and
+25:14 Claude returned six variations. Each one
+25:17 followed the same structure, a short
+25:19 opening line that states something
+25:20 unexpected, then a second line that
+25:22 contradicts or refrains it. These hooks
+25:25 cooked. The right length, the right
+25:27 contrast, and the right amount of
+25:28 tension. I coach a lot of people on
+25:30 LinkedIn, and their hooks are the number
+25:32 one thing holding them back. Either too
+25:34 long or not exciting enough. This prompt
+25:36 fixes both problems. The hooks that
+25:39 perform best use digits, quotation
+25:41 marks, brackets, and a first-person
+25:43 point of view.
+25:44 I replaced 50 people with Claude grabs
+25:46 attention versus how AI is changing team
+25:49 structures does not. Prompt five is for
+25:52 skimmable LinkedIn posts. The prompt
+25:54 creates a ready-to-publish LinkedIn
+25:55 post. The length is correct, the
+25:57 structure follows proven frameworks.
+25:59 Claude asks you three questions before
+26:01 writing, topic, framework, and context.
+26:04 The ask user question tool in Claude
+26:05 makes this process seamless.
+26:08 Answer the questions and it generates
+26:09 the full post.
+26:11 I'm a big fan of PAS, but I've included
+26:14 the top LinkedIn frameworks here so you
+26:15 have options. Try a few. They all follow
+26:18 best practices for taking the reader on
+26:20 a journey.
+26:21 For example, there's BAB, before after
+26:22 bridge, PAS, problem agitate solution,
+26:25 STAR, situation task action result,
+26:28 AIDA, attention interest desire action,
+26:31 and then SLAY, story lesson actual
+26:33 advice you.
+26:35 Prompt number six is infographics. If
+26:36 you If you read my newsletter or follow
+26:38 me on LinkedIn, you've seen what these
+26:40 infographics look like. I got one 480K
+26:44 impressions from three posts with this
+26:46 hand-drawn whiteboard style.
+26:48 All generated with this prompt. Here is
+26:50 the master prompt.
+26:52 Replace the at the bottom with your own
+26:53 name and positioning
+26:55 because this process starts with a
+26:56 brief, then you go to Gemini, provide it
+26:58 with whatever you want to turn into an
+27:00 infographic, whether that's a LinkedIn
+27:02 post, a blog, research, a newsletter,
+27:05 the possibilities are endless.
+27:07 Ask Gemini to turn it into an
+27:09 infographic brief with visual
+27:11 suggestions. The visual suggestion part
+27:13 is important. It makes the final output
+27:16 look good and appealing on the feed.
+27:18 Once complete, review the brief, edit
+27:21 it, then paste in the master prompt.
+27:23 Prompt number seven is for carousels.
+27:25 It's the same approach as the
+27:27 infographics, just applied to carousels.
+27:29 Paste your content, generate a brief,
+27:31 approve it, then generate each slide one
+27:33 by one. Here's the full prompt.
+27:36 Again, edit the brand style to match
+27:38 your own before running this. The colors
+27:40 and typography in this prompt are mine.
+27:42 Gemini will return a brief with slide by
+27:44 slide breakdowns and visual suggestions.
+27:46 Fine-tune using follow-up prompts or
+27:47 copy in a Word doc and edit directly.
+27:50 Once you're happy, tell Gemini to
+27:52 generate.
+27:53 Gemini will either generate the whole
+27:55 carousel in one shot or slide by slide.
+27:58 Prompt number eight is the lowest lift
+28:00 way to create content for LinkedIn.
+28:03 Two prompts working together, Claude
+28:04 generates the quote, Gemini creates the
+28:06 visuals. Start with Gemini or Claude,
+28:09 give it your caption, and it returns a
+28:11 set of quote options grouped by
+28:12 category.
+28:14 Go for something inspirational.
+28:16 Once you've chosen your quote, take it
+28:18 to Gemini with a reference image. Gemini
+28:20 recreates the style with your chosen
+28:22 quote baked in.
+28:23 One thing to watch, make sure you
+28:25 generate 1080 by 1350 pixel dimensions.
+28:28 This is the optimal size for the
+28:29 LinkedIn feed. Takes up maximum space,
+28:32 anything horizontal gets lost. The final
+28:35 prompt is the LinkedIn analytics
+28:36 dashboard. Creating content without
+28:38 analyzing it is a waste of time. Your
+28:40 top 20% of posts will drive the majority
+28:43 of your results. Download your LinkedIn
+28:45 analytics export first, go to your
+28:47 LinkedIn analytics page, set the date
+28:49 range, and click export in the top
+28:50 right. Upload the file to Claude and
+28:52 paste the prompt. Claude reads every
+28:54 sheet in the export, cleans the data,
+28:56 and builds an interactive dashboard as
+28:58 an artifact.

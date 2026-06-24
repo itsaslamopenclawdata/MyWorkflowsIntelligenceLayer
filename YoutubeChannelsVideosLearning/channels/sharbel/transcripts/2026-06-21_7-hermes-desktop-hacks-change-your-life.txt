@@ -1,0 +1,601 @@
+# Transcript: 7 Hermes Desktop Hacks That Will Change Your Life
+# Channel: Sharbel A.
+# Duration: 1503s
+# Video ID: 6kGXn-j16QM
+
+0:00 Hermes Desktop looks like a cleaner way
+0:03 to chat with an AI agent. That is not
+0:05 why I care about it, though. The reason
+0:07 I care about Hermes Desktop is that it
+0:10 finally makes the parts of Hermes that
+0:12 were already powerful actually visible.
+0:16 Your files are visible. Your tools are
+0:19 visible. Your sessions are visible. And
+0:21 your scheduled jobs are visible. And
+0:24 [music] when you set it up properly, it
+0:26 stops feeling like another AI chat app
+0:29 and starts feeling like a command center
+0:31 for your entire computer. So, in this
+0:33 video, I want to show you seven Hermes
+0:36 Desktop hacks that I have been using
+0:39 every day. These are the workflows that
+0:41 make Hermes feel [music] less like a
+0:42 chatbot and more like an AI employee
+0:45 sitting inside your machine. Let's get
+0:47 into hack number one.
+0:49 The first hack is to stop asking Hermes
+0:53 to immediately do the task and instead
+0:56 ask Hermes to interview you before it
+0:59 even starts.
+1:00 This sounds like a very small thing, but
+1:03 it fixes one of the biggest problems
+1:05 with AI agents.
+1:07 They start working way too early. Or
+1:10 sometimes they don't understand what we
+1:13 actually want. So, if I say something
+1:16 like, I don't know, find me homes in in
+1:18 France.
+1:19 Hermes can technically start searching.
+1:23 But that is not the real task. The real
+1:26 task is help me find homes in France
+1:29 that fit within my budget, that
+1:32 are within the cities that I would like
+1:34 to be in, that are, I don't know, that
+1:36 have a garden or whatever my preferences
+1:39 are. That means the agent needs taste,
+1:42 context, budget, location, emotion, what
+1:46 are my deal breakers, what are my
+1:49 big pluses, and the reason behind the
+1:51 purchase. So, instead of giving Hermes a
+1:54 vague task, I use a prompt like this.
+1:58 Help me find homes to buy in France. Use
+2:01 ask user question until you reach
+2:04 clarity.
+2:05 And once you submit that, you're going
+2:08 to see that since this is a desktop app
+2:11 and you're not operating on Telegram, it
+2:13 can do things like
+2:16 embed a questioner. There you go. Inside
+2:19 of Hermes agent, which is pretty neat
+2:22 way to prompt your Hermes agent. So
+2:25 here, look at this. It's asking, "What's
+2:27 the real buying brief for France? Start
+2:30 with the constraint that changes
+2:31 everything. What is your all-in budget?"
+2:34 Which is super important for a task like
+2:36 this. So it breaks down the task. It
+2:38 thinks, "What are the things I need
+2:39 clarity on? What are the question marks
+2:42 I have? The gaps
+2:45 that I need filled before I run this
+2:50 prompt properly. So let's say we go, I
+2:52 don't know, 100k all-in. What is the
+2:55 main purpose? The answer decides whether
+2:57 I hunt charming usable rural houses or
+3:00 tourist rental resale safe location.
+3:04 Uh say I want a holiday weekend home.
+3:07 There you go. It's narrowing down
+3:10 exactly what it needs.
+3:13 Uh I want to be able to drive. Shortest
+3:16 drive. I don't know. I'm just answering
+3:18 uh randomly here
+3:20 right now.
+3:22 >> [sighs]
+3:23 >> Lucky for you, I'm not doing uh
+3:25 home shopping uh live during this video.
+3:28 What renovation tolerance should I
+3:30 enforce?
+3:31 Move-in usable for 100,000 in this
+3:34 economy.
+3:36 Buying a a move-in ready home
+3:39 is going to be tough, but I mean, I
+3:42 It's asking me for my criteria.
+3:45 One bed minimum is fine. Two bedrooms
+3:48 minimum. Two bedrooms minimum.
+3:50 Absolutely can't have any less.
+3:53 What's the minimum for it to feel like a
+3:55 holiday home? A small garden is
+3:57 required. What vibe should I optimize
+4:00 for inside? Northern France, cute
+4:02 village with cafes nearby. How strict is
+4:05 the cafes nearby?
+4:07 Uh
+4:08 under a
+4:10 15-minute walk. Final filter, should I
+4:13 prioritize charm, romance, or resale
+4:15 safety when there's a trade-off? Uh
+4:18 always prioritize resale safety.
+4:21 Not financial advice, but hey. And there
+4:23 you go. It now knows my entire brief,
+4:26 and I can tell it go ahead. Now that it
+4:28 knows my brief, go ahead and start with
+4:30 the search. Simple as that. Do you see
+4:32 how with this information
+4:35 Hermes can help you
+4:38 find or do exactly what you want in the
+4:41 exact way you want it?
+4:44 And sometimes ways you didn't even know,
+4:46 like
+4:47 were I to look for a home,
+4:50 I would not have thought of giving
+4:53 Hermes
+4:54 this descriptor. I want it to be a cute
+4:57 village, but once it asked me, it also
+4:59 allows me to think out loud and to
+5:03 realize my priorities, and it helps it
+5:06 narrow down on exactly what it is you
+5:08 want to find or do.
+5:12 So, if the task has taste, money, risk,
+5:16 personal preference, or just unclear
+5:19 constraints, do not let the agent start
+5:21 immediately. Make it interview you
+5:23 first. Because a good assistant does not
+5:26 just run with a bad brief. A good
+5:29 assistant asks the right questions until
+5:32 the brief is worth acting on. And once
+5:34 Hermes has asked those questions, the
+5:37 next hack is to not throw that context
+5:40 away. On to hack number two.
+5:43 The second hack is to pin your most used
+5:46 sessions.
+5:47 This is one of those things that sound
+5:50 basic until you actually start using
+5:52 Hermes Desktop for real work. If every
+5:56 time you open the app, you start a new
+5:58 chat, you're basically just hiring a new
+6:01 assistant every morning and explaining
+6:03 your entire life again.
+6:05 >> I want you to buy me a new home. I want
+6:07 it to be perfect. I want it to be
+6:09 shining. I want it to be in the best
+6:11 location ever. I want it under $5. I
+6:14 want every single thing to be neat and
+6:18 perfect.
+6:18 >> Wait.
+6:19 Who is this?
+6:21 But, that is not how real work happens.
+6:25 In Hermes Desktop, I can keep my
+6:27 important sessions visible and come back
+6:29 to them anytime I want. So, instead of
+6:32 having to start from scratch every time,
+6:35 I can have one pin session be around my
+6:38 YouTube channel, another be around this
+6:40 home purchase that we just narrowed down
+6:43 on, another for me is investments,
+6:46 another is email. Having Hermes take
+6:49 care and manage my email, flag any
+6:52 missing emails I might have not replied
+6:54 to. Each session becomes a workspace
+6:56 with its own decision trail. That way,
+6:59 when you're coming back tomorrow, you
+7:01 won't have to re-explain the context
+7:03 from scratch every single time. You can
+7:06 just open up the right pinned
+7:08 conversation. Pin sessions turn Hermes
+7:11 from random chats into recurring
+7:14 workspaces. And once you combine this
+7:16 with the first hack where Hermes
+7:18 interviews you before doing the work,
+7:20 every pin session becomes more valuable
+7:23 over time. And that is a real shift.
+7:26 You're not collecting chats, you're
+7:28 building workspaces that compound. On to
+7:31 hack three.
+7:33 If you use Hermes for real work, you
+7:36 will notice something annoying. You keep
+7:38 writing the same instructions sometimes
+7:40 over and over again. For me, that might
+7:43 be
+7:44 when I ask it to check posted videos
+7:47 before suggesting YouTube ideas. I tell
+7:49 it go use vidIQ before writing tags. Do
+7:52 not use m dashes. Do not write generic
+7:56 AI guru descriptions. Label evidence
+8:00 properly. Verify the output before
+8:02 telling me it's done. The list goes on
+8:04 and on and on. And there are a set of
+8:07 instructions that I needed to go through
+8:10 whenever I'm uploading a YouTube video,
+8:12 for example. Or
+8:14 or I can turn that into a skill.
+8:18 A skill is basically just that. It's a
+8:20 reusable operating procedure
+8:23 that Hermes can use every time I ask it
+8:26 something.
+8:28 It tells the agent when to use it, what
+8:31 to check, what workflows to follow, what
+8:34 mistakes to avoid, and what the final
+8:36 output should look like. That sounds
+8:39 boring until you see what it does.
+8:42 Instead of prompting from scratch, you
+8:44 give Hermes the playbook. For example,
+8:46 you could create a skill called filming
+8:49 brief. That skill could say when I move
+8:51 a YouTube idea on my Notion database
+8:55 from idea to to film status, check
+8:59 whether I already posted it. Validate
+9:01 the current demand for this video. Give
+9:03 me ways to improve the title. List proof
+9:06 assets and write the first 30 seconds.
+9:08 Now, every time you ask for a filming
+9:10 brief, Hermes is not improvising. It is
+9:13 following your actual standard.
+9:16 This is the difference between hiring a
+9:18 smart freelancer once and training an
+9:20 employee to do your work your way and
+9:22 actually making use of Hermes' ability
+9:25 to self-improve. So, say for example, I
+9:28 go to YouTube
+9:30 and I want
+9:33 I
+9:34 need
+9:36 video idea, for example, you're going to
+9:39 see very quickly that it's going to
+9:43 start using the skills that we've
+9:45 developed together.
+9:47 There you go, skill view. Right away.
+9:49 Didn't even need to think much, just
+9:52 skill view. Oh, we have a skill for
+9:54 that. And instead of me having to
+9:57 explain in detail what it is that I need
+10:00 and how to operate and how to do it and
+10:02 what are each and every single step
+10:04 needed,
+10:06 it will just use a skill right away. And
+10:08 [snorts] the great thing, the amazing
+10:10 thing and while this does There you go,
+10:13 it's using the vidIQ bridge, it's using
+10:15 every single
+10:17 point in that procedure list
+10:20 after the other.
+10:22 >> [snorts]
+10:22 >> The great thing about Hermes Desktop is
+10:26 you literally have all of your skills
+10:28 listed right here. You can see them, you
+10:30 can turn them on, you can turn them off.
+10:34 You can edit them, you can do whatever
+10:36 you'd like. You can also search up uh
+10:39 the skill, for example, Nova, which is
+10:41 my YouTube uh helping skill, my YouTube
+10:45 agent. Or I can search up my X agent
+10:48 skill, Sage X. There you go, Charbel's X
+10:51 content strategist. I can turn him off,
+10:53 on, edit him, whatever I'd like to do.
+10:56 Skills are a massive upgrade for your
+11:00 Hermes workflow. But skills are only one
+11:03 layer. The next task is where Hermes
+11:05 starts doing work even when you're not
+11:08 sitting there prompting it.
+11:10 This is one of my favorite Hermes
+11:13 workflows because a normal AI assistant
+11:16 waits for you to ask for it something. A
+11:19 useful assistant messages you first.
+11:22 That is what cron jobs are for.
+11:25 Cron is just scheduled work. Every
+11:28 morning, every hour, every Monday,
+11:30 whatever you choose.
+11:32 But inside Hermes, Cron becomes much
+11:35 more useful because the scheduled job
+11:37 can actually think, research, summarize,
+11:40 and send you the result. For example, I
+11:42 can have Hermes check for fresh AI news
+11:45 every morning, or scan YouTube topics,
+11:48 or look for X reaction opportunities, or
+11:52 review my content board. The key is not
+11:54 to make Cron jobs noisy, uh
+11:57 as in don't have a billion different
+11:59 Cron jobs that you never use.
+12:02 A bad Cron jobs, because then trust me,
+12:04 you will just be overloaded with a bunch
+12:07 of information that you don't use,
+12:09 you'll never use, you've never used. I
+12:11 don't know why you even have them.
+12:13 Hermes doesn't even know why you even
+12:15 have them. Why are you even using
+12:17 Hermes? Why am I using Hermes? I don't
+12:19 know anything anymore. But, let me show
+12:22 you that real quick. In desktop, the
+12:24 Cron layer becomes a lot more manageable
+12:27 because it's a lot more visible. It's
+12:30 right here, Cron jobs. You can expand
+12:32 it, and you will see all of your Cron
+12:35 jobs. So, let's say for example, this
+12:37 Cron job, Notion to film brief watcher.
+12:40 Uh the watcher I was telling you about.
+12:42 If I move an item from idea to to film
+12:47 on Notion, it will uh
+12:50 research that idea. Is it a good idea?
+12:52 Is it bad? What is a better title? You
+12:55 can either trigger now straight from uh
+12:59 the Hermes desktop app, or you can even
+13:02 manage it. So, if I go to manage, this
+13:05 is what you'll see. You'll see a run
+13:07 history, as well as an edit Cron. You'll
+13:10 be able to change its name, you'll be
+13:11 able to change its prompt, its
+13:13 frequency, where it delivers it to, and
+13:17 whether it has a custom schedule. Here's
+13:20 an example of a custom schedule, only
+13:22 weekdays at 9:00 a.m. So, it's not every
+13:24 single day. One thing I'd love to see in
+13:27 Hermes in the future is sometimes when I
+13:29 create a cron through Telegram, for
+13:32 example, it won't really show it
+13:35 properly here. For example, this is a
+13:37 cron I've created through Telegram using
+13:40 Hermes on Telegram, and it doesn't show
+13:42 the prompt that I used. It doesn't show
+13:44 the the real frequency uh or the custom
+13:48 schedule that I've inputted. So, I wish
+13:52 it would, instead of, you know, only
+13:54 displaying the ones I have built inside
+13:57 of Hermes desktop. But, that's it. This
+13:59 is insane because now I'm able to see
+14:01 the things consuming my AI agents'
+14:05 credits and LLM usage and the bill that
+14:09 I get at the end of the month, I'm able
+14:11 to see them and turn them on or off or
+14:14 manage them at a simple click of a
+14:17 button. I don't need to ask, "Hey, list
+14:19 me all the cron jobs you have." I can
+14:21 just go and see and turn them off very
+14:25 easily by literally just pressing pause.
+14:28 Boom. And once you have scheduled
+14:30 intelligence, the next step is
+14:32 event-trigger intelligence.
+14:36 Let's go. Hack number five.
+14:38 Cron is time-triggered.
+14:41 Webhooks [snorts]
+14:42 are event-triggered.
+14:44 And that difference matters a lot
+14:47 because cron is "Every morning, check
+14:50 what happened." But, a webhook is "When
+14:53 this specific thing happens, wake Hermes
+14:56 up and do the next step."
+14:59 So, let me paint a clearer picture for
+15:01 you. If [snorts] a Notion page moves
+15:04 from idea to the film, like the thing I
+15:07 was telling you about earlier,
+15:09 Hermes can wake up and generate a
+15:11 filming brief. Say I have a form that I
+15:13 sent to clients. If a client fills out
+15:16 that form and the form is submitted,
+15:19 Hermes can wake up and qualify a lead.
+15:22 If a new competitor uploads a video,
+15:25 Hermes can wake up and inspect whether
+15:27 it is worth reacting to. That is where
+15:29 the system becomes much more
+15:31 interesting. You're not just chatting
+15:33 with an agent. You're connecting Hermes
+15:36 to places where work already happens.
+15:39 You're making it go look at
+15:42 the triggers that trigger you to work.
+15:44 You're basically telling it, "Hey,
+15:45 instead of me going and, you know,
+15:47 staying online 24/7, you do that. You
+15:50 stay online 24/7 and watch events
+15:53 happen. And if an event happens that
+15:55 interests me,
+15:56 then run that job to it, react to it,
+15:59 create work
+16:01 from it and through it. Okay, I know I'm
+16:03 hammering you with this literally this
+16:05 one example, but I find that's one of
+16:09 the best examples
+16:11 for me to explain this concept to you.
+16:14 It's an example that resonates with a
+16:16 lot of people,
+16:17 which is the Notion example. So, say I
+16:20 really like an idea, a $0 to $10,000
+16:24 AI challenge, and I move it to two film
+16:27 {slash} write
+16:29 on Notion, which is where I plan most of
+16:31 my videos, as you can see.
+16:33 >> [snorts]
+16:34 >> What this does is this triggers my cron
+16:38 job, which is linked to a webhook. So,
+16:41 the webhook is always
+16:43 awake or maybe every 10 minutes it reads
+16:46 whether an event has happened. So, say I
+16:49 press trigger now if I want to force it
+16:51 cuz
+16:52 it said in 7 minutes it was going to
+16:54 fire. If I don't want to wait,
+16:57 I can just trigger it. If I want to
+16:59 wait, then it can just happen in 7
+17:02 minutes. Once I trigger it or once it
+17:04 triggers itself, then it sends me a
+17:07 message here on whether I should film it
+17:09 or not, what are better title uh
+17:12 ideas for it or even if it's a good
+17:15 idea. This is a great example, by the
+17:16 way, something it sent me right now
+17:18 because I've uploaded a new video, Can
+17:20 ChatGPT actually make Minecraft? Which
+17:23 is a banger video that you should watch.
+17:25 But anyway, whenever I upload a new
+17:27 video, it
+17:29 sees that and it reacts right away. It
+17:32 starts tracking that. How is that video
+17:34 doing?
+17:35 Uh what is its performance like? Should
+17:37 I change the title? Should I do anything
+17:39 to it? Is its click-through rate high?
+17:41 Is it low? Is its watch time high? Is it
+17:43 low?
+17:44 And starts suggesting edits for me to
+17:49 enhance that video, that already
+17:51 existing upload better. But there is one
+17:54 more layer that makes this even more
+17:56 powerful. You do not want one agent
+18:00 doing every single job. On to hack six.
+18:04 The sixth hack is to stop using one
+18:07 generic assistant for every single job.
+18:10 For me, the best example I can give you
+18:12 is YouTube. I do not want my YouTube
+18:16 agent to behave like my coding agent or
+18:18 my research agent or
+18:20 my personal administrator. I want a
+18:23 specialist. So I have a Hermes profile
+18:26 called Nova. Nova is not just a new
+18:29 chat. It is a separate YouTube
+18:31 strategist profile with its own role,
+18:34 memory, skills, sessions, and entirely
+18:37 different workflows. That means when I
+18:39 open Nova, it already knows the job. It
+18:42 knows to check my posted videos before
+18:45 for suggesting ideas.
+18:47 It knows my content board lives in
+18:49 Notion. It knows to use tools like VidIQ
+18:52 before making YouTube recommendations.
+18:55 And it knows how much I care about
+18:56 titles, retention, thumbnails,
+18:59 so on and so forth. And it also knows
+19:02 what I hate. That is the difference
+19:04 between prompting an assistant and
+19:05 training a specialist specifically. And
+19:08 the lovely thing on Hermes agent desktop
+19:11 is you can switch between them so
+19:13 easily. I can go to Nova, for example,
+19:17 and load up my Nova specific sessions my
+19:20 PIN chat. I don't have any, but
+19:23 uh if you did have a PIN chat with that
+19:25 specific agent, then you could
+19:29 access that that quickly, and [snorts]
+19:31 you could even manage their profiles.
+19:34 For my default, this is my profile. For
+19:36 Nova in specific, she has a different
+19:39 soul bot and D file, uh which all the
+19:42 other ones share. But, if you'd like the
+19:45 soul of your agent to be different or
+19:47 any of your specialist to be different,
+19:49 then this is where you can customize it.
+19:51 You could rename them. You could even
+19:53 change the model that that specific
+19:55 agent uses. So, if I don't know, uh you
+19:58 need an agent to be on Anthropic's
+20:01 Claude, for example,
+20:03 you can just set it up so that every
+20:05 time you open that agent, they are
+20:06 already using the exact soul file you
+20:08 want, the exact skills that you want,
+20:11 the exact model, AI model that you want
+20:15 them to have access to. And that's one
+20:17 of the best things. You can also create
+20:19 new profiles straight on Hermes desktop.
+20:22 One of the best examples I like to give
+20:24 here is you do not want your dentist to
+20:28 be your heart surgeon.
+20:30 Uh I mean, both of them are great at
+20:33 their job, but
+20:35 I mean, I don't really need to explain
+20:37 why your dentist shouldn't be your heart
+20:39 surgeon. Profiles let you separate those
+20:41 jobs instead of forcing one messy
+20:44 assistant to do all of the different
+20:47 jobs.
+20:48 And once you see it in this way, Hermes
+20:51 desktop stops being one AI chat app, and
+20:54 it becomes a place where you can manage
+20:56 a team of specialist agents.
+20:59 But, that being said, on to the last
+21:01 hack.
+21:03 The last hack in this video is one that
+21:06 I don't think many people will
+21:09 especially go crazy for, which is why
+21:11 I've included it at number seven, but
+21:13 it's one that I think more people are
+21:15 going to care about over time.
+21:17 >> [snorts]
+21:18 >> Hermes desktop does not have to only
+21:20 talk to the Hermes instance running on
+21:24 the same computer. You can point it at a
+21:26 Hermes back end running somewhere else,
+21:29 whether it's a VPS or a home server or a
+21:32 Mac mini, a separate device, a machine
+21:35 that stays on 24/7. So, for me, I have a
+21:38 Mac mini running 24/7. It is where my
+21:41 main Hermes agent instance lives.
+21:45 Yet, the PC that I use the most, the
+21:47 setup that I use the most is my
+21:50 laptop. So, I don't want to have to
+21:53 switch between both devices every single
+21:55 time, which is great because I can
+21:57 connect Hermes desktop
+21:59 to the same Hermes instance as the one
+22:02 on my Mac mini, as the one on my local
+22:04 device. And if you'd like to do that
+22:06 yourself, all you have to do is click on
+22:08 this setting icon
+22:10 and go to
+22:13 gateway. And this is where you can
+22:15 choose what gateway you want, whether
+22:18 it's local, so one that's running on
+22:20 your current machine, the one that
+22:21 you're operating right now, or another
+22:25 gateway, which is what I have picked.
+22:27 You input the gateway's URL. You can ask
+22:30 Hermes itself to help you set it up. You
+22:33 don't have to worry about all these
+22:34 technicalities. You can test remote.
+22:37 Once it's tested and connected and it
+22:39 works,
+22:40 save and reconnect. And that's literally
+22:43 it. You can access the logs here in case
+22:45 there's any errors. You can troubleshoot
+22:47 with that. The great thing as well, and
+22:50 that's maybe an advanced hack,
+22:53 inside this hack, is you can connect
+22:55 different agents to different gateway
+22:58 instances.
+22:59 How cool is that? You can I don't know,
+23:01 if you have multiple devices or if you
+23:04 have one instance, one specialist agent
+23:07 on one device and another on another,
+23:10 then
+23:11 you see where this is going. You can
+23:12 connect them to different instances. Or
+23:15 if you have one on VPS and one on your
+23:17 local device, then you can connect both
+23:20 all under one
+23:22 uh
+23:23 surface, all on the same application,
+23:25 which I love. I love being able to
+23:27 access all of my Hermes instances in one
+23:30 simple UI.
+23:33 One simple application. Look, Hermes
+23:35 Desktop is not interesting because it
+23:37 makes your Hermes agent prettier or the
+23:41 chat interface prettier. It is [snorts]
+23:43 interesting because it makes agent
+23:45 infrastructure easily understandable and
+23:48 easy to access with project folders,
+23:50 sessions,
+23:51 skills, cron jobs, webhooks. I mean,
+23:55 we've covered a lot in this video. Those
+23:57 are the pieces that turn Hermes from
+23:59 something you prompt into something you
+24:01 operate. If you only use Desktop as a
+24:04 chat window, it's nice, don't get me
+24:06 wrong, but if you use it as a control
+24:09 room for your files, your workflows,
+24:11 your jobs, your specialist agents, it
+24:14 becomes a completely different thing
+24:16 that you're using. And if you connect it
+24:18 to a machine that stays on all the time
+24:20 like a Mac mini or a VPS or just any
+24:23 machine, that is when it starts to feel
+24:25 like a real AI employee. Not because
+24:28 it's magic, because it finally has
+24:30 somewhere to live. If you want me to
+24:33 make a full walk-through of my exact
+24:36 Hermes setup, how to go from zero to
+24:39 100, then comment the word setup and I
+24:43 will turn the whole thing into a
+24:44 step-by-step guide for you. And if
+24:47 you've enjoyed this video, make sure to
+24:49 subscribe. I have a ton more just like
+24:53 this and oh, would you look Look that?
+24:55 The YouTube algorithm gods think you
+24:57 will really enjoy this video next. So,
+25:01 I'll see you there.

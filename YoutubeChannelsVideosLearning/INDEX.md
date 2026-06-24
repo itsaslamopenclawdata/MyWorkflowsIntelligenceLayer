@@ -2,11 +2,19 @@
 
 Auto-regenerated. One line per video, newest first. Sorted by published date, descending.
 
-**Last updated:** 2026-06-23 08:55 UTC
-**Total videos:** 91 across 13 channels
+**Last updated:** 2026-06-24 04:00 UTC
+**Total videos:** 99 across 13 channels
 
 | Date | Channel | Title | Duration | Video ID | Note |
 |------|---------|-------|----------|----------|------|
+| 2026-06-23 | Greg Isenberg | GLM 5.2: Set Up Local AI with Cursor/Codex etc | 22:45 | [xa-9O5cDm3c](https://www.youtube.com/watch?v=xa-9O5cDm3c) | [note](channels/greg-isenberg/videos/2026-06-23_glm-52-local-ai-cursor-codex-setup-amir.md) |
+| 2026-06-22 | Vendasta | Automate This in Any Local Business First (Easiest $20-50K/year) | 8:32 | [ic8Y8nIG7TE](https://www.youtube.com/watch?v=ic8Y8nIG7TE) | [note](channels/vendasta/videos/2026-06-22_automate-local-business-first-easiest-20-50k-year.md) |
+| 2026-06-21 | Sharbel A. | 7 Hermes Desktop Hacks That Will Change Your Life | 25:03 | [6kGXn-j16QM](https://www.youtube.com/watch?v=6kGXn-j16QM) | [note](channels/sharbel/videos/2026-06-21_7-hermes-desktop-hacks-change-your-life.md) |
+| 2026-06-19 | Vendasta | This AI AGENT is How You WIN Social Media in 2026 | 4:59 | [iCaj6EEiXas](https://www.youtube.com/watch?v=iCaj6EEiXas) | [note](channels/vendasta/videos/2026-06-19_ai-agent-win-social-media-2026.md) |
+| 2026-06-17 | Sharbel A. | 100 Days With Hermes Agent in 21 Minutes | 21:19 | [sCa3BtpkziQ](https://www.youtube.com/watch?v=sCa3BtpkziQ) | [note](channels/sharbel/videos/2026-06-17_100-days-hermes-agent-5-mistakes-systems.md) |
+| 2026-06-17 | Vendasta | He Turned LinkedIn Into an Automated Lead Machine for Agency Owners | 28:52 | [pMby6rWCSDA](https://www.youtube.com/watch?v=pMby6rWCSDA) | [note](channels/vendasta/videos/2026-06-17_linkedin-automated-lead-machine-charlie-hills.md) |
+| 2026-06-15 | Greg Isenberg | AI Apps Are Making $10K/Month. Here's Exactly How. | 48:09 | [LYomocq6Dpo](https://www.youtube.com/watch?v=LYomocq6Dpo) | [note](channels/greg-isenberg/videos/2026-06-15_ai-apps-10k-month-framework-george-lampropoulos.md) |
+| 2026-06-15 | Vendasta | Build a Self-Running Marketing Agency With AI Agents | 13:07 | [oHfvjQPnJG8](https://www.youtube.com/watch?v=oHfvjQPnJG8) | [note](channels/vendasta/videos/2026-06-15_self-running-marketing-agency-ai-employees.md) |
 | 2026-06-23 | Hyperautomation Labs | Your AI Reads Everything But Connects Nothing — GraphRAG Explained | 13:04 | [5LBj7XSaxSI](https://www.youtube.com/watch?v=5LBj7XSaxSI) | [note](channels/hyperautomation-labs/videos/2026-06-23_graphrag-vector-rag-connections-explained.md) |
 | 2026-06-23 | Hyperautomation Labs | I Read 900 Real AI Engineer Job Posts — The 2026 Roadmap Is Upside Down | 14:18 | [7O4WwH-yCZE](https://www.youtube.com/watch?v=7O4WwH-yCZE) | [note](channels/hyperautomation-labs/videos/2026-06-23_2026-ai-engineer-roadmap-real-job-data.md) |
 | 2026-06-23 | Hyperautomation Labs | 10 GitHub Repos So Good They Shouldn't Be Free — Part 4 (Kill $48K/yr of SaaS) | 15:42 | [1SZT6P7Yr0k](https://www.youtube.com/watch?v=1SZT6P7Yr0k) | [note](channels/hyperautomation-labs/videos/2026-06-23_10-github-repos-kill-48k-saas-part-4.md) |

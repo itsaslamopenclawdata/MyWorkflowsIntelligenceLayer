@@ -1,0 +1,1433 @@
+# Transcript: AI Apps Are Making $10K/Month. Here's Exactly How.
+# Channel: Greg Isenberg
+# Duration: 2889s
+# Video ID: LYomocq6Dpo
+
+0:00 There's this 19-year-old guy, George,
+0:02 and he used to work at TJ Max. And
+0:04 today, quit TJ Max cuz he's making
+0:07 hundreds of thousands of dollars
+0:09 building mobile apps using AI.
+0:11 We go through how he does it. All the
+0:13 sauce, all the tactics, [music] and he
+0:15 explains it in just a really simple way
+0:17 that by the end of this episode, you're
+0:19 going to really understand how you can
+0:21 build a consumer mobile app that makes
+0:23 hundreds, sometimes thousands of dollars
+0:24 a day
+0:25 >> [music]
+0:26 >> with AI. Now, I'm not saying that
+0:28 everyone's going to be able to do it,
+0:29 but I think that
+0:30 >> [music]
+0:30 >> what you'll learn from this episode that
+0:32 it is that we are living through a time
+0:34 when it is possible now to come up with
+0:37 ideas, mobile app ideas that have AI
+0:40 integrated into it, and build using AI
+0:43 that could actually generate real
+0:45 [music] money. This is the sort of stuff
+0:47 that it could be a side hustle, it could
+0:49 be some passive income, and it could
+0:51 just be a cool little app that you build
+0:53 that doesn't make money, but it's just
+0:55 [music] fun to build. So, enjoy this
+0:57 episode with George. I thought it was
+0:58 really interesting, and I'll see you at
+1:00 the end of the episode. [music]
+1:02 >> The Startup by Design podcast.
+1:06 It's hip [music] and happening baby.
+1:09 >> George is on the pod, and he's going to
+1:11 tell us how to scale your mobile app to
+1:14 10K a month, easy mode.
+1:18 You've got my curiosity piqued. George,
+1:21 how what what By the end of this
+1:23 episode, are are are people going to
+1:24 learn how to do this? Are you Are you
+1:26 being for real?
+1:27 >> Yeah, so the goal is to give you the
+1:29 basic framework on how to get to 10K a
+1:32 month as easy as possible. 10K a month,
+1:35 all it really is when you break it down
+1:36 is like 333
+1:39 bucks a day.
+1:40 So, to get there, all you really need to
+1:42 do is do one to two things right, and
+1:45 you should be You should get there
+1:47 relatively quickly.
+1:49 >> All right, well, show me how, my friend.
+1:52 >> [laughter]
+1:53 >> Yeah, so So, first, a bit of like social
+1:56 proof for like why you should listen to
+1:57 me. I scaled up I built my first app or
+2:01 second app technically, Wrestle AI,
+2:02 completely in public. It got over
+2:04 100,000 downloads and made close to 200k
+2:09 revenue.
+2:10 And now I've been building two other
+2:12 projects in stealth and both of them are
+2:15 on track to hit their first One of
+2:17 them's on track to hit 15k this month.
+2:18 The other's on track to hit its first
+2:20 10k month this month as well. And I've
+2:22 been working cumulatively about 3 to 4
+2:25 hours a week on each of them. So, it's
+2:28 it's not always time in that gets you
+2:30 the results. It's if It's by following a
+2:34 basic playbook that can get you there
+2:35 fast. All right. So, the three things
+2:38 that make like a successful app, in my
+2:40 opinion, are a good idea,
+2:42 a product that matches the idea, and
+2:44 then
+2:45 distributing that idea to other people.
+2:48 So, the idea is really important and my
+2:50 advice to everyone is always solve your
+2:52 own problems and create something you're
+2:53 passionate about. Because
+2:56 when you're sitting there and working
+2:57 for like 10 hours on your your app, you
+2:59 know what I mean? You want it to be
+3:01 something that you actually genuinely
+3:03 resonate with. Otherwise, you won't have
+3:05 that same like
+3:06 when when you're talking to influencers,
+3:08 when you're talking to people about your
+3:09 app, they can tell whether you truly
+3:12 believe in your own mission.
+3:14 And if you don't, it becomes harder to
+3:15 convince these people to kind of join
+3:17 you for cheaper rates, let's say.
+3:19 So, I I I'm really big on creating a
+3:22 product that you're very passionate
+3:23 about. For me, it was wrestling. I was I
+3:25 wrestled for like
+3:27 all my high school career and my middle
+3:29 school career before it got cut short by
+3:30 COVID.
+3:31 Um I love the sport. The sport genuinely
+3:33 changed my life. So, I wanted to build
+3:35 an app for myself when I was a freshman
+3:38 in high school. What would I have loved
+3:39 to have on my phone? That was the idea.
+3:42 And your idea, it should be simple, have
+3:44 one clear one clear problem, one clear
+3:46 solution. It should be specific, built
+3:48 for a defined audience. This way, once
+3:51 you know who your audience is, you could
+3:53 then reverse engineer how to find them.
+3:56 For example, like I knew my audience was
+3:58 wrestlers, so I reverse engineered my
+4:01 For You page on my phone to be only
+4:03 wrestlers, so I knew exactly who I had
+4:06 to sponsor to get in front of the right
+4:07 audience. And uh number three is it
+4:10 should be sellable. People should be
+4:11 willing to pay for this pay for this
+4:13 solution today.
+4:15 Um
+4:16 >> There's one There's one thing missing
+4:17 from that uh in my opinion. So,
+4:20 >> Yeah.
+4:21 >> you used the examples of Wrestle AI,
+4:23 CalAI.
+4:25 I mean,
+4:26 the question we have to ask ourselves is
+4:28 what are ideas that now AI has unlocked?
+4:33 Right? Like so,
+4:34 you know, people have been building
+4:35 mobile apps since 2008. And it became
+4:39 increasingly harder to
+4:42 um
+4:44 to build something that people are going
+4:45 to download and pay money for until two
+4:49 things happened, actually. AI came,
+4:52 anyone could create something, but more
+4:53 even more than that, you can create
+4:55 these AI first experiences that just are
+4:58 like better than the existing ex-
+5:00 experiences. Like CalAI, you can take a
+5:02 picture of your
+5:03 you know, your your spaghetti and it'll
+5:05 tell you how many cal- calories it has.
+5:08 And then the second thing is um
+5:12 Well, obviously it Well, that's the main
+5:14 That's actually the main piece. It's
+5:16 just like you're creating more value,
+5:18 >> Yeah, he's saying
+5:19 >> for the customer, right? So, it's like
+5:21 um how how important do you think that
+5:23 is uh to the idea?
+5:25 >> I think I think that's huge. Like I
+5:27 think
+5:28 AI has created so many creative ways to
+5:32 make engaging features.
+5:34 And another thing I think it is is the
+5:36 fact that to create an app in the past,
+5:39 you used to need like
+5:41 I don't know, like tons of developers.
+5:42 You either needed a lot of capital or
+5:44 stuff like this.
+5:46 But now that AI has kind of democratized
+5:48 creation,
+5:50 you can also get super niche
+5:52 >> Yes.
+5:52 >> in your apps. Like when when I was
+5:54 telling people my idea, they were like,
+5:56 "Okay, but how many wrestlers are there
+5:57 actually?" And it turns out there was a
+5:59 decent bit, but most people would have
+6:02 kind of scoffed at the idea of like a a
+6:04 wrestling app kind of
+6:06 having like any sort of success. You
+6:09 know what I mean?
+6:11 So it allows like people who are
+6:13 more niche down into things to create
+6:16 good products for these like more niche
+6:19 communities without needing a ton of
+6:20 capital investment.
+6:22 >> Cool. All right, let's let's continue.
+6:24 >> Like Wrestly, I never needed to be a
+6:26 billion-dollar company.
+6:27 Um anyway, yeah.
+6:29 Uh so here's kind of my process. If I
+6:32 wanted to if I was like sitting there
+6:33 and I was like, "I need an app idea
+6:34 today."
+6:35 How I would reverse engineer a viral app
+6:37 idea is I would literally just open up
+6:39 my Instagram or open up my TikTok. I
+6:41 would scroll for like 15 minutes, and
+6:43 every time I watched a video, I would
+6:45 ask myself the question, "Who watches
+6:47 this type of video? What problem does
+6:50 this influencer's audience face? And how
+6:52 could an influencer promote this app
+6:54 seamlessly?"
+6:55 So if you looked at like the wrestling
+6:58 content creators, I would say, "How
+7:00 could they implement my app
+7:02 for 5 seconds within the first 30
+7:04 seconds of their video and have it not
+7:07 feel like an ad?" So I would I would
+7:08 actually target a lot of day in a life
+7:10 in day in a life wrestling influencers,
+7:12 and they did great for us because of
+7:13 that.
+7:15 So why is a good idea important? So many
+7:18 people, especially on Twitter, love
+7:19 talking about this idea of distribution
+7:21 versus uh like product, and I'm really
+7:24 big on having a solid idea because all
+7:28 your distribution is is you're
+7:30 distributing the idea and the mission of
+7:32 your product. So if you have a bad
+7:34 mission, it won't go far even if you get
+7:37 a lot of eyes on it.
+7:39 And my one kind of proof towards this
+7:41 idea is a real life experience I had.
+7:44 So, in September-October-ish, when I was
+7:47 launching Wrestle AI, I was also working
+7:49 on this other idea on the side. Now,
+7:51 Wrestle AI, I'm a wrestler, I'm super
+7:53 passionate about wrestling, and I was
+7:56 really excited by the product I made.
+7:58 And this other app, I kind of hated,
+8:00 like to be frank, but I had an
+8:02 influencer who had 2 million followers
+8:05 that was willing to partner with me.
+8:07 So, this is where I kind of like like
+8:09 threw away my like have a good idea and
+8:11 be passionate about the idea. And I was
+8:14 like, I'm just going to make this like
+8:15 AI rizz-style app, and it'll make a lot
+8:19 of money because like this guy gets
+8:21 millions of views.
+8:23 In that campaign, in the first month,
+8:24 Wrestle AI got around a million views,
+8:27 and in the first month, this app Green,
+8:30 which was like an AI rizz dating
+8:32 assistant, got 1.8 million views.
+8:36 And Wrestle AI in the first month did
+8:38 17k,
+8:39 and Green in the first month did 35
+8:43 bucks. It was five weekly subscriptions.
+8:46 That's all we got from 1.8 million
+8:49 views. And I was sitting there looking
+8:51 looking at this app and just going like,
+8:54 okay, maybe it's because my marketing
+8:56 wasn't creative enough, maybe it was
+8:57 because this and that.
+8:59 And then I really sat there and got true
+9:00 to myself and I said, it's it's probably
+9:02 because the idea just sucks, and
+9:04 everyone's seen this before, and that's
+9:06 why we're not really driving
+9:07 conversions, while Wrestle AI is very
+9:09 unique in this niche.
+9:11 So, that's where I made the decision,
+9:12 I'm only going to be working on ideas
+9:14 that I'm passionate about and I have fun
+9:16 I have I have fun actively working on.
+9:18 So, I just completely cut this app.
+9:20 I I I regret ever building it, but it
+9:23 did teach me a valuable lesson to just
+9:26 really go after what you're passionate
+9:27 about.
+9:28 >> I have a question I have a question
+9:30 about the TikToker. What was his name,
+9:32 Young Cantaloupe?
+9:34 >> Mhm.
+9:34 >> How were you able to convince someone
+9:38 with 2.1 million followers? I mean,
+9:41 just like a year or two ago, you were a
+9:43 cashier at TJ Max, and then all of a
+9:46 sudden, you're convincing this
+9:48 >> [gasps]
+9:48 >> multi-million
+9:50 you know, follower account to work on
+9:52 you to partner with you on an app that
+9:54 has no validation or anything.
+9:57 >> Yeah, I'm I'm a DM wizard.
+10:00 So, I'll like like if you look at my
+10:02 Instagram account, I was sending like
+10:04 probably like hundreds of DMs a day to
+10:06 just anyone who's willing to build an
+10:08 app with me.
+10:09 And before Wrestle AI and this app
+10:12 Green, I also had this app called Fight
+10:14 AI.
+10:15 So, what got me really into apps was I
+10:18 was in chemistry class, or not
+10:20 chemistry, physics. I was in physics. I
+10:22 was scrolling on my like TikTok for you
+10:24 page, and I saw an ad for RoarK, and it
+10:26 said build an app in minutes, and I
+10:28 didn't really believe it. Like I I I
+10:29 didn't know what Vibe Coding was. So,
+10:30 that was my first step into Vibe Coding,
+10:32 and I built this app called Fight AI,
+10:34 and it made me like 2K in the first
+10:35 month just from me posting about it and
+10:37 like paying a meme page 50 bucks. So,
+10:40 that gave me proof that like apps are
+10:42 the new way to make money.
+10:44 And from there, I was like, "Okay, let
+10:46 me find like a creator to partner with
+10:48 50/50. This way I don't need to manually
+10:51 grow from zero to 1K or
+10:53 zero to 10K." That was my first idea.
+10:56 So, in that process, I talked to this
+10:59 guy. I got on the phone with him.
+11:01 And you have to be
+11:03 a bit like outgoing. You have to be You
+11:05 have to be able to sell a bit,
+11:06 especially for influencer marketing. I
+11:08 always say influencer marketing is like
+11:09 90% sales. You're like convincing people
+11:12 of like
+11:13 to
+11:14 to take cheaper rates than other people
+11:16 because you're selling them the idea of
+11:18 a long-term partnership with a product
+11:20 that should be genuinely good.
+11:22 So, the way I convinced this guy is I
+11:24 was literally showing my Wrestle AI
+11:26 conversion rates. And I was like, "If I
+11:28 could do this at a small scale, imagine
+11:30 what I could do if me and you partner
+11:32 up.
+11:33 That's what That's what got him.
+11:34 >> That's a good pitch though, right? Like
+11:36 it's basically like all I need is
+11:39 more fuel on this fire. I just need more
+11:42 top of the funnel people to come and use
+11:44 this thing because I basically built an
+11:47 incredible mousetrap. And when you're
+11:48 building products, like that's
+11:51 ultimately how you want to think about
+11:52 it. You want to You don't want to build
+11:53 a leaky ship. You don't want to bring in
+11:55 a lot of people and they're not
+11:56 converting, they're not retaining, it's
+11:58 not valuable for them. You want to build
+12:00 something that's a mousetrap that keeps
+12:02 them in, that brings them in every day,
+12:04 that they see so much value that they
+12:06 can't get away with it. So you're
+12:08 basically going to this guy and you're
+12:10 like, "Hey, I built an incredible
+12:11 product for this niche. You have this
+12:14 big audience and I think a part of your
+12:16 audience
+12:17 uh our people would be interested in
+12:20 this. Let's partner up. And what do you
+12:22 propose some You know, I don't know if
+12:23 you're able to say this, but like what
+12:24 sort of deals can you propose?
+12:27 >> I usually do and a lot of people get on
+12:29 me for this. Like if I would partner
+12:31 with an influencer, which now I don't
+12:33 anymore typically, because I feel like
+12:35 the strategy kind of it only really
+12:38 worked for like wrestle AI. The rest of
+12:40 the apps I tried it with never It kind
+12:42 of didn't work and it usually had me
+12:43 manually having to grow it a lot more.
+12:46 Um
+12:47 but
+12:48 what I did basically was um I would be
+12:51 just 50/50.
+12:53 I would be like, "Look, you take half, I
+12:54 take half." And uh see what happens.
+12:57 >> Um and like sometimes like you could you
+13:00 could also vest equity. Like I know a
+13:02 lot of people do it in different ways
+13:03 where some people vest the person's
+13:04 equity. To be honest, I was I was in
+13:06 college. I didn't I just needed my first
+13:09 win. I I would give them 50% up front
+13:11 and see what happens.
+13:12 Um that was kind of my idea with it.
+13:15 >> You You know, you're saying like for
+13:17 your new apps, you're you're not finding
+13:20 influencer marketing to be helpful. Is
+13:22 that Is that what you're saying?
+13:24 >> No, no, no. Not that influencer
+13:26 marketing isn't helpful,
+13:28 but the draw you get from just one
+13:31 influencer isn't as big.
+13:34 So it's easier it's easier to like boot
+13:37 up a nice Instagram account and just run
+13:40 Instagram marketing yourself and sponsor
+13:41 it to just tons of creators. If you have
+13:43 the capital, right? For people who don't
+13:45 have the capital, I always suggest cuz I
+13:47 didn't have the capital back then.
+13:49 So I want I really wanted to sponsor
+13:51 with an influencer cuz it was an easier
+13:53 jumpstart, right?
+13:55 But if you do have the capital to throw
+13:58 a bit of money at some influencers, I
+14:00 would suggest just very like we'll go
+14:02 deeper into it and how to set up an
+14:03 Instagram that give you like a decent
+14:05 amount of responses, but I would suggest
+14:07 you just do it like that without even
+14:08 get tying up so much of your equity to
+14:10 an influencer.
+14:12 But the right influencer is a
+14:13 game-changer. Like if you look at um you
+14:16 know, I think you know the Manifest app,
+14:19 Stella?
+14:20 >> Yeah.
+14:21 >> Just her alone,
+14:24 I mean you can check it on social media
+14:25 towers. I'm not going to be doxing her.
+14:26 Just her alone brought in like 300k a
+14:28 month to that app, right?
+14:30 >> Yeah.
+14:30 >> Like she's an absolute killer and she
+14:33 works with like a dev shop. Just her
+14:35 alone is driving night like 99% of that
+14:37 business. And now they're getting into
+14:39 meta ads and maybe other influencers,
+14:41 right? So the right influencer could be
+14:44 game-changing,
+14:46 but you you should probably have some
+14:49 system where you could like
+14:50 maybe test out their content prior. Like
+14:54 uh
+14:55 I'm like I know a lot of people who do
+14:56 this where they test out the person's
+14:57 content, see if it converts high, and
+15:00 then they decide maybe they want to
+15:02 bring them on as equity partners.
+15:03 >> Yeah, I mean one thing
+15:05 >> no ethos. So maybe get the ethos first
+15:07 and then do that.
+15:08 >> That's my I mean one thing you one thing
+15:10 you can do is like literally just ask
+15:12 them what their ad rates are and be like
+15:15 hey, I'll pay
+15:17 your ad rates, whatever it is, and then
+15:19 you test the content, and then based on
+15:21 that, you're like "Okay, that worked
+15:23 really well, worked better than
+15:24 expected, worked as expected, or it
+15:25 didn't work at all." If it didn't work
+15:27 at all, it's like, "Great, you just
+15:28 saved yourself whatever percent equity."
+15:30 >> Yeah, exactly.
+15:32 >> you know, that's that's a good way to do
+15:33 it if you have the capital.
+15:36 >> Yeah, or if you could probably you could
+15:38 probably use that idea to negotiate
+15:41 cheaper rates with them as well.
+15:42 So, you can be like, "Look, I'll pay
+15:44 you. I know your typical rates are like
+15:45 2,000 a video.
+15:47 I'll pay you 1,000, but if it goes well,
+15:51 you'll have the opportunity to get
+15:52 equity in this project." And as long as
+15:54 it goes back to this, as long as you're
+15:56 building something cool, and you're
+15:58 building something you're passionate
+15:59 about, it should be very easy to
+16:01 convince people that your product's
+16:02 going to be the next big thing. You know
+16:04 what I mean?
+16:06 Um that's at least been my uh experience
+16:09 when building products that I'm genuine
+16:11 that I genuinely resonate with.
+16:13 >> I was going to say, like, what else what
+16:14 else do you want to show?
+16:16 >> So, design and UX is very important as
+16:18 well. You should be able to hand your
+16:20 phone to your mom, and she should
+16:22 understand how your app works without
+16:24 you have to having to tell her how to
+16:25 use it. This is kind of my litmus test.
+16:27 If your mom's technical, maybe don't do
+16:28 this. But, my mom still doesn't even
+16:30 know like how Siri works, right?
+16:32 >> [laughter]
+16:33 >> So, so this is my test. I literally text
+16:36 my mom my app, and I go, "Can you figure
+16:38 this out, right? Like, can you use it?
+16:40 Can you tell what the app's for? Can you
+16:41 tell how it how it like functions?"
+16:43 And if she can't, which a bunch of times
+16:46 she's been like, "Oh, it's it's too like
+16:48 cluttered, you know what I mean?" So,
+16:50 I've been like, "Okay, that's like
+16:51 that's insanely valuable feedback."
+16:54 Um
+16:55 so, if your mom can't use your app, you
+16:57 have to redesign it, and you have to
+16:58 make the the UI look a lot more simpler
+17:02 and easier to use.
+17:04 Uh how to build? I personally don't know
+17:06 how to code. I've all my apps have been
+17:08 created but with AI. I built all my apps
+17:11 through Oracles.
+17:12 Um
+17:13 and my framework for building is I
+17:15 dedicate like 14 days to actually
+17:17 building out the main functionality of
+17:18 the app. What's that what like core
+17:20 functionality and branding? What's the
+17:21 app going to do? How's it going to look?
+17:23 Then I spend a few days perfecting the
+17:25 onboarding, right? So, like the
+17:28 onboarding is really like uh I go more
+17:30 into it later, but it's
+17:32 educating the user on what your app
+17:34 does, personalizing the experience, and
+17:36 then causing FOMO, what they would do if
+17:38 they don't have your app. Uh what would
+17:40 happen if they don't have your app?
+17:42 Um and then I would spend and then uh
+17:44 and then after I add in RevenueCat and
+17:46 backend integrations if needed.
+17:49 Okay, so this is one of the biggest
+17:51 things your app needs, and this is one
+17:54 uh one of the features that you should
+17:55 spend probably 90% of your time on. So,
+17:58 as I was saying earlier in how to make a
+17:59 good idea and a good product, you need
+18:01 to have a clear solution to a clear
+18:04 problem, right? This is what I like to
+18:06 call the gotcha moment or the gotcha
+18:08 feature, right? So, CalAII, it was
+18:10 taking a picture of your food and
+18:12 getting the calories. For WrestleAI, it
+18:14 was throwing your wrestling match into
+18:16 the app, and it told you what you did
+18:17 right and what you did wrong in your
+18:18 match, right?
+18:20 These were the only two features that we
+18:23 were pushing 90% of the time. And if we
+18:25 had other features we wanted to push, we
+18:28 would basically push it after we began
+18:30 saturating an influencer's
+18:32 audience. So, if I took one of my
+18:35 influencers, I'd say Corey Zader, right?
+18:37 The this kid was an influencer, he
+18:39 posted day in the life videos, and he
+18:40 would always subtly integrate our app
+18:42 into his content.
+18:43 If he if I saw that the return from his
+18:46 videos started lowering, I would then
+18:48 tell him, "Okay, push this feature
+18:49 instead, right?" to see if we could
+18:51 re-get the uptick even if it's uh like
+18:54 uh less than the original, right?
+18:57 However, the biggest uptick from your
+19:00 app should get should come from
+19:02 marketing this feature. This feature is
+19:03 what should easily convince everyone to
+19:06 come join your app. And what you need to
+19:08 do with this feature is you need to This
+19:10 feature needs to be so simple to
+19:12 understand that anyone who looks at this
+19:15 feature for 5 seconds instantly
+19:18 understands the entire thesis of your
+19:20 app, right? Cal AI, it's 3 seconds. Take
+19:24 a picture of your food, get the
+19:25 calories. Wrestl AI, it was throw throw
+19:28 your wrestling match, get the feedback,
+19:30 right? And within 3 seconds of looking
+19:32 at the phone displaying that, users
+19:35 understood without it having to be said,
+19:38 right? So, this is a really important
+19:40 feature that you need to nail.
+19:42 This is This is 90% of distribution is
+19:45 is nailing the gotcha feature.
+19:47 >> Yeah, I mean, another way to think about
+19:48 that gotcha feature, which I agree, it's
+19:50 like so so important, is you're sort of
+19:53 like reverse engineering the TikTok or
+19:55 the Instagram reel.
+19:56 >> Yeah, exactly.
+19:58 >> And you're building the product around
+19:59 that. So, that's one like framework that
+20:01 I use when I'm trying to come up with
+20:02 startup ideas, especially in the
+20:05 consumer mobile app space. I'm like,
+20:06 okay,
+20:07 um here's my niche, and I've you know,
+20:11 there's a bunch of different primitives
+20:13 or product ideas I can go after, but you
+20:16 know, and sometimes I use AI to kind
+20:18 help me brainstorm these ideas and I say
+20:20 like
+20:21 what, you know, what would be a TikTok
+20:24 that would go viral? Like, what is that
+20:26 one feature that would show that it
+20:28 would show? And what's beautiful about
+20:30 these gotcha features, as you call it,
+20:32 is
+20:33 it's
+20:35 the best products you can explain in a
+20:37 sentence or less. Like, think about it,
+20:39 right? Like,
+20:41 you know,
+20:42 what is Hinge or what is Tinder? Like,
+20:44 you swipe and you find, you know,
+20:47 someone to date. Or what is Uber? You
+20:49 press a button and
+20:51 a car comes and picks you up. Or what is
+20:53 DoorDash? You know, you press a button
+20:55 and food comes to your door, right? So,
+20:56 it's like these are the gotcha features
+20:59 that I think that we we you know, when
+21:03 you're creating mobile apps, a A of us
+21:05 have this
+21:06 uh tendency to overcomplicate
+21:10 the product suite when it's just one
+21:12 core feature that is what's going to
+21:15 help like
+21:17 s- stop the scroll.
+21:19 >> 100% 100% Yeah, I fully agree. It's
+21:22 exactly like I I think about it very
+21:24 similarly.
+21:26 >> There we go. All right, onboarding.
+21:28 >> But yeah, anyway, onboarding. Um so so
+21:30 many people overthink and overcomplicate
+21:32 the process. The onboarding has four
+21:33 functions, right? Three main functions,
+21:36 one optional. Educate the user what What
+21:38 is your product and why do they need it,
+21:40 right? Uh social proof. This isn't 100%
+21:43 needed, but if you do have social proof,
+21:45 it's nice to show.
+21:46 Um and then you want to personalize the
+21:48 experience. The point of personalizing
+21:49 the experience is making the app better
+21:52 and also increasing the time commitment
+21:54 they have to your app. So if I go and
+21:56 answer 20 questions in your app making
+21:58 the best experience for me, and then I'm
+22:00 going to get hit with a paywall, I now
+22:02 have like the sunken cost fallacy, which
+22:04 is like I've already spent so much time
+22:06 on this app. Let me at least get the
+22:07 free trial and see what it is and maybe
+22:09 I'll cancel it, right? And finally, is
+22:12 you want to institute FOMO right before
+22:14 the paywall. So let's say um I have like
+22:18 Wrestle AI. I'm uploading my wrestling
+22:20 match. It's going through this like
+22:21 analysis animation, right? Where it's
+22:23 like
+22:24 targeting XYZ, calibrating XYZ. And then
+22:27 after it finishes, it then shows you the
+22:30 paywall and it says like unlock your
+22:32 rating now, right? So now they have a
+22:34 ton of FOMO. What was my score? What was
+22:36 this? What was that? And it drives them
+22:38 more to convert rather than if I just
+22:41 personalize the experience like okay,
+22:42 what what's your
+22:44 weight? What weight do you wrestle at?
+22:45 And then you get hit with a paywall,
+22:46 right? That a- that mock film analysis
+22:51 is super important to increasing
+22:52 conversions.
+22:54 Um but that's that's pretty much it. I
+22:56 also wrote a docs in docs.wrestle.com
+22:58 where I kind of go go over everything in
+23:00 this uh
+23:02 uh presentation in much more detail. So,
+23:04 now the most important part, what
+23:06 everyone's here for is distribution.
+23:07 Here's my actionable plan to 10K a
+23:09 month, and I think it's relatively easy
+23:12 if you just nail a few things, right?
+23:15 One of the more important things to nail
+23:17 is your Instagram page, right? You need
+23:19 to set up your IG, and you need to make
+23:20 it clean. So, the way I go about this is
+23:23 this is blocked out cuz this is one of
+23:25 the projects I'm working on now that's
+23:26 kind of in stealth, right? But, I first
+23:29 bought the amount of followers, right?
+23:31 You go find one of these sites that you
+23:33 could buy followers for. What this does
+23:35 is it gives you a ton of social proof,
+23:37 right?
+23:38 And then, if you can get it verified, I
+23:40 would pay for that. And then, I would
+23:42 get three product demos right here. Try
+23:45 to make them as clean as possible. Pay a
+23:47 designer on Fiverr if you need to, or
+23:49 just design it yourself. Um so, have
+23:51 your three product demos right here, and
+23:54 have like a really good bio with a CTA,
+23:56 right?
+23:58 This is 90% of what you need to do. And
+24:00 then, the other 10% is anytime you work
+24:03 with an influencer, have them like in
+24:05 the beginning every time you work with
+24:07 an influencer, have them collab post
+24:09 because now
+24:11 not only is your does your brand account
+24:13 look professional, but it also seems
+24:15 like you have a lot of motion, and
+24:16 you're working with a lot of people,
+24:18 right? This way, so this this page
+24:21 serves two functions, right? It's a
+24:23 sales funnel for your user cuz if I'm if
+24:26 I'm looking at Wrestle AI, if I if I
+24:28 watch one of my favorite wrestling
+24:30 influencers, I see Wrestle AI is tagged
+24:33 in the in the caption, and I'm like,
+24:35 "Well, that seems like a pretty cool
+24:36 app." I then click on the tag in the bio
+24:39 in the in the caption. It gets me to my
+24:42 Wrestle AI page, let's say. I'll then
+24:44 watch four more Wrestle AI videos on my
+24:47 on the Instagram page, right? And now,
+24:49 we've went from a user who's slightly
+24:51 curious to very educated on the product,
+24:54 right? Now, they're primed to convert.
+24:56 Then, they're going to see the CTA in
+24:58 the bio, they're going to click the App
+24:59 Store descrip They're going to click the
+25:00 App Store link, download the app,
+25:03 they're then going to go through the
+25:04 onboarding. So, an already pretty primed
+25:06 user is going to get even more primed,
+25:08 and then that's what should give you
+25:09 really good conversion rates, right? So,
+25:12 your Instagram is both a sales funnel
+25:14 and social proof for other influencers
+25:17 to join, right? So, on the other end, if
+25:20 I'm an influencer and I see a DM from
+25:22 some brand, right? And I click on the
+25:25 page and I see that they have two
+25:26 followers and no posts, right? I'm going
+25:29 to be like, "Okay, this is some like app
+25:31 that no one uses, right?" And like I
+25:33 would I wouldn't even I I probably
+25:35 wouldn't even answer. And if I do
+25:37 answer, when we hop on a call, you won't
+25:39 have any like ethos or credibility in
+25:41 the conversation, so you lose all your
+25:43 authority. So, you have to pay whatever
+25:45 insane rates he asks for, right?
+25:48 However, if I have a brand account and
+25:50 I'm showcasing that I'm working with
+25:51 tons of influencers, right?
+25:54 Now the influencer sees it, they go,
+25:56 "Okay, he's working with a ton of
+25:57 influencers, so he can't he can't be
+25:59 paying zero dollars. He has to be paying
+26:01 something, right?" So, I'm going to then
+26:03 respond, "Yeah, what are what are your
+26:05 rates?" blah blah blah. The influencer
+26:07 I'll hop on the call with the person who
+26:09 has the, you know, high authority
+26:10 Instagram account. They're going to get
+26:12 on the phone, and then as the brand
+26:14 owner, if I propose low rates, if I'm
+26:16 proposing like a $2 CPM, right? Which is
+26:19 really low rates or really good rates.
+26:22 Um if I'm proposing a $2 CPM to this
+26:24 guy,
+26:25 this if without the brand authority, he
+26:28 would originally think, "Okay, this
+26:29 guy's trying to like rip me off." With
+26:31 the brand authority, it's okay, this try
+26:33 This guy's kind of trying to rip me off,
+26:35 but everyone works for these rates, so
+26:38 maybe these are just the rates, right?
+26:40 It's much easier to convince someone to
+26:42 do something if they see that 10 other
+26:44 people also did it. So, it's really
+26:46 important to just nail this Instagram
+26:48 page for closing influencers and using
+26:51 it as a sales funnel for your other uh
+26:54 for your other
+26:56 uh consumers
+26:57 uh customers.
+26:59 Um the other thing is
+27:01 >> I must say like you know I think
+27:05 I think botting your account is against
+27:08 terms of service. I'm not I think I
+27:10 could be wrong. So do your own research.
+27:13 >> Yeah yeah
+27:14 don't always listen to me. You can do
+27:15 what you want.
+27:16 >> Yeah. This is what you've done. Yeah
+27:18 exactly.
+27:18 >> But I mean let's say I is actually not
+27:21 botted.
+27:22 Um this account is blacked out so
+27:24 >> I mean you don't need to bot it too. You
+27:25 can also just
+27:27 >> Yeah you could also just Yeah you could
+27:28 also do that. 100%.
+27:30 >> Great content that gets shared and
+27:32 and do it the good old fashioned way.
+27:34 It's just going to it will take you
+27:35 longer right?
+27:36 >> Yeah 100%.
+27:38 Um
+27:39 and this is something I've only been
+27:41 really been doing on newer projects.
+27:43 Um although I will say it does have a
+27:45 slight high ROI.
+27:47 Um another thing I would do is I would
+27:49 tailor your This is This is arguably
+27:52 even
+27:53 slightly more important than the
+27:54 Instagram page is I would tailor your
+27:56 FYP to be your ICP. So what I mean by
+28:00 that is I would go on Instagram and I
+28:02 would scroll like your ad like your
+28:04 ideal customer. You should have this
+28:05 detailed image of who your ideal
+28:07 customer is in your mind right? And you
+28:10 should think how would they act on
+28:12 Instagram. So I would literally just
+28:14 scroll comment like share as my ideal
+28:17 customer. I would get in I would like
+28:18 try to like hypnotize myself to be my
+28:20 ideal customer. And for me it was easier
+28:22 because I was a wrestler and I knew what
+28:23 I knew what type of content wrestlers
+28:25 watch. That's another reason you should
+28:26 build for what you're passionate about.
+28:28 So I'm scrolling through Instagram. I
+28:30 then make my entire for you page only
+28:32 wrestling content only wrestling
+28:34 influencers. And then what you
+28:36 effectively just did is you now created
+28:38 a lead generation like a like a lead uh
+28:41 generating thing right? So while I'm
+28:43 going through my for you page I could
+28:45 scroll outreach scroll outreach scroll
+28:47 outreach. It makes the whole process 10
+28:49 times easier than having to go through
+28:51 like Instagram search and finding the
+28:53 right perfect influencers. Okay, so for
+28:55 my next thing, outreach, outreach,
+28:57 outreach. Everything in like this this
+29:00 game is a numbers game. How many
+29:01 influencers can you like send messages?
+29:03 How many content can you make How much
+29:05 content can you make? It's all numbers.
+29:07 So, and like the more you do, the more
+29:10 you'll get out eventually. So, now that
+29:12 your FYP is fully tailored to your ICP,
+29:15 you could literally just scroll and DM
+29:16 as many influencers as you possibly can.
+29:18 To be honest, I would replace yourself
+29:21 in this process though as soon as you
+29:23 possibly can, right? If you had 2,000
+29:28 bucks to start this app, I would take
+29:31 like 800 and just pay a VA for a month.
+29:34 I think I think I would be willing to do
+29:36 that. I would be willing to spend almost
+29:38 half of my budget just on the VA cuz
+29:41 they're pretty integral to the process
+29:43 and it also leaves you more mentally
+29:45 clearer. Um so, what you do is you
+29:48 basically, now that you have a system of
+29:50 scroll and scrolling and outreaching,
+29:52 you could literally just hop on a call
+29:53 with a VA from Fiverr, Upwork, Founders
+29:55 Arm, which whichever service you want to
+29:57 use, right? Hop on the phone with these
+29:59 people and just pay them whatever you
+30:01 want cuz they're not going to ask for a
+30:02 like outrageous rates typically, right?
+30:05 And you don't want to be like You don't
+30:06 want to be negotiating for cents on the
+30:08 dollar for you, you know what I mean?
+30:10 >> 100%.
+30:11 >> They ask for like 800 a month, just pay
+30:13 it. They're They're going to be working
+30:15 like
+30:15 You're going to get way more than 800
+30:17 bucks in value. Um so, when you hop on a
+30:20 call with them, show them the process of
+30:22 literally just be like, "Hey,
+30:24 um when I scroll like just go through my
+30:26 For You page, scroll. If the guy has
+30:28 over 25,000 views on average, outreach
+30:31 to them." That's That's literally what I
+30:32 tell them, right? You could also make
+30:34 like You could also give a really good
+30:36 SOP for them and that's pretty much the
+30:39 whole process.
+30:40 Um
+30:41 then when a create when a creator
+30:42 responds, get get uh
+30:46 Hold on, sorry. This is like misspelled.
+30:49 >> [laughter]
+30:49 >> When when a creator responds, aim to hop
+30:52 aim to hop on a call with them
+30:53 immediately, right? So, if let's say
+30:57 uh
+30:58 Let's say I'm the brand. I text paid
+31:00 promo for XYZ. And if you if you want to
+31:02 DM scripts, again, docs.work.com you can
+31:05 find like all my DM scripts, my SOPs,
+31:08 basically everything I've done.
+31:10 Um, so once a creator responds, try to
+31:13 get them on the phone immediately. Say
+31:16 like, "Hey, uh are you around for an
+31:17 intro call with someone from our team?"
+31:20 You know what I mean?
+31:22 From there, you could then once once
+31:24 you're face-to-face with them, it's much
+31:26 easier to sell them than over DMs. Cuz
+31:28 over DMs, if I'm an influencer, I could
+31:30 be like, "My deliverables are $10,000 a
+31:32 video."
+31:34 It's much harder to say that to someone
+31:36 when they're right in front of you and
+31:37 they're basic like you could basically
+31:39 show them what $10,000 a video for a
+31:41 creator that gets like
+31:42 20,000 views a video is not like ideal
+31:45 and you can't work long-term. So, like
+31:47 there's so many sales objections you
+31:49 could kind of use to get good rates and
+31:52 as long as you're really passionate and
+31:54 it and they can see that you're not
+31:56 selling snake oil,
+31:58 they'll be much more unlikely to do
+32:00 cheaper rates for you. They'll give you
+32:01 like the the homie discount, you know
+32:03 what I mean? If you're just a
+32:05 charismatic like if you try to be like
+32:07 nice to them, try to be friends with
+32:08 them. And uh with with all my creators,
+32:11 I try to be as close as possible. Like
+32:13 I'll pay attention on their Instagram if
+32:14 they have any important events coming up
+32:16 and I'll text them like like like we
+32:17 have a lot of fighters, so people who
+32:19 are going to fight, I'll text them,
+32:21 "Hey, good luck." Like I'll try to be
+32:22 very on top of
+32:23 having really good personal
+32:25 relationships with my creators.
+32:27 Um, then after you finish the call, try
+32:30 to get their WhatsApp. I I I like
+32:32 WhatsApp cuz it's easier to keep them
+32:34 separate, right? So, when I go on
+32:36 WhatsApp, I know I'm going to be dealing
+32:37 with influencers or my VA. But, I know
+32:40 on text messages I'm not going to lose
+32:41 like my mom's texts when she texts me.
+32:43 You know what I mean?
+32:44 Cuz that was like a big problem when I
+32:45 started. I would like not be I was like
+32:47 never responding to like my family or my
+32:49 friends.
+32:50 >> Totally.
+32:51 >> I was like this kind of sucks. Like I
+32:52 want I want I
+32:53 I used to pride myself on my ability to
+32:55 respond to people fast and efficiently.
+32:57 And so it was like, "Okay, let me just
+32:59 separate the two so it's easier to
+33:00 manage."
+33:00 >> Your your mom could be giving you
+33:02 precious UX feedback and you're you're
+33:04 not seeing it.
+33:05 >> And you'll never know.
+33:06 >> [laughter]
+33:07 [gasps]
+33:08 >> Plus like I you know, I love my family.
+33:10 I would never want to like miss their
+33:12 calls. And then get them on a contract
+33:15 and then the rest is kind of have them
+33:16 subtly integrate your app into their
+33:18 videos. Try to subtly integrate your app
+33:21 into their most viral content style.
+33:23 After that, it's pretty much smooth
+33:25 sailing. 90% like the hardest part is
+33:27 basically getting on the phone with them
+33:29 and pitching them the idea. Then your
+33:32 app your app if your idea is good enough
+33:33 should sell itself in their content.
+33:36 Okay, paid ads. To be honest, I've only
+33:39 just recently started running paid ads,
+33:41 but I'm starting to fall in love with
+33:42 them and I'm starting to understand why
+33:44 everyone says that influencers aren't
+33:46 scalable past a certain point, right?
+33:48 Influencers are great if you have not a
+33:50 crazy budget and you need to 10x your
+33:53 revenue like you need to 10x whatever
+33:55 money you have. But, if you don't mind
+33:57 consistently two to three x'ing your
+33:59 your money, right? Paid ads are amazing.
+34:03 So, once you get about five to 15
+34:05 creatives, make sure they're quality
+34:07 creatives, throw them all in a testing
+34:08 budget, run them at 100 bucks a day, and
+34:11 then after the first week, I'll separate
+34:13 the winners from losers. Again, I'm not
+34:15 super optimal with it like take
+34:18 everything I'm saying about paid ads
+34:19 with a grain of salt, but it's paid ads
+34:22 are pretty good. So, another method is
+34:25 if let's say you're working with
+34:26 multiple multiple creators, you take
+34:28 five to 10 five to 15 creatives from
+34:30 them, throw them all in a testing
+34:31 campaign, right? That's one end, but if
+34:34 you don't have five to 15 creatives from
+34:37 let's say like let's say you don't have
+34:38 five to 15 creators, right? If you want,
+34:42 what you could do is you could pick one
+34:43 of your creators you could pick one
+34:45 creator overall, right? As long as he
+34:48 has high agency and is like cheap, have
+34:51 him basically [clears throat] not post
+34:53 content on his page, but have him just
+34:55 make paid ads for you. And the way you
+34:57 could find winning paid ads is you go to
+35:00 the Meta Ads Library, look for people in
+35:02 adjacent niches or in your or like one
+35:05 of your competitors, if you have any,
+35:07 right? Look at their ads, understand why
+35:10 their ads work. So, here's here's what
+35:12 Meta Ads Library looks like, right? So,
+35:14 this is Strava. So, let's say I'm making
+35:16 a running app, I would look up Strava, I
+35:18 would go through all of these paid ads,
+35:20 I'd be like, "Okay, why is this paid
+35:21 ad?" You can filter by high to low
+35:24 impressions, too, right? So, it's like,
+35:26 "Okay, why is this paid ad converting?
+35:28 Why does this have so many high
+35:29 impressions? Uh why are they spending
+35:31 basically so much money on this paid ad?
+35:33 They're probably getting a return,
+35:34 right? Why does it work? How can I
+35:36 replicate it?" Those are like the two
+35:38 questions you need to ask yourself.
+35:39 Then, if you have a creator that has
+35:41 high agency, literally just send him the
+35:43 video and say, "Hey, can you remake this
+35:44 video one-to-one with my app?" And uh
+35:47 that like I'm doing that that's
+35:49 literally been my only growth channel
+35:51 with one of my uh new projects. We've
+35:54 only been running paid ads.
+35:56 Um I have one creator who has high
+35:58 agency, and he just makes all of our
+36:00 creatives for you. And you'll be shocked
+36:02 at the paid ads that like make you a lot
+36:04 of money. It'll be like
+36:06 literally a video of him saying like,
+36:07 "Go download the app." Like
+36:09 >> [laughter]
+36:09 >> it paid ads don't need to be this like
+36:11 super
+36:13 high-quality content all the time. As
+36:16 long as it's real and uh authentic,
+36:19 it'll drive decent conversions.
+36:21 Um now, let's say after all of this,
+36:24 your first that your first month in
+36:26 business is starting to end.
+36:28 That's when you'll probably want to do
+36:30 this a little bit earlier, actually.
+36:31 But, that's when you're going to want to
+36:33 start looking at your conversion rate
+36:34 after you have some decent traffic,
+36:36 right? So, if you're consistently
+36:37 getting over
+36:39 I'm going to say 100 downloads a day.
+36:41 Now, you have some rough metrics to look
+36:43 at your conversion rate and see where
+36:45 you could optimize your onboarding or
+36:47 paywall, right? Maybe start AB testing
+36:49 pricing to see if you could boost your
+36:51 conversion rates.
+36:52 Um I would also look at your ARPU.
+36:55 This is also a really important
+36:57 statistic.
+36:58 Uh depending if you're depending how you
+37:00 market. So, people who do
+37:02 like this really top of funnel UGC, like
+37:06 like girl on screen with like text, you
+37:08 know what I mean? Their ARPU's going to
+37:10 be a lot lower because they're getting
+37:11 millions of views, right? But, the
+37:14 quality of the content isn't crazy.
+37:16 But, if you're doing like influencer
+37:17 posts, your ARPU should be pretty high,
+37:19 you know what I mean? Because it should
+37:20 be kind of like directly explaining what
+37:23 your app does and it's should be like
+37:25 high converting content. Uh so, look at
+37:27 your ARPU. Aim for a $2 ARPU at least in
+37:30 month one.
+37:31 And then, ARPU basically being like how
+37:34 much revenue you're making per download.
+37:36 Um and then, look at your retention. So,
+37:38 now that the month's like starting to be
+37:39 like close to being over, see how many
+37:42 people unsubscribe. Um and then,
+37:46 if your retention's really bad, it's
+37:47 probably because your app's not useful
+37:49 enough. So, try to figure out how you
+37:50 can make it more useful. For Wrestle AI,
+37:53 in the first month, our retention
+37:54 sucked. And what we did was we literally
+37:56 just added a calorie tracking feature
+37:58 because a lot of wrestlers are always
+38:00 managing their weight. They're always
+38:01 cutting weight. So, once we added the
+38:04 calorie tracker, we saw our churn cut in
+38:06 half.
+38:06 And I was like, okay, wow, that's
+38:08 insane. So, people are coming for the
+38:10 viral feature and then, they're staying
+38:12 because the app's helping them keep on
+38:14 track with their weight and stuff like
+38:16 that. So, we just added then after we
+38:18 after that, we started adding a ton more
+38:21 adjacent features that are just strictly
+38:23 useful and non-viral.
+38:25 And then what we saw was our our churn
+38:27 like that like solved our retention
+38:29 problem.
+38:31 Um and at the end of the day, the like
+38:33 the TLDR is good product and good
+38:35 creatives.
+38:36 Um and that makes your life so much
+38:38 easier. So my newest project it's it's
+38:41 it's really fun working on it. I'm
+38:42 having a blast actually working on it.
+38:44 And what we've seen is we've seen people
+38:47 actually hit us up to work with us. So
+38:49 they've seen like one of our creators'
+38:50 videos, this guy 20K followers, hey I
+38:53 want to collab with you. This guy has
+38:55 1.8 million followers and he he hit us
+38:58 up. We didn't even outreach to him. And
+39:00 it's solely because the product's
+39:02 actually, in my opinion, the product's
+39:05 actually cool and really useful. Um we
+39:07 had a creator with like 50K followers
+39:09 make videos for us for free just because
+39:11 he wanted to actually try the app. Like
+39:13 it's insane.
+39:15 Uh we had another creator with 3 million
+39:17 followers who averages like 400 K to a
+39:20 million views a video, and we have a
+39:22 four-video deal with four stories for
+39:24 2,500 bucks. That's like like our our
+39:27 CPM's going to be maybe a dollar or
+39:29 something. Like you only get these rates
+39:32 and this like uh
+39:34 and people hitting you up if your
+39:36 product's actually cool. So if you could
+39:38 just make a good product and really
+39:39 focus in on that, it makes the whole
+39:42 other side of the distribution problem
+39:44 much easier.
+39:46 And uh that's basically the TLDR of how
+39:48 to make a successful app or
+39:50 semi-successful app.
+39:51 >> So a lot of people
+39:53 hear about these vibe coded mobile apps
+39:56 and they're like there's no way that
+39:57 people can make thousands of dollars,
+40:00 tens of thousands of dollars, hundreds
+40:01 of thousands of dollars, sometimes
+40:03 millions of dollars with vibe coded
+40:07 apps.
+40:08 But here you are, someone who's
+40:10 non-technical. How old are you?
+40:12 >> Um I'm 19, just turned.
+40:15 >> Exactly, like young guy. Um
+40:19 and
+40:21 you know, no no real background in this
+40:24 and here you are in the field like
+40:27 proving otherwise. So, what do you say
+40:29 to people who who who who say that like
+40:32 it's not possible?
+40:33 >> Yeah, it's so funny cuz people like
+40:35 really hate on vibe coding and call it
+40:37 AI slop, this and that. And like as you
+40:39 as you seen in the slideshow, like I'm
+40:41 actually very big on product. As a vibe
+40:43 coder, which is like funny enough. You
+40:45 know what I mean? And it's because at
+40:48 this point with AI models, Opus 4.8,
+40:52 right? Especially if you're building
+40:53 apps in Swift, too. I saw the difference
+40:55 between Swift and React Native like vibe
+40:57 coding as like night and day. And that's
+41:00 why that's why I really love Work and I
+41:01 talk very highly about them. Um I'm also
+41:03 like now working with them, too, because
+41:05 like I was like the first power user, so
+41:07 they brought me on.
+41:08 >> [laughter]
+41:09 >> But, uh but
+41:12 with with Swift and with these new AI
+41:15 models, there's no In my opinion,
+41:17 there's no such thing as AI slop. There
+41:19 is though under prompted, right? If you
+41:22 keep prompting, that's why I said 14
+41:24 days. I'm not like sitting here and like
+41:25 you're not sitting there in one shotting
+41:27 these apps, right? But, if you
+41:28 consistently manually tweak each thing,
+41:31 at the end of the day, code is code,
+41:34 right? So, with enough prompts, you can
+41:37 really make these really cool products.
+41:39 Like there's some of apps built by some
+41:41 of these like Work users that like I've
+41:43 downloaded just like see what they were
+41:44 doing. And I actually use this one
+41:47 workout app, Core OS. They they just
+41:50 launched this guy.
+41:51 I actually use this app every day cuz
+41:53 it's like one of the sickest health and
+41:54 wellness apps out there. It's like it
+41:56 tracks your sleep, tracks your workouts,
+41:58 like when you walk in the gym, it auto
+42:00 tracks how much time you spend in the
+42:01 gym. And I'm like, this is the one of
+42:04 the coolest apps I've downloaded and
+42:06 it's fully made by AI.
+42:08 It's [laughter] like it's like insane.
+42:10 Um
+42:12 so, I'm very big on a I'm very big I'm
+42:14 very against AI slop and like this like
+42:17 doomer look at vibe coding because not
+42:21 only did it change my life, but you can
+42:23 genuinely build really great products
+42:25 with enough prompts.
+42:27 >> And you know, with vibe coded products,
+42:31 like have you ever encountered
+42:33 scalability issues? Like, you know,
+42:35 that's another thing that people say is
+42:37 that like, okay, you're going to use AI,
+42:38 maybe it's good enough to get to a
+42:39 prototype with a few thousand users, but
+42:42 once you start scaling and actually
+42:43 getting hundreds of thousands or
+42:44 millions of dollars a year in revenue,
+42:46 you're just going to have to rebuild the
+42:47 whole thing.
+42:48 >> So, I haven't hit it yet. Maybe it's
+42:51 because I'm not big enough though.
+42:53 >> [laughter]
+42:53 >> But um
+42:55 But I personally haven't seen any
+42:57 scalability issues. It's also cuz I'm
+42:59 making a consumer app. So, maybe if I
+43:03 was making a social media app, it would
+43:05 be different and it would there would be
+43:06 like stuff like that, but like people
+43:08 always come at me like, oh,
+43:10 what about the security issues, right?
+43:13 >> Yeah.
+43:13 >> have access to any of your personal
+43:15 data. I'm not collecting that.
+43:17 >> [laughter]
+43:17 >> I wouldn't I'm not putting myself in the
+43:19 risk of that happening to me because I'm
+43:21 not collecting any of the data to put
+43:23 you put my customers at a security risk,
+43:26 right?
+43:27 >> Yeah.
+43:28 >> So, I'm going to say it honestly
+43:29 depends.
+43:30 Uh maybe if you're building a social
+43:32 media app, but personally I haven't seen
+43:34 any of that.
+43:35 >> So, in your in your opinion, is this the
+43:38 heyday of building mobile apps? Do you
+43:41 think like there's just so much
+43:43 opportunity right now, so many different
+43:44 niches and you know, it's a window of
+43:48 time before it just gets too
+43:49 competitive? Like, how do how do you see
+43:52 it playing out?
+43:53 >> 100%. So, this is this is like the In my
+43:55 opinion, this is the drop shipping boom.
+43:57 This is like the e-com boom, right? Back
+43:59 in the day, meta ads, you used to boot
+44:01 them up for e-com. I mean, I was never
+44:02 involved. I actually like failed at
+44:04 e-com and then went into apps.
+44:06 >> [laughter]
+44:06 >> But back in the day, like 2015, people
+44:09 used to boot up these uh e-com sites,
+44:11 drop shipping, whatever, threw a little
+44:13 bit of money into meta ads, and they'd
+44:15 see like four to five x row as, right?
+44:18 Today, with apps, it's very similar. If
+44:20 you make an app, and it's Again, if it's
+44:22 cool, the idea needs to be cool. But, if
+44:24 you make an app and just start posting
+44:26 about it yourself, this is what sold me
+44:27 on apps. I made an app, had no app
+44:29 experience with uh Fight AI. I made this
+44:32 app, I literally would just post myself
+44:34 talking to the camera, "Guys, I'm the
+44:36 future of MMA. You could throw your like
+44:39 videos into this app, and it'll tell you
+44:40 what you're doing right." And at first,
+44:41 I just made it for fun, cuz I wanted an
+44:43 internal tool. I was like, "Screw it,
+44:44 I'll try making a few TikToks about it,
+44:46 right?"
+44:48 The fact that I was able just to make
+44:49 like almost 2,000 And by the way, it
+44:51 still consistently to this month does a
+44:53 thousand every month, which is insane,
+44:55 right? Cuz I haven't marketed
+44:56 [clears throat] it since July. Um
+44:59 It's It's like I love seeing the
+45:01 subscriptions. It like makes my day.
+45:02 Like I'll see a guy who's been
+45:04 subscribed for like nine months. He was
+45:06 like active like a week ago. I'm like,
+45:07 "What could this What could this guy
+45:09 possibly be training for?"
+45:11 >> [laughter]
+45:12 >> Anyway,
+45:13 uh so
+45:14 the fact that you could sit there and
+45:16 still make five TikToks and get like 10
+45:18 sales, right? Shows that the industry is
+45:22 not saturated, even though there are
+45:24 more people making apps than ever.
+45:26 Um I don't believe it'll be saturated
+45:28 until
+45:29 three more years, probably.
+45:31 And I I'm finding adoption is still
+45:34 pretty slow. Like if you you get caught
+45:35 up in this like Twitter mind share,
+45:37 where you're like everyone's building an
+45:38 app. In actuality, no one's building an
+45:40 app. People still think you need to know
+45:42 how to code. Like no one knows why
+45:43 Vizard coding exists. 15% of the world
+45:46 you still uses still hasn't even tr-
+45:48 uh 15% of the world like only uses
+45:51 ChatGPT. Like compared to like 85% of
+45:53 the world still doesn't even use AI.
+45:55 They don't know AI can actually build
+45:57 software.
+45:58 So, uh
+46:00 yeah, get started. Best time to get
+46:02 started though is today. Like, get on it
+46:04 like right away.
+46:05 >> And, you know, last question, you know,
+46:07 is there one tip,
+46:11 piece of sauce that you didn't share
+46:13 today that, you know, you want to share
+46:16 that you think is going to be valuable
+46:19 for anyone who's interested in in
+46:20 building a mobile app with AI?
+46:23 >> One tip.
+46:25 >> I mean, you shared you shared around
+46:27 paid ads, you shared around creators,
+46:28 you shared around choosing an idea, but
+46:31 is there anything else that you haven't
+46:32 shared today that, you know, you you
+46:34 want to share?
+46:35 >> Yeah. Or, yeah, really focus
+46:38 on
+46:40 being able like learning how to sell
+46:42 things.
+46:43 So,
+46:44 all of like my the ability to close
+46:46 influencers came from when I was like 16
+46:49 and I had to do like door-to-door sales
+46:51 for power washing.
+46:53 >> [laughter]
+46:54 >> Or like I was running garage sales. So,
+46:57 if if you have good social skills, it
+47:00 does make selling to influencers just so
+47:02 much easier because you could spend like
+47:06 I'll give you an example of my last
+47:07 influencer call. The guy was Greek,
+47:09 right? I spent 90% of the call talking
+47:12 about Greek like Greece and like me and
+47:13 him were just vibing about both being
+47:15 Greek. And then at the end I go, "Okay,
+47:18 so
+47:19 look, your content your views vary a
+47:21 little bit. To not zip you out, why
+47:23 don't we do like a $2 CPM?" And since me
+47:25 and him were already kind of like
+47:27 buddies, he now doesn't want to say no
+47:29 to me.
+47:30 You know what I mean? So, it just makes
+47:31 it 10 times easier to close stuff. So,
+47:34 social skills are very important. Um,
+47:37 which is which is why Vibe Coding's
+47:38 great because the people who used to
+47:40 build apps didn't really have the
+47:42 craziest like social skills.
+47:45 >> George,
+47:46 thank you for coming on the podcast,
+47:48 sharing all the sauce with us.
+47:50 Uh, appreciate it. Uh, can't wait to see
+47:52 what you build next. I'll include links
+47:54 for where to follow George uh
+47:56 in the show notes, in the description,
+47:58 I'll also include a link to the docs
+48:01 that he he had if people want to check
+48:03 that out. And George,
+48:06 thanks again for coming on.
+48:07 >> Yeah, thank you so much.

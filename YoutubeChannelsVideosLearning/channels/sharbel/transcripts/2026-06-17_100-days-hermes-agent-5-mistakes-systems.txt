@@ -1,0 +1,494 @@
+# Transcript: 100 Days With Hermes Agent in 21 Minutes
+# Channel: Sharbel A.
+# Duration: 1279s
+# Video ID: sCa3BtpkziQ
+
+0:00 You see people online using Hermes to
+0:03 run their business. It finds them leads,
+0:06 it writes briefs, it watches the
+0:08 internet, sends them updates on their
+0:10 phone,
+0:11 >> [snorts]
+0:11 >> runs little agents in the background.
+0:14 Then you install it and ask it to
+0:18 summarize a PDF. That gap is what this
+0:21 video is about. So, after 100 days with
+0:25 Hermes, I want to show you the actual
+0:27 bridge. How you go from asking Hermes
+0:30 random questions to building repeatable
+0:33 loops, Telegram workspaces, [music] sub
+0:36 agent teams, event triggers, and a
+0:39 mission control dashboard you can open
+0:41 from anywhere in the world. By [snorts]
+0:43 turning one boring task at a time into a
+0:46 system that runs without [music] you.
+0:48 Let's get started.
+0:50 The first mistake that I've learned
+0:52 throughout my first 100 days is using
+0:55 Hermes like a smarter search box.
+0:59 Asking it for things like "Hey Hermes,
+1:01 give me ideas. Summarize this, research
+1:04 that, write a draft about this."
+1:08 I mean, that is pretty useful and it's a
+1:10 big, massive, major reason for AI agents
+1:14 being useful, but that or those types of
+1:18 tasks don't compound because essentially
+1:20 you get an answer to your question, but
+1:23 the work disappears.
+1:25 The better move is to turn the task into
+1:28 a repeatable loop. Here's the
+1:31 difference.
+1:33 If I say "Give me YouTube ideas," Hermes
+1:36 can give me YouTube ideas. But if I say
+1:39 "Every time I ask you to give me YouTube
+1:42 ideas, check my posted videos, check my
+1:44 rejected ideas, check my Notion content
+1:48 board, check current demand, check
+1:51 competitor outliers, then tell me the
+1:53 one video I I film next, why it matters
+1:57 now.
+1:58 What proof I need and what the first 30
+2:01 seconds should show.
+2:03 See, that's not a prompt anymore. That's
+2:06 an entire workflow.
+2:08 Hermes is checking for sources. It is
+2:10 applying rules. It's making decisions.
+2:13 It is returning something I can act on,
+2:16 something that is actionable. And that
+2:19 is the first real upgrade. Do not ask
+2:22 what can Hermes answer for me. Ask what
+2:25 decisions do I keep making manually?
+2:29 Because that is usually where the loop
+2:30 is. For me, one loop is reaction
+2:34 opportunities. I do not want to wake up,
+2:37 scroll X, scan AI news, check what is
+2:41 fresh, think through whether it matters,
+2:44 and then decide if I should post. So,
+2:47 Hermes can do that for me every day,
+2:50 every couple of hours. It can check for
+2:53 fresh AI stories. It can check expose by
+2:56 me providing it with a rock API. It can
+2:59 check for product launches, filter for
+3:02 YouTube relevant topics. It can
+3:05 prioritize things from the last hour, or
+3:08 skip stale topics and things that it
+3:11 finds are duplicates. A massive pro tip,
+3:14 by the way, do the thing manually first.
+3:18 Make sure that the loop works manually
+3:20 first. For example, for my YouTube video
+3:24 ideation, I've made sure that Hermes can
+3:28 fetch me every single individual piece
+3:32 of the puzzle. I've made sure that it
+3:35 can use and fetch all of the information
+3:39 and data that it needs from the sources
+3:41 it requires. That I made sure that it
+3:43 knows how to use that data
+3:46 to come up with video ideas. Then I made
+3:49 sure that the video ideas are actually
+3:51 good and actual signals. Once I
+3:54 confirmed all that,
+3:56 then I schedule it as a cron, which is
+4:00 just a fancy word for a repeatable job,
+4:02 something that happens
+4:04 on an occurrence, every day, every
+4:06 couple of hours, you you choose. You can
+4:09 say like every morning check what
+4:11 matters, every Friday audit video ideas,
+4:14 every day scan competitors, and crons
+4:18 should make sense to you. I mean,
+4:21 check these sources, follow these rules,
+4:23 ignore these things, send me this
+4:25 output, run it on a schedule. This is
+4:28 how you go from asking Hermes for help
+4:30 to having Hermes report back. And this
+4:33 works for almost any job. A founder can
+4:36 summarize new leads every morning. A
+4:39 creator can scan video opportunities
+4:42 every week. A developer can open PRs
+4:44 daily. A salesperson can find follow-ups
+4:47 they might have forgot. The value is not
+4:50 in having Hermes do the task once. The
+4:52 value is that it can turn the task that
+4:56 grunt work that you find yourself having
+4:58 to do every day into a repeatable
+5:00 operating system. But, the second you
+5:03 start creating loops, you hit the next
+5:06 problem.
+5:07 Everything gets noisy if all the work
+5:10 lives in one place.
+5:13 My first Hermes setup was basically just
+5:16 one giant junk drawer. I would talk to
+5:19 Hermes about my YouTube ideas, my X
+5:21 posts, my business strategy, my personal
+5:24 tasks, just random questions, and it was
+5:27 all in the same chat. And granted, that
+5:31 can feel a lot simpler, especially when
+5:33 you're starting out,
+5:35 until it becomes impossible to tell
+5:39 what anything was for.
+5:41 The fix was not a more complicated app,
+5:45 it was Telegram topics.
+5:47 I stopped treating Telegram like one
+5:50 conversation with an AI,
+5:53 and I started treating it like separate
+5:55 different workspaces.
+5:57 I mean, I have one topic that is
+5:59 dedicated to YouTube. I It's all I talk
+6:02 about with Hermes about. This is where
+6:04 one of my sub-agents also live, called
+6:07 Nova, but we'll get into that later. One
+6:09 topic is X. That one is built for me to
+6:13 understand what is happening around X. I
+6:15 mean, have I been offline the entire
+6:17 day? Do I need a quick refresher? Can I
+6:19 ask Hermes to fetch sources for one of
+6:22 my tweets that I'm writing or putting
+6:24 out? Another topic is general, and I
+6:26 strongly recommend you have a general
+6:27 topic where it's a sort of catch-all
+6:30 topic that you can ask any question that
+6:33 you have that doesn't really fit into
+6:35 your other topics. One topic is React,
+6:38 which sends me reaction opportunities
+6:40 for things I can talk about on X. This
+6:43 is especially helpful for me if I've
+6:45 been offline or on meetings for an
+6:48 entire day and have not had time to see
+6:51 what is happening with the AI market.
+6:53 The magic is not Telegram or even
+6:56 Hermes. The magic is that every
+6:58 workspace starts having a job. Every
+7:01 Telegram topic is a completely separate
+7:04 workspace.
+7:05 When I message Hermes in the YouTube
+7:07 topic, Hermes does not need to guess
+7:10 what mode it's in. It doesn't need to
+7:12 load a specific context and store away
+7:16 another type of context. It is already
+7:19 in the YouTube room.
+7:21 And that changes the quality of the
+7:23 output you get immediately.
+7:25 Because the more powerful your agent
+7:27 becomes,
+7:28 the more dangerous messy context
+7:31 becomes.
+7:32 If I'm asking for a video idea, I do not
+7:35 want the agent thinking about my grocery
+7:37 list, a code bug, and some random email
+7:41 from yesterday.
+7:42 >> [snorts]
+7:42 >> I want it inside the content workspace
+7:46 using the content rules and content
+7:48 agents or sub agents. That is the
+7:51 practical setup I would recommend.
+7:54 Start with three topics. One for your
+7:58 main work, one for content or research,
+8:01 and one for admin administrative stuff.
+8:05 Then give each topic a simple operating
+8:08 rule. For content, the rule might be
+8:11 before suggesting anything, check what I
+8:14 already posted, what I rejected, what is
+8:17 currently trending, and whether I can
+8:18 actually make it.
+8:20 For admin, the rule might be organize
+8:23 the task, draft the response, but ask
+8:26 before sending anything externally.
+8:29 Now, Hermes is not just answering
+8:31 messages. It is working inside the right
+8:34 room. That is the second upgrade. Chats
+8:38 become workspaces.
+8:40 But, workspaces only solve where the
+8:42 work happens. They do not solve who does
+8:45 the work. That is where sub agents
+8:48 change the setup for me. Let's go to
+8:50 mistake
+8:52 number three.
+8:53 And I know
+8:55 one Hermes agent can do a lot.
+8:59 And that is the trap. Because when
+9:01 something can do a lot, you start giving
+9:04 it everything.
+9:06 Research the market.
+9:08 Check competitors. Inspect notion. Find
+9:11 title ideas. Write the hook. Summarize
+9:15 the hundreds of decisions that I have to
+9:16 make every day. I mean, it can do that,
+9:18 but it will get very messy very quickly.
+9:22 And that's what happened with me.
+9:24 I noticed that the better pattern is sub
+9:27 agents. Think of the main agent as being
+9:31 the main operator.
+9:33 The one who coordinates with all of your
+9:37 other employees.
+9:39 It does not need to personally inspect
+9:41 every detail. It needs clean reports
+9:44 from specialists.
+9:46 Then, it needs to make the final call.
+9:48 For example, if I want Hermes to pick my
+9:51 next video, I can split the work. One
+9:54 sub agent checks my posted and filmed
+9:57 pipeline. One sub agent checks
+9:59 competitor outliers. One sub agent
+10:02 checks current demand. The main agent
+10:05 reads the reports and decides what I
+10:08 should actually film.
+10:10 Now, the work is a lot cleaner. The
+10:12 context is cleaner. The decision ends up
+10:15 also being a hundred times better. Just
+10:18 try it and you'll see. And this is where
+10:20 you can use hack number one
+10:22 in this hack number three because
+10:25 once you define how that workflow looks
+10:28 like, then you can turn it into a
+10:30 repeatable cron or a repeatable skill.
+10:35 Meaning, every time you ask for, say, a
+10:38 YouTube idea, it doesn't have to say
+10:40 guess and start from scratch. It already
+10:42 knows, all right, let's deploy our three
+10:44 sub agents. One does this, one does
+10:46 that, one does that,
+10:48 so on and so forth. You get the idea.
+10:51 However, this is also where a lot of
+10:54 people get agents wrong.
+10:56 More agents does not automatically mean
+11:00 better. More focused agents means
+11:04 better.
+11:05 Each agent needs a specific lane. I love
+11:08 to give this analogy, but you don't want
+11:10 your plumber to be your dentist. Or
+11:12 maybe he's a very talented plumber who
+11:14 also had
+11:16 or happened to take a degree in
+11:19 dentistry. I don't
+11:20 I mean,
+11:21 hey.
+11:24 Don't judge him. But, that is why I
+11:26 built highly specialized agents like
+11:29 Nova and Sage. Nova is my YouTube agent.
+11:33 She has a wealth of knowledge and
+11:35 skills. She's trained on finding and
+11:38 checking YouTube trends, comparing video
+11:40 outliers, comparing competitor posts,
+11:43 and finding the best video ideas, and
+11:45 helping me through my research,
+11:47 ideation, everything I need for YouTube.
+11:51 And I've open-sourced her, meaning you
+11:53 can download and install her for free.
+11:56 I'll leave the link in the description.
+11:58 And Sage is my X and content strategy
+12:01 agent, which is basically the same thing
+12:03 as Nova, but dedicated for X.
+12:07 I've also open-sourced him, and he is
+12:10 free to download and install. And I'll
+12:12 include the link in the description for
+12:15 both. Hooray! You can copy their
+12:18 structure or turn them into your own
+12:21 specialized agents. But the point is not
+12:24 my exact agents. The point is the
+12:27 pattern. Your YouTube agent should not
+12:29 be the same as your coding agent. And
+12:31 your coding agent should not be the same
+12:33 as your personal admin agent. And your
+12:36 plumbing agent should not be the same as
+12:37 your dentist agent. Anyway, starting to
+12:40 feel like I'm going in circles around
+12:42 here. Different job means different
+12:44 tools, mean different memories, means
+12:46 different permissions. The list goes on
+12:49 and on. That is how you stop building
+12:51 one overpowered assistant and start
+12:54 building a team. And once you have a
+12:57 team, the next question becomes obvious.
+13:00 How does the team know when to act? This
+13:03 is where event triggers come in.
+13:06 Cron handles time. Webhooks handle
+13:10 events. I know what you're thinking.
+13:12 What is he talking about? That sounds
+13:14 way too technical. But let me explain
+13:17 this to you because the idea is simple.
+13:20 Crons are repeatable events, as we
+13:23 discussed. Things like do this every
+13:26 single morning. But a webhook says do
+13:29 this when something happens. That is the
+13:32 difference between crons and webhooks.
+13:34 Crons repeat something after every
+13:36 passing of a certain amount of time and
+13:39 webhooks do something when something
+13:42 happens. And listen to me because the
+13:45 second one, webhooks, is where Hermes
+13:48 starts to feel alive. Here's an example.
+13:51 I have a Notion content board. When I
+13:53 move a video idea to film tab, that
+13:56 movement triggers work. It triggers a
+14:00 webhook. The second a video moves to to
+14:03 film,
+14:04 Hermes can validate it. It starts
+14:07 researching it. Did I already post
+14:09 something that is too similar? Is there
+14:11 current demand for that video idea that
+14:13 I just moved? What is the strongest
+14:16 title for that video? Should I film this
+14:18 now, later, or just kill it, abandon it?
+14:22 That is the difference between a
+14:23 database and a control service. Notion
+14:26 is not just where the ideas live. Notion
+14:29 becomes the button that starts the
+14:32 workflow. It becomes the trigger to a
+14:34 chain of events and work. And you can
+14:38 use this yourself anywhere you want. Uh
+14:41 let me give you some ideas. A form gets
+14:43 submitted, Hermes researches the lead. A
+14:47 GitHub PR opens, Hermes reviews the
+14:49 risk. A customer pays, Hermes adds it to
+14:53 the daily summary.
+14:54 A file gets uploaded, Hermes extracts
+14:58 the useful parts. You receive an email,
+15:01 Hermes reads it and summarizes it to you
+15:03 and comes up with a draft of what you
+15:06 could reply to.
+15:07 The setup is pretty simple.
+15:09 You can get as wild as you want with the
+15:12 ideas.
+15:13 All you need to do is create a webhook
+15:16 route in Hermes. And super simple, by
+15:18 the way. Don't let this intimidate you.
+15:21 You can literally ask your Hermes,
+15:22 Hermes, how do we create webhook
+15:25 triggers?
+15:26 And it will guide you. Or it will do it
+15:28 for you if you have it connected to like
+15:31 a super smart model. It will connect to
+15:34 the app itself. Uh the only thing you'll
+15:37 need to do on your end is, you know,
+15:40 tell it what you need from it. And then
+15:42 whenever that event happens, Hermes runs
+15:45 the workflow every single time.
+15:48 And if the app does not support a clean
+15:50 webhook, you can still get close with a
+15:53 polling cron. What in the world is a
+15:55 polling cron? It's a cron that keeps
+15:58 polling, did this event happen every 5
+16:00 minutes? It didn't. Okay, never mind. I
+16:02 won't do anything. Oh, now it did in the
+16:05 next 5 minutes. Oh, it just did. All
+16:07 right, let's run the cron. Or simply
+16:09 put, Hermes can check every few minutes,
+16:12 compare what changed, and only act when
+16:15 the right thing happens. The bigger
+16:17 lesson is this, stop making yourself the
+16:20 trigger for Hermes to wait for you to
+16:22 ask for things, and let your tools,
+16:25 your emails, your data trigger Hermes.
+16:29 That is when your system starts working
+16:31 even when you are not thinking about it,
+16:33 even when you're not working. But once
+16:35 you have loops, topics, sub-agents, and
+16:39 triggers, you run into the final
+16:42 problem.
+16:43 You cannot manage a real system from a
+16:46 chatbot forever.
+16:48 You need a place to see the machine.
+16:52 On to mistake number five.
+16:55 Chat is good for commands. Chat is bad
+16:59 for visibility.
+17:00 If Hermes is doing real work, I need to
+17:03 know what is happening, what is running,
+17:06 what finished, what failed, where are
+17:09 the different things that I need and ask
+17:12 for in order to be productive on a
+17:14 day-to-day basis. This is why I highly
+17:17 recommend that you build yourself a
+17:20 mission control.
+17:22 Mission control is the dashboard layer.
+17:25 It's your information layer. Think of
+17:26 you opening Jarvis and you see all of
+17:29 this information and you're like, "Wow,
+17:31 this is so cool and futuristic." This is
+17:34 your mission control.
+17:36 For me, it is a live Vercel website
+17:39 connected to my workflows.
+17:41 Uh I have set up Google authentication
+17:45 Gmail authentication so that I can log
+17:47 in to it through my Gmail. That way, you
+17:51 know,
+17:52 some random person can't just find the
+17:54 website link and log in to him itself
+17:57 and control my entire life or ruin my
+17:59 entire life. And what this also means is
+18:03 I can open it on my phone. I can log in
+18:06 and I can control Hermes straight from
+18:09 my phone. I can have every single thing
+18:12 that I need right on my phone. And the
+18:15 great thing about that is I can start
+18:17 using it anywhere I am in the world. I
+18:20 don't need to be next to my local
+18:22 machine, in case you're running Hermes
+18:24 on a local instance. I don't need to be
+18:27 on my desktop if I'm out in the road,
+18:29 traveling, at the gym, something done,
+18:32 or I'm on holiday and I don't have my
+18:35 work equipment with me, I can still be
+18:37 productive by literally asking Hermes to
+18:39 do the thing for me. Mission controls
+18:42 give you the confidence to let Hermes do
+18:44 more because you can actually see what
+18:47 it is doing.
+18:48 That is the difference between a toy
+18:50 setup and a real setup. A toy setup
+18:53 hides everything in chat. A real setup
+18:55 gives you command, visibility, and
+18:57 approval. And if I were to download and
+19:01 install Hermes from scratch, I would
+19:04 build it in this order. One boring loop,
+19:07 one Telegram workspace, one specialist
+19:11 agent, one scheduled cron, and one event
+19:14 trigger. Then, mission control once the
+19:17 system gets too big for just chat.
+19:20 That is a great path for you to level up
+19:24 your Hermi skills and control. Answers
+19:27 become loops, chats become workspaces,
+19:31 one agent becomes many agents and a
+19:33 team.
+19:34 Manual work becomes triggers and
+19:37 invisible work becomes your mission
+19:40 control. That is what 100 days with
+19:43 Hermi taught me. The point is not to use
+19:46 every feature. The point is to transfer
+19:49 your workflow into the system. That is
+19:52 when Hermi stops feeling like a chatbot.
+19:55 And that is when it becomes an operating
+19:57 layer to your entire life and a genuine
+20:00 point of improvement to your quality of
+20:03 life.
+20:04 So, if you want to start, don't
+20:06 overbuild. Pick one task you already
+20:09 repeat over and over again and turn it
+20:12 into a loop. Run it through Hermi. Ask
+20:15 it to help you. Then, from there, add
+20:17 one layer at a time. Add workspaces,
+20:20 then once you've done that, add sub
+20:23 agents, then crons, then webhooks, then
+20:25 mission control. And if you want the
+20:28 specialist agents I showed, Sage and
+20:31 Nova,
+20:32 those are open source on my GitHub. I'll
+20:34 include the links below. If you want the
+20:36 template to my mission control, I'll
+20:39 also include the link to that below.
+20:42 It's also open source and free for you
+20:43 to download.
+20:45 Feel free to copy them, modify them, or
+20:47 use them as templates.
+20:49 Uh but, the real lesson here is bigger
+20:51 than just those agents. Do not just ask
+20:54 Hermi to help.
+20:56 Teach it how your work runs. That is the
+20:59 leverage.
+21:00 And if you've enjoyed this video, make
+21:02 sure to subscribe because I've got a ton
+21:05 more like it on my channel and a ton
+21:07 more coming your way. Oh, would you look
+21:10 at that? The YouTube algorithm gods
+21:13 really think you'll enjoy this video.
+21:15 So,
+21:16 I'll see you there.

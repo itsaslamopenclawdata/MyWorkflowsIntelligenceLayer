@@ -1,0 +1,260 @@
+# Transcript: Automate This in Any Local Business First (Easiest $20-50K/year)
+# Channel: Vendasta
+# Duration: 512s
+# Video ID: ic8Y8nIG7TE
+
+0:00 Local businesses are losing $136 billion
+0:03 every single [music] year just from
+0:05 phone calls they never answered. And the
+0:07 agencies that fix this one problem are
+0:09 charging $1,500 to $2,000 a month per
+0:12 client to do [music] it. And what
+0:14 actually works isn't one of those
+0:15 hype-driven AI systems you see YouTubers
+0:17 [music] claim are making them millions
+0:19 in their sleep. The real opportunity is
+0:22 simpler than that [music] and honestly
+0:23 easier to sell. You don't need to be
+0:25 technical and local businesses like
+0:27 roofers, chiropractors, dentists, hair
+0:29 stylists, spas, and restaurants will pay
+0:31 that without hesitation because [music]
+0:33 it solves the exact problem that's
+0:35 costing them customers every single day.
+0:37 For those of you who don't know me, my
+0:38 name is Kendall and I'm part of the team
+0:40 at Vendasta where we work with over
+0:41 66,000 agencies serving millions of
+0:44 local businesses. That gives me a front
+0:46 row seat to what agencies sell, what
+0:48 actually sticks with local businesses,
+0:50 and where businesses [music] are seeing
+0:51 the biggest impact. One of our partner
+0:54 agencies, which started with this system
+0:56 I'm showing you today, made over 745
+0:59 $1,000 in revenue in a single year. So,
+1:02 in this video, I'm going to reveal the
+1:04 first thing you should automate in any
+1:06 local business, why it works across
+1:08 almost every industry, and how hundreds
+1:10 of agencies are using it right now to
+1:13 build predictable monthly revenue. If
+1:15 you work with local businesses, this
+1:17 will completely change how you sell AI.
+1:19 And if you want to keep scaling your
+1:21 agency with me, hit subscribe. Every
+1:23 week we bring on agency owners,
+1:25 operators, and AI builders who are
+1:26 actually closing these deals. So, you
+1:28 get to learn straight from the source.
+1:30 Most agencies start with automating
+1:32 content, reporting, and dashboards or
+1:34 they invent automations that look clever
+1:36 but don't truly solve urgent business
+1:38 problems. And if you've ever owned a
+1:40 business and tried to implement some of
+1:42 these things, you'll know exactly what I
+1:44 mean.
+1:46 Meanwhile, small businesses continue to
+1:48 lose customers from missed calls,
+1:50 after-hours customers, missed messages,
+1:53 and late responses. The reality is that
+1:55 there are hundreds of millions of phone
+1:57 calls happening every single day. Small
+2:00 and local businesses are drowning in
+2:01 them, and when you actually track this
+2:03 over a few months, a lot of SMBs realize
+2:06 they're missing 50 to 60% of
+2:08 after-hours, weekend, or rush hour
+2:10 calls. And each of those calls can be
+2:12 worth a few hundred dollars, sometimes
+2:13 even a few thousand. There is a corner
+2:16 of the AI agent space that is way
+2:18 simpler than people think, and right now
+2:20 it's where businesses are seeing the
+2:21 biggest, most measurable results. I'm
+2:24 talking about AI voice agents. Agencies,
+2:27 solopreneurs, even complete beginners
+2:29 with zero coding skills are selling
+2:31 these systems for $1,500 to $2,000 a
+2:34 month because businesses don't see this
+2:36 as software. They see it as a way to
+2:38 protect their revenue. Take a plumber.
+2:40 The phone never stops ringing, their
+2:42 hands are full, there's no one dedicated
+2:44 to answering every call, and a huge
+2:46 chunk of those calls aren't even real
+2:48 customers. It's spam, insurance sales
+2:50 people, or the same questions being
+2:51 asked over and over again. So, when a
+2:53 real customer calls, ready to book right
+2:56 now, no one picks up. Never mind the
+2:58 calls coming in on Friday night,
+3:00 Saturday morning, or over holiday when
+3:02 they're closed. Meanwhile, the customer
+3:04 doesn't wait around. They call the next
+3:05 business. Speed-to-lead is the core
+3:07 business model. So, if you're wondering
+3:09 what to automate first for any SMB, it's
+3:11 responses. And the fastest, simplest way
+3:14 to automate responses is by adding an AI
+3:17 voice agent like an AI receptionist. So,
+3:19 let's see what an AI receptionist
+3:21 actually does in practice. Think of
+3:23 these voice agents as digital employees
+3:25 with three superpowers. A voice
+3:28 receptionist answers every incoming call
+3:30 and greets the caller in the business's
+3:31 tone. It listens, understands what the
+3:34 caller needs in real time, and takes
+3:35 action, like booking an appointment
+3:37 directly into the business's calendar.
+3:39 Every lead gets handled on the spot. No
+3:41 voicemail, no missed calls stacking up
+3:43 while the owner is tied up. The best
+3:45 part is that it filters out spam
+3:46 automatically. And when something
+3:48 escalates or the caller explicitly
+3:49 requests a human, it hands the call off
+3:52 with full context, so no one has to
+3:54 repeat themselves. It even answers real
+3:56 business questions customers ask every
+3:58 day. All those calls where people want
+4:00 to know your business hours, how much
+4:02 does this and that cost, and are you
+4:03 available today? Not to mention, if it's
+4:06 connected to your e-commerce platform,
+4:08 like your Shopify store, it can even
+4:10 answer product-specific questions like,
+4:12 "Do you have a car seat for an infant
+4:13 under $400?" Ben Aston's AI receptionist
+4:16 does exactly this. In many cases, it
+4:19 goes one step further. Instead of just
+4:20 answering the call, the AI receptionist
+4:22 agent continuously gathers context. So,
+4:25 if it's a real estate inquiry, for
+4:27 example, it can ask about the buyer's
+4:29 budget and preferred neighborhoods and
+4:31 tag that to the conversation before the
+4:33 business owner, which would be the real
+4:35 estate agent in this case, ever gets
+4:37 involved. And this doesn't just stop at
+4:39 sales. Another area we're seeing
+4:41 businesses love this is customer
+4:42 support. Instead of making customers
+4:44 wait on hold or navigate through endless
+4:47 phone menus and call trees, the AI
+4:49 support agent handles common issues
+4:50 instantly, like, "Where's my order? How
+4:53 do I reschedule?" and "How do I reset my
+4:55 password?" What's amazing is that it can
+4:57 handle multiple calls at once, so it
+4:59 scales seamlessly as the business grows
+5:02 and makes even a small business look
+5:04 like it has a large support team,
+5:05 letting it compete with the big dogs.
+5:08 Then there's one of the simplest and
+5:09 most underrated wins, appointment
+5:11 reminders and confirmations. The AI
+5:13 agent calls or texts the client before
+5:15 their appointment. It can confirm
+5:16 attendance and handle rescheduling
+5:18 automatically. We're seeing this
+5:20 especially popular with clinics, like
+5:22 vets and dentists, who are tired of
+5:23 no-shows and endless last-minute
+5:25 rescheduling requests that bog down
+5:27 their admin team. And when you frame a
+5:29 voice AI agent like this and emphasize
+5:31 the problems it solves, it becomes
+5:34 impossible for local businesses to
+5:35 ignore it. Now, when you go out there
+5:37 and try to pitch a voice agent to a
+5:39 local business, the biggest pushback
+5:41 you'll face is, "What if it feels fake
+5:43 or uncanny?" or "What if it hallucinates
+5:45 our policies or pricing?" "What if it
+5:47 doesn't hand off to humans and the
+5:48 caller has to keep repeating themselves?
+5:50 This is the layer where agencies either
+5:52 win or lose and the exact reason small
+5:54 businesses can't do this on their own.
+5:56 The AI receptionist offer that sticks
+5:58 isn't generic. It's trained on the
+6:00 business's actual brand voice, services,
+6:02 pricing, policies, and availability. It
+6:05 runs on the same phone number they
+6:06 already have and connects directly to
+6:07 their scheduling system. From the
+6:09 business owner's perspective, nothing
+6:11 changes except now every call gets
+6:13 answered. No extra staff, no extra
+6:15 overhead, just a business that never
+6:17 misses a customer again. But don't just
+6:19 take my word for it. Let's hear from
+6:21 Clint Rudolph of the excite group, a
+6:22 Denver-based agency, who recently sat
+6:24 down with us and talked about his
+6:26 agency's success when implementing
+6:28 Vendasta's AI receptionist for one of
+6:29 their clients.
+6:30 >> We have a veterinary animal hospital
+6:32 that is also a a general
+6:34 vet clinic as well. And they were really
+6:37 struggling because they're a 24/7 day a
+6:39 week emergency animal hospital, finding
+6:43 people who would come in and actually
+6:45 answer the phones in the middle of the
+6:46 night was very difficult. Of putting
+6:49 Evie, their their voice receptionist,
+6:51 on, they started just at night. And
+6:54 immediately they were blown away. Like,
+6:56 "Oh my gosh, this is incredible. She's
+6:57 having honest, actionable conversations
+7:00 and she's worked remarkably." So much so
+7:02 that they're worried what it's going to
+7:04 cost because they run out of their
+7:06 allotted minutes by about the third day
+7:07 of the month.
+7:08 >> Now, enough talk. Let's see this in
+7:10 action. I'm about to call a business
+7:12 where we've set up Vendasta's AI
+7:13 receptionist and I'm not going to lob
+7:15 softballs. I'm going to try to break it.
+7:17 I'm going to ask the kind of questions
+7:19 that make human employees panic, the
+7:21 ones that would usually make a
+7:22 receptionist say,
+7:24 "Uh let me check on that and call you
+7:26 back." Watch what happens.
+7:28 >> Hey, this is Pop from Pest Stops Pro.
+7:30 I'm the raccoon mascot around here.
+7:33 Frank is probably up in an attic
+7:34 somewhere catching critters like me. So,
+7:36 I'm here to help you. Do you have a pest
+7:38 issue we can help you with?
+7:39 >> Hi, I think there's a bat in my garage.
+7:42 Can you help me?
+7:43 >> Absolutely. We can help with that.
+7:45 You're in luck. Frank's been doing this
+7:47 longer than I've been raiding trash
+7:49 cans.
+7:49 >> I'm not sure what to do. Do I need to
+7:51 worry about anything dangerous?
+7:53 >> I get it. Bats can be tricky. Most
+7:56 aren't dangerous, but they can carry
+7:57 diseases like rabies and leave
+7:59 droppings. It's best not to handle them
+8:01 yourself. Frank will confirm the
+8:03 situation and figure out the safest
+8:05 approach. Let's get your details so he
+8:07 can call you back and handle it.
+8:10 >> That's an appointment booked from a call
+8:12 that for 90% of small businesses would
+8:14 have gone straight to voicemail and
+8:15 never been heard from again. It's why
+8:17 agencies are loving Vendasta's AI
+8:19 receptionist right now. So, if you're an
+8:21 agency owner asking what to automate
+8:23 first, don't start with what looks
+8:25 impressive. Start with the front door.

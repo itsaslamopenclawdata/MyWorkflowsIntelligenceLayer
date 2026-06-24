@@ -1,0 +1,378 @@
+# Transcript: Build a Self-Running Marketing Agency With AI Agents
+# Channel: Vendasta
+# Duration: 787s
+# Video ID: oHfvjQPnJG8
+
+0:00 Imagine this. It's 11:00 p.m. on a
+0:02 Saturday in Phoenix, 108° outside. A
+0:05 man, let's call him Marcus, is standing
+0:07 in front of a dead AC typing into his
+0:09 phone.
+0:10 And the HVAC company about to win his
+0:12 business, the owner is fast asleep and
+0:15 his phone's on silent, but his business
+0:17 is wide awake. AI employee number one
+0:20 ranked [music] him second in search
+0:21 results last week. Number two wrote the
+0:23 article his prospect is reading right
+0:25 now. Number three just booked the
+0:27 appointment in 40 seconds and used the
+0:29 card on file. Number four will text
+0:31 Marcus for a review the second the tech
+0:33 finishes the job. Number five will turn
+0:35 that review into a Facebook post by
+0:37 noon. [music] And number six just
+0:38 flagged that weekend calls convert at
+0:40 73%. Six AI employees, one night,
+0:44 operating completely on their own. No
+0:46 human babysitter needed. Meanwhile, his
+0:48 competitor down the road, they've got
+0:50 Marcus's voicemail. They'll probably
+0:52 hear it Monday.
+0:53 Here's the part you're not going to want
+0:55 to hear. Their competitor isn't losing
+0:57 to a better HVAC company. They're losing
+0:59 to a better agency. One agency is
+1:02 selling services. The other one is
+1:04 building a workforce. And the gap
+1:06 between those two models is massive. I'm
+1:08 talking 50 to 80% margins on one side,
+1:11 15 to 20% on the other side. Same
+1:14 clients, same town, same work. If you're
+1:16 new to the channel, my name is Kendall
+1:18 and I'm part of the team at Vendasta
+1:20 where we work with over 66,000 agencies
+1:22 worldwide. That gives us a front-row
+1:24 seat to what's actually working and
+1:26 what's not. And right now, we're
+1:28 watching a split happen in real time. A
+1:31 small group of agencies are running 10
+1:33 times the work with the same team size,
+1:35 charging five times the retainer, and
+1:37 leaving their competition in the dust.
+1:39 This video is about what they're doing
+1:41 differently. In the next few minutes,
+1:43 I'm going to give you the exact system
+1:45 behind what you just saw. The system
+1:47 that took one agency from $320,000
+1:51 to $890,000
+1:53 in revenue without adding a single hire.
+1:55 You'll learn how to organize your client
+1:57 data so AI can actually use it, how to
+2:00 build a team of specialized AI employees
+2:02 that handles every part of client
+2:04 marketing, and the one mindset shift
+2:06 that separates agencies that use AI as a
+2:08 shortcut from agencies that use AI as
+2:11 their engine. If you want to keep
+2:13 scaling your AI agency with me, hit
+2:15 subscribe. Every single week we bring on
+2:17 agency owners, operators, and AI
+2:18 builders who are successfully closing
+2:20 these deals, so you get to learn
+2:21 straight from the source.
+2:23 Let's go. Before I show [snorts] you the
+2:25 system, let's walk through the bare
+2:26 minimum to keep one local client visible
+2:29 in search. One pizza shop, one dentist,
+2:31 one HVAC company. The bare minimum. And
+2:34 I'm sure most agencies will instantly
+2:36 see this and think, "Hey, that's me."
+2:38 Let's add it up. Social media, three
+2:40 posts a week, 4 to 19 hours a month.
+2:43 Keyword research, 2 to 5 hours.
+2:45 Blogging, another 4 to 16 hours.
+2:48 Reputation management, 5 to 10 hours.
+2:51 Website optimization, maybe 2 to 6
+2:53 hours. And listings, 1 to 3 hours. This
+2:56 comes down to anywhere from 18 to 59
+2:59 hours a month per client. That's a
+3:01 part-time job per client, and you're
+3:03 selling it for $1,500 a month. Sign 10
+3:06 clients, and you're suddenly hiring
+3:08 three people just to keep up. Sign 20,
+3:11 and you've basically become a staffing
+3:13 company that also happens to do
+3:14 marketing. And here's where it gets
+3:16 uncomfortable. Top operators in 2026 are
+3:19 posting hundreds of pieces of content a
+3:21 day. Three posts a week is the content
+3:24 equivalent of doing three push-ups for
+3:26 the entire week. Anything below that,
+3:27 and your client basically doesn't exist
+3:29 online. So, most agencies did the
+3:32 obvious thing and told their team to use
+3:34 ChatGPT. Margins were covered for 6
+3:36 months, and then results fell off a
+3:38 cliff. AI search results swallowed up
+3:41 that traffic, and the content that did
+3:43 get through, it stopped performing.
+3:45 Here's what your client actually needs.
+3:47 That one piece of content that randomly
+3:49 explodes. 3 million views instead of
+3:51 1,300 and completely changes their
+3:54 business. No flyer, no cold call, no
+3:57 door knocking does that, but one post
+3:59 can. The problem is you can't predict
+4:02 which one it'll be. You just have to
+4:04 keep posting until it happens. A manual
+4:06 team can't post enough to give that a
+4:08 real shot, and generic AI content posts
+4:11 plenty, but nothing ever breaks through.
+4:14 You need volume and quality, and those
+4:17 don't come from better prompts or faster
+4:19 writers. They come from purpose-built AI
+4:22 employees, each one trained for a
+4:23 specific job, running on your clients'
+4:26 actual data. Imagine your local dry
+4:28 cleaner, your florist, your dentist
+4:30 running a full team of AI workers, 24/7
+4:33 handling the repetitive, high-value work
+4:35 that used to eat up their time, their
+4:37 money, and their headspace. And the
+4:39 agencies building these AI dream teams
+4:41 are about to make more money than
+4:42 they've ever made in their lives, all
+4:44 through the system I'm about to walk you
+4:46 through. Let's start with the
+4:47 foundation, because this is where 90% of
+4:49 agencies stall before they even begin.
+4:52 Level one, the client knowledge layer.
+4:54 Most agencies fail at AI before they
+4:56 even start, and it's always the same
+4:58 reason. Their client data is scattered
+5:00 across 15 different tools. The brand
+5:02 guidelines are in a Google Doc. The
+5:04 performance data is in an analytics
+5:05 dashboard. The brand voice lives in your
+5:08 senior strategist's head. The last 6
+5:10 months of campaign decisions are buried
+5:12 in Slack threads no one can find. Ads
+5:14 somewhere else, leads in an inbox that
+5:16 nobody checks, and the real problem is
+5:18 the gaps between these steps. Layering
+5:20 AI employees on top of that chaos only
+5:23 gives you faster chaos. Across the
+5:25 board, we're seeing AI splitting the
+5:27 agency world into two groups, architects
+5:29 and masons. Masons stack the tools,
+5:32 architects build the systems, and the
+5:34 only thing that separates them is
+5:35 whether their data is usable. So, before
+5:38 anything else, you need to build what I
+5:40 call a client knowledge base, one
+5:42 central place where every piece of
+5:43 information about that client lives, and
+5:46 where your AI employees can actually
+5:47 find and use it. Always start with how
+5:49 the client talks, their voice, the words
+5:52 they use, who they're talking to, the
+5:54 actual buyer, their actual pain, and the
+5:56 objections that come up on every call.
+5:58 You drop in their offer, their services,
+6:00 pricing, packages, whatever promo is
+6:02 live this week. Then, the numbers and
+6:04 performance data are automatically
+6:06 pulled from every channel, so nobody has
+6:08 to screenshot dashboards on a Friday
+6:10 afternoon. Take it up a notch and add
+6:12 past campaigns. And not just what ran,
+6:14 but what works and what didn't. That
+6:17 last part, what worked and what didn't,
+6:20 is what usually walks out the door when
+6:21 a senior strategist quits. Now, it
+6:24 stays. And here's where most agencies
+6:26 stop, but they shouldn't. Just two more
+6:29 files. Next, add a list of
+6:30 non-negotiables. The decisions your
+6:32 client has already made and doesn't want
+6:34 to revisit. Like, we don't run
+6:36 discounts. We stay out of politics. Lock
+6:39 those down in writing and you stop
+6:41 having the same argument every 6 months.
+6:43 And last, build a list of AI clichés to
+6:46 avoid. Things like, "In today's
+6:48 fast-paced world." Phrases that follow
+6:50 the pattern of, "It's not X, it's Y."
+6:53 Any wording that immediately reads as
+6:55 AI-generated. Write them all down. Every
+6:57 AI employee on your roster will now know
+7:00 to avoid them. Skip this and you've
+7:01 built an expensive system that sounds
+7:03 like every other AI on the internet.
+7:05 Level two, the employee that knows your
+7:07 client. This is where the knowledge
+7:09 layer stops being a filing cabinet and
+7:11 starts doing the work. Every AI employee
+7:13 you build runs on two layers of
+7:15 instructions. The master layer is
+7:17 agency-wide. This includes your
+7:19 standards, your QA checklist, your
+7:21 formatting rules, the things every
+7:22 deliverable has to pass before it leaves
+7:24 the building. The client layer is
+7:26 everything you built in level one. The
+7:28 AI employee reads the master layer
+7:30 first, then the client layer before it
+7:32 executes. Same standard across every
+7:34 account, but custom output per account.
+7:37 That's how you scale quality without
+7:39 scaling head count. One prompt from your
+7:41 team. Draft three Instagram captions for
+7:43 the spring promo for Rabbit Groomers.
+7:46 And the AI employee pulls the client's
+7:47 brand voice, looks at which past
+7:49 captions got the most engagement, checks
+7:51 the current promo details, and follows
+7:53 the platform's formatting rules. Drafts
+7:55 come back consistently on brand. Your
+7:58 strategist job becomes reviewing and
+8:00 refining, not writing from scratch.
+8:02 That's a 70% cut in time on a task you
+8:04 repeat for every client every week.
+8:06 Level three, the roster. Here's the
+8:08 roster we typically deploy for a local
+8:10 business client. An AI reputation
+8:12 specialist that runs daily, pulls every
+8:14 new review across Google, Facebook,
+8:16 Yelp, local directories, and responds in
+8:18 your client's brand voice. It's trained
+8:20 to be empathetic on the negative, warm
+8:22 on the positives. It sends review
+8:24 requests to recent customers from the
+8:26 appointment system. And for
+8:27 multi-location businesses, this one AI
+8:30 employee handles the workload that used
+8:31 to require a part-time coordinator at
+8:34 every single location. Freeing up your
+8:35 team to focus on the work that actually
+8:37 moves the needle. An AI blogger that
+8:39 pulls the client's services pages, the
+8:41 keywords they're targeting, the gaps in
+8:43 their existing content, and is able to
+8:45 produce a long-form article, researched,
+8:47 on brand, SEO structured, ready for
+8:50 review on autopilot. Across 30 clients,
+8:53 that's the kind of output that used to
+8:54 require a dedicated three-person content
+8:57 team. Now your existing team can handle
+8:59 it without burning out and with more
+9:01 consistent quality because every article
+9:03 now passes the same stringent QA layer.
+9:06 An AI SEO and AEO expert. This one's
+9:09 underrated and it might be the biggest
+9:11 opportunity for agencies right now. SEO
+9:13 is splitting in two. Classic search
+9:16 rankings on one side, AI answer engines
+9:18 on the other. ChatGPT, Perplexity,
+9:20 Claude, Gemini, they're all answering
+9:22 buyer questions. Your clients either
+9:24 show up in those answers, or they don't.
+9:26 Deploy an SEO AEO expert per client, and
+9:30 it runs both tracks. Auditing schemas,
+9:32 fixing the JavaScript hidden content
+9:34 that AI crawlers can't read, updating
+9:36 entity data, monitoring whether the
+9:38 client gets recommended when someone
+9:40 asks ChatGPT for businesses in their
+9:42 category. Agencies doing this
+9:43 consistently are seeing their clients
+9:45 show up in AI search results twice as
+9:47 often within a single month. And an AI
+9:49 social media employee that generates
+9:51 platform native content, not the same
+9:53 post copy pasted across every platform,
+9:56 but actually written for each one. It
+9:58 drafts captions, schedules posts, tracks
+10:00 what gets engagement, and uses the top
+10:02 performers to inform what gets made
+10:04 next. And in my next video, I'm going to
+10:06 show you exactly how to build this AI
+10:08 employee from scratch. The knowledge
+10:10 base, the prompts, the QA layer, and the
+10:12 publishing trigger. Front to back. So,
+10:14 if you've been wanting to see what one
+10:16 of these specialists actually looks like
+10:17 under the hood, hit subscribe and stay
+10:19 tuned. The AI chat [snorts] and voice
+10:20 receptionist that handles every inbound
+10:22 chat on the website and every inbound
+10:24 phone call after hours or when the front
+10:27 desk is slammed. It answers FAQs, books
+10:29 appointments, and captures leads. For
+10:31 service businesses losing money on
+10:33 missed calls, this one AI employee often
+10:35 pays for your entire retainer on its
+10:37 own. Stack those together and one client
+10:39 account is being run by seven or eight
+10:41 specialized AI employees all sharing the
+10:44 same knowledge base, all running on
+10:46 their own schedules. Level [snorts]
+10:47 four, the glue. But, multiple agents
+10:50 running independently with no operating
+10:51 view is just chaos with better branding.
+10:54 The human role only works if the human
+10:56 can actually see what the roster is
+10:58 doing, which is the last piece. The
+11:00 custom glue that connects all of it into
+11:02 one view. This is what you need. First,
+11:04 a unified client dashboard. One view per
+11:07 client showing every AI employee's
+11:09 activity. Reviews handled, articles
+11:11 published, SEO fixes deployed, leads
+11:14 captured, meetings booked. Color coded
+11:16 by health. Push notifications when
+11:18 something needs attention. Stops your
+11:20 account managers from logging into seven
+11:22 different platforms every morning.
+11:24 Second, a weekly client report
+11:25 generator. Pulls from every AI employee
+11:28 on the roster, writes the summary in a
+11:30 voice that matches your account
+11:31 manager's style, and pulls in the
+11:33 metrics that actually matter to that
+11:34 client. The report that used to take
+11:36 half a day now it takes only 10 minutes
+11:38 to review and send. And here's why most
+11:40 agencies will never get there even if
+11:42 they buy every tool I just described
+11:45 because there's one mindset shift
+11:47 underneath all of this and without it
+11:48 the system collapses back into the chaos
+11:50 we started with. Some agencies are using
+11:52 AI like a cheap intern. They open up
+11:54 Claude type give me 10 headlines paste
+11:57 the best one into a deck and call it
+11:58 done.
+11:59 AI as a faster cheaper junior. Same
+12:02 product lower cost slightly better
+12:03 margin. But here's the problem when
+12:05 every agency in your space is prompting
+12:08 the same tools the same way you all
+12:09 start producing the same content. AI
+12:11 doesn't create original ideas by
+12:13 default. It produces the most average
+12:15 version of everything it's ever been
+12:16 trained on and the average content
+12:18 doesn't stand out. The agencies leaning
+12:21 hardest on AI this way are becoming
+12:23 invisible and most of them don't realize
+12:25 it yet. The agencies winning right now
+12:28 aren't using AI to do things fast.
+12:30 They're using it to offer things they
+12:31 never could before. The AI reputation
+12:34 specialist isn't a junior employee
+12:35 writing quick review replies. It's
+12:37 performing like a senior brand expert
+12:39 available 24/7 at a price point that was
+12:42 never possible before. The AI blogger
+12:44 isn't a content intern. It's working
+12:46 like a senior strategist who has read
+12:48 every piece of content that client has
+12:49 ever published. The AI chat and voice
+12:51 receptionist is handling inbound leads
+12:53 like a full-time sales rep at 2:00 a.m.
+12:56 on a Sunday. Your clients couldn't hire
+12:57 a team like this. Neither could your
+12:59 competitors but you can build it for
+13:01 them.

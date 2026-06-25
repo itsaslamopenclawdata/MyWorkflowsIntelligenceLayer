@@ -2,11 +2,25 @@
 
 Auto-regenerated. One line per video, newest first. Sorted by published date, descending.
 
-**Last updated:** 2026-06-24 04:00 UTC
-**Total videos:** 99 across 13 channels
+**Last updated:** 2026-06-25 07:13 UTC
+**Total videos:** 113 across 13 channels
 
 | Date | Channel | Title | Duration | Video ID | Note |
 |------|---------|-------|----------|----------|------|
+| 2026-06-24 | Hyperautomation Labs | AI for People Who Aren't Techy — 7 Things to Try Tonight (Beginner's Guide) | 7:35 | [BvLZEMz1_gw](https://www.youtube.com/watch?v=BvLZEMz1_gw) | [note](channels/hyperautomation-labs/videos/2026-06-24_ai-non-techy-7-things-tonight.md) |
+| 2026-06-24 | Hyperautomation Labs | Hackers Hijack Your AI Coding Agent With a FAKE Bug Report | 10:07 | [D_GX6pSQZTM](https://www.youtube.com/watch?v=D_GX6pSQZTM) | [note](channels/hyperautomation-labs/videos/2026-06-24_hackers-hijack-ai-coding-agent-fake-bug.md) |
+| 2026-06-24 | Hyperautomation Labs | I Ranked the 10 People Who Actually Built AI (Honest List) | 15:42 | [GpNPTeksMg8](https://www.youtube.com/watch?v=GpNPTeksMg8) | [note](channels/hyperautomation-labs/videos/2026-06-24_ranked-10-people-built-ai-honest-list.md) |
+| 2026-06-24 | Hyperautomation Labs | An AI Approved a $1.4M Loan at 2:47 AM — How to Design Agentic AI Systems | 11:52 | [RGIcn7A3Cqs](https://www.youtube.com/watch?v=RGIcn7A3Cqs) | [note](channels/hyperautomation-labs/videos/2026-06-24_ai-approved-1-4m-loan-agentic-systems.md) |
+| 2026-06-24 | Hyperautomation Labs | The Best AI Tools in 2026 (Free & Simple) — Why That Viral "25K Comments" List | 10:33 | [VCXropruwRI](https://www.youtube.com/watch?v=VCXropruwRI) | [note](channels/hyperautomation-labs/videos/2026-06-24_best-ai-tools-2026-free-simple-25k-list.md) |
+| 2026-06-24 | Hyperautomation Labs | Set This Up Once & Every AI Knows Your Business Forever (Claude, ChatGPT, Gemini) | 10:39 | [b_zz06vcPrE](https://www.youtube.com/watch?v=b_zz06vcPrE) | [note](channels/hyperautomation-labs/videos/2026-06-24_setup-once-every-ai-knows-your-business.md) |
+| 2026-06-24 | Hyperautomation Labs | Run AI On Your Laptop for FREE — Private, Offline, No GPU (Full Guide) | 10:55 | [bjLPFQ4AzaE](https://www.youtube.com/watch?v=bjLPFQ4AzaE) | [note](channels/hyperautomation-labs/videos/2026-06-24_run-ai-laptop-free-private-offline-no-gpu.md) |
+| 2026-06-24 | Hyperautomation Labs | Anthropic Will Pay You $85,000 to Learn AI — Claude Corps Explained (No Degree) | 10:00 | [pEQXP5UqDNo](https://www.youtube.com/watch?v=pEQXP5UqDNo) | [note](channels/hyperautomation-labs/videos/2026-06-24_anthropic-claude-corps-85k-learn-ai-no-degree.md) |
+| 2026-06-24 | Hyperautomation Labs | 10 Tiny Apps Making $30K to $1M a Month (Built With AI) | 13:47 | [zbAmmnMh5ew](https://www.youtube.com/watch?v=zbAmmnMh5ew) | [note](channels/hyperautomation-labs/videos/2026-06-24_10-tiny-apps-making-30k-1m-month-ai.md) |
+| 2026-06-23 | Hyperautomation Labs | Claude Tag: Anthropic Put an AI Teammate in Your Slack — Build Your Own | 10:03 | [T3gtaijgdrc](https://www.youtube.com/watch?v=T3gtaijgdrc) | [note](channels/hyperautomation-labs/videos/2026-06-23_claude-tag-anthropic-ai-teammate-slack.md) |
+| 2026-06-23 | Hyperautomation Labs | Top 10 Trending GitHub Repos This Week — 5 Are Secretly ONE Idea | 12:08 | [VeNWtD_eN2s](https://www.youtube.com/watch?v=VeNWtD_eN2s) | [note](channels/hyperautomation-labs/videos/2026-06-23_top-10-trending-github-repos-week-5-one-idea.md) |
+| 2026-06-23 | Hyperautomation Labs | Claude Designs Like a $10K Agency (If You Use These 7 Prompts) | 10:53 | [tnlfiR_0XoE](https://www.youtube.com/watch?v=tnlfiR_0XoE) | [note](channels/hyperautomation-labs/videos/2026-06-23_claude-designs-10k-agency-7-prompts.md) |
+| 2026-06-23 | Hyperautomation Labs | Cursor's CEO: 95% of Developers No Longer Write Code (Here's How They Work Now) | 9:36 | [u4BzHKcKuDw](https://www.youtube.com/watch?v=u4BzHKcKuDw) | [note](channels/hyperautomation-labs/videos/2026-06-23_cursor-ceo-95-developers-no-longer-write-code.md) |
+| 2026-06-23 | Hyperautomation Labs | Anthropic Employees Use Claude Skills Like THIS (Copy Their System) | 11:00 | [zTdjMfusSY8](https://www.youtube.com/watch?v=zTdjMfusSY8) | [note](channels/hyperautomation-labs/videos/2026-06-23_anthropic-employees-claude-skills-system.md) |
 | 2026-06-23 | Greg Isenberg | GLM 5.2: Set Up Local AI with Cursor/Codex etc | 22:45 | [xa-9O5cDm3c](https://www.youtube.com/watch?v=xa-9O5cDm3c) | [note](channels/greg-isenberg/videos/2026-06-23_glm-52-local-ai-cursor-codex-setup-amir.md) |
 | 2026-06-22 | Vendasta | Automate This in Any Local Business First (Easiest $20-50K/year) | 8:32 | [ic8Y8nIG7TE](https://www.youtube.com/watch?v=ic8Y8nIG7TE) | [note](channels/vendasta/videos/2026-06-22_automate-local-business-first-easiest-20-50k-year.md) |
 | 2026-06-21 | Sharbel A. | 7 Hermes Desktop Hacks That Will Change Your Life | 25:03 | [6kGXn-j16QM](https://www.youtube.com/watch?v=6kGXn-j16QM) | [note](channels/sharbel/videos/2026-06-21_7-hermes-desktop-hacks-change-your-life.md) |

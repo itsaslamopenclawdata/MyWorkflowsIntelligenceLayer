@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "last_updated": "2026-06-23",
+  "last_updated": "2026-06-25",
   "channels": [
     {
       "name": "Hyperautomation Labs",
@@ -12,8 +12,8 @@
       "category": "ai-automation",
       "priority": "high",
       "added_on": "2026-06-06",
-      "last_seen_video_id": "7O4WwH-yCZE",
-      "last_seen_published": "2026-06-23T08:53:00+00:00",
+      "last_seen_video_id": "zbAmmnMh5ew",
+      "last_seen_published": "2026-06-24T00:00:00+00:00",
       "min_duration_seconds": 300,
       "skip_rule": null,
       "enabled": true

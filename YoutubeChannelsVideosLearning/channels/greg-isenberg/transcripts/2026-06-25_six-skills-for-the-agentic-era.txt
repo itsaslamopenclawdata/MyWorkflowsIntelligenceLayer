@@ -1,0 +1,789 @@
+# Transcript: "Learn AI" Is Bad Advice. Learn This Instead
+# Channel: Greg Isenberg
+# Duration: 1793s
+# Video ID: jJIOA4GroBw
+
+0:00 Imagine it's a few years from now. AI
+0:02 can build almost anything, write almost
+0:04 anything, and do most of the tasks
+0:06 people used to get paid for. In that
+0:09 world, [music]
+0:09 I got to ask, what skill is still
+0:12 valuable? I've been thinking about this
+0:14 non-stop, [music]
+0:15 and I've narrowed it down to six core
+0:18 skills. None of them require a fancy
+0:20 degree or connections, and all of them
+0:22 could be started this weekend. And every
+0:25 single one of them gets [music] more
+0:26 valuable as AI gets better, not less. By
+0:30 the end of this episode, you'll learn
+0:31 the six most valuable skill sets on the
+0:34 planet with some tips to get started.
+0:37 I'm going to go through each of them
+0:38 super clearly, so you'll understand
+0:40 where the world is going, what you need
+0:42 to learn,
+0:43 >> [music]
+0:43 >> and just concretely
+0:45 how to get started. Let's not waste any
+0:48 time, [music] and let's go right through
+0:49 it.
+0:55 >> [music]
+0:57 >> So, the first skill that I think is the
+1:00 most valuable skill right now is
+1:02 people who can set up agents properly,
+1:05 manage them, and run local AI models.
+1:09 This is basically the grown-up version
+1:11 of prompt engineering. So, a lot of
+1:13 people learned how to type a good prompt
+1:15 into ChatGPT, which is useful, but the
+1:18 next layer is being able to design a
+1:20 little AI employee that has contacts,
+1:23 that has tools, that has permissions,
+1:25 that has memory, that has a goal, and a
+1:28 way to check its own work before it
+1:31 bothers you. That skill, that little
+1:34 skill, is going to be valuable because
+1:37 most companies are about to have the
+1:39 exact same problem.
+1:41 They're going to have 10 AI tools, 50
+1:44 workflows, a bunch of half-working
+1:47 automations, and nobody understands how
+1:50 to turn that into an operating system,
+1:52 which is what they really want. The
+1:54 person who can walk in and say, "Hey,
+1:56 here's a customer support agent, here's
+1:58 a research agent, here's the sales
+2:00 follow-up agent, here are all are all
+2:03 the rules, here's what it's allowed to
+2:05 do, here's where it needs approval,
+2:07 here's how we know if it's working."
+2:09 That person becomes really, really hard
+2:12 to replace.
+2:13 And the local AI part, which I've talked
+2:16 about on this channel before, I've done
+2:17 a couple videos on it,
+2:19 is important because there are certain
+2:22 workflows where privacy or cost, you
+2:24 know, the prices of these models are
+2:26 going up and up, latency or control
+2:29 matter a lot. If you could run these
+2:32 models locally with something like
+2:34 Ollama, LM Studio, you start to
+2:36 understand what can happen on your own
+2:39 machine and what needs the cloud and
+2:42 what needs to touch private docs and
+2:44 what should stay behind the wall and how
+2:46 this all interact. So, I think this
+2:48 whole idea around local is going to be
+2:50 more and more important as time goes on.
+2:53 Even if, cuz a lot of people, you know,
+2:55 in the comments will say, "Well, local
+2:57 models are going to going smaller." Even
+2:59 if local models go smaller, you learn
+3:02 the architecture for the future. You
+3:04 learn which jobs need a giant brain and
+3:08 which jobs just need a reliable worker
+3:10 that never sleeps. So,
+3:13 what would I do? What's a rep I would do
+3:14 to learn this skill set? The first rep I
+3:17 would do
+3:18 is simple.
+3:19 Build a daily briefing agent for
+3:22 yourself. Give it three sources. Give it
+3:25 your calendar. Give it a folder of notes
+3:28 and give it a few a few saved links. And
+3:31 its job is to tell you what matters
+3:34 today, what decisions are waiting for
+3:36 you, and what follow-ups you owe people.
+3:40 Then, you can add one rule.
+3:43 You can say it has to show sources and
+3:46 ask for approval before sending
+3:48 anything. That one project teaches you
+3:51 context, it teaches you retrieval, it
+3:54 teaches you tool use, it teaches you
+3:56 permissions, and it teaches you evals.
+3:59 So, it might sound small and maybe a
+4:01 boring first agent to build, but I I
+4:04 believe that that is basically the shape
+4:07 of every serious agent inside a company.
+4:11 The mistake people, I think, make is
+4:13 they try to build an all-knowing agent
+4:16 first, these really big agent pro
+4:17 projects.
+4:19 The better move is basically just to
+4:20 build small agent to start, get it to be
+4:23 very valuable, schedule it, have a clear
+4:26 success metric, um and, you know, the
+4:30 success metric might be did it save me
+4:32 10 minutes? Did it catch something I
+4:34 would have missed? Did it produce
+4:36 something I would have actually used?
+4:39 Um if the answer is that is yes, then
+4:40 you're learning the skill.
+4:43 So, that's the first
+4:45 super super valuable skill. And by the
+4:47 way, this is in no particular order.
+4:48 These are just the six that, you know,
+4:50 the more you know, the better. The
+4:52 second skill is marketers who know how
+4:55 to build distribution.
+4:57 I think this one is underrated because
+4:59 people confuse distribution with
+5:01 posting.
+5:03 Uh distribution is way more deeper than
+5:05 just like posting on social media. It's
+5:08 knowing where attention already lives,
+5:11 what people are already anxious about,
+5:14 what language they use when they
+5:16 describe the problem, and how to turn
+5:18 that into trust before you ask them to
+5:21 buy anything. And in AI world, we all
+5:24 know building products are, you know, is
+5:26 really easy. Uh building demand is just
+5:29 getting more and more important. So,
+5:31 when anyone can ship a landing page or
+5:32 an app,
+5:34 you know, or build a SaaS, uh the bottle
+5:37 the bottleneck moves to the question of
+5:39 can you make people care? And that's
+5:41 where someone who's really good at
+5:42 distribution uh is a pro app. So, the
+5:46 marketers who are going to win in this
+5:48 agentic era are going to be part
+5:50 researcher, they're going to be part
+5:53 storyteller, they're going to be part
+5:55 media operator, and they're going to be
+5:57 a part community builder. They're
+5:59 basically going to know how to take one
+6:02 insight and turn it into a tweet, uh a
+6:05 short-form video,
+6:07 uh a YouTube title, a newsletter angle,
+6:10 a landing page headline, a founder
+6:12 story, and a sales conversation. So, in
+6:14 a sense, it's almost like a marketer is
+6:17 becoming like a general a generalist
+6:19 marketer. We're seeing this as a as a
+6:21 greater trend, like people are becoming
+6:22 generalists, they can do multiple things
+6:25 because if the if their job is to manage
+6:26 agents, uh they need to understand
+6:29 different components of that. And that's
+6:30 exactly what's happening in the
+6:32 distribution marketing
+6:34 uh world.
+6:36 So, the first rep I would do if I'm
+6:38 trying to learn distribution, uh is I
+6:41 would do a distribution map. So, I'd
+6:43 pick a niche I care about, uh like
+6:46 dentists using AI or solo consultants,
+6:49 maybe real estate agents, Shopify
+6:52 operators, whatever. Could be a business
+6:54 that you want to start or you you know
+6:55 you're you've you're building already.
+6:58 Then, write down the 20 places the
+7:00 attention their attention
+7:03 uh goes. Uh so, like the newsletters,
+7:05 the creators they pay attention to,
+7:07 maybe it's like Reddit threads that get
+7:09 popular, Slack groups, podcasts, events,
+7:13 search terms, the tools they already pay
+7:15 for.
+7:16 After that, write one painful sentence
+7:19 they would actually say out loud,
+7:20 something like
+7:22 um I know I should follow up with leads
+7:24 faster, but by the time I sit down and
+7:27 do it, half of them are cold.
+7:29 That sentence is where distribution
+7:31 starts because you're getting you're
+7:33 basically like
+7:34 transporting or or yourself into their
+7:37 shoes.
+7:38 Um then you should do the second rep, so
+7:41 the the evolution of this. Write 20
+7:43 hooks for the same idea. Make some
+7:46 curiosity hooks, some fear hooks, some
+7:50 status hooks, some money hooks, some I
+7:53 wish I knew this earlier hooks. If you
+7:56 want to become great at distribution,
+7:58 you don't you're not you don't want to
+8:00 ask yourself, "How do I promote this?"
+8:02 after the product is already done,
+8:04 right? So, you want to start asking
+8:05 yourself, "What existing desire am I
+8:09 pointing this at?" before you built. And
+8:12 I think that that shift alone, that
+8:14 mindset is going to change the quality
+8:18 of your ideas, and that's what makes
+8:20 someone who's really good at, you know,
+8:21 distribution in this era. So, you know,
+8:24 TLDR
+8:26 on on distribution
+8:28 is you want to put yourself in their
+8:30 shoes,
+8:31 and you want to be this like part
+8:34 storyteller, part um
+8:37 uh researcher, part media operator, and
+8:40 and really just have a lot of
+8:43 shots on net in this in this world
+8:45 because, you know, some some are going
+8:47 to win and some aren't going to win.
+8:49 Um and on this on the Startup Ideas
+8:51 podcast, on this channel,
+8:53 um
+8:54 you know, I'll share more of these tools
+8:55 as as I'm learning in real time. So, you
+8:58 know, feel free to like, comment, and
+9:00 subscribe to to get more of this in your
+9:02 feed.
+9:03 The third most valuable skill is
+9:05 robotics engineers who can basically
+9:08 build hardware, wire in AI, and source
+9:11 manufacturing. Now, I know that most
+9:14 people, probably a very small percentage
+9:16 of people, actually has any uh
+9:20 experience in robotics engineers. But,
+9:22 the reason why I put this in here,
+9:25 um before I explain exactly how to do
+9:28 it, is because, you know,
+9:31 software was an incredible business uh
+9:34 for last 20 years, building SaaS. And
+9:36 there's still opportunities in in
+9:38 building SaaS, building consumer mobile
+9:40 apps, enterprise apps,
+9:42 but the mode is is moving to hardware.
+9:45 And I'll explain more
+9:47 uh I'll explain more about this.
+9:49 So, um and by the way, I think a lot of
+9:53 people are sleeping on this. Um
+9:55 basically, the last decade, the internet
+9:57 rewarded people who moved pixels around.
+10:01 Uh I was one of those people. Um but the
+10:03 next decade is going to reward people
+10:05 who can move atoms around, too. That was
+10:08 like my big insight. Um robotics used to
+10:11 be this PhD-feeling thing, expensive
+10:14 parts, custom hardwares, weird tooling,
+10:17 long timelines. You had to go to school,
+10:19 get a PhD in robotics to go and build
+10:21 something like that. But now, the world
+10:23 we live in is is a lot different. You
+10:25 have this open-source robot learning
+10:28 projects, you have cheap cameras, you
+10:30 have low-cost arms, you have better
+10:32 simulation, you have multimodal uh motor
+10:35 models, and you have community-sharing
+10:37 data data sets.
+10:39 So, you have, you know, companies like
+10:41 Hugging Face, who has Lo Robot, which is
+10:44 basically trying to make robot learning
+10:46 more accessible. And even on Hugging
+10:48 Face, which is like a uh a d- almo-
+10:51 almost like the way I think about it is
+10:52 like a database of all these open-source
+10:54 projects that you can go and download
+10:56 those repos,
+10:57 you can find something some some some
+11:00 really interesting open-source
+11:01 technology and inject it into a robot,
+11:04 uh and who knows, that could be the next
+11:06 big thing the next big thing.
+11:09 Um there's low-cost arm projects like
+11:12 SO-100 and the SO-101 ecosystem. And
+11:15 there's also smaller uh
+11:17 vision-language-action models like the
+11:20 uh small VLA that are pushing towards
+11:22 robot policies you can train and run
+11:26 without needing some
+11:27 uh giant industrial setup.
+11:29 So, the interesting thing here is it
+11:32 goes beyond the AI layer. Uh It's the
+11:35 person who can make the whole loop work,
+11:37 right? So, it can you get a cheap arm on
+11:40 your desk? Can you mount the camera? Can
+11:43 you collect demonstrations? Can you
+11:45 train or fine-tune the model? Can you
+11:47 make the robot repeat one useful task?
+11:50 Can you look at a supplier listing in
+11:52 China and understand if this thing's
+11:54 actually manufacturable? So, the person
+11:57 that can do all three, the building the
+11:58 hardware,
+11:59 wiring in the AI, sourcing
+12:01 manufacturing, understanding that, come
+12:03 on, that is just some skill set to to
+12:06 know. And this is something that I'm
+12:07 learning in real time
+12:10 because I think it's so important.
+12:12 If I wanted to learn this skill,
+12:15 my first
+12:16 rep would be extremely concrete. So, I
+12:19 would buy
+12:20 or assemble a low-cost robot arm. You
+12:24 can add a cheap camera to that.
+12:26 And then I would teach it one boring
+12:28 task like sorting three objects,
+12:32 pressing a button, or moving it from one
+12:34 tray to another.
+12:36 Then I would document every failure. The
+12:38 camera angle was was bad maybe or the
+12:41 lighting changed.
+12:42 Maybe the gripper slipped or the data
+12:45 set was too small.
+12:47 The model looked smart in one setup and
+12:49 then fell apart when the object moved
+12:51 like 2 in.
+12:53 That's kind of the point. This is how
+12:54 you learn a skill.
+12:56 Robotics specifically teaches humility
+12:59 humility pretty quickly
+13:02 and that's the humility that becomes
+13:04 your expertise.
+13:05 On the sourcing side, this is really
+13:07 important. I would learn the basics of
+13:09 working with suppliers. A lot of us
+13:11 listening to this podcast, you know,
+13:13 we're we're software people. We like
+13:15 digital products.
+13:17 But it's also important to learn
+13:18 physical products, too, cuz of all the
+13:20 opportunities that are coming. So, go on
+13:23 Alibaba or similar uh, marketplace. I'm
+13:26 not affiliated with Alibaba,
+13:28 um,
+13:29 and study how components are sold. Ask
+13:31 for a sample before you talk about bulk.
+13:34 Um, you can ask for motor specs, you can
+13:36 ask for controller board details. Uh,
+13:39 you can ask for CAD files if they exist.
+13:41 Uh, replacement parts, lead times,
+13:44 minimum order quantity, shipping terms,
+13:47 and a short video of the part doing the
+13:49 exact thing that you need. So, you're
+13:52 you're going to be learning a new
+13:53 language, um, and the language is, you
+13:56 know, can this actually be made,
+13:58 shipped, repaired, uh, and used by a
+14:01 normal person?
+14:03 Um, this skill is so rare, uh, because
+14:05 it sits between worlds. Uh, software
+14:07 people often avoid hardware,
+14:10 um, and hardware people sometimes avoid
+14:12 distribution and NAI. So, the person who
+14:15 could connect open-source AI models,
+14:18 physical prototyping, and manufacturing
+14:21 has a shot at building things that feel
+14:23 like science fiction, but sell like
+14:25 practical tools, and I think there's
+14:27 just so much opportunity here.
+14:29 The fourth undeniable skill to learn
+14:32 right now is curate- curators. So,
+14:35 understanding how to curate, who are
+14:37 good at yapping, and can do short-form
+14:40 video in their sleep. I'm sure you've
+14:42 seen these people, uh,
+14:45 you know, yapping, uh,
+14:47 on Instagram, and they're taking over
+14:49 your algorithm. And I mean yapping in in
+14:52 the best possible way. You know, the
+14:53 internet is drowning in information, and
+14:56 the person who can make sense, uh, of it
+14:58 in public, um,
+15:00 is, you know, very valuable. And
+15:02 curation has evolved past past like,
+15:05 here's five links in a newsletter,
+15:06 right? Curation is like, uh, here's, you
+15:10 know, five products that I think in this
+15:12 niche that you'd really like, and
+15:14 explained in a really storytelling,
+15:16 really cool way.
+15:17 So, the curator of the agentic era
+15:20 watches the timeline and says, this
+15:22 matters because {dot} {dot} {dot}." Like
+15:24 they understand that. They can see a new
+15:26 model demo or a weird startup launch or
+15:29 a robotics clip, a policy change, a news
+15:31 item, a pricing update, a story about
+15:34 XYZ, and they can translate it for that
+15:37 particular niche. What should you learn?
+15:40 What should you ignore? What should you
+15:42 try this weekend? What is hype? What is
+15:44 actually useful? So, to be amazing at
+15:46 content, this is sort of the big
+15:47 insight, uh, which might sound obvious,
+15:50 but the the the insight is like, you
+15:53 know, you don't need to be super smart
+15:55 to
+15:57 get millions of followers in social
+15:59 media or or just doesn't even be
+16:01 millions, get 50,000, 100,000 followers
+16:04 in a niche and build an incredible
+16:06 business around that,
+16:07 um,
+16:09 by creating net new content. You can
+16:12 just look at what's happening in your
+16:14 niche and curate really interesting
+16:17 things in short form in an authentic
+16:20 way where you're just yapping to your
+16:23 phone and the algorithms right now are
+16:25 prioritizing yapping. Why they
+16:28 prioritizing yapping?
+16:30 They are prioritizing it because they
+16:33 are seeing AI slop move into the
+16:34 timeline and people are getting tired of
+16:36 that. People don't want that, right? So,
+16:38 there's nothing more raw than authentic
+16:40 and being like, "Hey, my name is Greg
+16:42 Eisenberg and I suffered from XYZ, um,
+16:45 until I found these like five really
+16:47 interesting products or this story or I
+16:49 met this person that helped me and let
+16:51 me tell you about it."
+16:53 That is the type of content that the
+16:56 algorithms in the timeline are
+16:58 promoting. So,
+17:00 before I give you the rep, actually, I
+17:02 would say like the yapping matters so
+17:04 much, like learning how to yap is just
+17:06 is is just such a good skill,
+17:09 um,
+17:10 and the people who are great at it,
+17:13 frankly, uh, make you feel like you're
+17:15 getting in this like group chat of a
+17:17 research report because it's fast, it's
+17:19 opinionated, it's useful, and a little
+17:21 entertaining. Um you know those people
+17:24 in your niche that you see them yapping
+17:25 and you're like, "Oh my god, they're
+17:27 Like I feel like I know this person,
+17:29 right?" So, let's say you wanted to
+17:31 actually, you know, become a curator
+17:34 {slash} yapper or learn about it, I
+17:36 would do uh a 7-day curation sprint. So,
+17:39 for 1 week, pick a lane. Um maybe it's
+17:42 AI agents for real estate, maybe it's
+17:45 robotics for small businesses.
+17:47 You know, whatever niche it is. But
+17:49 every day, find three things and make
+17:52 one short video using the same
+17:54 structure.
+17:55 I saw this. Most people will think it
+17:58 means this. I think it actually means
+18:01 this. Here's the move.
+18:03 That structure forces you to have a
+18:05 take, which is the difference between
+18:07 curation and forwarding links.
+18:09 The thing with a lot of yappers and
+18:12 curators that do what they do really
+18:14 well is they have a take. They're either
+18:16 anti-something or pro-something. So,
+18:18 have a take, right? Um the key thing
+18:21 here is you're going to want to build uh
+18:23 you know, some people call a swipe file,
+18:25 some people call it a taste file.
+18:27 Basically, a document of examples you
+18:30 love. Great hooks, great analogies,
+18:33 great titles, weird use cases, comments
+18:36 that reveal what people are like
+18:38 genuinely confused about. Curators are
+18:41 obviously only as good as their taste
+18:43 inputs. So, if your inputs are generic,
+18:46 your outputs are going to be generic. Um
+18:48 if your inputs are weird and specific
+18:50 and high signal, people are start are
+18:53 going to start coming to you and
+18:54 trusting you
+18:56 because you consistently find the thing
+18:58 before they do. So, it's worth you're
+19:00 worth the follow.
+19:02 Um so, that's an incredible skill set to
+19:04 learn. Um the next skill set, uh the
+19:08 fifth skill set,
+19:10 is what I call the building distributor.
+19:13 So, it's the person who can ship both
+19:14 the product and get in front of people.
+19:18 So, this might be the most important
+19:20 skill set if you're a founder, if you
+19:21 want to build a business,
+19:24 um
+19:24 because for years,
+19:26 uh there was this clean split.
+19:28 Uh one person would build and one person
+19:31 would sell.
+19:32 You know, you'd have your Wozniak, who
+19:34 was like the technical person, and then
+19:35 you'd have your Steve Jobs, who was like
+19:37 the marketer salesperson.
+19:39 You know, one person writes code, one
+19:41 person writes copy, one person makes the
+19:43 thing, one person gets the attention.
+19:45 And AI in this agentic world is com-
+19:48 compressing the split.
+19:50 So, one person now could prototype the
+19:52 product, make the landing page, you
+19:54 know, write the launch thread, you know,
+19:56 make a video about it, record the demo,
+19:58 DM the first 100 users, edit short-form
+20:00 clips, iterate based on feedback,
+20:03 pretty, you know, pretty much
+20:04 everything.
+20:04 Um so, that person has the leverage
+20:07 because they don't have to wait for the
+20:09 handoff. They can complete the loop
+20:11 themselves, so nothing really gets lo-
+20:13 uh lost. So, the loop is the whole game,
+20:17 because if you built something small and
+20:18 you put it in front of people, uh watch
+20:21 where they get confused, you know,
+20:22 change the product, change the story,
+20:24 try again. Most people only do half.
+20:27 They build it in private forever or they
+20:29 talk about it in public forever and they
+20:32 actually never ship the thing. The
+20:33 builder distribu- distributor uh learns
+20:37 by cycling between both.
+20:39 I think um
+20:41 this is so cool because I think that,
+20:43 you know, when people talk about the
+20:44 one-person, one-billion-dollar startup,
+20:47 you know, Sam Altman talks about it, um
+20:50 you know, I think that person is going
+20:52 to be the builder distributor. And when
+20:54 you start seeing people like Peter who
+20:56 who founded Open Claw, you can tell that
+20:58 he's not only incredible at building,
+21:01 like he built an incredible thing with
+21:03 Open Claw technically, but he also is,
+21:06 you know, if you go to his acts and you
+21:07 just see how he speaks, he's an
+21:09 incredible marketer, too. And and he's
+21:12 incredible at, you know, doing customer
+21:14 support and so many things just by
+21:16 little things, you know, I don't know
+21:17 him personally, but just little things
+21:18 that I've picked up on.
+21:20 This is one of those people, right? Um
+21:23 so, let's say you want to be um
+21:26 good at this skill. Well, you know,
+21:27 what's what's a one quick thing that you
+21:29 can start by honing in on your skill.
+21:32 So,
+21:33 I would do what's called a 48-hour loop.
+21:36 So, pick one tiny problem you personally
+21:40 understand, and then build the smallest
+21:42 version with AI.
+21:44 Um it can be ugly. Uh it can be a
+21:46 script,
+21:47 a form, a simple web app, an automation,
+21:50 uh you know, anything. Then create 10
+21:53 pieces of distribution for it before you
+21:55 even feel ready. So, that could be one
+21:57 demo video, three short clips,
+22:00 you know, maybe three posts, two DMs to
+22:03 people who have the problem, and then a
+22:04 landing page. You're basically training
+22:07 yourself to stop step separating the
+22:09 product from the market. So, what's
+22:11 powerful is that AI makes the building
+22:13 part faster. We all know this.
+22:15 So, the marketing part uh learning can
+22:18 start way earlier. Uh you don't need to
+22:21 spend now 6 months wondering if people
+22:22 want it. You spend a weekend building
+22:25 enough to earn a real reaction, and then
+22:27 the builder distributor is dangerous
+22:29 because now all of a sudden you can turn
+22:31 attention into product feedback and
+22:33 product feedback into better attention.
+22:37 So, it's this beautiful loop that you
+22:38 can end up uh be building. Um and the
+22:40 only way to become an in in incredible
+22:43 builder distributor is you got to spend
+22:46 more time building, and then spend more
+22:48 time launching and distributing, and
+22:50 then building that loop. Um I talk a lot
+22:53 about on this channel this concept of
+22:54 the ACP funnel. It's how it's the future
+22:57 of building businesses. You know, you
+22:59 build audience at the top, then you
+23:02 convert that to community, and then you
+23:04 build a product there, and that's also a
+23:06 loop that
+23:08 uh you know, the builder distributor uh
+23:10 is excellent at.
+23:12 The last skill that I think is just so
+23:15 valuable in this era is IRL community
+23:19 builders. So, this one feels almost old
+23:21 school, especially, you know, because we
+23:23 talked about like AI robotics and
+23:25 open-source technology and local AI, but
+23:28 that's kind of like that's kind of why I
+23:29 like it. Um as more work moves to agents
+23:33 and chats and tools and feeds, real
+23:36 rooms actually become more valuable.
+23:39 People still want to meet other
+23:41 ambitious people. Uh they still want to
+23:43 meet people like them uh who are into
+23:45 the same things that they might be into.
+23:48 Um
+23:48 and they also still want trust, and they
+23:50 want energy, and they want to be around
+23:53 others who who teach them things or who
+23:56 are they just entertained by. So, AI
+23:58 makes content abundant. Um it makes
+24:02 software abundant. It makes advice
+24:03 abundant. Um so, where does scarcity
+24:06 move towards? Well, scarcity moves
+24:08 towards belonging, trust, and contexts.
+24:11 Who do you actually know?
+24:13 Who would answer your text? Who would
+24:16 help you hire?
+24:17 Who would you intro- who would introduce
+24:19 you to a customer? Who would tell you
+24:21 the honest version of what's happening
+24:24 in their market? The IRL community
+24:27 builder knows how to create that. They
+24:30 know how to pick the right room, set the
+24:31 right topic, invite the right mix of
+24:33 people, and create a ritual that people
+24:35 want to come back to.
+24:37 A great community is actually more like
+24:38 a habit than an event.
+24:41 Same time, same kind of people,
+24:44 same promise, better conversations each
+24:46 time.
+24:47 The first uh rep, if I was trying to get
+24:49 good at IRL events, which
+24:53 by the way, I should I should note like
+24:55 there's hundreds of millions or
+24:58 you know, billions of dollars up for
+24:59 grabs for people who can create
+25:01 incredible events. And I'm not just like
+25:03 pulling numbers well, you know, just
+25:05 like randomly like you can look at huge
+25:08 event companies
+25:10 that just absolutely crush it selling
+25:13 events. Like you know, if you even look
+25:15 at tech like look at
+25:17 SaaStr. I think Jason Lemkin created an
+25:20 event all around SAS. And you know, I
+25:24 think he's probably shared some of his
+25:25 numbers like they're massive. If you
+25:27 look at
+25:28 South by Southwest, you know, these are
+25:30 huge events.
+25:33 You know, these are there's just a lot
+25:35 of opportunity. I think that and I think
+25:36 like
+25:37 in general
+25:39 people don't want massive events
+25:41 anymore. They actually want these kind
+25:43 of smaller more bespoke events and
+25:45 that's where the opportunity lies.
+25:47 Okay, so let's say you wanted to get
+25:50 good at being the IRL community builder
+25:53 person. You know, what's one little
+25:55 thing that you can do to learn the
+25:57 skill? Well, why not why not host you
+25:59 know, six seven eight people around one
+26:03 sharp question?
+26:04 So you don't start with this massive
+26:05 event. You start with like a dinner or a
+26:08 walk a hike a breakfast.
+26:11 And the question could be you know, if
+26:14 it could be something like
+26:16 what skill are you learning because of
+26:17 AI? Let's say if you wanted to build a
+26:19 community around AI it would be
+26:21 something like that. Or what are you
+26:23 automating in your company right now or
+26:25 what do you think everything in tech is
+26:27 is missing? And then you invite people
+26:29 who can actually answer it. Then after
+26:31 the event you send a short recap with
+26:33 the best quotes, inside jokes maybe
+26:36 ideas and what one follow-up everyone
+26:39 should do.
+26:40 The recap is important because it turns
+26:42 the room into a network. So that's the
+26:44 whole goal with the whole IRL community
+26:46 builder. How do you turn these rooms
+26:49 into a network? Because that's what
+26:50 creates memory. And it gives people a
+26:53 reason to forward it. It makes the next
+26:55 invite easier. So over time, the room
+26:59 becomes a media asset, a recruiting
+27:01 asset, a deal flow asset, and honestly,
+27:04 a life asset. So I think this skill
+27:07 pairs beautifully with others. The agent
+27:09 person who can build tools for the
+27:11 community, the marketer can grow it, the
+27:14 curator can turn the best conversations
+27:17 into content, the builder distributor
+27:19 can launch products from it, the
+27:21 robotics person can bring the weird
+27:23 demos, and that's when it starts getting
+27:25 really interesting. So,
+27:27 um there you have it. Those are the six
+27:29 skills that I think matter most in the
+27:31 agentic uh era. So, TLDR, what are the
+27:35 six skills? One, people who can set up
+27:37 agents properly, manage them, and run
+27:40 local models. Two, marketers who know
+27:42 how to build distribution. Three,
+27:45 robotic engineers who can build
+27:46 hardware, wire in AI, and source
+27:49 manufacturing. Four, curators who are
+27:51 good at yapping and can do short-form
+27:53 video in their in their sleep.
+27:56 Five, the builder distributor, the one
+28:00 person who can both ship the product and
+28:03 get in front of people. And six, the IRL
+28:06 community people uh the the IRL
+28:09 community builder who's bringing people
+28:11 into these rooms and starting networks
+28:13 from an IRL perspective.
+28:15 The bigger point of all this is
+28:18 that the future favors the person who
+28:21 can combine all these capabilities.
+28:24 Um there's obviously too many tools to
+28:26 know all of them, and the advantage goes
+28:28 to the people who know how the pieces
+28:30 fit together. Can you make agents uh
+28:33 useful? Can you get attention? Can you
+28:36 build physical things? Can you explain
+28:38 what matters? Can you ship and
+28:39 distribute? Can you bring together in
+28:41 real life? That is that skill stack, and
+28:44 this is the six skill stacks that, you
+28:47 know, pick one and you know you don't
+28:49 have to be amazing at all six but pick
+28:51 one and get dangerous. You know pick two
+28:53 and you have some leverage.
+28:55 Um but pick three and you become you
+28:57 know the kind of person that everyone
+28:59 wants on the team in the room or
+29:01 building the company.
+29:03 Um we're in for a crazy next 5 10 15
+29:07 years about what's going to happen
+29:09 uh in the job market in the economy. No
+29:11 one really really knows. But the one
+29:14 thing we do know is that knowing these
+29:16 skills or or skills in general it's
+29:20 going to make you it is your defense. It
+29:22 is your shield. You know I believe that.
+29:24 So I wanted to make this episode because
+29:27 um I think a lot of people like know
+29:29 that they should be doing something but
+29:31 they're not sure what they should be
+29:32 doing. So I wanted to put just this into
+29:35 one place that's really simple
+29:37 easy to understand the six most
+29:39 important skills. You know share this
+29:41 with a friend who you know might might
+29:43 and this might be helpful to. Uh hope it
+29:46 hope it has been helpful to you. And
+29:48 I'll see you at the next one. Thank you
+29:50 so much and have a creative day.

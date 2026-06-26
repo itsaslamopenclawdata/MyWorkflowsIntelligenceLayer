@@ -1,0 +1,754 @@
+# Transcript: New AI Drops: AI does your work, Claude in Slack, cheap AI & more
+# Channel: The Next New Thing
+# Duration: 1430s
+# Video ID: SMIuRWtbO9Y
+
+0:00 Do you want a one-click way to give you
+0:01 and your team open claw? Well, I've got
+0:03 two different companies that launched a
+0:04 way for you to do that. Hate spending
+0:05 money on AI costs? Well, I've gotten a
+0:07 new thing from open router that will
+0:09 make it super easy for you to save money
+0:11 and get the best value and the best
+0:12 results. Ooh, and I've got an easy way
+0:14 for you to take any idea you have in one
+0:16 shot have it created and so much more
+0:18 launch this week. We've got links right
+0:20 here so you can click along and follow
+0:22 and of course everything will be in the
+0:23 description. Let's get into it.
+0:25 Presented by Zapier, the AI automation
+0:28 company. All right, Corey, the number
+0:30 one story of the week is record and
+0:32 replay in Codex. We've all seen this
+0:34 video. I'm going to show it again cuz I
+0:35 think it's so freaking impressive. Let's
+0:37 talk about this. He's basically saying
+0:39 he's going into his Codex app and he's
+0:40 saying record and replay
+0:42 then watch me upload this YouTube video
+0:44 so you can handle it for me in the
+0:46 future. And he's doing all the stuff
+0:48 that you and I have done. You get your
+0:50 title for him it's in a spreadsheet, his
+0:52 description from a spreadsheet. He's
+0:54 getting his image, he's putting it in,
+0:55 he's doing all the stuff that he does
+0:57 and just doing it naturally the way you
+0:59 ordinarily would. And at the end he gets
+1:01 these skills that he could use with
+1:03 Codex in the future and have Codex now
+1:06 that it understands how to do the work
+1:07 do the work. What do you think of this
+1:09 one?
+1:10 >> I think this is a long time coming. So,
+1:12 I'll tell you the way that I used to do
+1:14 this. I used to record myself doing a
+1:15 task with Loom. Then I take the Loom
+1:17 video, upload it to Gemini cuz Gemini is
+1:20 the only model that can watch video.
+1:22 Then I have Gemini give me the
+1:23 step-by-step checklist for what I just
+1:25 did. I take the checklist, I copy it
+1:27 into Claude and I have Claude turn it
+1:28 into a skill and then I've got to
+1:30 iterate on it two to five times to
+1:32 really perfect it. This literally takes
+1:34 that whole process and makes it a
+1:35 one-shot where it can just watch you the
+1:37 first time and build the skill once. I
+1:39 think this is awesome. One of the most
+1:41 impactful updates we've seen in a long
+1:43 time.
+1:43 >> Fan-freaking-tastic. By the way, I had
+1:45 no idea you were doing that. That's so
+1:46 smart. Okay, here's a cute little one.
+1:48 This was huge on Hacker News. It's
+1:50 basically a place where you can come and
+1:52 see how you're doing on all the
+1:54 different um
+1:55 I I the sound effects on all the
+1:57 different models. You type in your name.
+1:59 We're not going to wait here while it
+2:01 does it, but here's a result for your
+2:02 name. It's telling you that Oh, wait. It
+2:05 found the wrong person. It found the
+2:06 professional poker player, actually. I
+2:08 didn't notice that.
+2:09 >> American It's a thinks I'm an a
+2:10 professional American poker player known
+2:13 for his success in high-stakes online
+2:14 and live tournaments. So,
+2:16 >> [laughter]
+2:17 >> That means you really need to improve
+2:18 your AEO.
+2:20 >> Yeah, I guess. I guess I'm That's
+2:22 probably more on me than it is on this
+2:23 tool at the end of the day.
+2:24 >> Agreed.
+2:25 Um especially
+2:27 you're bigger than it's than it
+2:28 understands. This is me.
+2:30 Strength, top 3%. Here's where I'm
+2:32 showing up, and it does have me right.
+2:34 Andrew Warner, Mixergy founder and
+2:35 podcaster.
+2:37 It We need now the updated stuff for the
+2:39 next new thing to show up over here.
+2:41 Pretty interesting to see how it shows
+2:42 Oh, look, Claude Opus 48 says
+2:44 entrepreneur and podcaster who founded
+2:46 Mixergy where he interviews startup
+2:47 entrepreneurs about how they built their
+2:48 business. Fantastic. I like how it show
+2:50 up. Nice little cute tool. Of course,
+2:52 we'll have a link to that and everything
+2:53 else below. Let's go on to this X post.
+2:56 This is a quick one. Apparently, the
+2:59 betting markets are saying the Fable 5
+3:01 is coming out. I think it is. What do
+3:02 you think?
+3:03 >> I think it is for sure. I think it's
+3:05 only a matter of time. I heard a lot of
+3:07 chatter, I guess, in the most recent
+3:08 Claude code update that was pushed.
+3:10 There is something in the source code or
+3:13 something the developers look at that,
+3:15 you know, mentions Fable 5 coming back,
+3:17 which is exactly why we see that spike
+3:19 in the prediction markets. I mean,
+3:20 60-plus percent chance that it's coming
+3:23 back before July 1st.
+3:25 >> Yeah.
+3:25 >> people say it's coming back today.
+3:26 Today's June 25th. I've heard people say
+3:29 next week. I think 100% before July 1st,
+3:32 and I think it's going to come back
+3:33 bigger than ever. If you think people
+3:35 were freaking out about it the first
+3:36 time, well, when it once they got a
+3:38 taste and then it was taken away, now
+3:40 it's going to come back with a
+3:41 vengeance.
+3:42 >> I can't wait to use it. I can't wait to
+3:43 use it. All right. I also really like
+3:45 this from Anthropic tag. It basically
+3:48 puts Claude in Slack. Tag, get it? Like
+3:50 as you're tagging Claude by at
+3:52 mentioning it. And what it's doing is
+3:54 it's letting you and more importantly
+3:56 your team interact with it. And it's
+3:58 it's pretty freaking smart. Like here's
+4:00 an example of Marcus saying, "@Claude,
+4:02 check out error rate that jumped from
+4:04 0.3% to 6% right after the 1,400 hour
+4:07 deploy. Can you dig in and figure out
+4:09 what broke?" It's on it. It has access
+4:11 to the tools it needs and it gets
+4:12 responsive. It can also read what's
+4:14 going on in our chat history and
+4:16 understand that. It can schedule tasks.
+4:18 It can do things proactively. Here's an
+4:21 example. Claude, every Monday at 9:00
+4:22 post a pipeline update for the team.
+4:24 Pull the latest uh
+4:26 from Salesforce. Claude says, "Got it.
+4:27 I'll pull the pipeline from Salesforce
+4:29 and post a digest every Monday at 9:00
+4:31 a.m." And here it is Monday at 9:00 a.m.
+4:33 It's doing it. I think the upside is my
+4:35 team is now going to have a more unified
+4:36 experience with uh with Claude. Claude
+4:38 is going to have more information on us.
+4:40 The downside is I could imagine more
+4:41 freaking slop. I do not want other
+4:43 people's
+4:44 dopey reports that they're not even
+4:46 looking at showing up on an automated
+4:48 basis. What do you think of this tool?
+4:49 >> I also don't want a million
+4:50 notifications in Slack cuz I already get
+4:52 a million and one as it is. But So this
+4:55 is this is really interesting because
+4:56 this is Claude one trying to kill
+4:59 Victor, the AI startup that we just saw
+5:01 raise like 70 or 90 million dollars.
+5:03 Their whole Victor's whole business
+5:04 model was, "Hey, we give you an AI agent
+5:06 in Slack." That's literally what Claude
+5:08 is doing is trying to kill them
+5:09 specifically. And I think it's going to
+5:11 work because it's meeting
+5:13 it's meeting people where they already
+5:14 are. I think that's one of the biggest
+5:16 friction points why not everybody is
+5:18 currently using Claude is because them
+5:20 having to open up the Claude desktop app
+5:22 is not a learned behavior yet. But when
+5:24 you can use Claude inside the the tools
+5:26 that you're already using, aka Slack,
+5:28 it's going to get even more adoption. So
+5:30 I think this is going to be a hit. Uh we
+5:32 were actually going to build something
+5:33 similar. Now we might have to pivot a
+5:34 little bit, but all in all I think this
+5:37 is really good for consumers and and for
+5:39 Anthropic.
+5:40 >> Yeah, and and I think people are using
+5:42 Slack and ChatGPT, but they're not
+5:44 getting it to do real work. And if they
+5:46 see others on the team do real work,
+5:47 they'll understand it. By the way, this
+5:49 is available only, of course, in Claude
+5:50 Enterprise and team
+5:52 accounts, but really, for most people,
+5:54 that is the account that they need
+5:56 because if if you have a team, then
+5:58 you're going to want a team account. All
+6:00 right, let me talk quickly about Zapier
+6:01 MCP because I had a great experience
+6:03 with it this week. I tried to give one
+6:05 of my Hermes agents access to a Google
+6:08 account. I wanted it to have its own
+6:09 email, its own this, its own that, uh
+6:11 its own calendar, its own Google Drive
+6:13 account, and I didn't like it using my
+6:14 browser. I didn't want to give it full
+6:16 access, though, because I was a little
+6:18 worried about what it might do.
+6:19 Partially, actually, it's that I didn't
+6:21 want to give it access to my account in
+6:22 addition to its own account because I
+6:23 was worried what it might do to my
+6:24 account. I don't want it sending out
+6:26 messages, deleting, any of that. So, I
+6:28 went and um
+6:29 one of the first things I did was I went
+6:31 to Google's new tool, and I signed up uh
+6:33 to give it access. The thing took me a
+6:35 freaking hour, and I still couldn't get
+6:37 it to work, and I worked on it with the
+6:38 Googler who created it. Still couldn't
+6:40 get it to work properly. Then I said,
+6:42 "Oh, Zapier MCP." I went to
+6:44 zapier.com/mcp,
+6:46 and I quickly was able to just select
+6:48 the radio boxes or the check boxes for
+6:50 the tools that I wanted my agent to
+6:51 have, and then within that, I wanted to
+6:53 give it specific access to specific
+6:54 things. Its email, send, receive, do
+6:56 everything you want, go at it. My email,
+6:58 you can only read and draft messages,
+7:00 and that's the kind of power that you
+7:01 get with Zapier MCP. It is so easy.
+7:03 People do not realize it. I want you all
+7:06 to go check it out. zapier.com/mcp.
+7:09 Next, uh we talked about that. Let's
+7:12 talk about Blue Rails. This was number
+7:14 one on Product Hunt one day this week,
+7:17 and the reason it was number one is what
+7:19 it's doing is making your site more
+7:22 visible and more accessible to agents.
+7:24 So, agents can find it and recommend it,
+7:26 and they could read it, and they could
+7:28 also act on it. So, we all Well, you can
+7:31 talk about the importance of this.
+7:33 >> [snorts]
+7:34 >> Yeah, so I think this is a much-needed
+7:36 product. So, let's talk about kind of
+7:37 what it does specifically. So, you know
+7:39 how when you're using Claude or ChatGPT
+7:41 and you say, "Hey, go to this website
+7:43 and pull the information or summarize it
+7:44 or whatever." A lot of times it can't
+7:47 read the website with web fetch. It
+7:48 fails or the website's blocked or for
+7:50 whatever reason. So, it looks like what
+7:52 Blue Rails does is it fixes that. It
+7:54 makes your site accessible to agents, so
+7:56 agents can crawl your site, scrape it,
+7:58 interact with it, and eventually
+8:00 transact on it. So, it looks like that's
+8:02 it's a two-part service. So, part one is
+8:04 they make your site more accessible to
+8:06 agents, which is a huge need. Part two
+8:08 is they make they give your ability your
+8:10 I guess they give agents the ability to
+8:12 transact on your site. So, think about,
+8:14 you know, back in the early 2000s, every
+8:17 website started having a pay with PayPal
+8:20 button on the website. That was like the
+8:22 early days of e-commerce. Blue Rails is
+8:24 kind of trying to do that for agents,
+8:26 essentially adding the checkout button
+8:28 for AI agents to your website. So, I
+8:30 think this is going to be huge. I think
+8:32 they're 6 to 12 months too early, but
+8:34 they're clearly trying to claim market
+8:35 share before this really takes off. Uh
+8:37 and I think if, you know, if the service
+8:40 does what it they say it's going to do,
+8:41 I think it's going to do great.
+8:42 >> I think now is the time for hustler
+8:45 go-getters to make their sites more
+8:47 accessible to agents. If you take a look
+8:48 at Agent Mail, Agent Mail in many ways
+8:51 is similar to Gmail. It's just giving an
+8:53 email to your agent. But, with Gmail, I
+8:57 had to go and sign up for a Gmail
+8:59 account or add it to my network, and
+9:00 then I had to go to Zapier to connect
+9:02 it. With Agent Mail, I told my agent,
+9:05 "Just go and create an account." And it
+9:06 did, and it said, "Andrew, there's an
+9:07 email for you just con- to confirm
+9:09 you're the human behind this." I clicked
+9:11 that, and I was done and ready to go.
+9:13 And the only reason I used it was
+9:15 because of that. It's not a better
+9:16 product than Gmail. In fact, I'm
+9:17 messaging the founder to give him some
+9:19 feedback on it. But, I'm using it, other
+9:21 people are using it because of that. All
+9:23 right, next story.
+9:25 Uh I hope we're not rushing through
+9:27 these stories too fast, Corey. Let me
+9:28 ask everyone in the audience. Give us
+9:30 feedback. We're doing this. We're trying
+9:31 to improve. We want to get this right
+9:32 for you. So, tell us, do you want more
+9:34 time on each story? Do you want us to
+9:35 fly quicker? Give us feedback in the
+9:37 chat.
+9:38 All right.
+9:40 This is artifacts from Claude Code. At
+9:41 first when it came out I said, "This is
+9:43 not new. We've had artifacts in Claude
+9:44 forever." And then I realized, "No, when
+9:46 I'm chatting with Claude, if I'm using
+9:49 co-work with Claude, I can ask for a
+9:51 document and it will create the artifact
+9:53 on the right." When I'm in Claude Code,
+9:55 now I can get that kind of experience
+9:58 too. And you could see here on the left
+10:00 that you've got a Claude chat experience
+10:02 in Claude Code. And on the right, what
+10:04 you have is the artifact for Claude Code
+10:06 and it's shareable and it's updated in
+10:09 real time. Valuable?
+10:11 >> Definitely valuable. This is the one
+10:13 thing that Claude Code didn't have that
+10:15 Claude chat and co-work did, right? So
+10:17 now there's really no excuse not to be
+10:19 working inside of Claude Code for just
+10:20 about anything, especially if you're
+10:22 writing solo. If you're doing stuff with
+10:24 the team and things of that nature, it
+10:26 might be it might make more sense to
+10:27 still live inside co-work and chat, but
+10:30 I think this is like the missing piece
+10:31 for Claude Code that that really makes
+10:33 it the
+10:34 you know, the hands-down best tool in
+10:36 the Claude arsenal by far.
+10:38 >> I think Claude Code for many people
+10:40 feels scary, but if you just switch over
+10:42 into that tab and give it a stupid task,
+10:44 you'll see it's not really that scary.
+10:47 Um
+10:47 >> Not at all.
+10:49 >> You like this one. This was one of your
+10:51 suggestions from Tibo. Tibo for us.
+10:54 >> Yeah, so this is I you know, full
+10:56 disclosure, I'm pretty sure he owns this
+10:57 tool, so he's he's a little biased here,
+10:59 but I think this is one of the cooler
+11:02 demos of one of like that the
+11:05 I guess prompt-to-video tools that I've
+11:08 seen out there called Revid. So he
+11:10 generated this video with one prompt and
+11:13 it's pretty good. It's kind of like an
+11:14 infographic-style video. And we've seen
+11:17 I feel like we've seen AI
+11:19 AI video get so much better over the
+11:21 last 3 to 6 months.
+11:23 You know, starting from like the HeyGen
+11:26 and some of the other like the earlier
+11:29 video tools. HeyGen is still big, but
+11:31 this looks good. And Figma came out with
+11:33 something similar literally 23 hours
+11:35 ago. So, it seems like a lot of the
+11:38 AI [snorts] video tools are moving
+11:39 towards you can you put in a prompt, you
+11:42 get a pretty solid version one in
+11:44 seconds.
+11:46 >> I will say this, we're seeing more and
+11:48 more of these types of videos on X.
+11:50 What he did was he took Paul Graham's
+11:53 article here about how to earn and he he
+11:55 and he automated it. It's cute. I don't
+11:58 want to sit through this. I don't want
+11:59 to sit through the ones on X. I don't
+12:00 want to sit through the ones that come
+12:02 out from founders who are so excited
+12:03 about their beautiful looking founder
+12:05 video for their new product that has
+12:07 nothing but text and images. Why am I
+12:10 not reading it then? Why you What is
+12:12 this? Now I'm reading it at your slow
+12:13 pace. I think this whole style needs to
+12:15 go away or add some freaking text to it.
+12:19 Like it does it would it kill them to
+12:21 add 11 Labs voice? Let me see. I bet you
+12:22 he he has music. Let me see.
+12:24 >> No, it is a matter of simple exponential
+12:26 math.
+12:27 >> Oh, okay.
+12:29 >> And I we can do that.
+12:30 >> He's got No cheating required. Two
+12:32 simple numbers determine how
+12:34 >> Okay, all right. Now I've got something
+12:35 to listen to with a little visual. I
+12:36 take it back, Tibo. You're right. This
+12:38 is good.
+12:40 This [snorts] is a site.
+12:43 And he's he's done a good job of
+12:44 creating viral videos that are automated
+12:46 in the past. All right.
+12:48 Enough said from Andrew. I'm going to
+12:49 shut up now.
+12:50 This is something I'll just queue this
+12:52 up and then talk about the bigger
+12:54 picture here. Um
+12:55 He said, "This is your daily reminder
+12:56 that meeting transcripts are the best
+12:58 context you can get. Just dump the whole
+13:01 transcript. No summary. Plain JSON will
+13:03 do.
+13:04 I one-shotted this ROI calculator based
+13:06 on one meeting note."
+13:10 What's the big picture here?
+13:12 >> So, I think this is just a general best
+13:13 practice at all. Like what he's saying
+13:16 is like, "Look, there's so much context
+13:18 trapped inside the meetings that you're
+13:19 having with your team already. Why not
+13:21 just take that those transcripts, dump
+13:23 it into a Claude code or a Codex and
+13:25 have it build out the tools that you
+13:27 talk about in your meetings. Like
+13:30 this is something that in hindsight is a
+13:31 no-brainer, but you could connect
+13:33 Granola to Claude Code or Granola to
+13:35 Codex or whatever and just kind of run
+13:37 that as an automation. Say, "Hey, every
+13:39 time there's a new Granola transcript,
+13:41 if there's something that we talked
+13:42 about that would make sense as a web app
+13:45 or mobile application or anything, build
+13:47 it, right?" And at the very like if we
+13:49 never use it, who cares? It was
+13:50 practically free and very quick to
+13:53 build, but it's just a good exercise.
+13:55 Like I bet people if if somebody set set
+13:57 up that automation, which I think I'm
+13:58 going to go and do with my team,
+14:00 I'd be shocked to see all the cool
+14:02 little software
+14:03 uh apps and tools that we build out over
+14:05 the course of the year.
+14:07 >> Yeah, I I think that's fantastic.
+14:11 Work Claude, this is very similar to
+14:14 what came out from Anthropic Claude Tag,
+14:18 but they're basically saying you could
+14:20 have multiple agents, different types of
+14:24 agents. Maybe you have one agent in your
+14:26 Slack that is your writing agent for
+14:28 your team and it knows the way your
+14:30 whole team likes to write. And another
+14:32 one that is your social media agent and
+14:34 so on. And so these are Claude's like
+14:36 open Claude, get it? This was also
+14:38 number one. It was built on top of open
+14:41 open Claude. And it's a way of easily
+14:45 adding multiple agents to your team's
+14:47 Slack.
+14:49 >> So the fact that if you scroll up above
+14:51 where it's it's a one-click add to Slack
+14:54 and then a one-click you know, talks
+14:56 with other Claude's, check the box. Like
+14:58 that in my mind was the biggest friction
+15:00 point when open Claude first came out.
+15:01 One, setup was a freaking nightmare. The
+15:04 fact that this is one-click, like when
+15:06 open Claude first came out, that's
+15:07 something me and my co-founder tried to
+15:09 do for like 2 weeks. We tried to create
+15:10 a one-click where we didn't have to host
+15:12 it because we didn't want to be liable
+15:14 for anything that could happen. And we
+15:16 weren't able to solve it. A ton of
+15:17 one-click solutions came out, but they
+15:20 they taking on the risk of if something
+15:21 goes wrong or there's a breach, they
+15:23 were screwed. So, I'm assuming Work Claw
+15:26 has mitigated that in some way, but they
+15:28 made it to where it's a one-click
+15:29 install and a one-click to where it can
+15:31 talk to other agents. Like with a
+15:33 traditional Open Claw setup, for it to
+15:35 be able to talk to other Open Claw
+15:36 agents, there's so much nonsense you've
+15:38 got to do on the back end. It's one
+15:41 technical, two like you It's one of
+15:43 those things where if you don't know how
+15:44 to do it, you're going to spend two
+15:45 hours figuring it out. Looks like they
+15:47 made it pretty much plug-and-play. Like
+15:49 this is like you said, Claude Tag, but
+15:52 the ability to have multiple agents,
+15:53 they can be specialized. They live in
+15:56 not only Slack, which is where Claude
+15:57 Tag lives, but also Teams. And seems
+16:00 like pretty straightforward pricing and
+16:03 you know, not something that's going to
+16:05 break the bank.
+16:07 >> I think I'm going to set this up for our
+16:08 team. I've been trying to get Victor,
+16:10 which I really like, which also does
+16:12 this into our platform. It's It's not
+16:14 working well.
+16:16 Um it's not their fault. I was one of
+16:17 the early users of it and now we can't
+16:19 disconnect my previous account from
+16:21 that. Um
+16:22 my one concern with it is I don't like
+16:25 how everything, like the credits just
+16:28 keep piling up. I wish that they would
+16:29 use uh one of the other cheaper models.
+16:32 Um
+16:33 but I I'm still willing to try it
+16:35 because it's such a big need and I think
+16:37 my bigger issue is not that my team's
+16:38 going to overuse it, but that they're
+16:40 just not using it enough. So, let's get
+16:41 them up there and started. Okay, next.
+16:45 Uh what's stopping you from building a
+16:47 second brain? Talk about what Nick has
+16:49 written here and why it's so important.
+16:51 >> So, I think second brains are it's
+16:53 starting to gain in popularity. Uh it
+16:55 really blew up when Karpathy started
+16:58 talking about it, you know, a couple of
+16:59 months ago. But this whole concept of uh
+17:02 a knowledge base that contains all of
+17:04 the context about you personally and
+17:06 your business that is searchable and
+17:08 maintainable by AI agents and that
+17:10 doesn't lock you into one model
+17:13 ecosystem. So, if you have a second
+17:15 brain maintained properly, it doesn't
+17:17 matter if you're using Claude, it
+17:18 doesn't matter if you're using open AI
+17:20 or open source models, that knowledge
+17:23 base is the foundation of every AI
+17:25 deployment or project or initiative that
+17:27 you're ever going to do. So, having
+17:29 setting one up is critical. It's the
+17:31 biggest single biggest asset you can
+17:33 have in your company, hands down. It's
+17:34 not even close. That literally is your
+17:37 moat. And what Nick is showing us here
+17:39 is that he ran a /goal prompt inside
+17:43 Codex.
+17:44 And he gave away the prompt, too. This
+17:45 prompt is super robust. Like, it's
+17:47 incredibly long. I I mean, I'm shocked
+17:49 that he gave that away for free. It's
+17:51 incredibly valuable. It basically tells
+17:53 Codex, "Hey, go look at every single
+17:55 data point that you know about me and
+17:57 all of my connectors, everything that's
+17:59 connected to you, and build and maintain
+18:02 an Obsidian database." Like, that's
+18:04 literally the gist of the prompt. And he
+18:06 ran it as a goal, and he said it ran for
+18:07 about 12 or 13 hours. And at the end of
+18:10 it, he claims, you know, literally when
+18:12 that prompt is done running, you have
+18:13 personal AGI. Every single thing about
+18:16 your personal life, everything about
+18:18 your business, you know, thus far, is
+18:20 queryable. I mean, think about the
+18:22 insights that you could get from that.
+18:24 Be Imagine being able to query every,
+18:27 you know, call transcript you've had for
+18:29 the last 3 years and say, "Hey, what are
+18:31 my top three opportunity areas?" Or hey,
+18:33 what are what what's one thing I could
+18:35 do better on sales calls to increase my
+18:37 closing percentage? And imagine being
+18:39 able to do that across a team or your
+18:41 sales team or your product team. I mean,
+18:44 again, I I had a YouTube video that came
+18:46 out 45 minutes ago about how to build
+18:49 and sell second brains as a service. So,
+18:51 this is something that I swear to you is
+18:53 so it's going to be so big. That's why
+18:55 I'm fired up about it. This is huge. I
+18:57 don't I don't think people appreciate
+18:58 it.
+18:59 >> By the way, I should tell people that
+19:00 you could subscribe to Corey right now.
+19:02 It's right below this video because it's
+19:04 a collaboration between the two of us.
+19:05 If you just go over below the video,
+19:07 you'll see him, subscribe, and you'll
+19:09 get to see He's very practical with his
+19:12 advice and guidance on how to use AI and
+19:15 he's not just learning about it. He's
+19:16 using it, selling it and teaching people
+19:19 how to do it every single day. So,
+19:20 follow, subscribe.
+19:22 Next,
+19:24 this is very relevant to the World Cup.
+19:26 I wanted a Mac OS YouTube TV menu bar
+19:28 app so I could watch the World Cup game
+19:30 while working. I asked Codex one shot it
+19:33 with {slash} goal. We are we live in the
+19:36 golden age of ideas. I don't fully
+19:37 understand what he did here, but
+19:40 do you and then tell me what the bigger
+19:42 vision is?
+19:43 >> Yeah, so it's my understanding that
+19:45 again, he when he's watching YouTube TV,
+19:47 he's probably watching that in a browser
+19:49 tab. And he's essentially saying like,
+19:51 well man, I wish I could work inside,
+19:54 you know, another tab and have YouTube
+19:56 TV as kind of like a little box in the
+19:58 top right of my screen. So, I can be
+20:00 working inside of other tools or inside
+20:01 other tabs and still be able to watch
+20:03 the game. And he just went into Codex
+20:06 and said like, hey, can you build this
+20:08 and and set it as a {slash} goal prompt?
+20:10 And it did. It one shotted it. So, now
+20:12 he's looks like he's inside of other
+20:14 tools and other apps and he's able to
+20:16 watch the World Cup on the same screen.
+20:18 So, that's just like one of those little
+20:20 mini applications that anybody can do
+20:23 now. Like previously that would have
+20:24 taken a software team weeks to put
+20:26 together probably.
+20:28 >> And it's different from
+20:29 picture-in-picture because he's showing
+20:31 with that mouse that it's a menu item.
+20:33 So, whenever he wants to bring it up, he
+20:34 brings it up from the menu and then he
+20:36 can make it go away. All right. Finally,
+20:38 this came out moments before we
+20:40 launched. This is from OpenRouter. They
+20:43 want to make it easier for you to pick
+20:45 the right model every time. And
+20:48 sometimes the right is the the one
+20:49 that's smartest, sometimes it's the one
+20:50 that's cheapest, sometimes a
+20:51 combination, sometimes we'll hear.
+20:53 >> The top coding models right now under $2
+20:56 per million input.
+20:57 >> And I should say this is their
+20:59 OpenRouter MCP and now he's asking for
+21:01 information on what the right the top
+21:03 models are for under $2 million.
+21:05 >> OpenRouter MCP, we can see that Claude
+21:07 code returned the live results for the
+21:09 best coding models at that certain
+21:11 price. I hear that GLM-52 is pretty
+21:13 good, so let's go with that.
+21:14 >> He was saying, "What is the best models
+21:17 for my use based on how much I am
+21:21 how much access I want?" And then he's
+21:22 saying, "Okay,
+21:23 I see GLM-5.2 is the right one for me.
+21:26 What is the fastest provider of
+21:28 GLM-5.2?"
+21:29 He's then getting that answer. And then
+21:31 as we watch him continue on with this
+21:32 video, you'll see him say something
+21:34 like, "I want to do some creative work.
+21:37 What is the best model for this type of
+21:39 creative work?" And OpenRouter now will
+21:41 tell him what the best model is and then
+21:43 enable him to switch.
+21:47 >> And really what this is allowing is you
+21:49 still have to switch your models
+21:51 manually, it seems like, but it's just
+21:53 it's giving your agent live insight into
+21:56 all the models that OpenRouter has
+21:58 available. So, like previously, if you
+21:59 wanted to know, "Okay, well, what's the
+22:01 best coding model or what's the
+22:02 pricing?" You would literally have to go
+22:03 to openrouter.ai,
+22:05 pull up their model list, scroll through
+22:07 it, or at least point your agent at it.
+22:09 Now, it's built in. You can just ask
+22:11 your agent, "Hey, I'm about to do a
+22:12 coding task. What's going to be the best
+22:14 model for this specific task?" And it
+22:16 can just live search via the MCP the
+22:19 model prices, the, you know, the
+22:22 the cost, everything associated with
+22:24 that, and it can just give you that
+22:25 information live, and then you can just
+22:27 switch right to that model. So, not like
+22:29 a For I think for the everyday user, not
+22:31 super impactful, but for people who are
+22:33 really trying to optimize their token
+22:35 spend and really trying to get that last
+22:37 1% of productivity out of their their
+22:40 agent, where they're running multiple
+22:41 different models, this this will be
+22:43 impactful, for sure.
+22:45 >> I have said in past episodes that I
+22:48 don't really care about how much I
+22:49 spend. I'm just I'm just going to use
+22:51 Open Sorry, I'm just going to use
+22:52 Anthropic and be done with it, use the
+22:54 best model, and and just not care about
+22:56 the money. I'm now realizing that some
+22:58 of the work that I do really is using up
+23:00 a bunch of tokens and does get to be
+23:02 expensive and I'm also realizing that if
+23:04 I'm not using a ton of tokens, if I'm
+23:06 not doing a ton, then maybe I'm just not
+23:08 experimenting enough. And GLM,
+23:11 uh, what is it? GLM 5.2 I'm hearing is
+23:13 so phenomenally good. We talked about it
+23:15 I think last week and it's so
+23:17 inexpensive that I'm now switching more
+23:19 and more to it and maybe I'll start
+23:21 using OpenRouter more often and switch
+23:23 to get the right model for the right
+23:24 job. All right, sometimes, you know
+23:26 what, Corey? You'll bring up a topic or
+23:28 I'll bring up a topic here and I'll go,
+23:29 "Okay, this is interesting, it's good to
+23:30 know, not for me." And I'll even say it
+23:32 out loud. And then a week later I'll
+23:34 have a problem, I'll go,
+23:35 "There was that thing that I just
+23:36 heard."
+23:37 >> Yeah, exactly.
+23:38 >> And then I go back and I use it. So
+23:40 speaking of, last week we did a
+23:41 phenomenal collection, we showed a
+23:43 phenomenal collection of new tools that
+23:45 launched. You've got to go check them
+23:46 out if you haven't and we'll have a link
+23:47 for you right there. See you in the next
+23:49 one.

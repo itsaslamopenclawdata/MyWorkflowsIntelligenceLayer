@@ -1,0 +1,733 @@
+# Transcript: The Mind-Bending Discovery of a New Phase of Matter
+# Channel: Eddy Says Hi
+# Duration: 418s
+# Video ID: jYqVt9WqDEQ
+
+0:01 [snorts]
+0:03 [music]
+0:06 >> Welcome to this deep dive. Today, our
+0:08 mission is to, well, unpack a really
+0:11 fascinating article that was just
+0:12 published today, actually.
+0:13 >> Yeah, hot off the presses.
+0:14 >> Right. It's June 1st, 2026, and this
+0:17 piece is by tech writer Moheb Ur Rahman.
+0:21 And we are looking at a massive
+0:22 breakthrough from researchers at Brown
+0:24 University and the University of
+0:26 Michigan.
+0:26 >> Huge breakthrough. I mean, they've
+0:28 essentially done the impossible here.
+0:29 >> They really have. They've successfully
+0:31 stabilized a completely new, previously
+0:34 theoretical phase of matter.
+0:36 >> Which is just wild to think about.
+0:38 >> It is. So, we're going to explore the
+0:40 source material to understand not just
+0:42 what this this ghost state of matter is,
+0:45 but how freezing it has unlocked these
+0:48 room temperature quantum optical
+0:49 properties.
+0:50 >> And that's the kicker, right? That room
+0:51 temperature part.
+0:52 >> Exactly. It's something that could just
+0:54 completely revolutionize quantum
+0:55 computing and sensing for you, the
+0:57 listener, in the real world. So, okay,
+1:00 let's unpack this.
+1:01 >> I love it. And the stakes here really
+1:02 are massive for the listener. We're
+1:03 moving from like a microscopic quirk of
+1:07 structural chemistry straight into
+1:09 practical engineering.
+1:10 >> Right, for quantum technologies that
+1:12 normally require those those massive
+1:15 multi-million dollar supercooling
+1:17 systems.
+1:18 >> Exactly.
+1:18 >> You know, we're taught about the
+1:19 physical world in school through a very
+1:21 neat finished-looking textbook. We learn
+1:24 solid, liquid, gas, maybe plasma.
+1:28 >> Yeah, the classic four.
+1:30 >> Right. And the underlying message is
+1:31 always that we've mapped the territory.
+1:33 So, it is just wild to me that we are
+1:35 still discovering fundamentally new
+1:37 phases of matter in 2026.
+1:40 >> It really is.
+1:41 >> Yeah.
+1:41 >> But to understand the sheer scale of
+1:43 what these researchers pulled off, we
+1:45 kind of have to start with the basic
+1:46 rules, right? Like how everyday metals
+1:48 are normally structured.
+1:50 >> to know the rules before we can break
+1:51 them.
+1:52 >> Exactly. Understanding the default
+1:54 behavior of metals gives us the
+1:56 baseline. So, when we look at the
+1:58 crystal structures of metals in material
+2:00 science, they generally fall into one of
+2:02 two main geometric categories.
+2:04 >> Okay.
+2:04 >> You've got face-centered cubic, which is
+2:06 known as FCC, and body-centered cubic,
+2:09 or BCC.
+2:09 >> And the defining factor between them is
+2:11 just how efficiently the individual
+2:13 atoms pack together, right?
+2:15 >> Yeah, precisely. It's all about packing
+2:17 density.
+2:17 >> I always visualize this problem like
+2:20 um
+2:21 like packing a shipment of oranges into
+2:23 a rigid square crate.
+2:24 >> Oh, that's a good analogy.
+2:26 >> Right. Because if you just toss the
+2:27 oranges in randomly, you end up with a
+2:29 lot of empty wasted space.
+2:31 >> Yeah, lots of gaps.
+2:32 >> But if your goal is to fit the maximum
+2:34 possible number of oranges into that
+2:36 crate, well, mathematics dictates there
+2:39 are only a few highly specific ways to
+2:41 organize them.
+2:42 >> Exactly. So, let's apply that crate of
+2:44 oranges to the first arrangement, the
+2:46 FCC structure.
+2:48 >> The face-centered cubic.
+2:49 >> Right. This is the absolute tightest,
+2:52 most dense packing arrangement available
+2:54 for spherical particles.
+2:55 >> So, no wasted space.
+2:57 >> Almost none.
+2:59 If you zoom in on the atomic level of an
+3:00 FCC metal, you see this repeating cubic
+3:03 pattern.
+3:04 There's an atom located at each of the
+3:05 eight corners of the cube.
+3:07 >> Okay, got it.
+3:07 >> And then, additionally, there is one
+3:10 atom sitting perfectly flat right in the
+3:12 exact center of each of the cube's six
+3:14 faces.
+3:14 >> Oh, okay. So, the atoms are really
+3:16 packed in shoulder to shoulder leaving
+3:17 very little breathing room.
+3:19 >> Right. Now, the second category, the
+3:21 body-centered cubic, is slightly less
+3:23 dense.
+3:24 >> Okay, so how does that one look?
+3:25 >> Well, you still have atoms at the eight
+3:27 corners of the cube, but the faces are
+3:29 completely empty.
+3:30 >> Yeah.
+3:31 >> Instead, there's just one single atom
+3:33 suspended dead in the center of the
+3:35 cube's internal volume. Like right in
+3:38 the middle of the body.
+3:38 >> Hence body-centered. Got it.
+3:40 >> Exactly. And these two geometries are
+3:42 the dominant resting states for metallic
+3:45 crystals because of
+3:47 well, how energy works in the physical
+3:49 universe.
+3:50 >> Right. Everything in nature seeks its
+3:51 lowest possible energy state.
+3:53 >> Exactly. When atoms lock into an FCC or
+3:56 BCC grid, they're in a state of perfect
+3:59 balance and symmetry. They are
+4:00 mechanically relaxed and highly
+4:03 resistant to changing that
+4:04 configuration.
+4:05 >> Okay, so here's my question. If the
+4:07 atoms are so comfortable and locked in
+4:09 to these symmetrical patterns, what
+4:11 actually happens to the structure when
+4:13 you introduce a massive disruption?
+4:15 >> Like what kind of disruption?
+4:16 >> Well, say you apply extreme heat to a
+4:19 piece of metal, right?
+4:21 You're forcing it from that less dense
+4:23 BCC shape into the tighter FCC shape.
+4:26 Do the atoms just like magically snap
+4:29 into the new shape instantly? Do they
+4:31 melt into a fluid and reform? Or do they
+4:33 shift while staying solid?
+4:35 >> That's the million-dollar question. They
+4:37 shift while remaining in a solid state.
+4:39 >> Oh, really?
+4:40 >> Yeah, and that physical transition is
+4:42 arguably the most complex problem in all
+4:44 of metallurgy.
+4:45 The atoms don't simply teleport from the
+4:47 center of the cube to the faces.
+4:49 >> Right, they can't just blink out of
+4:50 existence.
+4:50 >> Exactly. They have to physically slide,
+4:52 deform, and force their way through the
+4:54 lattice.
+4:55 >> Let's look at the example of iron from
+4:56 the article.
+4:56 >> Okay, iron.
+4:57 >> In its resting state at room
+4:58 temperature, iron naturally sits in that
+5:01 less dense BCC structure.
+5:02 >> Okay.
+5:03 >> But when you heat that iron to exactly
+5:04 912° C, the thermal energy totally
+5:08 overwhelms the structure. It forces the
+5:10 atoms to collapse into the tighter FCC
+5:12 arrangement. I'm just having a hard time
+5:14 picturing the mechanics of that shift. I
+5:16 mean, it cannot be a smooth process if
+5:19 thousands of atoms are simultaneously
+5:21 trying to shove past one another into
+5:22 new positions.
+5:23 >> Oh, it's not smooth at all. It's an
+5:25 incredibly chaotic structural journey.
+5:27 Physicists have spent decades trying to
+5:29 map the exact road the atoms take during
+5:31 the shift.
+5:32 >> Right, and the article mentions a
+5:33 specific model for this, right?
+5:35 >> Yes, one of the most prominent
+5:36 theoretical models is called the
+5:37 Nishiyama-Wassermann pathway.
+5:39 >> The Nishiyama-Wassermann pathway.
+5:40 >> All right. This pathway predicts a
+5:42 highly specific sequence of intermediate
+5:45 transitional geometries that the crystal
+5:48 has to pass through as it morphs from
+5:50 BCC to FCC.
+5:52 >> Okay, I'm picturing a stop motion
+5:53 animation.
+5:54 >> Oh, yeah. That works.
+5:56 >> If frame one is the starting BCC
+5:58 structure and frame 10 is the final FCC
+6:01 structure,
+6:02 the Nishiyama-Wassermann pathway
+6:04 represents the awkward in-between
+6:06 movements happening in like frames two
+6:09 through nine.
+6:09 >> That is a perfect way to visualize it.
+6:11 >> Yeah.
+6:12 >> And the difficulty lies in the fact that
+6:13 those intermediate frames possess much
+6:15 lower symmetry than the starting and
+6:17 ending cubes.
+6:18 >> Because they're caught halfway between
+6:19 two perfect shapes.
+6:21 >> Exactly.
+6:22 And because they lack symmetry, they are
+6:24 high-energy unstable states.
+6:26 The atoms are under immense physical
+6:28 stress when they're forced into these
+6:30 transitional positions.
+6:32 >> So, they don't want to be there.
+6:33 >> Not at all. As a result, the material
+6:35 just rushes through these intermediate
+6:37 geometries in a fraction of a
+6:39 millisecond to reach the safety of the
+6:41 final symmetrical FCC state.
+6:43 >> Here's where it gets really interesting.
+6:46 Because if this transition happens that
+6:48 fast, and the atoms inherently fight
+6:51 against staying in these intermediate
+6:53 shapes, what is the scientific approach
+6:56 to actually studying it?
+6:57 >> It's notoriously difficult.
+6:59 >> Right. Because it sounds like trying to
+7:00 take an ultra-high definition photograph
+7:03 of a hummingbird's wings mid-flap. But
+7:05 like, instead of just wanting a photo,
+7:08 you want to physically grab the wing and
+7:10 hold it still.
+7:11 How do you physically freeze something
+7:13 that by the very laws of physics
+7:15 inherently wants to keep moving?
+7:17 >> That's the exact paradox. And study
+7:19 co-author Tim Mori, he's an assistant
+7:20 research scientist at the University of
+7:21 Michigan. He highlighted this perfectly
+7:23 in the text.
+7:24 >> he say?
+7:24 >> Well, material scientists
+7:27 heavily rely on controlling the ratios
+7:29 of FCC and BCC in metals to create
+7:31 stronger alloys.
+7:34 But the actual transition phase between
+7:36 them has been considered historically
+7:38 impossible to study.
+7:39 >> Because it's just too too
+7:40 >> Yeah, exactly. You can't just put these
+7:43 transient phases under a standard
+7:44 microscope because the moment the
+7:46 transition begins, it's already over.
+7:48 >> Wow.
+7:49 >> So, the researchers, led by Yasutaka
+7:51 Nagaoka and Ou Chen at Brown University,
+7:54 realized that natural atoms are simply
+7:56 too small, too fast, and too driven by
+7:59 their own energetic rules to be caught
+8:01 mid-transition.
+8:02 >> So, if the universe refuses to give you
+8:04 a building block that will sit still,
+8:06 you basically have to engineer your own.
+8:08 >> Which is exactly what the team at Brown
+8:09 did. They moved away from naturally
+8:11 occurring atoms entirely.
+8:12 >> Okay, so what did they use instead?
+8:14 >> They synthesized their own highly
+8:15 customized silver nanoparticles.
+8:18 They engineered a very specific shape,
+8:20 known as a truncated octahedron, which
+8:22 they nicknamed the micon.
+8:24 >> The micon, okay. Let's visualize this
+8:25 micon because the geometry is clearly
+8:27 the linchpin of the whole operation
+8:29 here. Imagine a classic diamond shape,
+8:32 like a traditional octahedron.
+8:34 Now, take a blade and slice off every
+8:37 single pointy vertex, flattening out all
+8:39 the corners.
+8:40 >> Right, you chop off the points.
+8:41 >> Yeah.
+8:42 You are left with a solid
+8:43 three-dimensional object that has
+8:45 exactly 14 sides. It looks a lot like a
+8:48 14-sided die you might see in, you know,
+8:50 a complex tabletop game.
+8:52 >> Yeah, a 14-sided die is a great
+8:54 comparison. And Ou Chen points out that
+8:56 this 14-sided geometry sits at the
+8:58 mathematical midpoint between a sharp
+9:00 cube and a perfectly smooth sphere.
+9:03 >> Okay, so it's the ultimate intermediate
+9:05 shape?
+9:05 >> Precisely. Cubes and spheres have very
+9:08 rigid, predictable packing behaviors
+9:10 when you stack them together.
+9:12 But the micon, by sitting right on the
+9:14 boundary between those two extremes,
+9:16 possesses this unique physical
+9:17 flexibility.
+9:18 >> Because it's not locked into being a
+9:19 sharp box or a rolling ball.
+9:21 >> Right. And by minutely adjusting the
+9:23 temperature during the chemical
+9:24 synthesis of these silver nanoparticles,
+9:27 Nagaoka's team discovered they could
+9:28 generate a sliding scale of these
+9:30 shapes.
+9:30 >> Oh, wait, really? They could tweak the
+9:32 14 sides?
+9:33 >> Yeah.
+9:34 They could produce micons that leaned
+9:36 slightly more toward a cubic structure
+9:39 or slightly more toward a rounded
+9:40 structure just depending on the exact
+9:43 geometric properties they needed to
+9:44 target.
+9:45 >> That is wild. I understand how
+9:46 synthesizing a custom 14-sided particle
+9:49 gives you more control than just a
+9:51 standard spherical atom, but if you just
+9:54 dump a million of these silver dice into
+9:56 a pile, they aren't going to magically
+9:58 arrange themselves into a highly
+9:59 unstable, high-energy transition state,
+10:02 right?
+10:02 >> Right, they wouldn't.
+10:03 >> still just settle into whatever shape
+10:05 requires the least amount of effort. So,
+10:07 how did they force these particles to
+10:08 actually lock into the that
+10:10 Nishiyama-Wassermann pathway?
+10:11 >> Geometry alone wasn't enough. They had
+10:13 to introduce a binding mechanism.
+10:15 >> Okay.
+10:16 >> So, the researchers coated the exterior
+10:18 of these 14-sided mecons with long,
+10:20 complex molecular chains known as
+10:22 ligands.
+10:23 >> Ligands. And Tim Moore actually
+10:24 described these as hairy particles in
+10:26 the article, which is just a wildly
+10:28 evocative image.
+10:29 >> It really is.
+10:30 >> We basically have microscopic 14-sided
+10:33 silver dice completely covered in a
+10:35 layer of microscopic sticky hairs.
+10:38 >> Yeah, that's exactly what they are. But
+10:40 finding the exact right type of hair was
+10:43 an immense challenge.
+10:44 This is where the collaboration with
+10:46 Sharon Glotzer's research group at the
+10:48 University of Michigan became absolutely
+10:50 vital.
+10:51 >> Because they needed to figure out how
+10:52 the hairs would act before they built
+10:54 them.
+10:55 >> Exactly.
+10:56 >> Yeah.
+10:56 >> Before they could reliably synthesize
+10:58 the final physical material, Glotzer's
+11:00 team had to run massive computer
+11:03 simulations to model the thermodynamic
+11:06 of these hairy particles.
+11:07 >> Wow.
+11:09 >> They were mapping out how millions of
+11:10 these sticky molecules would interact,
+11:13 tangle, and bind under different
+11:14 conditions.
+11:15 >> The computational power required for
+11:17 that must be staggering. I mean, they
+11:19 aren't just simulating the 14-sided
+11:21 geometry, they're simulating the
+11:22 physical friction, the flexibility, and
+11:25 the chemical stickiness of millions of
+11:26 individual hairs bumping into each
+11:28 other.
+11:28 >> It's an incredibly heavy lift
+11:30 computationally.
+11:31 >> So, what variables were they actually
+11:33 looking to optimize in those
+11:34 simulations?
+11:35 >> They really needed to find the perfect
+11:36 ligand length and density.
+11:38 >> Okay, so how long the hair is.
+11:40 >> Right.
+11:41 If the molecular hairs were too short,
+11:43 the 14-sided mecons wouldn't grip each
+11:45 other and the structure would just fall
+11:47 apart.
+11:47 >> Makes sense.
+11:48 >> But if the hairs were too long, the
+11:49 particles would become hopelessly
+11:51 tangled into this amorphous unstructured
+11:54 mush.
+11:54 >> So, they needed a Goldilocks hair.
+11:56 >> Exactly.
+11:58 The simulations allowed them to find the
+12:00 Goldilocks zone. They engineered hairs
+12:02 that provided enough flexibility for the
+12:04 14-sided particles to shift around and
+12:07 explore different arrangements, but
+12:08 possessed enough chemical stickiness to
+12:11 permanently lock together once they fell
+12:13 into a highly specific geometric
+12:15 pattern.
+12:16 >> Ah, I see. So, it functions like a
+12:18 highly calibrated nanoscale Velcro
+12:20 system.
+12:21 >> That's a great way to put it.
+12:22 >> The 14-sided particles are bumping
+12:24 around, shifting through different
+12:25 configurations, and because of their
+12:27 intermediate shape, they are capable of
+12:29 forming that exact awkward ghost phase
+12:31 we talked about earlier.
+12:32 >> Right, they have the geometric
+12:33 flexibility to do it.
+12:35 >> And the moment they align into that
+12:36 stressed Nishiyama-Wassermann pathway,
+12:39 bam! The Velcro grabs hold, the
+12:42 molecular hairs entangle, the geometry
+12:44 locks, and the transition state is
+12:46 physically trapped in place.
+12:48 >> Yeah, you nailed it. O'Brien actually
+12:50 equated this process to kids playing
+12:53 with LEGO blocks.
+12:54 >> Okay, yeah.
+12:54 >> They built a custom nanoscale block and
+12:57 then used this hairy molecular Velcro to
+13:00 stack those blocks into a structural
+13:02 lattice that nature typically refuses to
+13:04 hold still.
+13:05 >> That is just brilliant.
+13:07 >> They successfully stabilize a
+13:09 macroscopic superlattice of these
+13:11 nanoparticles that perfectly mirrored
+13:13 the theoretical transient states.
+13:15 >> I want to pivot to the practical
+13:17 application of this because it is so
+13:18 easy to get lost in the sheer mechanical
+13:20 brilliance of the trap itself.
+13:22 >> sure. The physics are fun, but the
+13:24 payoff is the the story.
+13:25 >> Right. Creating a microscopic Velcro
+13:27 system to freeze a theoretical
+13:29 transition state is an incredible feat
+13:31 of crystallography. But major
+13:33 institutions like the National Science
+13:35 Foundation and the Department of Energy
+13:37 backed this research.
+13:38 >> Yep, they funded this heavily.
+13:40 >> And they aren't funding this just to
+13:42 prove a textbook theory about how metals
+13:44 shift. So what does this new permanently
+13:47 stressed structure actually do?
+13:49 >> Well, the structural trap was really
+13:51 merely the prerequisite for the real
+13:53 discovery.
+13:53 >> Okay.
+13:54 >> When you force matter to inhabit a
+13:56 highly stressed transitional geometry
+13:59 that it desperately wants to escape,
+14:01 you alter how the electrons within that
+14:03 material behave.
+14:04 >> Oh, wow.
+14:05 >> Yeah. So when the researchers
+14:06 illuminated these stabilized hairy
+14:09 silver super lattices with light, they
+14:11 unlocked a phenomenon known as deep
+14:13 strong light-matter coupling.
+14:15 >> Okay, deep strong light-matter coupling
+14:18 sounds incredibly dense. For a listener
+14:20 who maybe doesn't have a background in
+14:21 quantum optics, how does light
+14:24 physically couple with a piece of metal?
+14:26 >> Right, it sounds like jargon. But
+14:27 basically, when you shine light on a
+14:28 normal piece of silver, the photons
+14:30 typically just bounce off the surface.
+14:33 I mean, that is why metals are
+14:34 reflective.
+14:35 >> Sure, it's just a mirror effect.
+14:36 >> Exactly.
+14:38 But in this highly specific 14-sided
+14:41 lattice,
+14:42 the internal structure is under so much
+14:44 unique geometric stress
+14:46 that the electrons inside the silver
+14:48 particles respond completely
+14:49 differently.
+14:50 >> Differently how?
+14:51 >> Instead of just reflecting the light,
+14:53 the electrons begin to oscillate and
+14:55 vibrate in absolute perfect
+14:57 synchronization with the incoming light
+14:59 waves.
+14:59 >> Wait, so the light and the matter stop
+15:01 acting as like an active force and a
+15:03 passive object. They're matching each
+15:05 other's movements so precisely that they
+15:07 merge.
+15:07 >> Yes, they become quantum mechanically
+15:10 entangled.
+15:10 >> That's insane.
+15:11 >> It really is. The interaction between
+15:13 the electron cloud and the photon
+15:14 becomes so intense that the boundary
+15:16 between light and solid matter
+15:18 essentially disappears. They form a
+15:19 unified quantum system.
+15:21 >> Wow.
+15:21 >> This deep strong regime means the
+15:23 connection is so robust that the
+15:25 properties of the light permanently
+15:27 alter the properties of the material and
+15:28 vice versa.
+15:29 >> Okay, I understand the mechanism of the
+15:32 electrons and the photons synchronizing.
+15:34 What I'm really struggling to understand
+15:35 is the temperature aspect.
+15:37 >> Uh yeah. What's fascinating here is how
+15:40 they bypass the temperature issue.
+15:41 >> Right, because if I am reading the
+15:43 context of modern quantum physics
+15:45 correctly,
+15:47 intense quantum entanglement like this
+15:49 is incredibly fragile.
+15:51 >> Extremely fragile.
+15:52 >> The slightest bit of heat causes atoms
+15:54 to jitter and vibrate, which shatters
+15:56 that delicate synchronization. This is
+15:58 why quantum computers currently have to
+16:00 be housed in these massive vats of
+16:03 liquid helium and cooled down to near
+16:05 absolute zero.
+16:06 >> Yeah, they require massive
+16:07 infrastructure.
+16:08 >> So, how is this newly engineered silver
+16:10 lattice maintaining this deep strong
+16:13 coupling at room temperature? Why
+16:15 doesn't the ambient heat of the room
+16:16 just make the meccans jitter and break
+16:19 the entanglement?
+16:20 >> That is the absolute genius of the
+16:22 structural trap they built. The
+16:24 mechanism preventing the thermal noise
+16:26 is a geometric frustration of the
+16:28 lattice itself.
+16:29 >> Ah, because it's stuck.
+16:30 >> Exactly. Remember how we discussed that
+16:32 the Nishiyama-Wasserman pathway is a
+16:34 state of immense physical stress?
+16:35 >> Right.
+16:36 >> The 14-sided meccans are locked into an
+16:38 incredibly tight awkward configuration
+16:41 by those sticky molecular hairs.
+16:42 >> Okay, I see where this is going.
+16:44 >> The macroscopic rigidity of this
+16:46 specific ghost geometry acts as a
+16:49 physical shock absorber.
+16:51 It tightly restricts the phonon
+16:53 vibrations, the atomic jitter that room
+16:55 temperature heat normally causes.
+16:57 >> Wow. So, the material is bound so
+16:59 tightly in this unnatural state that the
+17:02 heat literally cannot physically shake
+17:04 the electrons out of their
+17:06 synchronization with the light.
+17:08 >> The geometric lock just overrides the
+17:10 thermal noise.
+17:11 By forcing the material into a state it
+17:13 absolutely doesn't want to be in, they
+17:15 suppress the natural physical vibrations
+17:17 that normally destroy quantum states.
+17:19 >> That is incredible.
+17:21 >> No multi-million dollar cryogenic
+17:22 cooling systems are required. The
+17:24 lattice exhibits this deep strong light
+17:26 matter coupling just sitting on a desk
+17:28 at room temperature.
+17:29 >> So, what does this all mean? If we
+17:31 translate this out of the laboratory and
+17:32 into the real world, the implications
+17:34 are just staggering.
+17:35 >> are.
+17:36 >> Achieving stable quantum entanglement at
+17:37 room temperature is arguably the single
+17:39 largest bottleneck in modern technology
+17:41 today. We are talking about a tangible
+17:44 blueprint for manufacturing completely
+17:46 new materials for everyday quantum
+17:47 sensing and computing.
+17:49 >> Yeah, and to give you, the listener, a
+17:51 concrete sense of what room temperature
+17:53 quantum sensing could actually achieve,
+17:55 consider modern medical imaging.
+17:57 >> Like MRI machines.
+17:59 >> Exactly. A magnetic resonance imaging,
+18:02 or MRI machine, relies on
+18:04 superconducting magnets that must be
+18:06 constantly bathed in liquid helium to
+18:09 function.
+18:09 >> Right, they're huge.
+18:11 >> It requires dedicated infrastructure,
+18:13 massive amounts of space, and hundreds
+18:15 of thousands of dollars just to keep the
+18:17 machine cold enough to read the magnetic
+18:18 fields of the human body.
+18:20 >> But if you can build a quantum sensor
+18:22 using these room temperature
+18:23 superlattices, you eliminate the need
+18:26 for the liquid helium entirely.
+18:28 >> You could theoretically miniaturize the
+18:30 magnetic sensing capabilities of an MRI
+18:32 machine into a portable handheld device
+18:34 that a doctor could use in a field
+18:36 clinic anywhere in the world.
+18:37 >> That would change medicine completely.
+18:39 >> Absolutely. Furthermore, quantum sensors
+18:41 built from this technology could detect
+18:43 minute shifts in the Earth's magnetic or
+18:45 gravitational fields with such precision
+18:48 that vehicles could navigate flawlessly
+18:51 without relying on external GPS
+18:52 satellites.
+18:53 >> So, no more losing signal in a tunnel.
+18:55 >> Right. The removal of the cryogenic
+18:58 requirement completely democratizes
+19:00 where and how quantum technology can be
+19:02 deployed.
+19:03 >> This research just fundamentally changes
+19:05 the approach to material science. For
+19:08 generations, scientists have basically
+19:10 relied on the stable resting phases of
+19:13 matter that nature organically provides.
+19:15 >> Yeah, we only played with the cards we
+19:16 were dealt.
+19:17 >> We've been limited to the menu of
+19:19 structures that atoms willingly form on
+19:21 their own, but this team proved that we
+19:24 can actively design custom
+19:25 nanoparticles, force them into highly
+19:28 unstable intermediate geometries, and
+19:31 then harvest the extreme physical
+19:33 properties that those transitional
+19:34 states generate.
+19:36 >> It is a phenomenal demonstration of
+19:37 interdisciplinary collaboration.
+19:39 >> Really is.
+19:40 >> I mean, it required synthetic chemistry
+19:41 to physically manufacture the 14-sided
+19:43 meccans, computational physics to
+19:45 simulate the exact molecular hairs
+19:48 needed to bind them, and quantum optics
+19:50 to measure and prove the resulting deep
+19:52 strong coupling.
+19:54 >> Right, none of those disciplines could
+19:55 have achieved this in isolation.
+19:56 >> Not a chance.
+19:57 >> It makes you rethink our foundational
+19:59 understanding of the physical world. I
+20:01 mean, we started this deep dive talking
+20:03 about a rigid textbook of known phases
+20:06 of matter.
+20:07 >> The good old solids, liquids, and gases.
+20:09 >> Right. We explored the comfortable,
+20:12 densely packed resting states of metal
+20:14 atoms, and the chaotic invisible pathway
+20:17 they're forced to take when shifting
+20:19 between them.
+20:19 >> The hummingbird wings.
+20:20 >> Exactly.
+20:22 We followed researchers from Brown and
+20:24 the University of Michigan as they
+20:25 engineered 14-sided silver LEGO blocks
+20:28 coated in microscopic Velcro to trap a
+20:31 structural ghost.
+20:32 >> Such a wild sentence to say out loud.
+20:34 >> It really is. And the payoff for that
+20:36 incredibly niche crystallography puzzle
+20:39 was a literal road map for room
+20:41 temperature quantum computing.
+20:43 >> It basically proves that the spaces
+20:44 between the known phases of matter are
+20:47 just as rich as the phases themselves.
+20:49 >> There's a quote from Mu Chen in the
+20:51 article that perfectly captures this. He
+20:52 says, "Anytime you're able to identify a
+20:54 new phase of matter, new applications
+20:56 are going to emerge."
+20:58 >> It's so true.
+20:59 >> And I want to leave the listener with a
+21:00 final thought to ponder based on that
+21:02 idea.
+21:03 The researchers achieved this staggering
+21:05 breakthrough by proving their technique
+21:07 using silver, but the methodology
+21:09 itself,
+21:10 you know, designing custom shapes and
+21:12 using sticky ligands to trap them
+21:14 mid-transition is a universal recipe.
+21:16 >> Yeah, they could try with anything.
+21:18 >> Exactly. What happens when material
+21:19 scientists apply this exact framework to
+21:22 other elements on the periodic table?
+21:24 If simply freezing silver in a state of
+21:27 structural panic grants it room
+21:29 temperature quantum capabilities,
+21:31 what other hidden world-altering
+21:33 properties are currently trapped inside
+21:35 the fleeting, unstable micro-moments of
+21:37 the everyday materials all around us?
+21:39 >> It's a huge question.
+21:41 >> It is. We might just be scratching the
+21:42 surface of what the matter in our
+21:44 universe is actually capable of.
+21:48 >> [music]

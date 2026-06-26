@@ -1,0 +1,226 @@
+# Transcript: Google Just Made Vector Databases Optional — And Its Just a Folder (OKF)
+# Channel: Hyperautomation Labs
+# Duration: 448s
+# Video ID: m-D99wDLj7Y
+
+0:00 Last week, Google quietly published a
+0:02 new standard. Not a model.
+0:04 Not an API or folder. A plain folder of
+0:08 text files. And it does something you
+0:10 used to need an expensive vector
+0:11 database for.
+0:12 I read the actual spec this morning. It
+0:15 fits on a single page.
+0:17 And I rebuilt one of my own knowledge
+0:19 bases with it.
+0:20 By the end of this video, you'll know
+0:22 exactly when a folder beats a vector
+0:25 database and how to build one yourself
+0:27 today.
+0:28 Here's the problem nobody mentions.
+0:31 AI agents don't actually know your
+0:33 business.
+0:34 Every time you ask one a question, it
+0:37 starts from zero.
+0:39 So, we bolt on rag, retrieval augmented
+0:41 generation.
+0:43 You take all your documents, chop them
+0:45 into thousands of tiny fragments,
+0:47 turn each fragment into a list of
+0:49 numbers called an embedding, and stuff
+0:51 them into a vector database.
+0:53 When you ask a question, the system
+0:55 finds the fragments that look
+0:56 mathematically similar, and paste them
+0:58 into the prompt. It works, sort of.
+1:02 But, look at what's really happening.
+1:04 Your agent is rediscovering your entire
+1:06 company
+1:07 from a pile of shredded paper on every
+1:10 single question.
+1:12 It never learns the shape of what you
+1:14 know.
+1:15 And that machinery isn't free.
+1:17 You're running an embedding model,
+1:19 paying for a vector database,
+1:22 tuning chunk sizes that never feel
+1:24 right,
+1:25 re-indexing every time a document
+1:27 changes, and debugging why the retriever
+1:30 pulled the wrong paragraph. But, here's
+1:32 the thing. Most of your knowledge isn't
+1:34 a giant messy pile that needs fuzzy
+1:36 search. It's structured. It's your
+1:38 tables, your metrics, your runbooks,
+1:41 your APIs.
+1:43 Things that have names and clear
+1:44 relationships.
+1:46 Forcing that through similarity search
+1:47 is like alphabetizing your whole
+1:49 kitchen, and then finding the salt by
+1:51 smell.
+1:52 So, on June 12th, 2026,
+1:55 Google Cloud published the open
+1:57 knowledge format OKF.
+1:59 The whole idea is this.
+2:01 Instead of dumping your knowledge into a
+2:03 database
+2:04 and hoping retrieval rediscovers it,
+2:07 you write it down once as a folder of
+2:09 markdown files and let the agent read it
+2:12 directly. The same way it reads your
+2:14 code.
+2:15 Each file is one concept, a table, a
+2:18 metric, a runbook, an API. And the
+2:21 concepts link to each other with
+2:23 ordinary markdown links.
+2:25 That last part is the magic.
+2:27 Let me show you the actual spec because
+2:29 it's almost suspiciously simple.
+2:32 An OKF bundle is just a directory of
+2:35 markdown files. Each file has a small
+2:38 header at the top written in YAML.
+2:41 In version 0.1, there's exactly one
+2:43 required field. Type.
+2:46 That's it.
+2:47 Type is a short string that says what
+2:49 kind of concept this is. A table, a
+2:51 metric, a runbook.
+2:54 Everything else is optional, but
+2:56 recommended. A title,
+2:58 a one-sentence description,
+3:00 a link to the real resource, some tags,
+3:03 and a timestamp.
+3:04 And there are only two special file
+3:06 names.
+3:08 Index.md is the front door.
+3:10 A table of contents that lets an agent
+3:12 see the map before it reads the details.
+3:15 And log.md is an optional change
+3:18 history.
+3:19 That's the entire format.
+3:21 One required field.
+3:23 Two reserved file names.
+3:25 Here's why the linking matters and this
+3:27 is the whole point.
+3:29 With a vector database, the agent asks a
+3:31 question and gets back a handful of
+3:33 fragments ranked by similarity.
+3:36 It can't follow a thread.
+3:37 With OKF, the agent starts at one file,
+3:40 say your weekly active users metric, and
+3:43 that file links to the table it's
+3:45 calculated from,
+3:46 which links to the data set it lives in,
+3:48 which links to the runbook for when the
+3:50 number looks wrong.
+3:52 The agent walks the graph deliberately,
+3:54 the way you would.
+3:56 It's the difference between being handed
+3:58 a stack of photocopied pages
+4:00 and being handed a wiki you can click
+4:01 through.
+4:02 Retrieval guesses.
+4:04 Traversal navigates.
+4:06 Let me build a tiny one, so it's
+4:08 concrete.
+4:09 I make a folder. I drop in an index file
+4:12 that lists my concepts.
+4:14 Then a file, metrics, weekly active
+4:17 users.
+4:18 At the top, type, metric,
+4:21 a title,
+4:22 a one-line description,
+4:24 a link to where it actually lives.
+4:27 And in the body,
+4:28 I write the definition.
+4:30 And I link the words orders table
+4:32 straight to the orders file.
+4:34 Now, I have two concepts
+4:36 and a real relationship between them.
+4:38 No database, no embedding model, no
+4:41 re-indexing.
+4:42 I commit it to get right next to my
+4:44 code, and any agent, Gemini, Claude,
+4:47 whatever, can read it and walk it.
+4:50 And I can review changes to my company's
+4:51 knowledge in a pull request, exactly
+4:52 like code.
+4:54 Now, let me be straight with you because
+4:55 the headlines are overselling this.
+4:58 OKF does not kill rag.
+5:00 It is not a search engine.
+5:02 It doesn't rank or retrieve fragments
+5:04 for you. If you have 10,000 support
+5:05 tickets or a mountain of unstructured
+5:08 PDFs,
+5:09 you still want vector search for that
+5:10 long tail.
+5:11 The smart setup is both.
+5:13 OKF for the structured backbone your
+5:15 agent should always know,
+5:17 your tables, your metrics, your
+5:19 definitions.
+5:20 And retrieval for the messy long tail.
+5:24 In fact, OKF makes rag better
+5:27 because it hands the retriever clean,
+5:30 structured, relationship-rich material
+5:33 instead of random chunks.
+5:35 It's not replace, it's relief.
+5:37 Here's why this matters more than it
+5:39 looks.
+5:40 It's vendor neutral.
+5:42 No Google account, no runtime, no SDK,
+5:46 just markdown in a Git repo.
+5:48 Which means your company's knowledge
+5:50 stops being trapped inside one Windows
+5:52 database
+5:53 and becomes a portable, human-readable,
+5:55 version-controlled asset
+5:57 that outlives any single tool.
+6:00 And if your docs are already markdown,
+6:02 already one concept per page, already
+6:04 cross-linked,
+6:06 you're most of the way there without
+6:07 knowing it.
+6:08 It's the same pattern that keeps
+6:10 winning.
+6:11 The simplest format that both humans and
+6:13 agents can read beats the clever black
+6:15 box.
+6:16 So, here's what to actually do.
+6:18 Pick the five things your AI assistant
+6:21 gets wrong about your business most
+6:23 often.
+6:25 A metric it miscalculates, a table it
+6:28 misuses, a process it forgets.
+6:31 Write each one as a single markdown file
+6:33 with a type field and a clear
+6:34 description.
+6:35 Link them together.
+6:37 Drop the folder in your repo.
+6:39 That's a starter OKF bundle
+6:42 and it'll make every agent you point at
+6:43 it smarter.
+6:45 I built a free starter kit, a
+6:47 ready-to-edit OKF bundle with the index,
+6:49 the reserved files, example concepts,
+6:52 and a checklist, so you never start from
+6:54 a blank folder.
+6:55 If this finally made the rag versus
+6:57 folder thing click, do three quick
+6:59 things.
+7:00 Subscribe here on YouTube and follow
+7:03 Hyper Automation Labs on Facebook and
+7:05 Instagram. I post these breakdowns on
+7:07 all three.
+7:09 To get the free OKF starter kit, comment
+7:11 the word OKF and I'll send it straight
+7:13 to you.
+7:15 And if you want to go deeper on building
+7:16 agents that actually remember,
+7:18 my Claude Code guide goes much further.
+7:21 Link in the description.
+7:23 Write your knowledge down once.
+7:24 Let the agent walk it. I'll see you in
+7:26 the next one.

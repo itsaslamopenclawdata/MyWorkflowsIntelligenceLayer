@@ -1,0 +1,1223 @@
+# Transcript: 7 Hermes uses you must try (that actually work)
+# Channel: The Next New Thing
+# Duration: 2277s
+# Video ID: 6BHh8BoKim4
+
+0:00 Hey Hermes, go to my computer, open up
+0:02 VS Code, and in Claude Code plugin, type
+0:04 this loopcopygoogle.com.
+0:07 Do not stop until you copy their whole
+0:09 business. Make no mistakes.
+0:12 Now, let's see what happens on the
+0:13 computer.
+0:16 It's thinking and it typed it in. It
+0:20 could control cloud code.
+0:22 >> Presented by Zapier, the AI automation
+0:25 company.
+0:25 >> Hermes has been an amazing agent. I
+0:27 freaking love mine. I'm going to go over
+0:29 actual use cases of how I and other
+0:31 entrepreneurs are using it and I've got
+0:32 Eric Sue who runs a company largely
+0:34 using agents like Hermes to give us
+0:36 feedback on how people are using it.
+0:38 This is control your computer. You just
+0:40 tell it what apps to do and to use and
+0:42 it'll use them. I think this is one of
+0:43 the most exciting things to come out of
+0:45 Hermes since the last most exciting
+0:46 thing. And the reason that I showed this
+0:48 example is I feel like I've got all
+0:50 these extra credits of from Claude. I
+0:52 don't use them in the middle of the
+0:53 night. I think I'm gonna have like a
+0:55 list of things that Hermes agent can
+0:57 tell Claude to do and now I could have
+0:59 it work at night and using loop I could
+1:01 have it work until it finishes. I'm
+1:03 super excited about this as a use case.
+1:05 What do you think?
+1:06 >> I haven't used this yet. Um, but I think
+1:08 this is great. I think what's probably
+1:10 more important is probably the loops
+1:12 piece because I made a resolver that
+1:15 basically looks at all the work I'm
+1:16 doing inside of Cloud Code and also
+1:18 inside of Codeex or Hermes as well. And
+1:20 then it so it's just kind of observing
+1:22 what I'm doing throughout the day and it
+1:23 tells me at the end here are the things
+1:24 that you should loop. These are the
+1:26 things that you should continue and then
+1:27 based on what you're doing over here
+1:29 with this workflow, you can have it
+1:30 continue, right? So I think it's almost
+1:31 like a a little combination of things
+1:33 going on here. So I think this is smart.
+1:35 I didn't even know this came out a few
+1:36 >> just just came out on um on Tuesday. All
+1:38 right, this is one use case. Let's go on
+1:40 and take a look at other people's and uh
+1:42 use cases. I really like what uh what
+1:44 Alex has done here.
+1:45 >> And look at this. It built the entire
+1:47 report out. Gave it a highlevel
+1:49 overview. report about his competitor.
+1:52 >> Exactly. All the tech behind it, which
+1:55 is all accurate, but has the payments,
+1:57 how much everything costs. It has all
+1:59 the analytics, the the events, the
+2:01 >> Look at the look on his face of delight
+2:03 of seeing what his competitor is doing
+2:04 because he's going to copy some of their
+2:06 best features are collecting. This is
+2:08 amazing. If we were to go say, "Hey, put
+2:10 this in a markdown file." Then we take
+2:12 that markdown file with hands to claude
+2:14 coder codeex. It can build out
+2:17 everything creator buddy is doing. Well,
+2:19 you he's just basically saying, I want
+2:21 you to go and look at my competitor,
+2:23 tell me what they've got, and then give
+2:24 me a markdown file that I can tell
+2:25 Claude code so that it can go and copy
+2:27 the fi the things that I like. The setup
+2:28 for something like this. Super easy.
+2:30 >> Open a browser and go to
+2:31 creatorbuddy.io.
+2:32 >> This is him just giving the prompt.
+2:34 >> Do a full research and technical
+2:36 breakdown of the site. What stack does
+2:38 it use? How does it work? Which features
+2:40 does it have? What can we emulate?
+2:42 >> Okay. Simple prompt, simple control of a
+2:45 browser. What do you think of this as a
+2:46 use case for Hermes? I think by itself
+2:49 it's useless. I think when you make it a
+2:52 repeatable cron job for example or an
+2:54 automation or a loop or or a routine
+2:56 whatever it is exactly if you're running
+2:58 it daily or maybe running this one's
+3:00 probably you're running it like a weekly
+3:01 or monthly type of thing depending on
+3:03 what you're doing it becomes way more
+3:04 useful. I found that whenever I made
+3:06 these it was really cool in the moment
+3:08 but I found with Hermes I'll do a lot of
+3:10 these one-offs but a lot of them go into
+3:12 the ether. I tend to forget about it.
+3:13 Right. What's cool is when I'm working
+3:15 with Hermes and you have the crown jobs
+3:16 going to a channel where where you're
+3:18 seeing the the the alerts every single
+3:20 day and there's actually it's trying to
+3:22 move the ball forward every day or even
+3:24 if you're having it in codeex that's
+3:25 been a lot more useful to me because
+3:27 what ended up happening before was I
+3:29 made too many of these different reports
+3:31 that ended up going nowhere because I
+3:32 took no action because it was just too
+3:33 much stuff.
+3:34 >> Got it. So it's now a lot of extra
+3:36 homework for you versus the Hermes agent
+3:39 taking things on. Speaking of the Hermes
+3:40 agent taking things on, I have opinions
+3:42 about this thing that he does.
+3:44 >> So, here's the routine that has changed
+3:46 my life. You wake up, go to your
+3:48 computer, open up your canban board, get
+3:51 all your to-do items for that day, and
+3:53 start putting them in triage. So, here's
+3:55 how I'll do. I'll say script a new
+3:57 Hermes YouTube video about use cases.
+4:01 I'll click create, and I'll make a new
+4:03 one. Come up with three tweets about
+4:07 Hermes use cases. create. That's two in
+4:11 there.
+4:11 >> Okay. Bottom line, what he's doing is
+4:13 he's putting it in there and he's
+4:14 letting his Hermes agent take it on.
+4:16 What's your opinion before I give mine?
+4:18 >> I think this this is AI theater. And
+4:20 what I mean by that is it looks like
+4:22 you're doing a lot, but you're actually
+4:23 doing a lot of nothing. This is to me
+4:25 it's a lot of wasted energy because
+4:27 first of all, I've used this combine
+4:29 board and and this version of it and and
+4:31 it maybe it's gotten better over time,
+4:32 but this version of the Hermes combine
+4:34 board, it's not that useful and it
+4:36 actually misses a lot of context when
+4:37 you click into the cards. I actually
+4:38 don't even understand what it's saying.
+4:40 And so it will eventually become more
+4:43 useful, but in this context, I don't see
+4:44 it being that useful. I honestly see the
+4:46 Hermes desktop app where you can see the
+4:48 different things that you're working on.
+4:49 Kind of like how it is with Codeex and
+4:51 Cloud Code. That's a lot more useful for
+4:52 me. And then the resolver thing that I
+4:54 brought up where it will just give you
+4:56 like a like a like a daily priority list
+4:58 um for maybe when you have an hour at
+5:00 the end of the day where you can just
+5:01 kind of knock things out. I think that's
+5:02 a lot more useful versus having to go
+5:04 through a conbon board like this that I
+5:05 don't understand.
+5:06 >> Wait, wait. What's the resolver thing
+5:08 that you just mentioned?
+5:09 >> Yeah, so I use codeex to build this
+5:11 thing cuz my issue was was and Andrew,
+5:13 I'm sure you're dealing with this.
+5:14 You're building all this cool stuff and
+5:16 I have Cloud Code open, I have Codeex
+5:18 open, I have Hermes open, but I have so
+5:20 many open threads that I forget what I'm
+5:23 working on and I forget the priorities
+5:24 of these things. And so at the end of
+5:26 the day, it would just kind of organize
+5:27 everything together and say, "Hey, these
+5:29 are actually the priorities and I think
+5:30 you should actually consolidate some of
+5:31 these because you might have worked on
+5:32 them in duplicate scenarios." Um, and
+5:35 that way I feel like I'm continuing to
+5:38 move the ball forward. And some of these
+5:39 things you can loop if you want, but uh,
+5:41 my issue before was I was just getting
+5:42 lost.
+5:43 >> Wait, wait. What What do you mean by
+5:44 what's taking things out of Codeex, out
+5:46 of Claude Code, and Hermes and combining
+5:48 them into open assignments?
+5:50 >> Yeah. So, I I was at this AI mastermind
+5:54 um with with a few founders. This was
+5:56 like a month or two ago. And um, one guy
+5:58 was talking about how there's a company
+6:00 called Terramine where like just keep
+6:01 watching what you're doing on your
+6:02 screen. And then obviously you heard
+6:03 about Meta taking like screenshots of
+6:05 their employees. I'm like forget doing
+6:07 that. I just want to do this for myself
+6:08 because I need to know like all the
+6:10 things I'm doing and all the things way
+6:12 ways of being inefficient. So maybe
+6:13 there's things I need to skillify but
+6:15 also there's things I need to come back
+6:16 to on the codeex cla side of things cuz
+6:19 I just forget cuz we have so many things
+6:21 going on in parallel right now. Um, and
+6:23 so when I I just kept building on it.
+6:26 First I built the thing that kept
+6:27 watching me and skillifying things and
+6:28 I'm like, "Hey, what if we built
+6:30 something where it helps me just check
+6:32 open threads and helps me prioritize
+6:34 them and I was like, hey, what should I
+6:35 call it?" It's like, you should call it
+6:36 resolver. I'm like, that sounds good to
+6:38 me. I Wow. Okay. I agree with you on the
+6:41 combon board and I want to emphasize
+6:43 this. It was one of the things that drew
+6:45 me to updating Hermes. The combon board
+6:47 is absolutely useless. It looks
+6:50 beautiful. It's not good because it's on
+6:52 the single computer. It doesn't do the
+6:53 things that I want. I prefer to put it
+6:55 in notion and we're going to see what
+6:56 you do. Let me actually show one other
+6:58 thing that he that he does. I also the
+7:00 other thing that I think is why write it
+7:01 on a piece of paper? Just send it over
+7:03 to to uh to um Hermes via Telegram.
+7:06 >> Having said that, what I do like about
+7:08 his point of view here is find ways to
+7:11 offload things to the agent. I'll even
+7:14 tell you a simple thing that bothers me.
+7:15 They're groceries. My wife hates when I
+7:17 eat something and then I don't replace
+7:18 it. I just said Hermes add it to our
+7:20 shopping cart and the stinking shopping
+7:22 cart app from whatever market that we
+7:25 use sucks. I can do it here. Okay, let's
+7:27 take a look at something that's more
+7:28 meaningful from him. I really like this.
+7:31 You have a different take on it. Let's
+7:32 take a look at
+7:33 >> and basically just have a hub for
+7:35 everything you've done with this. Is
+7:37 mine right here and I'll show you how to
+7:38 set it up in a second, but basically you
+7:40 can go in see a whole bunch of topics
+7:43 you've talked about in the past. see
+7:45 each and every one of your daily logs
+7:47 and what you've worked on every single
+7:49 day. And it's basically like an
+7:50 automated diary
+7:52 >> of everything that he has done. Here's a
+7:54 little bit of how he set it up. And then
+7:56 I'll show how
+7:57 >> I want to build a memory wiki. This
+7:59 should be a site I can visit that has a
+8:01 list of all the subjects we've talked
+8:03 about and the daily logs of what we've
+8:05 done together.
+8:06 >> So he basically prompts it and it
+8:08 creates that daily wiki for him. What do
+8:10 you think of that? Should I be creating
+8:12 a daily wiki this way? So, I don't know
+8:15 if he's talking about Obsidian here, but
+8:16 I use Obsidian and it will basically it
+8:19 logs there's a daily log and then also a
+8:22 lot of the decisions that I made go into
+8:23 my Obsidian. Um, and so it seems like
+8:26 this is a version of that. I don't know
+8:27 what he's using here.
+8:28 >> He's basically having Hermes do it for
+8:30 him. Here's your setup here. Uh, you
+8:32 actually use Are you still using QMD
+8:34 memory? Here's what you said.
+8:35 >> You want to use Obsidian for memory. So,
+8:37 this is really important because your
+8:39 Hermes isn't going to have the best
+8:41 memory in the world. So you definitely
+8:42 want to upgrade the memory using uh Toby
+8:44 Luke's QMD. So there's a GitHub repo for
+8:46 that. Literally it's the letters QMD.
+8:48 And then if you have an Obsidian, then
+8:49 every day there's a daily log. All the
+8:51 decisions that you're making, you're
+8:52 logging it into obsidian. That way you
+8:54 have Obsidian and that way you have
+8:55 linear as well. Then you have a closed
+8:56 loop system that continually improves
+8:58 and there's all this other scaffolding.
+9:00 Imagine that it's almost like every day
+9:01 you're working with this. You're
+9:02 constantly upgrading over time. You're
+9:04 >> and this is this is what you did in your
+9:06 video. That's what you explained. Are
+9:07 you still using QMD? How is it different
+9:09 from what he just described?
+9:11 >> Yeah. So I have there there's a I have
+9:13 QMD which is to T toby's uh memory tool
+9:16 and it it and then I have uh there's
+9:19 Gbrain I use GStack. There's a handful
+9:21 of these uh different repos that I use.
+9:23 Um and then the biggest piece um so I
+9:26 wouldn't say QMD replaces uh Obsidian or
+9:29 or Linear. Obsidian to me is just that
+9:31 running log every day. It's just
+9:32 recording decisions over time. Linear it
+9:34 will just place things into projects um
+9:36 if if I need to. Uh that way I can
+9:38 collaborate with other people on it. Um,
+9:40 and then QMD just makes it it's just it
+9:42 makes my Hermes less dumb. It's easier
+9:44 to find things, whereas before without
+9:46 it, it even with my open claw, it had
+9:48 trouble finding things sometimes. It
+9:50 just felt like it was stupider. So,
+9:51 >> and so you need QMD and uh Gbrain and
+9:55 it's all creating log documents for
+9:58 Hermes to go and look at.
+10:00 >> I like GBrain ultimately. I think what
+10:04 uh GBrain to me is not a memory thing.
+10:05 It's more so GBrain. What Gary made with
+10:08 GBrain and GStack is just a list of
+10:10 really good skills that you can use. CEO
+10:11 review, design review, and things like
+10:13 that. So, to me, these are a nice stack
+10:15 uh for me to get things done better.
+10:18 >> Okay. All right. Uh you mentioned
+10:19 linear. You do use linear to keep track
+10:21 of things. I like it. Uh here's what you
+10:23 explained in your video for why you use
+10:25 it.
+10:25 >> So, for number four, you want to have
+10:27 your Hermes work with a project
+10:29 management product like a Lineion. And I
+10:32 like linear because they have a simple
+10:33 API that you can use and a lot of people
+10:35 use it for building products. And so the
+10:36 cool thing is I can combine linear with
+10:38 my cloud. I can combine it with my my
+10:41 cloud code, my codeex from from OpenAI
+10:44 and I can also combine it with my agent
+10:45 as well. And then whatever it is that
+10:47 we're we're working on things, it's
+10:49 going to create a linear file so we can
+10:50 keep things moving over time and it's
+10:52 going to have me review the linear files
+10:53 and that way we can keep things moving.
+10:55 Right.
+10:56 >> Still using it. I have I have one piece
+10:58 of feedback on this that I've learned
+11:00 from these interviews. I need a way to
+11:03 get my data from Claude the desktop app
+11:05 which I use sometimes into Hermes which
+11:07 I want to take on action and all that
+11:09 stuff. What I found is since I use um
+11:13 notion for my combine board of tasks,
+11:15 what I do when I'm done with Claude and
+11:17 I come to some resolution, I just say
+11:19 create a task for Hermes in my in my
+11:21 notion and it has access to notion. It
+11:23 creates a task. So now I've learned
+11:25 something from Claude. I've figured out
+11:27 something. I want to take action. I
+11:29 don't have to go and do it. I just tell
+11:30 it to pass it on to Hermes. It's no
+11:32 problem. It works flawlessly.
+11:33 >> Yeah. The way I So, we have um linear my
+11:38 setup was working good until here's what
+11:39 happened. I'm just going to show you
+11:40 this. This thing went down. So, my
+11:43 Hermes was on this DGX Spark over here.
+11:46 And then I don't by the way I I've read
+11:47 something recently about how uh you know
+11:49 the I think how fast you're you're like
+11:51 using these agents might be burning out
+11:53 the the SSDs on these. I have no idea.
+11:55 Um, but I had to like open it up and try
+11:57 to replace it and all that. So, all that
+12:00 to say is I had linear setup correctly.
+12:02 Um, where it was basically putting uh it
+12:04 was automatically updating like big
+12:06 projects that were working on it and and
+12:08 updating it that way. Um, I don't use it
+12:10 as much right now only because I haven't
+12:12 gotten to fixing my Hermes like my
+12:14 Hermes is like 80% back. Um, so, you
+12:16 know, this is something I'm going to get
+12:18 back. Yeah,
+12:18 >> this is one of my big frustrations. I do
+12:20 not want Hermes on my computer here. I
+12:22 like it now because I'm getting to play
+12:23 around with it, but I want to put it in
+12:24 the cloud at some point. Um, all right.
+12:26 Next is how do you communicate with it.
+12:28 I'm still using Telegram and I've got
+12:32 here's what you do
+12:32 >> now. Like I'm redesigning a media kit.
+12:35 Somebody recently they want to do a
+12:36 media deal with us and that's the media
+12:37 kit and I don't want to spend too much
+12:39 time on it. So I just dragged our old
+12:40 media kit from maybe two years ago and
+12:42 that somebody else made and I said,
+12:43 "Hey, just uh can you pull some recent
+12:44 numbers from all the other platforms
+12:46 that we have right now and just update
+12:47 the media kit and just make it look nice
+12:49 and use our design."
+12:50 >> Okay. I like how this is in Slack and
+12:53 the way that you're communicating with
+12:54 it. Let me play you what Brian Castle
+12:56 has said about Slack and his alternative
+12:58 and then I want to hear your take based
+12:59 on that. But first, oh, I got to tell
+13:01 you about Zapier. Dude, here I love
+13:04 Zapier MCP because it gives access to
+13:06 Hermes agent to my email. Here's the
+13:08 number one use that I found for uh
+13:10 Zapier MCP. You and I did an interview.
+13:12 I never sent you a message afterwards
+13:14 saying thank you. It's published. Here's
+13:16 the link. Never mind promoted. Here's
+13:18 the link with a thank you. You're
+13:18 nodding, right? Here's why I get
+13:20 embarrassed after I do an interview and
+13:22 post it because I think I could have
+13:23 asked a better question. I could have
+13:25 done this. I should have done that. Let
+13:26 me wait. Let me wait till it has a few
+13:28 more views. Then he'll be really
+13:29 impressed. What I did was I said to
+13:31 Hermes, "Every day at 5:00, I want you
+13:34 to go into my YouTube channel, see who I
+13:36 publish with, then go into my email
+13:38 account, so you can find the email
+13:39 address that I use to message them. Send
+13:41 them a message saying this, this
+13:43 interview is up, and actually draft it
+13:45 under me so that I could hit send on
+13:47 it." I'm having it go into my email and
+13:49 if someone didn't respond to my message,
+13:50 I want to kick it back in with uh with
+13:53 the draft message written for me. That's
+13:55 one of the best benefits of having
+13:57 Zapier.
+13:58 >> Zapier's the best.
+14:00 >> So good. So good. Okay. All right.
+14:01 Here's the alternative to Slack. Let's
+14:03 first take a look at what Brian said
+14:04 about his problem with Slack
+14:07 >> in Slack at least. It's not really able
+14:09 to do threading or really multi-channel.
+14:12 You sort of can, but it just doesn't
+14:13 work reliably. So, I've actually land
+14:16 >> Did you actually find that problem
+14:18 before I show you why he moved on to
+14:19 something else?
+14:21 >> No. Can you repeat that piece? I'm like
+14:22 looking into this guy real quick.
+14:24 >> Brian Castle, he does a lot of videos on
+14:26 this and what one of the things that he
+14:28 discovered was that the the threading
+14:31 doesn't work well in Slack
+14:33 >> and he goes into it in his video. Do you
+14:35 find that too?
+14:36 >> I don't find it to be a major issue. And
+14:39 here's the thing. Let's say it is an
+14:41 issue. Let's let's entertain him for a
+14:42 second. Okay. Well, how am I supposed to
+14:45 convince my entire company to move over
+14:48 from Slack where we have a lot of our
+14:50 stuff built in already over to Discord,
+14:52 which I don't have a problem with, but
+14:53 also like as a someone with a gaming
+14:56 background, like Discord, it it's nice,
+14:58 but it's missing a lot of things. So,
+15:00 >> yeah, his solution is Discord. Here's
+15:02 the reason why.
+15:03 >> I really like Discord for a number of
+15:04 reasons. First of all, the formatting,
+15:06 the markdown support. Uh, it's really
+15:09 nice and readable. The other thing I
+15:10 like is that I can separate out and have
+15:14 multiple channels. So these are like
+15:16 sort of like areas of my business. So
+15:18 for example, I've got my main HQ. That's
+15:20 sort of like a general channel. I got
+15:22 tasks related to my YouTube channel
+15:23 happening in here. Content development.
+15:26 Kit is my email marketing. Uh my builder
+15:28 methods site. It runs some like SEO
+15:30 tasks.
+15:31 >> Okay. I'm thinking of switching over to
+15:33 Discord. I think what it is is if it's
+15:35 single player mode, Discord seems to
+15:36 make a lot of sense. If it's multiplayer
+15:39 mode, I think Slack is the way to go
+15:40 because that's where your team is.
+15:42 >> I actually asked my Hermes this
+15:44 question, I think a while back. I was
+15:45 like, "Hey, to to your point, I'm like,
+15:48 I would use Discord if I'm if I'm
+15:49 alone." I'm like, "So, I should be using
+15:51 Discord, right? Or should I use Slack or
+15:53 should I use Telegram? Like, what's
+15:54 better?" And then the other day I was
+15:55 like, "Hey, should I put it on
+15:56 iMessage?" And then it basically gives
+15:57 me I'm always asking every day, "What's
+15:59 the highest leverage thing I can do?
+16:00 What's the highest leverage thing I can
+16:01 do? Give me the leverage score one
+16:03 through 100 on this." And it was like
+16:05 Slack is like a like a nine out of 10 or
+16:07 90 out of 100 for you because it's
+16:09 multiplayer because you can do X Y and Z
+16:11 and you can add all these connectors to
+16:12 it. Um Discord not so much. Telegram is
+16:15 good for for us to maybe communicate
+16:17 privately. iMessage is more just for
+16:19 convenience. Um but that that's kind of
+16:21 how I see it. So maybe you know um Slack
+16:24 is probably like if if you're running a
+16:25 business and you have uh multiple
+16:27 employees or if you have if you have a
+16:29 lot definitely you should be on Slack if
+16:30 you have a lot of employees. Um, but I
+16:31 think single player mode, yeah, I'd
+16:33 probably go with Discord.
+16:34 >> And you know what, and one of the things
+16:35 that you told me was it's it's sometimes
+16:37 hard to even get your team to get on
+16:39 Slack with an AI agent. They're not
+16:41 sure. Are you trying to replace me with
+16:42 the AI agent? How does it work? Am I
+16:44 going to look like a fool? Okay. So, if
+16:46 it's hard enough, let's not make it any
+16:47 harder by making them switch over to a
+16:49 different platform. Okay, great. Let's
+16:50 move on to the next point. Man, I really
+16:53 like Nate Herk's stuff. Let me show you
+16:54 the thing that I thought that was the
+16:56 coolest that he did. And you've been
+16:57 playing with video, so tell me what you
+16:59 think of this. have seen my videos on my
+17:00 channel about hyperframes with claude
+17:02 code basically to edit videos. I wanted
+17:04 to see if Hermes could do that. So I
+17:05 said hey can you make me a video using
+17:07 hyperframes about what Hermes agent is
+17:09 how you work how you remember things. It
+17:11 ran all of these different things. So it
+17:12 has a skill called creative. It had a
+17:14 skill called manm video. It was
+17:16 searching for hyper. It ran all these
+17:17 terminal commands and it also you can
+17:19 see here it's using vision to analyze
+17:21 the actual video to see how it turned
+17:22 out. Now its first pass wasn't great. It
+17:25 didn't even use hyperframes. I'm not
+17:27 exactly sure what this used, but as you
+17:28 can see, some of the spacing is off.
+17:30 It's not amazing, but you know, it's not
+17:31 terrible for the fact that I just said,
+17:32 "Hey, make me a video." So, basically,
+17:34 then I said, "Okay, what tool did you
+17:36 use? I wanted you to use hyperframes."
+17:37 So, it had to look into it. It did the
+17:39 research on its own. It asked me if it
+17:40 could install hyperframes. I said, "Yes,
+17:42 and then it comes back with a video
+17:43 that's actually much much better." So,
+17:45 I'm not going to play the whole thing,
+17:46 but here's the video that it actually
+17:47 came up with. It looks a lot better. The
+17:49 spacing is a lot better. It just has
+17:51 these diagrams that actually like don't
+17:52 overlap and they're not going out of
+17:54 bounds. So that looks good. What do you
+17:57 think?
+17:58 >> So it looks good, but let me tell you
+18:00 what, here's a lazier way to do this
+18:02 one. I don't want to put in the work
+18:03 right now. I don't think you want to put
+18:04 in the work right now to learn this. So
+18:06 in my opinion, it's going to get to the
+18:08 point where you don't need to think
+18:09 about all this initially because usually
+18:10 Nate is showing the latest stuff and
+18:12 he's figuring it out. My opinion, I was
+18:14 just talking to my CTO at lunch.
+18:16 >> I think Fable like a Fable 5ish model in
+18:18 the future is going to be so good where
+18:20 it's just going to do it for you, right?
+18:21 just like when when you're able to see
+18:23 someone made literally an Age of Empires
+18:25 game using Fable 5 versus Opus 48, it's
+18:28 just levels above, right? And so I think
+18:30 this is um I think every everybody's
+18:32 going to be editing this way. I also
+18:33 think here's the thing, even if you
+18:35 learn it right now, it's not quite there
+18:36 yet, right? I I've seen his videos where
+18:38 he has it. I'm like, it's kind of cool,
+18:40 but I still rather just go with my
+18:42 current editors right now and and pay
+18:43 the premium. Um, but I think once you
+18:45 have a Fable 5 that's really out there
+18:47 in the market, um, I think it's it's
+18:49 just going to be doing it for you and
+18:50 without that this much uh kind of
+18:52 upfront thinking.
+18:53 >> Wow, this is new because when I
+18:54 interviewed you last and you showed me
+18:55 your setup, your whole thing that stuck
+18:57 with me was you're even having it create
+19:00 videos for you. Okay, that's interesting
+19:01 to see. My other take on this is I hate
+19:06 watching all these videos on X which
+19:08 with nothing but text. Dude, just write
+19:10 the freaking thing. If you don't have
+19:12 anything interesting to show, just and
+19:14 all it is is text, just let me read it
+19:15 at my own pace. I'm bothered by that. I
+19:18 do think this is a cool demo. I like
+19:19 that you brought me back to reality. I
+19:21 think where this could be helpful is if
+19:23 maybe it's on a green screen and you
+19:25 have some text that you will show on
+19:26 your on your video while you're talking
+19:29 perhaps maybe as a replacement for
+19:32 slides. Okay, fair. I do like what you
+19:33 just did there.
+19:34 >> You took I mean to be fair though like
+19:37 we're still cranking out a lot of video
+19:38 with AI. like we we we definitely use
+19:41 Hermes, we definitely use uh overlap's
+19:43 been a really good one as well where it
+19:44 just finds the right moments for
+19:45 clipping and then those have been
+19:47 crushing on on X and then we have a nice
+19:48 caption based on like a X long form
+19:50 skill and so I think I think what he's
+19:52 showing again it's still relevant. I
+19:54 just think we're going to get the chance
+19:55 to be a lot lazier with this.
+19:56 >> You're saying overlap? What is overlap?
+19:59 >> Overlap it's a it's like a content
+20:01 clipping tool, right? And so there's a
+20:03 lot of these tools out there. Like sure,
+20:04 there's Opus as well, but um we found
+20:07 that overlap has been the best one in
+20:08 terms of finding these mid form clips
+20:10 that perform well on X um and on
+20:12 LinkedIn. These are like, you know, 2
+20:13 minute like horizontal videos that that
+20:16 do well. So yeah. Yeah, you freaking get
+20:18 me. Before I go to bed, I will see some
+20:19 of your videos as I'm scrolling up. I
+20:21 go, does he have another channel here?
+20:23 How is he doing it? And I know you're a
+20:24 play. You're like, let me experiment.
+20:26 Let's just keep publishing and see what
+20:27 happens. You know what? I'll show one
+20:28 other thing just because so many people
+20:30 talk about this and I want to know from
+20:31 you as a as a business owner. Is this
+20:33 practical for you? But this is a demo
+20:35 that I see endlessly.
+20:36 >> Anyways, take a look at some of these
+20:37 crons that my Hermes is running. A daily
+20:39 AI news briefing which is posted inside
+20:40 of my school community YouTube comment
+20:42 monitoring. So, if you guys have noticed
+20:43 on my YouTube videos lately, I've had an
+20:45 AI agent that has access to the
+20:46 transcript and knowledge about me and
+20:48 has been responding to your guys'
+20:49 comments. And that is this Hermes agent
+20:51 school community engagement, morning
+20:53 business summaries, server checks,
+20:54 research reports, follow-up reminders,
+20:56 and that's just some of the crowns that
+20:57 I have this agent work.
+20:59 >> Okay. Actually, what I meant to show was
+21:01 just the daily news brief. I forgot that
+21:03 he's also doing YouTube comment
+21:05 responses. I wonder what he's using to
+21:07 connect to do that. But what do you
+21:09 think of daily briefing first of all?
+21:11 >> Yeah, so I I have a daily brief that I
+21:13 don't read at all. Um, so I will say the
+21:15 daily brief that's been helpful to me
+21:17 has been finding uh relevant news as it
+21:20 relates to AI business and marketing.
+21:22 And then there have usually every day
+21:24 there's a couple good headlines that
+21:25 apply to marketing school because we
+21:27 record that each week. That being said,
+21:29 um I don't use my open claw anymore. So
+21:31 the funny thing is on my telegram, my
+21:33 open claw has all these crons and all
+21:34 these mine too.
+21:36 >> Yeah. I don't read it anymore. It's just
+21:38 too much stuff.
+21:39 >> Yeah, mine too. I have this open claw
+21:41 that's sitting on the same computer as
+21:42 Hermes and all it's doing is all those
+21:44 crrons that I thought would be
+21:46 important. The one thing that I do think
+21:47 is is interesting is the way that he's
+21:49 having um his agent reply to comments. I
+21:52 don't want to do that, but I I do think
+21:54 it's interesting even if it could read
+21:55 them and analyze them and make sure that
+21:57 I see the ones that are most important.
+21:58 Okay, let's go on to the next uh the
+22:00 next person here.
+22:01 >> Well, Andrew, on that one real quick, I
+22:02 think what's helpful, I think in my
+22:04 opinion, like you see on Instagram all
+22:06 the time, everyone's like, "Comment for
+22:08 this resource. Comment for this." I'm
+22:09 like, how are they kicking out these
+22:10 resource these downloadable resources so
+22:12 quickly? And so in my mind, I'm like, it
+22:14 would be helpful to have an agent just
+22:16 focus on that cuz that drives your email
+22:17 list higher and and like that's just
+22:19 smart to me, right? And so many people
+22:21 are doing it. I'm just like, we haven't
+22:22 done it yet and maybe I'll just come
+22:23 steal yours after. But
+22:24 >> it's too easy. I'll tell you exactly
+22:26 what you do. You basically you um you
+22:29 tell it to go through the transcript of
+22:30 an interview and you create a PDF and
+22:32 then you have what you said earlier, a
+22:34 design.md file and so it creates that.
+22:37 The hard part is getting it into
+22:38 ManyHat, which is what we use to to
+22:41 distribute it on Instagram, but it
+22:42 works.
+22:43 >> So, do you just use like uh do you use
+22:44 like the codeex record and replay now
+22:46 just to make it a skill and it just
+22:47 repeats?
+22:48 >> No, I uh I've got a guy who's doing it.
+22:51 Um a guy named Krishna who's doing it.
+22:54 Okay. Still interesting uh interesting
+22:56 take. I like that. Let's go on to the
+22:58 next one. I like Charbell. He's really
+22:59 into Hermes agents. I do wish that he
+23:01 shared more of his screen and showed
+23:03 what he was doing. Um, let me let me
+23:05 show one one case where he did show a
+23:07 screen that I thought was really
+23:08 helpful. He said, "Listen, have have
+23:10 your Hermes agent interview you and then
+23:13 he showed the way that he has it
+23:14 interview him." And this is so that it
+23:16 understands you and knows how to work
+23:17 with you. Um, but listen,
+23:19 >> help me find homes to buy in France.
+23:22 Okay. So, the example he's using here is
+23:24 actually not the interview him example,
+23:25 but the how you can have Hermes ask you
+23:29 questions to make sure that it has
+23:31 enough context, but it's part of him
+23:33 saying have it ask you questions here.
+23:35 >> Use ask user question until you reach
+23:37 clarity. And once you submit that,
+23:41 you're going to see that since this is a
+23:44 desktop app and you're not operating on
+23:46 Telegram, it can do things like embed a
+23:50 questionnaire. There you go. Inside of
+23:53 Hermes agent, which is a pretty neat way
+23:56 to prompt your Hermes agent. So here,
+23:59 look at this. It's asking, "What's the
+24:01 real buying brief for France? Start with
+24:03 a constraint that changes everything.
+24:05 What is your allin budget, which is
+24:08 super important for a task like this?"
+24:10 >> Okay. I um I do like the bigger point,
+24:15 which is have Hermes interview so it
+24:17 knows you. And I know you probably do it
+24:18 better by giving it documents that
+24:20 you've already created. Um, and then
+24:22 also when it's asking to do work, ask it
+24:25 to pull information out of you and not
+24:27 just go off and do the task. That's the
+24:29 that's what I took away from that part.
+24:30 What do you think?
+24:31 >> Yeah. So, I used to use the ask user
+24:33 question uh or ask me clarifying
+24:35 questions as a prompt. I've been using
+24:37 the Matt Pocco grill me skill a lot more
+24:40 frequently and it does it does a pretty
+24:43 good job. So, the grill me skill like
+24:44 it'll just keep it it asks me very it
+24:47 feels like it's it's more um I feel like
+24:49 the questions are more complete and more
+24:50 thoughtful because it's like one
+24:52 question at a time, right? And not that
+24:53 this isn't one question at a time, but
+24:55 usually with ask user question, at least
+24:57 in Claude, it's it's going to ask you
+24:58 like a series of three to four questions
+25:00 and then it it I feel like it stops a
+25:02 little prematurely. So, Grill Me feels
+25:03 more complete to me. Um, and then
+25:06 there's also I also use uh there's
+25:07 different versions like Alex Liverman
+25:09 has a uh content machine interview thing
+25:11 that he uses and so I made a version of
+25:13 that. So when I was on my way to uh a
+25:15 father's day lunch, I was just sitting
+25:17 in a Whimo and I was like grill me use
+25:20 the content machine interview to grill
+25:21 me and it literally I it created like a
+25:23 like 15 minutes it was just grilling me
+25:26 like what's the most interesting thing
+25:27 that's happened to you recently right
+25:28 and so I think you can have ask user
+25:30 question uh type prompts for specific
+25:32 things that you're trying to do. Um
+25:34 because if you just yap to it for 15 20
+25:36 minutes, usually you're going to get a
+25:37 pretty good outline for what you want to
+25:38 do, like a YouTube video.
+25:39 >> Well, you're saying you wanted to pull
+25:41 the the information out of you with
+25:42 questions. I like that a lot. Um you
+25:45 know what, since we're looking at the
+25:46 desktop, I've really been enjoying the
+25:47 desktop. I think once Hermes went
+25:49 desktop, it became an app like any other
+25:52 and we should feel more comfortable
+25:53 putting it on our main computer. Um and
+25:55 then we could decide, do we want to give
+25:56 it access to our computer and let it
+25:58 control it or do we want to have it be
+26:00 much much more minimal? Um, here's
+26:02 something that I'm not seeing enough of.
+26:04 And
+26:04 >> great thing
+26:06 >> about Hermes desktop is you literally
+26:08 have all of your skills listed right
+26:11 here. You can see them, you can turn
+26:13 them on, you can turn them off.
+26:16 >> I think this is such a helpful thing to
+26:18 easily see the skills that you have and
+26:19 you've built so that you can you can
+26:21 just understand what's operating it. Um,
+26:25 I like this. The other thing that I do
+26:27 though is in addition to the skills that
+26:29 are on the desktop, I have it go to my
+26:31 GitHub repo and get the skills that all
+26:34 the other AI uh services that I use will
+26:37 access and that I think is is even more
+26:40 helpful.
+26:40 >> I think this is good. So, it's funny
+26:42 because I I pulled up my uh my Hermes
+26:44 desktop and um I was like, "Hey, this is
+26:46 helpful, but can you show me the skills
+26:49 in chronological order or by use?" And
+26:51 so, hopefully they have those filters in
+26:52 the near future and I think they
+26:53 probably will. Um, but to your point, so
+26:56 one, this is great. Second thing I just
+26:57 want to reinforce the Hermes desktop app
+26:59 is important because when I was working
+27:01 inside of Slack, you start to get lost
+27:03 inside of all these threads because it's
+27:05 so fleeting. But the ability for you to
+27:06 pin different sessions and then uh
+27:08 categorize them as well is huge. So you
+27:10 don't get as lost.
+27:12 >> Yeah. Um, it's a it's a great thing. But
+27:14 now what you're going to have is you're
+27:16 going to have Hermes on your What was
+27:18 that device that you just showed me a
+27:19 moment ago?
+27:20 >> This is a DGX Spark that I can't believe
+27:22 broke. It's $5,000 for one of these.
+27:25 >> Yeah.
+27:26 >> Um, so you put it on maybe not that
+27:28 device, but another device and another,
+27:29 and now it's becoming an app, like I
+27:31 said, like any other. You just put it on
+27:32 your computers. How do you control them
+27:34 all? I didn't know this feature was
+27:35 there until I saw what Charbell said.
+27:37 >> Click on this setting icon and go to uh
+27:42 gateway. And this is where you can
+27:44 choose what uh gateway you want, whether
+27:47 it's local, so one that's running on
+27:49 your current machine, the one that
+27:50 you're operating
+27:51 >> to have one Hermes agent control another
+27:55 uh Hermes software on another computer
+27:57 here
+27:58 >> right now, or another uh gateway, which
+28:01 is what I have picked. You input the
+28:04 gateways URL. You can ask Hermes itself
+28:07 to help you set it up. You don't have to
+28:08 worry about all these technicalities.
+28:11 You can test remote. Once it's tested
+28:13 and connected and it works, save and
+28:16 reconnect. And that's literally it. You
+28:19 can access the logs here in case there's
+28:21 any errors. You can troubleshoot with
+28:23 that. The great thing as well, and
+28:25 that's maybe an advanced hack.
+28:28 Inside this hack is you can connect
+28:30 different agents to different gateway
+28:33 instances.
+28:35 >> This is pretty cool. I haven't used it.
+28:37 I didn't even know it was there until
+28:38 until I did this research. Yeah. So,
+28:41 this is the way he explained it. Um,
+28:43 I've been So, I have my two DJX Sparks
+28:46 and then I have a Mac Studio here and
+28:47 then I have a Mac Mini just for my home
+28:49 setup. They're all on one tail scale
+28:51 network and so they all kind of see each
+28:53 other and so it's easy for me to go to
+28:54 my my Hermes and be like, "Hey, control
+28:56 the Mac Mini here or like here control
+28:58 control the open call over here." So,
+28:59 they all kind of talk to each other. Um,
+29:01 and so I do have my Hermes setup is is
+29:04 using that remote gateway. Um, and that
+29:06 also gives me an ability for whatever.
+29:07 If I log in from a laptop, for example,
+29:09 I'm still on tail scale. I can remote
+29:11 into this computer if I want. So, um,
+29:13 yeah, I think it just depends on how
+29:15 many devices you want to have on your
+29:16 tail scale network, but it feels safe to
+29:18 me, so it's good.
+29:19 >> What's the advantage of using tail scale
+29:21 versus what am I using? I'm using jump
+29:23 disk, which is basically a remote screen
+29:25 share.
+29:25 >> Yeah, I don't. So screen sharing is one
+29:28 thing but when you have tail scale it's
+29:30 almost like a VPN for like a private
+29:31 network and then all these computers can
+29:34 talk to each other on a private network
+29:35 and you have to if you want someone you
+29:37 want you can give someone else access
+29:38 but it's it's not easy for them to just
+29:40 get in anytime you want like it's it's
+29:42 hard to provision it's it's it's pretty
+29:43 secure and if you want to SSH into any
+29:46 device like you can do that right so if
+29:48 I'm traveling to France for example and
+29:50 I want to SSH and control one of my
+29:52 devices for example I remember in
+29:54 February I was at um I was doing one of
+29:56 these founders retreats and um my open
+29:58 call went down. I was like, "Oh no, I
+30:00 can't have that happen, right?" I was
+30:01 like, "Damn it, what do I do?" And so I
+30:03 logged into uh Termius, which is like
+30:05 the the little app that you have on uh
+30:07 iOS and then by using that and plus tail
+30:10 scale, I was able to control my home
+30:12 device to reset my OpenClaw and and
+30:15 basically you can run it from anywhere
+30:17 in the world, right? So it's it's
+30:18 important for you to have some type of
+30:19 network that all your devices can talk
+30:21 to each other anytime. I could be wrong
+30:22 but I think I could do that with remote
+30:24 screen sharing apps like jump having I
+30:27 called it jump disk but I think it's
+30:28 just jump. Having said that I can
+30:30 control them they can't control each
+30:32 other that way. Um okay so I I see the
+30:34 advantage. Let's look at one last video
+30:36 here with use cases for Hermes. And by
+30:38 the way everyone I'm trying to figure
+30:40 out how to do this. I want to learn
+30:41 about all these things and I want to
+30:43 figure out how I can like learn from
+30:44 both watching videos but also from
+30:46 people like Eric. I would like to learn
+30:48 from you. Is this helpful for you to see
+30:50 these videos? Um, actually, you know
+30:52 what, Eric? Is are these videos helpful
+30:53 for you? Is this a good session? The way
+30:55 that I'm doing it, it's an experiment.
+30:56 >> This is good. I mean, this this is
+30:58 phenomenal. I'm like, first of all, I
+31:00 haven't seen a couple of these and I
+31:01 like this session of reacting. Like, I
+31:03 even want to kind of make this for
+31:04 myself reactions because I hate doing
+31:05 reaction videos. So, this is phenomenal.
+31:07 I like it.
+31:08 >> All right. Um, last set of examples.
+31:12 >> I typed find the top five YouTube videos
+31:14 ranking right now for email marketing
+31:16 tutorial for beginners. For each one,
+31:19 save the title, channel, and what it
+31:21 covers to a file. Then tell me which
+31:24 gaps you noticed. We'll go ahead and hit
+31:26 send. And it decides to use the skill
+31:30 YouTube content. It notices that it
+31:32 doesn't have Chrome installed yet. So,
+31:34 it's going to set it up for itself. And
+31:36 you'll see it's thinking output as it's
+31:38 working. The agent will spend a minute
+31:40 or two doing the research. Just let it
+31:42 work. And when it's done, it'll reply
+31:44 with a summary in the chat and confirm
+31:46 where the file is saved. Now, if for
+31:48 some reason your agent doesn't have
+31:50 access to the tools it needs to run the
+31:53 task you've asked of it, it'll tell you
+31:55 and present you with options for what
+31:57 you can do together to make it so that
+31:59 it actually can do the job you've asked.
+32:02 For me, after a few minutes, it comes
+32:04 back and says where it saved the file
+32:06 here. Opt/ data/-marketing-top
+32:10 5-YT.
+32:12 >> Okay, he's he's got this report here. I
+32:14 have a few problems with this. Number
+32:15 one, I still cannot stand when people
+32:17 just put the files on their computers.
+32:19 Now, how are you going to get it? Why
+32:21 not put it on if it's notion, put it
+32:23 somewhere where it's accessible. Number
+32:24 one. Number two, as he goes on, you can
+32:27 see that it has found one of his videos.
+32:30 Like number three in that list, it's his
+32:32 video, which means that he didn't tell
+32:33 his Army's agent who he was and give it
+32:35 enough background. And number three, I
+32:38 like that he showed how it used the
+32:40 Chrome browser and even asked for it. I
+32:41 thought that was a very helpful demo to
+32:43 see that it's asking for this tool and
+32:45 it's using it. I think often we think of
+32:47 browsers when we should be thinking of
+32:49 what tool can we give it direct access
+32:51 to. So for something like this I would
+32:53 just give it Vid IQ and with Vid IQ you
+32:55 can get this data faster and more
+32:57 detailed and that's my feedback on this.
+32:59 What do you think?
+33:00 >> Yeah. So I think this is what one of
+33:02 those other AI theater pieces where it's
+33:05 when you start using this initially it's
+33:07 like oh cool you can make all these
+33:08 reports but when I tell my team guys
+33:10 like we don't need more dashboards and
+33:11 we don't need more reports like we need
+33:13 like what is the next step afterwards
+33:15 like we need to build these workflows
+33:16 where it gets to at least drafting
+33:17 something and so an example of this
+33:19 would be um Alexi has a more mosy
+33:22 channel for example where he's he's
+33:24 pumping out like 15 20 videos a day I
+33:26 was like how is he doing that I was like
+33:27 okay Hermes use the YouTube API use u
+33:30 And that you use YouTube API has fine,
+33:32 right? Take a look at his channel. What
+33:34 is he doing exactly? Okay, take a look
+33:35 at the leveling up channel. Okay, what
+33:37 do we need to do exactly to do this? And
+33:38 it actually was cranking out videos in
+33:40 that type of format where he has like
+33:42 these 5 to 10 minute midform videos and
+33:44 where he has like very direct and
+33:46 specific uh titles, right? And some take
+33:48 off, some don't. And literally, it's
+33:50 working for me. Where I went wrong with
+33:52 that, by the way, is if you're going to
+33:53 make this stuff, you need to figure out
+33:54 who you can hand it off to because you
+33:56 as one person, you can only do so much,
+33:57 right?
+33:58 what's been working for me. I was again
+34:00 talking to my CTO about this. I was
+34:01 like, dude, like I spent all this time I
+34:04 spent all this time building these
+34:05 things and like the the skills dojo that
+34:07 I have where it has like a list of our
+34:08 skills. Um I maybe get things to maybe
+34:11 70 to 80% there and I tinker as as a
+34:13 founder. And he's like, "Dude, just keep
+34:14 doing that because we'll take the things
+34:16 that are actually good and then we'll
+34:17 we'll build it out more and we'll hand
+34:19 it off to other people." And so I think
+34:21 the problem is um like you Andrew or me
+34:24 like we're we're probably overbuilding
+34:25 right now but we're not figuring out
+34:27 like hey who can we actually hand it off
+34:28 to and what ends up happening is we end
+34:30 up having these like dead open claws
+34:31 with a bunch of crown jobs.
+34:33 >> I'm the opposite of you. I'm very much a
+34:36 one thing until it's done and then
+34:38 sometimes I go too far and keep
+34:39 iterating on it. Like you might see me
+34:41 with this in 60 years. Andrew what are
+34:43 you doing? We got to move on. So that's
+34:45 that's a problem for me. Having said
+34:46 that, the one advantage is I try to keep
+34:49 VS Code, which is what I built this tool
+34:51 that you're looking at here that lets me
+34:52 uh show all these videos. I try to keep
+34:54 it on my my screen so that I don't look
+34:56 away. Even if it's like on one of my
+34:59 monitors and on the other monitor I'm
+35:00 doing something else while I'm waiting
+35:01 for it to be done. And then I am very
+35:03 much an iterative person. It has to just
+35:05 get done or else I feel like something
+35:08 is wrong with me. Something's wrong with
+35:10 my life and I get very irritable. You
+35:12 know, all these open tasks really bother
+35:14 me. Um, but having said that, I do not
+35:17 want it to keep me from playing. You
+35:20 know that if I have to complete it, if
+35:22 it has to have a real business purpose
+35:23 or else I don't touch it, it's a
+35:25 mistake. I have to play because through
+35:27 play, good things come out. Um, let's
+35:30 take a look at one last thing. Actually,
+35:31 um, I'll have all these videos. I have
+35:33 so many extra links that I wanted to
+35:34 share, but I don't want to I don't want
+35:35 to take forever with it. This last one,
+35:37 I think, is interesting to talk about
+35:38 because it's it's the last thing that I
+35:40 usually do. save that whole workflow as
+35:42 a skill so the agent can run the same
+35:44 research on any topic without you having
+35:46 to type the long prompt again. So now
+35:50 we'll say save that workflow as a skill
+35:52 called competitor-watch.
+35:54 From now on when I give you a search
+35:56 term, find the top five YouTube videos,
+36:00 save the same info to the file and call
+36:02 out the gaps. We'll go ahead and submit
+36:05 that. All right, the agent confirms it,
+36:08 saved the skill, and tells us what the
+36:10 skill does.
+36:11 >> Let me ask you this with it. I
+36:13 definitely will update my skills after I
+36:16 do a big project. Like, you and I are
+36:17 going to be done recording. I will
+36:18 update my skill. Actually, it's late, so
+36:20 maybe I'll do it tomorrow. With
+36:22 everything that I learn, I don't do that
+36:25 with Hermes. I kind of count on Hermes
+36:27 to do it itself. And what I might do is
+36:29 if something's critical, I might say,
+36:30 "This is going to be important. I want
+36:31 you to make a skill." But I don't get so
+36:33 prescriptive as he is. What do you
+36:34 think? Yeah. So, I think
+36:39 I think trying to be prescriptive to to
+36:41 use your word and saying, "Hey, like
+36:43 doing it manually, that's where I've
+36:45 kind of struggled a little like
+36:46 occasionally like where it makes sense.
+36:48 Hey, should we skillify this?" Right?
+36:49 But I think um having to think like this
+36:52 would probably give me a little too much
+36:55 anxiety because I'm not a detail-
+36:57 oriented person. What I will say is that
+36:59 thing that I mentioned earlier where
+37:00 it's watching my screen the whole time,
+37:02 right? It's a screen monitor for myself
+37:04 and it's figuring out what the skillify
+37:05 at the end of the day and it's rating
+37:06 the leverage score or you can set it for
+37:08 a weekly thing. That's probably more
+37:10 helpful to me because it's see if it
+37:11 sees me working the whole time. Yeah,
+37:13 chances are Andrew like you might think
+37:14 of some things that you should skillify
+37:16 but like there's a conversation today I
+37:17 had with my my head of talent and from
+37:20 that one conversation I was just
+37:22 curious. I'm like was it one or two
+37:23 things? And then and then I I just
+37:25 dropped it into my Hermes, right? I was
+37:26 like hey how many things here should
+37:28 actually be skilified that are actually
+37:29 genuinely differentiated? It's like
+37:30 three things here, right? So my point of
+37:32 saying that, sharing that example is
+37:33 like we just don't know how much gold we
+37:36 have coming from these conversations.
+37:37 And often times it's like one-on-one
+37:39 conversations like this or internal
+37:41 conversations. So
+37:43 okay, now that this interview is done, I
+37:46 have Eric showing specifically how he
+37:49 works with his open claw with his team
+37:52 and everything that applies there in
+37:53 that deep dive into Eric's system will
+37:55 apply to Hermes. I want you to go watch
+37:56 that

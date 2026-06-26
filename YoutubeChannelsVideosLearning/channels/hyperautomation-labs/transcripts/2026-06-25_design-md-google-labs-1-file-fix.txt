@@ -1,0 +1,136 @@
+# Transcript: Why Every AI App Looks the SAME — Googles 1-File Fix (DESIGN.md)
+# Channel: Hyperautomation Labs
+# Duration: 356s
+# Video ID: rkShZg6ItVU
+
+0:00 Open three different apps built by AI
+0:02 this year. Look closely. Same purple
+0:04 gradient. Same glassy rounded cards.
+0:07 Same generic. It's not your imagination
+0:10 and it's not bad luck. There's a reason
+0:12 every AI built app drifts toward the
+0:15 exact same look. Google Labs just
+0:18 shipped the fix and it's a single file
+0:20 you drop into your project. Let me show
+0:22 you. Here's the moment every builder
+0:25 knows. You describe your brand to the
+0:27 AI, the colors, the vibe. And the first
+0:30 screen looks great. Then you ask for one
+0:33 more component and another. And slowly,
+0:37 quietly, it forgets. The buttons change
+0:40 shape. The spacing wanders. By screen 5,
+0:44 it's back to its default taste. Your
+0:47 agent has amnesia. And here's why it
+0:49 forgets. Your coding agent has no
+0:52 permanent machine readable memory of
+0:54 your design system. Every prompt starts
+0:56 from scratch. So when it's unsure, it
+0:59 reaches for the safest bet, the
+1:01 statistical average of every interface
+1:04 it was ever trained on. And that average
+1:07 has a name. It's called generic. You're
+1:10 not fighting bad taste. You're fighting
+1:13 no memory. The fix is a file called
+1:16 design. MD. Google Labs open sourced it
+1:20 and it crossed 18,000 stars in weeks.
+1:23 Think of it as a design brain that lives
+1:25 in your repo. one file your agent reads
+1:28 every single time before it writes a
+1:29 line of interface and it's not locked to
+1:31 one tool cla code cursor Gemini CLI
+1:36 copilot codeex if it writes interface
+1:39 code it can read this open one up and
+1:42 it's two layers in a single file on top
+1:45 in a YAML block the tokens the exact
+1:49 values your colors your type your
+1:52 spacing below it in plain English the
+1:55 pros The reasoning, as Google puts it,
+1:59 the tokens give agents exact values. The
+2:02 pros tells them why those values exist
+2:05 and how to apply them. Numbers for the
+2:08 machine, intent for the judgment calls.
+2:11 The tokens are simpler than they look.
+2:13 Five buckets: colors, typography,
+2:17 spacing, rounded corners, and
+2:19 components.
+2:21 The magic move is references. Instead of
+2:24 pasting a hex code into 12 different
+2:26 buttons, each component just points at a
+2:29 token. Curly brace colors.primary.
+2:33 Change that one token and everything
+2:35 pointing to it updates at once. Nothing
+2:37 drifts because nothing is copy pasted.
+2:40 But the part most people skip is the
+2:42 part that actually matters. The pros.
+2:46 Google's own spec says it plainly. The
+2:49 quality of a generated design depends
+2:51 less on the precision of the values and
+2:54 more on how clearly the intent is
+2:56 described.
+2:58 A specific reference describes a point.
+3:01 An adjective describes a whole region.
+3:04 This is where you stop being a coder and
+3:07 start being the creative director. In
+3:10 plain English, the agent actually
+3:12 follows. So, how do you make one? Three
+3:14 steps. Step one, don't write it by hand.
+3:18 Google ships a companion skill that
+3:21 reads your existing code and writes the
+3:23 design MD for you. Step two, lint it.
+3:28 One command checks the file, catches any
+3:30 broken references, and flags any text on
+3:32 background that fails the 4.5 to one
+3:35 contrast rule. Accessibility
+3:37 automatically. Step three, drop it in
+3:41 your repo's root folder and tell your
+3:43 agent to follow it. That's the whole
+3:45 setup. And the little command line tool
+3:47 does four things worth knowing. Lint
+3:50 checks that it's valid. Diff compares
+3:52 two versions and screams if a change
+3:55 breaks your system. So design
+3:57 regressions get caught like code bugs.
+3:59 Export turns your tokens into real
+4:01 Tailwind version 3 or 4 or the W3C
+4:04 standard token format. So this isn't
+4:06 just docs. it becomes actual CSS
+4:10 and spec prints the whole format so you
+4:12 can hand it straight to your agent. Two
+4:15 honest cautions. One, it's officially in
+4:18 alpha. The format will change so don't
+4:20 carve it in stone yet. Two, and this is
+4:23 the big one, don't ship tokens with no
+4:26 pros. Values alone give you a consistent
+4:29 design with no soul. Define a primary
+4:32 color. Define your type and write down
+4:35 why. Then let the llinter guard your
+4:38 changes. Do that and you've got a design
+4:40 system that even a solo builder can
+4:42 maintain. Step back and see what just
+4:45 happened. A real design system used to
+4:48 be a luxury. Something only teams with a
+4:51 designer could afford. Now it's one
+4:54 file. And here's the line worth
+4:56 remembering. Consistency is the entire
+4:59 difference between an app that looks AI
+5:01 generated and one that looks built. I
+5:03 packed a free design.md starter kit, a
+5:07 copy paste template, the exact prompt to
+5:09 generate your own, and the token cheat
+5:11 sheet. Comment the word on brand, and
+5:15 I'll send it to you or grab it at the
+5:17 link below. If this saved you an
+5:19 afternoon of fighting your AI, do one
+5:21 thing back. Subscribe. And if you want
+5:24 to go deeper, join the channel
+5:26 membership. That's what keeps these tear
+5:29 downs coming. I'm on YouTube, Instagram,
+5:32 and Facebook, all at Hyper Automation
+5:34 Labs. So follow wherever you watch. And
+5:37 if you want the advanced playbooks, my
+5:39 four guides are linked below. The Claude
+5:42 Code Guide, the Open AI codeex guide,
+5:44 Claude Co for sales, and the CCAF prep
+5:48 kit. Comment on brand for the free kit.
+5:51 Now go make your AI build something that
+5:53 actually looks like yours.

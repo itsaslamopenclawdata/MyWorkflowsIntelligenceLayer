@@ -2,11 +2,20 @@
 
 Auto-regenerated. One line per video, newest first. Sorted by published date, descending.
 
-**Last updated:** 2026-06-25 07:13 UTC
-**Total videos:** 113 across 13 channels
+**Last updated:** 2026-06-26 13:45 UTC
+**Total videos:** 122 across 13 channels
 
 | Date | Channel | Title | Duration | Video ID | Note |
 |------|---------|-------|----------|----------|------|
+| 2026-06-25 | Greg Isenberg | "Learn AI" Is Bad Advice. Learn This Instead | 29:53 | [jJIOA4GroBw](https://www.youtube.com/watch?v=jJIOA4GroBw) | [note](channels/greg-isenberg/videos/2026-06-25_six-skills-for-the-agentic-era.md) |
+| 2026-06-25 | The Next New Thing | New AI Drops: AI does your work, Claude in Slack, cheap AI & more | 23:50 | [SMIuRWtbO9Y](https://www.youtube.com/watch?v=SMIuRWtbO9Y) | [note](channels/the-next-new-thing-ai/videos/2026-06-25_ai-drops-jun25-codex-claude-slack.md) |
+| 2026-06-25 | Hyperautomation Labs | Google Just Made Vector Databases Optional — And It’s Just a Folder (OKF) | 7:28 | [m-D99wDLj7Y](https://www.youtube.com/watch?v=m-D99wDLj7Y) | [note](channels/hyperautomation-labs/videos/2026-06-25_google-okf-folder-not-vector-db.md) |
+| 2026-06-25 | Hyperautomation Labs | Why Every AI App Looks the SAME — Google’s 1-File Fix (DESIGN.md) | 5:56 | [rkShZg6ItVU](https://www.youtube.com/watch?v=rkShZg6ItVU) | [note](channels/hyperautomation-labs/videos/2026-06-25_design-md-google-labs-1-file-fix.md) |
+| 2026-06-25 | Eddy | The Mind-Bending Discovery of a New Phase of Matter | 6:58 | [jYqVt9WqDEQ](https://www.youtube.com/watch?v=jYqVt9WqDEQ) | [note](channels/eddy/videos/2026-06-25_new-phase-of-matter-explainer.md) |
+| 2026-06-25 | Eddy | The Best Claude Code Mods That Change Everything | 5:52 | [CO5LJLEh260](https://www.youtube.com/watch?v=CO5LJLEh260) | [note](channels/eddy/videos/2026-06-25_claude-code-mods-change-everything.md) |
+| 2026-06-25 | Eddy | Mastering AI Agent Harness Architecture for Custom Frameworks | 6:01 | [6hf4SPCN9r8](https://www.youtube.com/watch?v=6hf4SPCN9r8) | [note](channels/eddy/videos/2026-06-25_agent-harness-architecture-custom-frameworks.md) |
+| 2026-06-24 | The Next New Thing | 7 Hermes uses you must try (that actually work) | 37:57 | [6BHh8BoKim4](https://www.youtube.com/watch?v=6BHh8BoKim4) | [note](channels/the-next-new-thing-ai/videos/2026-06-24_hermes-7-uses-that-actually-work.md) |
+| 2026-06-24 | Vendasta | AI Agents Run 98% of His Business (No-code Setup) | 16:21 | [12yzXz_oYmY](https://www.youtube.com/watch?v=12yzXz_oYmY) | [note](channels/vendasta/videos/2026-06-24_tim-cortinovis-agents-run-business.md) |
 | 2026-06-24 | Hyperautomation Labs | AI for People Who Aren't Techy — 7 Things to Try Tonight (Beginner's Guide) | 7:35 | [BvLZEMz1_gw](https://www.youtube.com/watch?v=BvLZEMz1_gw) | [note](channels/hyperautomation-labs/videos/2026-06-24_ai-non-techy-7-things-tonight.md) |
 | 2026-06-24 | Hyperautomation Labs | Hackers Hijack Your AI Coding Agent With a FAKE Bug Report | 10:07 | [D_GX6pSQZTM](https://www.youtube.com/watch?v=D_GX6pSQZTM) | [note](channels/hyperautomation-labs/videos/2026-06-24_hackers-hijack-ai-coding-agent-fake-bug.md) |
 | 2026-06-24 | Hyperautomation Labs | I Ranked the 10 People Who Actually Built AI (Honest List) | 15:42 | [GpNPTeksMg8](https://www.youtube.com/watch?v=GpNPTeksMg8) | [note](channels/hyperautomation-labs/videos/2026-06-24_ranked-10-people-built-ai-honest-list.md) |

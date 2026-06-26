@@ -1,0 +1,390 @@
+# Transcript: AI Agents Run 98% of His Business (No-code Setup)
+# Channel: Vendasta
+# Duration: 981s
+# Video ID: 12yzXz_oYmY
+
+0:00 I haven't answered my own emails in 11
+0:03 months and 98% of the time my clients
+0:06 say the answers are remarkable.
+0:08 >> Wait, you haven't touched your own inbox
+0:10 in almost a year?
+0:11 >> I was on stage delivering a keynote.
+0:14 Then I went off stage and I just checked
+0:17 my emails. My agents had handled one
+0:20 commercial issue totally on their own.
+0:24 Zero involvement from my side.
+0:26 >> That's Tim Kordis. Forbes calls him a
+0:28 tech visionary. Thinkers 360 just ranked
+0:31 him a top 10 thought leader in a genetic
+0:33 AI and he's advised Siemens, ING, and
+0:35 Eon on this exact shift. He wrote the
+0:38 Amazon number one book on building a
+0:40 company that runs on agents. Now he's
+0:42 running his own business with AI agents
+0:44 as proof. So what's actually left for
+0:46 the human to do?
+0:47 >> Maybe 20% of my business required my
+0:51 decision the last month, [music] maybe
+0:53 less. And this number is going down and
+0:56 down.
+0:57 >> In this episode he hands you the entire
+0:59 system.
+1:00 >> I automate my research. I automate my
+1:02 newsletter. I automate my podcast and I
+1:05 automate my proposals.
+1:07 >> Then the belief [music] about your own
+1:08 clients he spent a year quietly proving
+1:11 wrong.
+1:11 >> Some people might say this sounds
+1:14 impersonal, but it delivers real value
+1:18 to my clients and they value the speed
+1:20 with which I deliver more than
+1:22 everything else.
+1:23 >> [music]
+1:23 >> And a prediction about your job you're
+1:25 not going to like.
+1:26 >> The email-based SDR has no reason to
+1:29 exist within the next 12 months.
+1:36 >> I want to start in the middle of
+1:37 something that already happened. You
+1:40 were on stage giving a keynote. Uh Rick
+1:43 was handling your inbox. You came off
+1:44 stage, you checked your emails and found
+1:47 that a real commercial situation had
+1:49 been fully resolved while you were
+1:51 talking. You had zero involvement. Walk
+1:54 me into that moment and what did it feel
+1:56 like?
+1:56 >> I was on stage delivering a keynote.
+1:59 Then I went off stage and I just checked
+2:02 my emails. My agent had handled one
+2:05 commercial issue totally on their own.
+2:08 Zero involvement from my side. Just
+2:11 incredible. Unbelievable. Now we are
+2:14 there.
+2:14 >> [laughter]
+2:15 >> I have waited for this moment my whole
+2:17 life. And yes, it was a perfect moment.
+2:20 And I thought finally the math worked.
+2:24 And then I thought is the transactional
+2:26 case the client is the client all right?
+2:29 Nobody hurt in the process. No.
+2:31 I just checked if everything went smooth
+2:35 as I had expected. Actually it did. On
+2:37 the other hand, of course, this was the
+2:39 moment when I realized, "Okay, my
+2:41 business can run without me."
+2:44 And
+2:45 for me personally, this is a good thing.
+2:47 I think it's 98%
+2:50 98% of answers of my system Rick. And so
+2:55 it's 98% of emails, inquiries, and
+3:00 everything coming into my email
+3:02 mail inbox is handled
+3:05 automatically, but in a way that
+3:08 really gives value. So
+3:11 it is
+3:13 it is not only answered, but
+3:16 each part of the of the message gets
+3:19 their value out of it out of the answer
+3:22 of Rick.
+3:23 >> I want to do a complete tour of
+3:24 everything you've actually built. I want
+3:27 to I want to understand every agent,
+3:29 what it does, what it powers, which ones
+3:31 have the most commercial impact, and
+3:33 which one surprised you the most.
+3:36 >> I automate my research. I automate my
+3:39 newsletter. I automate my podcast, and I
+3:42 automate my proposals. Some people might
+3:45 say this sounds impersonal.
+3:48 But it delivers real value to my
+3:53 clients. And they value the speed with
+3:56 which I deliver more than everything
+3:59 else.
+4:00 I think the agent with the most
+4:02 commercial impact is the one that
+4:04 actually writes my proposals. So, for
+4:07 instance, in my case, my business model
+4:09 is quite simple. I have inquiries for
+4:11 for keynotes or workshops, and
+4:14 I know quite well normally what their
+4:18 pain points are and where I can deliver
+4:20 especially value. So,
+4:22 I get an email, and then the agent takes
+4:25 that email and the background from the
+4:27 inquirer and researches a little bit on
+4:30 the background of this company, of this
+4:32 inquirer, and matches it with all my
+4:36 keynote topics and all areas I've spoken
+4:39 about in the past, and assembles an
+4:42 agenda for that keynote, and also
+4:46 highlighting where the benefits and what
+4:49 are the values the the audience will
+4:51 take away. And then,
+4:53 it also gives you
+4:56 a fee, and it puts a fee, and that's it.
+5:00 And my clients like this a lot, because
+5:04 this happens in a couple of minutes
+5:07 after the inquiry has come in.
+5:10 So,
+5:11 the agent proposes this quote, and of
+5:15 course proposes
+5:18 a personal chat with me, and hands over
+5:20 the the link to my calendar. But of
+5:23 course, I have another agent
+5:25 prospecting. So, this one goes through
+5:28 the whole internet, and it has an idea
+5:32 of For instance, it has an idea of my
+5:35 ICP, or one of my ICPs is of course a
+5:39 conference
+5:40 organizer, so somebody
+5:42 responsible for the for the keynote
+5:45 speaker speaker selection, and uh this
+5:48 agent identifies name and contact data
+5:52 and writes perfect email to that person
+5:55 and sends it out. And then there is
+5:58 Yeah, Rick Rick is my face to the
+6:00 customer right now. Rick was my first
+6:02 agent, and Rick is trained on all I've
+6:06 done. All all of my eight books, on a
+6:08 lot of keynote recordings, a lot of
+6:10 podcast transcripts, everything.
+6:13 Rick knows everything. And uh at the
+6:16 very beginning, 2 years ago, I built
+6:18 Rick actually to to replace myself in
+6:21 workshops. And actually, Rick is able to
+6:24 answer you and to give you advice as if
+6:26 you asked me personally. And that's not
+6:29 so much difference between it. And Rick
+6:31 is uh accessible via WhatsApp and via
+6:34 email. And then there's another agent.
+6:36 This is Sam. This is my personal
+6:38 assistant. I'm just working with Sam.
+6:40 And so, I'm able to uh to tell Sam, "Oh,
+6:43 I want to um
+6:44 find meeting with Michael next week. Uh
+6:47 please and I send just a
+6:49 short message to Sam. Just um look at my
+6:52 calendar and propose Michael two uh
+6:56 dates I'm available next week. So, Sam
+6:58 goes into my calendar, uh looks for the
+7:01 availability, then searches for
+7:03 Michael's email address in my CRM
+7:05 system, writes the email and sends it
+7:07 out without me supervising anything.
+7:10 That agent just goes
+7:12 daily in the evening through all of my
+7:14 email newsletters I received during that
+7:17 day, and I work with the with a notebook
+7:20 on Evernote. So, uh each article I come
+7:23 across, I will bookmark there in that
+7:26 notebook on Evernote on my mobile device
+7:28 or on my
+7:29 on my laptop. And then this research
+7:32 agent, it is called Sophia in this case,
+7:35 goes through all newsletters concerning
+7:38 AI and all my own notes and gives me a
+7:41 summary on that day. And
+7:44 Sophia is prompted so it she can also
+7:49 relate it to everything I've done so
+7:51 far. Yesterday evening she she wrote an
+7:54 email to me highlighting study by
+7:56 McKinsey that contradicted something of
+7:59 my keynote ideas and she told me clearly
+8:03 where I have to rethink what I'm talking
+8:06 about. Basically I'm just just the
+8:09 strategic decisions for me
+8:12 basically. Sometimes I change a little
+8:14 bit the fee in the automated proposals
+8:16 but this happens rare times. So 5% are
+8:20 left for me maybe. So a lot of free time
+8:23 for thinking ahead and yeah driving the
+8:26 business to the next level.
+8:28 >> Let's make this concrete a bit. You have
+8:31 a meeting with a new prospect in 10
+8:33 minutes. You know their company name and
+8:36 nothing else. Walk me through exactly
+8:39 what you do. The specific tools,
+8:41 specific prompts, and tell me what you
+8:43 walk into that meeting knowing that you
+8:46 wouldn't otherwise have known without
+8:47 it.
+8:48 >> I work on two levels. The first level is
+8:51 using AI like a calculator on my desk
+8:54 without any infrastructure. The second
+8:57 level is using an agentic
+8:59 infrastructure. So the first thing I I'm
+9:02 doing without the infrastructure is I
+9:04 use two tools and the first one is
+9:06 Perplexity. I like Perplexity a lot. It
+9:09 is really really good at doing the
+9:11 research. So I enter Perplexity and the
+9:15 exact prompt I enter actually is
+9:18 um
+9:19 give me the backgrounds to company
+9:22 Enterprise X and tell me where are their
+9:26 challenges right now
+9:29 in relationship to applying agentic AI
+9:32 or applying AI. For instance, I would
+9:35 specify really the point where I can
+9:38 deliver value, and then I get a very
+9:41 detailed report, and we have to
+9:44 put on also the deep research. You can
+9:47 There's a switch in perplexity, and you
+9:49 switch it on, the deep research. It
+9:52 takes some minutes, let's say 3 to 5
+9:54 minutes, and then you get a detailed
+9:56 report on that enterprise, on that
+9:59 organization, with all that backgrounds,
+10:01 and then you take this, copy, and you
+10:04 paste it into let's say Claude or
+10:07 that GPT. I prefer Claude at the moment,
+10:09 but this might change next week. And I
+10:12 paste it into Claude and tell Claude,
+10:14 "Okay, Claude, you know who I am. I've
+10:16 worked with you a lot. You have some
+10:18 documents around me and my background
+10:20 and what I offer, my value proposition,
+10:22 and everything around it. And tell me
+10:24 where exactly can I deliver value to
+10:27 this company?" First part of the prompt,
+10:30 second part of the prompt is, "And
+10:32 please prepare me. I have a meeting with
+10:34 a
+10:35 VP sales, let's say,
+10:37 in 10 minutes. Please prepare me for
+10:39 that meeting. So, where were the
+10:42 arguments? What can I say to get them
+10:45 instantly
+10:46 on my page, to
+10:48 to make instantly clear where I can
+10:50 deliver value?" So, the whole process
+10:52 takes me 8 minutes, 8 to 10 minutes, and
+10:56 I got a
+10:56 I got a very well-structured feed to be
+11:00 prepared for the meeting. What I
+11:02 normally do is, in the background, I
+11:05 have I'm connected my Google Calendar,
+11:08 which I work, to Perplexity as well, and
+11:11 every time somebody is booking an
+11:12 appointment with me, for instance, via
+11:14 my Tidy Calendar link, the the agent
+11:17 goes there, takes that domain, and
+11:20 researches all this background, and puts
+11:22 everything what I've told you right now
+11:25 into the
+11:26 the meeting description in my calendar.
+11:28 So, I can just open my calendar link for
+11:31 for for that meeting and I'm right in
+11:35 what is important for that meeting.
+11:37 >> A lot of people in sales believe their
+11:39 clients are buying from them
+11:40 specifically. You know, their judgment,
+11:42 their relationships,
+11:44 their presence.
+11:45 You've been testing that belief in your
+11:47 own business for well over a year now.
+11:50 What what did you actually find?
+11:52 >> I found it out myself personally that
+11:54 clients value speed overall. Speed and
+11:58 sometimes accuracy, of course.
+12:00 But this personal connection is
+12:03 something that I found most salespersons
+12:06 and I am a sales guy as well. I've
+12:08 worked 25 years in sales. Um
+12:11 but I find that a lot of sales guys
+12:14 and representatives holding onto this
+12:16 personal relationship because of they
+12:18 they need it. Because they haven't
+12:20 figured out other channels, other ways
+12:24 to get the information they need to give
+12:26 value, to to prepare proposal or or to
+12:29 understand the client. So they need
+12:31 really this personal relationship and
+12:34 less the client. And I think if you have
+12:36 personal contacts just one or two times
+12:39 a year, this is
+12:41 absolutely enough to get things running.
+12:45 And you need
+12:47 you need systems in place where you can
+12:48 deliver information and meaningful
+12:53 ideas
+12:55 fast and accurate enough for the client
+12:58 and they will value it. If you think
+12:59 about what is one of the most important
+13:02 pillars of sales, I'm sure you will
+13:04 agree that this is trust. If you put the
+13:07 guardrails and if you give your AI
+13:09 assistants, your agents a tonality, a
+13:12 voice, then you will implement trust as
+13:15 well in the relationship between your
+13:17 clients and your AI agents. But to build
+13:20 trust, you need to be reliable, you need
+13:24 to to deliver accurate information and
+13:28 you need to have a history with a client
+13:30 where the client has learned that you
+13:33 deliver actually what you promised. And
+13:36 all this drives trust, not especially
+13:39 your presence, your face, your voice,
+13:43 whatsoever.
+13:43 >> You've made specific time-bound
+13:46 predictions about where sales is
+13:47 heading.
+13:48 Walk me through the picture as you
+13:50 actually see it for small sales teams.
+13:53 So, like SDRs, account executives, the
+13:57 whole function.
+13:58 And tell me um
+14:00 top of the funnel, does it become agents
+14:03 one human closes the deals? Is that
+14:04 where this is landing?
+14:06 >> Yes, more or less. Top of the funnel,
+14:08 there will be agents because they are
+14:10 faster, they are reliable, and they're
+14:13 always there. So,
+14:15 uh it is convenient for the customer
+14:17 experience to have agents on the top of
+14:19 the funnel, no matter what your business
+14:21 is, even in the the most complex
+14:24 businesses, we will see this because
+14:27 agents are able to handle complex
+14:29 inquiries.
+14:31 Um
+14:32 yes, for for us as humans, closing will
+14:36 be one of the most important parts.
+14:39 So, we will have to discuss
+14:41 that we before discussed with a supply
+14:44 chain manager, now we will have to talk
+14:46 to a CEO, maybe. And uh because all the
+14:50 the execution layer will be done and
+14:53 handled by the agent. And so, it will be
+14:56 on us
+14:58 to develop sales as as an idea to enter
+15:01 new markets and
+15:03 new target groups and
+15:06 talk to yeah, talk to to the C-level to
+15:09 to connect our our businesses.
+15:13 And uh this is where I see sales
+15:16 heading. And yes, of course, this
+15:18 demands a lot
+15:20 from people in sales. The email-based
+15:24 SDR
+15:25 has no reason to exist within the next
+15:28 12 months.
+15:30 Salespeople need to learn not to sell to
+15:33 humans, but to buying agents.
+15:36 Your prospect's AI will shortlist
+15:39 vendors before your prospects even know
+15:42 they're in the market. The companies
+15:44 that will win
+15:46 will not be the companies with the most
+15:48 agents. The companies that will win will
+15:51 be the companies that are able to put
+15:55 all their knowledge, all their thinking,
+15:57 all they know about markets and clients
+16:01 and prospects into systems and into
+16:04 agents. And the better
+16:07 they learn this and they handle these
+16:10 systems, the better they will be in the
+16:12 market.

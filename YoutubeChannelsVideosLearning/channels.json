@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "last_updated": "2026-06-25",
+  "last_updated": "2026-06-26",
   "channels": [
     {
       "name": "Hyperautomation Labs",
@@ -12,8 +12,8 @@
       "category": "ai-automation",
       "priority": "high",
       "added_on": "2026-06-06",
-      "last_seen_video_id": "zbAmmnMh5ew",
-      "last_seen_published": "2026-06-24T00:00:00+00:00",
+      "last_seen_video_id": "m-D99wDLj7Y",
+      "last_seen_published": "2026-06-25T00:00:00+00:00",
       "min_duration_seconds": 300,
       "skip_rule": null,
       "enabled": true
@@ -28,8 +28,8 @@
       "category": "indie-hacking",
       "priority": "high",
       "added_on": "2026-06-06",
-      "last_seen_video_id": "xa-9O5cDm3c",
-      "last_seen_published": "2026-06-23",
+      "last_seen_video_id": "jJIOA4GroBw",
+      "last_seen_published": "2026-06-25",
       "min_duration_seconds": 300,
       "skip_rule": null,
       "enabled": true
@@ -60,8 +60,8 @@
       "category": "tbd",
       "priority": "medium",
       "added_on": "2026-06-06",
-      "last_seen_video_id": "Tc3zHU6ITUQ",
-      "last_seen_published": "2026-06-14",
+      "last_seen_video_id": "jYqVt9WqDEQ",
+      "last_seen_published": "2026-06-25",
       "min_duration_seconds": 0,
       "skip_rule": null,
       "enabled": true
@@ -76,8 +76,8 @@
       "category": "tbd",
       "priority": "medium",
       "added_on": "2026-06-06",
-      "last_seen_video_id": "ic8Y8nIG7TE",
-      "last_seen_published": "2026-06-22",
+      "last_seen_video_id": "12yzXz_oYmY",
+      "last_seen_published": "2026-06-24",
       "min_duration_seconds": 0,
       "skip_rule": null,
       "enabled": true
@@ -92,8 +92,8 @@
       "category": "ai",
       "priority": "medium",
       "added_on": "2026-06-06",
-      "last_seen_video_id": "2WNl5VidRS8",
-      "last_seen_published": "2026-06-12",
+      "last_seen_video_id": "SMIuRWtbO9Y",
+      "last_seen_published": "2026-06-25",
       "min_duration_seconds": 0,
       "skip_rule": null,
       "enabled": true

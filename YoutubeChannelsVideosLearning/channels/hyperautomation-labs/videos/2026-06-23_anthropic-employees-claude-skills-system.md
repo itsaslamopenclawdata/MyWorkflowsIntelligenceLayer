@@ -225,7 +225,7 @@ Anthropic's own teams — finance, legal, engineering — quietly use Claude "Sk
 4:33 a skill can teach Claude to write like
 4:37 an employment lawyer
 4:38 or format a memo the way a product
-4:40 lawyer would.
+4:41 lawyer would.
 4:42 To get the voice right, they had Claude
 4:44 study 10 of his own past memos until it
 4:47 matched his style.
@@ -284,7 +284,7 @@ Anthropic's own teams — finance, legal, engineering — quietly use Claude "Sk
 6:44 Inside skill.md,
 6:46 you write a tiny header,
 6:48 a description of what the skill does and
-6:49 when to use it.
+6:50 when to use it.
 6:52 That one line is what Claude reads to
 6:53 decide when to fire it.
 6:55 And then below it, your actual
@@ -314,7 +314,7 @@ Anthropic's own teams — finance, legal, engineering — quietly use Claude "Sk
 7:47 So your whole team shares them.
 7:50 On Claude.ai,
 7:51 you can upload a skill as a simple zip
-7:52 file.
+7:53 file.
 7:54 That is the same mechanism
 7:56 Anthropic's finance and legal teams are
 7:58 using, just smaller.
@@ -411,7 +411,7 @@ Anthropic's own teams — finance, legal, engineering — quietly use Claude "Sk
 10:45 genuinely dangerous with this.
 10:47 Comment your favorite Anthropic skill.
 10:49 Subscribe on YouTube, Facebook, and
-10:50 Instagram
+10:51 Instagram
 10:52 and I'll see you in the next one.
 10:54 And the description has a tip if you
 10:56 want to watch a little faster.

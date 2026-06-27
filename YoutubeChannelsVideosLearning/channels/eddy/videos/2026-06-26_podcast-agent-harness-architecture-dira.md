@@ -67,6 +67,10 @@ A deep dive into the **DIRA framework's** June 3, 2026 manual "How to Build Your
 - **JSON / Protobuf** — standardized inter-agent communication formats
 - **Source: "How to Build Your Own Agent Harness"** (DIRA team, AI Agents Directory) — June 3, 2026
 
+## GitHub Repos and URLs Referenced
+
+- None referenced in this video. (The video covers concepts, vendors, and pricing but does not cite specific GitHub repositories.)
+
 ## Action Items
 - [ ] Before adopting any "off-the-shelf agent platform," do the latency audit: how many milliseconds does an agent-to-agent message round-trip take? If you're building anything real-time, the round-trip is the killer.
 - [ ] If you have ≥5 agents working together today, audit your inter-agent communication: are you using a queue (Kafka/RabbitMQ) or are agents calling each other directly? Direct calls are the DoS waiting to happen.

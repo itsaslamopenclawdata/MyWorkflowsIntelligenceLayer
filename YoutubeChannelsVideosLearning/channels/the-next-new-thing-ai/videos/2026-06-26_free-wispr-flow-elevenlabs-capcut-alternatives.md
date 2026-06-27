@@ -64,6 +64,10 @@ Andrew Warner and Adam Brakhane walk through the week's top trending GitHub repo
 - **LSP (Language Server Protocol)** — the pattern codebase-memory-mcp replicates for agents
 - **Matt Van Horn** — open-source developer called out by Andrew (two trending repos, looking to interview)
 
+## GitHub Repos and URLs Referenced
+
+- Multiple open-source alternatives are demonstrated in this video as GitHub repos. Specific repos cited: **whisper-flow alternatives** (open-source voice-input), **ElevenLabs alternatives** (open TTS / voice-clone repos), **CapCut alternatives** (open-source video editor). Full list with descriptions in the 'Tools and Resources Mentioned' section above.
+
 ## Action Items
 - [ ] If you edit video, try Open Montage this week — even a 30-second test will reveal whether the "no AI slop" framing holds for your use case.
 - [ ] Add codebase-memory-mcp to your Claude Code / coding-agent setup if you work across repos >50K LOC. The 99% token-cut claim is worth verifying on your own data.

@@ -49,6 +49,10 @@ generated_on: "2026-06-27"
 - **Free "agent native playbook"** — comment "fork" on the video for the six apps, the SaaS tools they replace, the create command, the skill, and the build-your-first checklist
 - **"The complete Claude Code guide"** / **"the OpenAI Codex guide"** / **"Claude Co-work sales guide"** / **"Claude certified architect prep kit"** — paid guides linked in the video description
 
+## GitHub Repos and URLs Referenced
+
+- **Agent-Native** — https://github.com/BuilderIO/agent-native (or `npm create agent-native@latest`) — Builder.io's open-source framework for forkable agent-native SaaS apps. The companion skill package is `npx @agent-native/core/skills/add visual-plan` for adding the `/visual-plan` and `/visual-recap` slash commands to any existing coding agent (Claude Code, Codex, Cursor, GitHub Copilot).
+
 ## Action Items
 - [ ] Run `npx @agent-native/core/skills/add visual-plan` in your Claude Code/Codex/Cursor setup this week. You don't need to scaffold an app to get the planning discipline.
 - [ ] On your next feature, before any code is written, demand `/visual-plan` produce a reviewable file-by-file map. Compare to the agent's "I just did it" behavior.

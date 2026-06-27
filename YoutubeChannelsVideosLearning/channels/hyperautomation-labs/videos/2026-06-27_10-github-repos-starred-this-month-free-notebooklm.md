@@ -50,6 +50,10 @@ Hyperautomation Labs curates the month's 10 most-useful trending GitHub repos af
 - **LangChain / Vercel AI SDK / OpenAI agents** — Supermemory's plug-in surface
 - **Next.js, Supabase, Cloudflare** — fast-moving platforms where fresh docs matter (from related context)
 
+## GitHub Repos and URLs Referenced
+
+- (See 'Tools and Resources Mentioned' — this video is itself a curated roundup of ~10 trending GitHub repos. Top repos cited in the transcript: **free-notebooklm** (open-source NotebookLM alternative), **github-free-tokens** (1.7B-token free tier distributor). Other names referenced include open-source Anthropic Skills repos and various AI tooling repos — full repo list with descriptions in the Tools section above.)
+
 ## Action Items
 - [ ] Clone Open Notebook this weekend; spend 10 min wiring your PDFs into a private NotebookLM.
 - [ ] If you ship an AI app, add Supermemory as your memory backend — the 1,700-commit maturity + benchmark #1 means it's a real dependency, not a toy.

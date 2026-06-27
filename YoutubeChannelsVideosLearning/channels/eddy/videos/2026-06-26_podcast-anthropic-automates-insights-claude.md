@@ -55,6 +55,10 @@ Anthropic rebuilt their internal data analytics on top of Claude and hit **95% a
 - **Slack** — the medium the passive data-correction agent scans
 - **Source: "How Anthropic Enables Self-Service Data Analytics with Claude"** — dated June 3, 2026, Anthropic engineering and data science team's published technical blueprint (the podcast's source material)
 
+## GitHub Repos and URLs Referenced
+
+- None referenced in this video. (The video covers concepts, vendors, and pricing but does not cite specific GitHub repositories.)
+
 ## Action Items
 - [ ] Audit your own data warehouse: count how many tables could plausibly answer "what was Q2 revenue?" If the answer is more than one, you don't have a canonical dataset problem waiting for an AI to find it.
 - [ ] Try the open-book exam experiment on your own AI analytics setup. Add 100 past correctly-answered questions to the prompt context and see if accuracy goes UP or DOWN. (Anthropic found DOWN.)

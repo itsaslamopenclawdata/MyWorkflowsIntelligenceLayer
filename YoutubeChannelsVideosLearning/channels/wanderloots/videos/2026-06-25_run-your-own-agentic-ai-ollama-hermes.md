@@ -54,6 +54,10 @@ Wanderloots walks a 100% local / 100% private AI setup: install **Ollama** (CLI 
 - **Codex** (vendor: OpenAI's coding agent) — also compatible via the OpenAI-compatible endpoint
 - **OpenAI-compatible endpoint pattern** — adding `/v1` to the Ollama native endpoint for compatibility with any OpenAI-API-compatible client
 
+## GitHub Repos and URLs Referenced
+
+- None referenced in this video. (The video covers concepts, vendors, and pricing but does not cite specific GitHub repositories.)
+
 ## Action Items
 - [ ] **Decide your own privacy threshold.** If "100% local, no data leaves my machine" is a real requirement for your work (legal, medical, financial, IP-sensitive), the Ollama + Gemma 4 path gets you there in ~10 minutes.
 - [ ] **Right-size the model to your RAM budget.** E2B (4GB) for phones/low-end laptops, E4B (8GB) for most laptops, 31B+ (32GB+) for desktops. Don't try to run 31B on 16GB and wonder why it crawls.

@@ -56,6 +56,19 @@ Part 5 in the "kill SaaS bills" series goes after the big enterprise line items:
 - **Frappe Docker Compose** — ERPNext's official setup path
 - **The "self-hosted stack" PDF** (free; comment "self-host" on the video or grab at hyperautomationlabs.co/free/selfhost) — collects all 50 repos from parts 1-5 with the exact deploy command for each
 
+## GitHub Repos and URLs Referenced
+
+- **Supabase** — https://github.com/supabase — Apache 2.0, replaces Firebase + Auth0 stack (105k stars)
+- **cal.com** — https://github.com/calcom — MIT, replaces Calendly (~$46k stars)
+- **RustDesk** — https://github.com/rustdesk — AGPL, replaces TeamViewer / AnyDesk (~117k stars)
+- **Strapi** — https://github.com/strapi — MIT core, replaces Contentful (~73k stars)
+- **Gitea** — https://github.com/go-gitea — MIT, replaces GitHub Enterprise (~57k stars)
+- **Nextcloud** — https://github.com/nextcloud — AGPL, replaces Dropbox / Google Drive (~36k stars)
+- **Medusa** — https://github.com/medusajs — MIT, replaces Shopify Plus (~35k stars)
+- **PostHog** — https://github.com/posthog — MIT, replaces Mixpanel / Amplitude (~35k stars)
+- **Keycloak** — https://github.com/keycloak — Apache 2.0, replaces Okta / Auth0
+- **ERPNext** — https://github.com/frappe — GPL, replaces NetSuite / SAP (~36k stars)
+
 ## Action Items
 - [ ] Pick the ONE line item on your SaaS bill that costs the most per year and stand up its open-source replacement this weekend. The video proves each repo is a one-Docker-run setup.
 - [ ] Before adopting any of these, allocate a real maintenance budget (uptime, backups, SSO wiring, HA clustering). The "license is $0" story is real, the "ops is $0" story is not.

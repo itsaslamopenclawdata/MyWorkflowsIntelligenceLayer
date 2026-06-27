@@ -50,6 +50,10 @@ OpenAI's **GPT-5.6 Sol** ships as one generation with three durability tiers —
 - **Free "GPT 5.6 Sol Decoder"** — comment "sol" on the video to get the three-tier cheat sheet, pricing math, when to use Max vs Ultra, and a launch-day checklist
 - **"The complete Claude Code guide"** / **"the OpenAI Codex guide"** — paid guides linked in the description
 
+## GitHub Repos and URLs Referenced
+
+- None referenced in this video. (The video covers concepts, vendors, and pricing but does not cite specific GitHub repositories.)
+
 ## Action Items
 - [ ] Before Sol goes public, map every current production task in your stack to a tier: Sol (rare, hard reasoning), Terra (default), Luna (bulk classification / tagging / data work). Don't wait to "see what it can do" — decide on paper first.
 - [ ] Audit your current API bill for cacheable patterns: system prompts, long reference documents, RAG context. Cached reads at 90% off is the single biggest unforced win in LLM cost control.

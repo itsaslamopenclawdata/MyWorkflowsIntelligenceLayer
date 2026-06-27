@@ -48,6 +48,10 @@ Three AI employees — **the receptionist**, **the reputation specialist**, and 
 - **ChatGPT / Google AI Overviews / Perplexity** — AI search systems that now use review signals for recommendations
 - **Google Business / Facebook Reviews** — review platforms the AI reputation specialist manages
 
+## GitHub Repos and URLs Referenced
+
+- None referenced in this video. (The video covers concepts, vendors, and pricing but does not cite specific GitHub repositories.)
+
 ## Action Items
 - [ ] Audit your clients' call answer rate (or your own if you're a local biz). Anything under 60% is a revenue leak; that's your AI receptionist sale.
 - [ ] If you're an agency, set up one client on the AI reputation specialist before EOM and measure 30-day review-count delta (Blue River got 21 in 30 days — your number is your case study).

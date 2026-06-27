@@ -56,6 +56,10 @@ Four mods take Claude Code from "vibe coding that needs babysitting" to producti
 - **.env / credentials.json** — the secret files that `/commit` and friends auto-ignore to prevent accidental key leaks
 - **MCP (Model Context Protocol)** (vendor: Anthropic) — the protocol Context7 uses to expose its tools to Claude
 
+## GitHub Repos and URLs Referenced
+
+- None referenced in this video. (The video covers concepts, vendors, and pricing but does not cite specific GitHub repositories.)
+
 ## Action Items
 - [ ] If you use Claude Code, install **Context7 first**. The video is explicit: "if you only install one single mod today, it has to be this one." On any fast-moving framework, the hallucination-vs-current-docs problem is real and expensive.
 - [ ] Wire **Ralph Loop** into your task workflow for any task with a clear success signal ("all tests pass," "linter clean," "endpoint returns 200"). The completion-signal pattern is the key — define it once, let the loop drive itself.

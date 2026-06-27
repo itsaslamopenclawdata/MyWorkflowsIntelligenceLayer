@@ -1,0 +1,271 @@
+Title: 3 AI Agents Agencies Can't Stop Selling (Clients Keep Asking for Them)
+Channel: Vendasta
+Channel ID: UCooW1kDrMUb1EORhDbmciOw
+Video ID: y_RkciQrArA
+Published: 20260626
+Duration: 8:40 (520s)
+URL: https://youtube.com/watch?v=y_RkciQrArA
+Fetched: 2026-06-27
+Status: None
+
+--- TRANSCRIPT ---
+
+0:00 One person, a full AI workforce, 95%
+0:03 [music] of business decisions automated.
+0:05 That's not a pitch. That's Tim
+0:07 Courtinovis, a Forbes recognized tech
+0:09 visionary and one of the top 10 thought
+0:11 leaders in agentic AI globally, who
+0:14 joined us on the podcast this week. He
+0:16 hasn't answered his own emails in 11
+0:18 months. And here's the part that gets
+0:20 me. His clients say the responses are
+0:22 remarkable. Now, Tim didn't get there
+0:24 overnight. He started with one AI
+0:26 employee, then added another, then
+0:29 another. And at some point, he looked up
+0:31 and realized his business could run
+0:32 without him. Most agencies are still
+0:34 waiting for the right time to start
+0:36 building something like this. But the
+0:38 ones who aren't waiting, they all
+0:39 started the same way, with three AI
+0:41 employees. And the first one? [music]
+0:43 You probably already know it. If you're
+0:45 new here, my name is Kendall and I'm
+0:47 part of the team at Vendasta, where we
+0:49 work with over 66,000 agencies helping
+0:52 millions of local businesses use AI to
+0:54 get ahead. That gives us a front row
+0:55 seat to what's actually working across
+0:57 every niche, every market, every offer.
+1:00 And that's exactly why I can tell you
+1:02 the agencies pulling ahead right now
+1:04 aren't the ones with the biggest teams.
+1:06 They're the ones who started building
+1:07 their AI workforce first. The window to
+1:09 get ahead of this is still open, but
+1:11 it's not as wide open as it was 6 months
+1:13 ago. So, let's talk about exactly how to
+1:15 start. By the end of this video, you'll
+1:17 know the three AI employees to start
+1:19 with, what each one actually does for a
+1:21 business, and how they fit together into
+1:23 something bigger than any one of them
+1:24 alone. If you're an [snorts] established
+1:26 agency looking to move into AI or
+1:28 already in it and figuring out what to
+1:30 build next, hit subscribe. We drop new
+1:33 videos every week and this is exactly
+1:34 the kind of series you don't want to
+1:36 fall behind on. AI employee number one,
+1:38 the receptionist. The first AI employee
+1:40 is the one we covered on Monday and for
+1:42 good reason. The average local business
+1:44 answers fewer than 40% of its incoming
+1:47 calls. That's not a staffing problem,
+1:49 that's a revenue leak and it's happening
+1:51 every single day, after hours, during
+1:53 the lunch rush, on weekends, whenever
+1:55 the owner is knee-deep in actual work.
+1:58 The AI receptionist fixes the front
+2:00 door. It picks up every call, answers
+2:02 questions, books appointments straight
+2:04 into the calendar, and routes anything
+2:06 urgent to a real human. All in a natural
+2:08 conversational tone that sounds nothing
+2:11 like the hold music customers are used
+2:12 to. Take Pop the Raccoon, the AI
+2:14 receptionist we set up for a pest
+2:16 control company in Ontario. Pop answers
+2:18 calls, cracks jokes, handles every
+2:21 question about pest control, and books
+2:23 jobs, all while the owner is out in the
+2:25 field doing the actual work.
+2:26 >> Frank is probably up in an attic
+2:28 somewhere catching critters like me. So,
+2:30 I'm here to help you. Do you have a pest
+2:32 issue we can help you with?
+2:33 >> Calls that would have gone to voicemail
+2:35 and then to a competitor now go to Pop.
+2:37 For agencies, this is the easiest first
+2:39 sale. Not because it's the simplest to
+2:41 explain, but because the math does the
+2:43 explaining for you. Adding a human
+2:45 receptionist to cover after-hours calls,
+2:47 peak periods, and the unpredictable
+2:49 moments when the phone just won't stop
+2:51 ringing isn't financially realistic for
+2:54 most small businesses. Those aren't
+2:56 full-time jobs. They're gaps. And if a
+2:58 business were to add a part-time
+3:00 receptionist, it would cost them another
+3:02 two or three grand a month, and they'd
+3:04 still miss calls. The AI receptionist
+3:07 fills those gaps around the clock,
+3:09 handles multiple calls at once, and
+3:10 works alongside whoever's already on the
+3:12 team. The setup overview looks like
+3:14 this. Connect a phone number, train it
+3:16 on the business's services, hours, and
+3:18 FAQs, set a greeting, and turn it on.
+3:20 Inside Vendasta's AI Workforce, for
+3:22 example, the whole configuration lives
+3:24 in one place. No coding, no complicated
+3:27 workflow. But here's the thing. The
+3:29 receptionist primarily captures the
+3:30 lead. The next AI employee makes sure
+3:33 they stick around. AI employee number
+3:35 two, the reputation specialist. Most
+3:37 businesses do a great job for a
+3:39 customer, and then nothing. No
+3:41 follow-up, no review request, no reason
+3:43 for that customer to think of them next
+3:45 time instead of whoever pops up on
+3:47 Google first. That's the gap the AI
+3:49 reputation specialist fills
+3:51 automatically. It sends review requests
+3:53 at exactly the right moment after a job
+3:56 is done, after a purchase is confirmed,
+3:58 when the customer is still warm and
+3:59 happy and actually likely to leave
+4:01 something nice. And when reviews come
+4:03 in, good or bad, it responds in the
+4:05 business's voice, on brand,
+4:07 consistently. Here's why this matters
+4:09 more than most people realize. Reviews
+4:11 aren't just social proof anymore.
+4:12 They're data. AI search systems like
+4:15 ChatGPT, Google's AI overviews, and
+4:17 Perplexity use review signals to decide
+4:20 which businesses to recommend when
+4:22 someone asks, "Who's the best plumber
+4:23 near me?"
+4:25 A business that's actively engaging with
+4:26 reviews looks alive and trustworthy. One
+4:29 that isn't looks like it might be
+4:30 closed. AI wants to be confident in its
+4:33 recommendations. So, when you have
+4:34 anything that's not going to strengthen
+4:36 that confidence, it's going to look
+4:38 elsewhere. Here's the setup overview.
+4:40 Configure when review requests go out,
+4:42 set the brand tone for responses, and
+4:44 let it run. With Vendasta's AI
+4:46 Reputation Specialist, for example, it
+4:48 works across Google, Facebook, and other
+4:50 review platforms from a single
+4:52 dashboard, so nothing falls through the
+4:53 cracks. You can even specify what types
+4:55 of reviews you want it to respond to, so
+4:57 you can maintain control while letting
+4:59 it do the heavy lifting. This is also
+5:01 one of those AI employees that's
+5:03 genuinely hard to argue with in a sales
+5:05 conversation. The client already knows
+5:07 they should be asking for reviews, they
+5:09 just never have the time to do it
+5:11 consistently. One of our agency
+5:12 partners, Blue River Digital, set this
+5:14 up for an auction company. They
+5:16 configured it to automatically trigger
+5:18 review requests after every successful
+5:20 auction, and in 30 days, the client had
+5:23 21 brand new reviews. Every single one
+5:26 was five stars. The client became such a
+5:28 believer in the AI Reputation Specialist
+5:30 that he started sending other business
+5:32 owners their way. That's what consistent
+5:34 automation does. It turns a happy
+5:36 customer into a pipeline. And while the
+5:38 receptionist captures the lead and the
+5:40 Reputation Specialist keeps them coming
+5:41 back, there's a third AI employee whose
+5:44 job is making sure new ones keep showing
+5:46 up. AI employee number three, the social
+5:48 media manager. Almost every business
+5:50 owner knows they should be posting
+5:52 consistently on social media. Almost
+5:54 none of them actually do because it's
+5:56 relentless. And coming up with fresh
+5:58 ideas can be exhausting. Like how many
+6:00 different posts can you write about
+6:02 plumbing before you become creatively
+6:03 exhausted? Every week for every client,
+6:05 someone has to sit down and stare at a
+6:07 blank doc, come up with a caption, pick
+6:10 an image, write one version for
+6:11 Facebook, a different one for Instagram,
+6:13 another one for LinkedIn, and then do it
+6:15 all again next week. The AI social media
+6:17 manager takes that off the table
+6:19 entirely. It knows the business, its
+6:21 services, its voice, its industry, and
+6:23 it generates a full content calendar
+6:25 across every connected platform
+6:27 automatically on whatever schedule you
+6:29 set. The outcome isn't just saved time,
+6:32 although that's real, it's consistency.
+6:34 Most small businesses post for 2 weeks
+6:36 when they're excited about it and then
+6:38 go quiet for a month. That inconsistency
+6:40 is what kills reach. The AI runs the
+6:43 program whether the owner is busy or
+6:44 not, which means the business stays
+6:46 visible to the exact people who might
+6:48 need them next. The setup overview for
+6:50 this one is connect the business's
+6:52 knowledge sources, choose the posting
+6:54 frequency and content mix, how much
+6:56 educational content, how much
+6:57 promotional, how much
+6:59 engagement-focused, and the AI generates
+7:01 and schedules from there. With
+7:02 Vendasta's AI social media manager, you
+7:04 can even review drafts before they go
+7:06 live or set it to full autopilot. This
+7:08 is great for anyone wanting to still
+7:10 maintain control without fully handing
+7:12 over the reins to AI. For agencies, this
+7:14 is also one of the cleaner retainer
+7:16 conversations. Social media management
+7:18 is something clients already expect to
+7:19 pay for. The AI does the heavy lifting,
+7:22 you handle the strategy and oversight,
+7:24 and the margin is genuinely good. Three
+7:26 AI employees, that's your starting
+7:28 lineup. The receptionist catches the
+7:30 lead before it disappears, the
+7:32 reputation specialist turns a one-time
+7:34 customer into a long-term signal, the
+7:36 social media manager keeps the business
+7:38 visible so new leads keep coming in the
+7:40 first place. Tim Courtinovis didn't
+7:42 build his AI workforce in a week. He
+7:44 started with one, then added another,
+7:46 then woke up one day and realized 95% of
+7:49 his business was running on its own. And
+7:50 that's ultimately what this is about.
+7:52 Not just for you as an agency, but for
+7:55 every client you bring this to. The pest
+7:57 control owner who used to get pulled off
+7:59 a job every time his phone rang, he's
+8:01 out in the field now fully focused,
+8:03 giving every customer the kind of
+8:04 service that actually keeps them coming
+8:06 back. Not because he hired more people,
+8:08 because AI handled the gaps he couldn't.
+8:10 That's what you're building toward. And
+8:12 this is where you start. All three of
+8:14 these AI employees live inside
+8:15 Vendasta's AI workforce. I'll drop a
+8:17 link in the description below if you
+8:19 want to see what that looks like for
+8:21 your clients. And if you want to go
+8:22 deeper on any one of these, we've
+8:24 already got full breakdowns on the
+8:26 receptionist and the social media
+8:27 manager right here on the channel, so
+8:29 I'll link those below, too. Thanks for
+8:30 watching, and I'll see you in the next
+8:32 one.

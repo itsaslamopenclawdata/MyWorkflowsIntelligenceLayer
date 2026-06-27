@@ -1,0 +1,290 @@
+Title: GPT-5.6 Sol: The First AI the Government Wouldn't Let You Have
+Channel: Hyperautomation Labs
+Channel ID: UCiax-xbEI0P6Y8C8VwZGMgQ
+Video ID: YUD2Wxt12qQ
+Published: 20260626
+Duration: 9:28 (568s)
+URL: https://youtube.com/watch?v=YUD2Wxt12qQ
+Fetched: 2026-06-27
+Status: None
+
+--- TRANSCRIPT ---
+
+0:00 This might be the first artificial
+0:01 intelligence the US government wouldn't
+0:04 let you have.
+0:05 On June 26th,
+0:07 OpenAI previewed its most powerful model
+0:10 yet,
+0:11 GPT-5.6 code named Soul.
+0:14 And then something unprecedented
+0:16 happened. The White House asked them to
+0:18 hold it back. Not ban it, gate it.
+0:22 Release to only about 20 companies. Each
+0:25 one approved by the government. One
+0:26 customer at a time.
+0:28 In this video, I'm going to decode
+0:30 exactly what this model is,
+0:33 why it spooked Washington, and the new
+0:35 three-tier system, and reasoning modes
+0:37 you'll want to understand before it goes
+0:38 public in a few weeks.
+0:39 I can't run it yet. Almost nobody can.
+0:42 But I read every system card and report
+0:44 so you don't have to.
+0:46 Let's start with the part that has never
+0:48 happened before.
+0:49 When OpenAI ships a model,
+0:51 you normally just get it.
+0:53 This time, two government offices,
+0:55 the Office of the National Cyber
+0:57 Director,
+0:58 and the Office of Science and Technology
+1:00 Policy,
+1:01 asked OpenAI to limit the release.
+1:04 So GPT-5.6
+1:07 went out as a limited preview to roughly
+1:10 20 trusted companies.
+1:12 And Sam Altman told staff
+1:15 the administration would approve access
+1:18 customer by customer during the preview.
+1:20 Read that again.
+1:22 The government now has a say in who gets
+1:25 to use a commercial AI model.
+1:27 General availability is coming in a few
+1:28 weeks.
+1:29 But the precedent is the real story.
+1:32 Washington is starting to treat frontier
+1:34 AI the way it treats technology that
+1:36 needs review before it ships.
+1:39 So why this model?
+1:41 Why now?
+1:42 One word. Cyber.
+1:45 OpenAI says GPT-5.6
+1:48 Soul is its most capable model yet for
+1:51 cybersecurity.
+1:52 It shifts the frontier on long horizon
+1:54 security work, like finding and
+1:57 exploiting vulnerabilities.
+1:59 On a benchmark called exploit gym,
+2:01 its cyber ability climbed sharply as you
+2:04 give it more reasoning.
+2:05 But here's the careful line they drew.
+2:08 OpenAI says Soul is better at helping
+2:10 people find and fix vulnerabilities
+2:12 than at reliably carrying out a full
+2:14 attack
+2:15 end to end.
+2:17 Under their preparedness framework,
+2:19 it does not cross the cyber critical
+2:21 threshold.
+2:22 It finds the bugs and the building
+2:23 blocks.
+2:25 But it does not autonomously chain them
+2:27 into a working exploit
+2:29 powerful enough to worry about.
+2:31 Not, they say, powerful enough to set
+2:32 loose.
+2:33 Now the part most coverage glossed over.
+2:36 And it changes how you'll choose models
+2:39 forever.
+2:40 GPT 5.6
+2:42 didn't ship as one model.
+2:44 It shipped as three with names instead
+2:46 of decimal points.
+2:48 Soul, the sun, set as one, the flagship.
+2:50 Terra, the earth, the balanced everyday
+2:52 model.
+2:54 And Luna, the moon,
+2:55 the fast, cheap one.
+2:58 And here's the key sentence from OpenAI.
+3:00 The number is the generation.
+3:02 But Soul, Terra, and Luna
+3:04 are durable tiers that advance on their
+3:06 own cadence.
+3:08 Translation,
+3:09 instead of waiting for GPT 5.7
+3:12 to upgrade everything at once,
+3:14 each tier can level up on its own
+3:15 schedule.
+3:17 You stop picking a version.
+3:18 You start picking a tier.
+3:20 Let's meet the three, starting at the
+3:22 top.
+3:23 Soul is the flagship. OpenAI's strongest
+3:26 model yet with real jumps in coding,
+3:28 biology, and cybersecurity.
+3:32 On terminal bench 2.1,
+3:34 a brutal test of planning, tool use, and
+3:37 fixing your own mistakes inside a
+3:39 command line,
+3:40 Soul, in its top mode, hits 91.91%.
+3:44 State of the art.
+3:46 On a genomics benchmark called gene
+3:48 bench, it beats the previous generation
+3:50 while using fewer tokens, smarter and
+3:53 cheaper at the same time.
+3:55 This is the model you reach for when the
+3:57 problem is hard, long, and you cannot
+4:00 afford to be wrong.
+4:02 It is also the most expensive and we'll
+4:04 get to exactly what it costs.
+4:06 Soul also introduces two new reasoning
+4:09 modes.
+4:10 And this is where it gets interesting
+4:11 for builders.
+4:12 The first is max effort.
+4:15 You're telling the model to take its
+4:16 time and think as deeply as it can on a
+4:19 single hard problem.
+4:22 The second is brand new, ultra.
+4:26 In ultra mode, Soul spins up sub-agents.
+4:29 It breaks your task into pieces and
+4:31 works them in parallel, like a lead
+4:32 engineer handing out tickets to a team.
+4:35 That 91% coding score,
+4:37 that was Soul in ultra.
+4:40 So, here's your rule of thumb.
+4:42 Reach for max when one problem needs
+4:44 deep, careful thought.
+4:46 Reach for ultra when a big job can be
+4:48 split up and attacked from several
+4:49 angles at once.
+4:51 But, here's the secret most people will
+4:52 miss.
+4:53 You probably won't live on Soul.
+4:55 You'll live on Terra.
+4:58 Terra is the balanced tier, say.
+5:00 OpenAI says it matches the previous
+5:02 flagship, GPT 5.5,
+5:05 on quality, while costing about half as
+5:07 much.
+5:09 Think about that.
+5:10 The intelligence that was top of the
+5:11 line one generation ago,
+5:13 now at roughly two times cheaper as your
+5:16 everyday default.
+5:17 For the vast majority of real work,
+5:19 drafting, summarizing, normal coding,
+5:22 answering customers,
+5:24 Terra is the workhorse.
+5:26 Save Soul for the problems that actually
+5:27 deserve it.
+5:28 And then there's Luna, said the moon.
+5:31 Luna is the fast, lowest cost tier,
+5:34 built for high volume.
+5:36 This is the one you point at the boring,
+5:38 enormous jobs,
+5:39 classifying thousands of support
+5:41 tickets,
+5:42 tagging a mountain of data,
+5:44 powering a feature
+5:46 where speed and price matter more than
+5:48 deep reasoning.
+5:50 It will not outthink Soul.
+5:52 It's not supposed to.
+5:54 Its job is to be cheap, quick, and good
+5:56 enough at massive scale.
+5:59 Soul for the heart.
+6:01 Terra so for the daily.
+6:03 Luna for the bulk.
+6:05 Three tiers, one decision.
+6:07 Now, the part that actually saves you
+6:08 money,
+6:09 the pricing decoded.
+6:12 These are per 1 million tokens.
+6:14 Input and output.
+6:16 Soul,
+6:17 $5 in, $30 out.
+6:20 Terra,
+6:21 $2.50 in, 15 out. Exactly half of Soul.
+6:25 Luna,
+6:27 $1 in, $6 out.
+6:29 So, output on Soul
+6:31 costs five times what it costs on Luna.
+6:34 Same task,
+6:35 five times the bill.
+6:37 Just from the tier you pick.
+6:39 And one more lever
+6:40 almost nobody uses.
+6:42 Cached reads are 90% off.
+6:44 If you send the same big context again
+6:46 and again,
+6:47 a long document, a system prompt,
+6:50 caching it cuts that part of the bill by
+6:52 90%.
+6:54 So, the real skill isn't always use the
+6:56 best model. It's
+6:57 match the tier to the job, and cache
+6:59 everything you repeat.
+7:01 Step back because there are two stories
+7:03 here.
+7:04 The small story,
+7:05 a great new model you'll get in a few
+7:07 weeks.
+7:09 The big story,
+7:10 a government just helped decide when and
+7:13 how an AI model ships.
+7:16 Whatever you think of that, it tells you
+7:18 exactly where we are.
+7:21 Frontier AI is now powerful enough
+7:23 that the release itself is a decision,
+7:26 not a given.
+7:27 So, what do you do right now
+7:29 before Soul goes public?
+7:31 Three things.
+7:32 Pick your tiers.
+7:33 Decide which jobs deserve Soul, which
+7:35 run on Terra,
+7:36 which dump onto Luna.
+7:38 Design for sub agents. Start breaking
+7:40 big tasks into pieces
+7:42 that ultra mode can run in parallel
+7:45 and prep your prompts now.
+7:46 So the day access opens, you move
+7:49 while everyone else is still reading the
+7:51 announcement.
+7:52 So here's the whole thing on one screen.
+7:55 GPT
+7:57 5.6
+7:58 one generation
+8:00 three durability tiers.
+8:02 Soul, the flagship, the strongest yet
+8:06 with max and ultra reasoning
+8:08 and 91.91%
+8:10 on terminal bench.
+8:12 Terra
+8:13 flagship quality at half the price your
+8:16 daily driver.
+8:18 Luna, cheap and fast for everything at
+8:21 scale.
+8:22 Gated by the government over cyber but
+8:24 held below critical and going public
+8:26 within weeks.
+8:28 You now understand a model that almost
+8:30 no one on Earth can even open yet
+8:33 and exactly how you'll use it the moment
+8:36 they unlock the door.
+8:37 If this made GPT 5.6 finally makes
+8:39 sense,
+8:40 do three quick things.
+8:42 Subscribe here on YouTube and follow
+8:45 Hyper Automation Labs on Facebook and
+8:47 Instagram, sir. I break down every big
+8:50 AI moment on all three.
+8:52 I also made a free GPT 5.6 Soul decoder.
+8:56 The three-tier cheat sheet, the pricing
+8:58 math when to use max versus ultra
+9:02 and a get ready checklist for launch
+9:04 day.
+9:05 To grab it, just comment the word Soul
+9:08 and I'll send it straight to you.
+9:10 And if you want to go deeper on building
+9:12 with AI
+9:14 I've got four paid guides linked in the
+9:16 description.
+9:17 Including the complete Claude code guide
+9:19 and the OpenAI Codex guide.
+9:22 Don't just watch the frontier move. Be
+9:25 ready for it. I'll see you in the next
+9:26 one.

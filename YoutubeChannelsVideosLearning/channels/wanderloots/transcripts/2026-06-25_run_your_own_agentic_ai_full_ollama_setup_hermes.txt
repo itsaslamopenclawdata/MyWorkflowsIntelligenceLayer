@@ -1,0 +1,509 @@
+Title: Run Your Own Agentic AI? 🦙 Full Ollama Setup + Hermes Workflow
+Channel: Wanderloots
+Channel ID: UCFiU1vIpPD3lQltke_18m3A
+Video ID: 4KXLW9Y1r4c
+Published: 20260625
+Duration: 15:57 (957s)
+URL: https://youtube.com/watch?v=4KXLW9Y1r4c
+Fetched: 2026-06-27
+Status: None
+
+--- TRANSCRIPT ---
+
+0:00 That just took, from start to finish, 1
+0:01 minute or so to get a local model
+0:03 running on my computer where I can now
+0:05 just have a chat with it like I would
+0:06 with ChatGPT, and it's 100% local. Every
+0:09 single message stays entirely on my
+0:11 computer. It's full privacy. Every time
+0:13 you type something into AI online,
+0:16 you're paying for it, either through
+0:17 your data, your money, or both. But what
+0:19 if you could run an AI assistant that
+0:20 knew everything in your notes, could
+0:22 answer questions about your own work,
+0:23 and that entire conversation never left
+0:25 your computer? This is what a local AI
+0:27 model gives you. It's your own private
+0:29 AI. It runs on your machine, it costs
+0:31 nothing, and no one else will ever see
+0:33 what you type. Let's get that set up.
+0:35 Hi, my name is Callum, also known as
+0:37 Water Lootz, and welcome to today's
+0:38 video on running a local model on your
+0:40 computer using Ollama. I'm using Ollama
+0:42 for today's video, but the principles
+0:44 I'm talking about apply to all different
+0:46 kinds of local model frameworks. I've
+0:48 just personally found Ollama to be the
+0:49 easiest to get set up and then connect
+0:51 to other tools like AI agents. In
+0:53 today's video, I'll go through the three
+0:54 reasons why running a local model is
+0:56 worth it, how to install Ollama and get
+0:58 your first model running, and how to
+1:00 create a customized variant of that
+1:01 model, and why agentic AI tools like
+1:03 Hermes need something like that. They
+1:05 need that customization. Anytime I talk
+1:07 about connecting to a local model, or
+1:09 using a local model, or running your own
+1:11 LLM, this is what I'm talking about. If
+1:13 you find this video helpful, please
+1:14 like, hype, and subscribe as I really
+1:16 appreciate your support a lot. If you're
+1:18 looking for more ways to support me,
+1:19 please consider joining my YouTube or
+1:20 Patreon membership where I give more
+1:22 tips, insights, and kits on the world of
+1:24 AI and knowledge. Now, let's get your
+1:26 own private AI running.
+1:29 Before we get started on actually
+1:30 running anything, installing something
+1:32 on your computer, I want to talk about
+1:33 the three reasons on why it's worth
+1:35 running your own local model so that you
+1:37 understand the rest of the video better.
+1:39 The first one is privacy. When you type
+1:41 into a cloud model on a website or
+1:42 through an API, that conversation goes
+1:44 to a server, someone else's server. With
+1:47 a local model, nothing leaves your
+1:48 machine, ever. That means you can feed
+1:50 it sensitive notes, client work,
+1:52 personal writing, whatever you want, and
+1:54 that conversation, all of that
+1:56 information and data, will only ever
+1:58 stay on your computer. It never leaves
+1:59 it. So, when you're running a local
+2:01 model, you can be confident that no one
+2:02 else is looking at what you're putting
+2:04 into that chat. The second is cost.
+2:06 Cloud AI runs on a subscription model or
+2:09 a per use building per API call. A local
+2:11 model downloads once and runs forever.
+2:13 The only cost is the electricity to run
+2:15 it, but compared to cloud services, that
+2:17 cost is negligible. Third is that it
+2:19 works offline. Once the model is
+2:21 downloaded on your machine, on your
+2:22 computer, you can use it forever from
+2:24 anywhere even if you don't have internet
+2:26 access. And I know all of that can feel
+2:27 a little abstract if you're not sure how
+2:29 you can actually begin using this local
+2:31 model. So, my personal favorite method,
+2:33 a great practical example, is through
+2:35 Obsidian or note-taking.
+2:38 If you use a note-taking app like
+2:39 Obsidian as your personal knowledge
+2:41 management system, your second brain,
+2:43 you can connect a local model directly
+2:44 to your vault, ask questions across
+2:46 thousands of your own notes, build a
+2:48 personal wiki, summarize your research,
+2:50 and that entire conversation related to
+2:52 your notes always stays private and on
+2:54 your computer. It's a way to use your
+2:56 own knowledge with AI and maintain
+2:58 privacy. A great example of extending
+3:00 that beyond your own notes is through
+3:01 something called the LLM wiki, where you
+3:03 can use an AI agent to summarize
+3:05 information and build out your own
+3:07 personal Wikipedia of information that
+3:09 you're interested in. So, if you want to
+3:10 learn more about the LLM wiki and how
+3:12 you can use it to reduce information
+3:13 overload and connect models to Obsidian,
+3:15 I recommend checking out my videos on
+3:17 that. So, that's the context on why you
+3:18 should care about running your own local
+3:20 model, but now let's actually build one.
+3:21 Let's get it set up.
+3:24 The easiest in my experience has been
+3:25 Ollama. I've been enjoying that a lot.
+3:27 And there's two different ways you can
+3:28 do it. You can go to your terminal, you
+3:29 can copy this curl command and just put
+3:31 that in, and it will download and
+3:33 install it for you. Or, you can click
+3:35 download, and then you can download it
+3:37 for your local device. I'm using a Mac,
+3:39 so I'm going to install it like that.
+3:40 Once you've downloaded Ollama, you can
+3:41 check to make sure that it has installed
+3:43 by typing in Ollama version. And we can
+3:45 see that it's currently not running, but
+3:47 it has version is 30.1. And that's it.
+3:49 We have the platform that's going to be
+3:51 able to run our local model for us. The
+3:54 next step that we need to do is download
+3:55 a model.
+3:57 So, if we go to Ollama again, we see
+3:59 models. There are a ton of models that
+4:02 you can go through. Many of them are
+4:03 good for different use cases, but a lot
+4:05 of them it significantly depends on what
+4:08 type of hardware do you have? What is
+4:10 your computer running? So, for most
+4:12 people with 8 to 16 GB of RAM, you're
+4:14 probably going to want to run something
+4:16 like Gemma 4. This is Google's latest
+4:17 open weight model. And if we scroll down
+4:19 a little bit, we can see how it's able
+4:21 to be run. You can use it in Cloud Code,
+4:23 CodeX, OpenClaw, Hermes, CodeX,
+4:26 OpenCode, whatever you want. I've
+4:27 personally been using it for Hermes a
+4:29 lot lately, so I'm going to talk about
+4:30 that a little bit more later. But, what
+4:32 I really wanted to show you is if we
+4:33 scroll down to models here, we see all
+4:35 of the different variations of the
+4:37 models that we can run. We can also see,
+4:39 importantly, how big is the model, how
+4:41 much space is it going to take up on our
+4:43 hard drive, and what is the context
+4:44 window, how much short-term working
+4:47 memory does it have? So, what's cool
+4:49 about Gemma 4 is that not only do we
+4:51 have the most powerful version, for
+4:53 example, 31 billion parameters, which
+4:55 would take up 20 gigs, and I would
+4:57 struggle to run it potentially on my 32
+5:00 GB RAM computer, but we have something
+5:02 called the E4B and the E2B models. So, E
+5:05 stands for effective parameter. So,
+5:08 basically what's happening with the
+5:09 effective parameters is that it uses
+5:11 something called per-layer embeddings,
+5:13 which lets a smaller number of
+5:15 parameters, less power, less thinking,
+5:17 that operates like it's a bigger model.
+5:19 So, in real-world behavior, the E4B
+5:22 operates similar to the 12 billion
+5:25 parameter model. And how that applies to
+5:27 practical terms is something like an
+5:28 E2B, you probably want to run on a
+5:30 low-end laptop with only maybe 4 GB of
+5:32 RAM, or on a phone. This is good for
+5:35 running on a mobile device. The E4B can
+5:37 handle something with 8 GB of RAM, which
+5:39 should be almost everyone's laptop. And
+5:41 then if you're getting into the 31,
+5:43 that's where you need a much bigger RAM.
+5:45 So, I'm able to run the 12 billion
+5:46 parameter on my 32 GB RAM, but I figured
+5:50 since most people are going to be using
+5:51 the E4B, why don't we install that one
+5:53 today? So, how do we install it?
+5:56 Well, that's where we get into the
+5:57 commands in Ollama. So, what we can do
+6:00 is we can copy what this one's called,
+6:02 the E4B, and we can go over to our
+6:04 terminal again and type in Ollama pull
+6:06 and then Gemma E4B. We click that, click
+6:09 enter, and it's pulling in the manifest,
+6:11 writing it, and installing. Great. So,
+6:13 now what we can do is we can run Ollama
+6:15 list to make sure that it works
+6:16 properly. And we can see here we have
+6:18 the Gemma 4 E4B model downloaded. So,
+6:21 this is the one that I just installed 7
+6:23 seconds ago. I also have the 12 billion
+6:25 parameter and I've got a couple others
+6:26 that I've installed previously. And
+6:28 you'll notice too that there's something
+6:29 called Gemma 4 64K. And I'm going to
+6:31 explain that in a moment because it's
+6:33 really important for certain use cases
+6:35 with the Gentic AI. So, now why don't we
+6:37 try getting this going?
+6:39 To get it started, all you need to do is
+6:41 write Ollama run Gemma 4 E4B. And we can
+6:45 see it's thinking down in the bottom
+6:47 here. And there we go. It just says send
+6:49 a message. That's it. We can see it's
+6:50 thinking, which is pretty cool. It knows
+6:52 already in its thinking process that
+6:54 it's Gemma. And here's the answer. I'm
+6:56 Gemma 4, a large language model
+6:57 developed by Google DeepMind. I'm an
+6:59 open weights model and my purpose is to
+7:00 assist you. How can I help you? So,
+7:02 that's pretty cool. That just took from
+7:04 start to finish maybe 1 minute or so to
+7:07 get a local model running on my computer
+7:09 where I can now just have a chat with it
+7:10 like I would with ChatGPT. And it's 100%
+7:13 local. Every single message I send to
+7:15 Gemma 4 stays entirely on my computer.
+7:18 It's full privacy.
+7:21 And just very quickly, if you're looking
+7:22 for an easier way to chat with your
+7:23 local models, you can also use the
+7:25 Ollama desktop app, which is what I
+7:27 downloaded to install the command line
+7:30 interface in terminal before, what we
+7:31 were using. So, if you want to have
+7:33 conversations and then you go back and
+7:34 continue the conversation, you can
+7:36 always switch the model like we did
+7:37 here. And those conversations will stay
+7:39 on the side stored on your computer in
+7:40 the same way that you would use
+7:42 something like chat GPT or cloud code,
+7:44 but all of this is happening 100%
+7:45 locally if I've selected a model that
+7:47 I've downloaded here.
+7:50 But that's just the beginning of using
+7:51 Ollama. Yeah, you can talk with it here
+7:53 in chat, but that's not really what I
+7:55 want to use it for. I want to be able to
+7:56 connect it to another tool so that it
+7:58 becomes more powerful and whenever I
+8:00 want my local agent, for example,
+8:02 something like my Hermes agent to be
+8:04 able to run and do things for me and
+8:05 connect locally to my running model in
+8:08 Ollama, I need to do a couple more
+8:10 things. So the first thing we can do
+8:11 here is end the conversation by typing
+8:13 {slash} bye. And next, what I want to
+8:15 show you is how we can go back to these
+8:17 models here and we can create what's
+8:18 called a variant.
+8:21 So a variant is basically just a
+8:23 configuration, a modified version of the
+8:25 one that we already have here, but it
+8:27 doesn't duplicate it. It doesn't take up
+8:28 another 10 gigs on your hard drive. It's
+8:30 just a different way of launching the
+8:32 same underlying model. So, for example,
+8:34 if I type in Ollama PS, we can see that
+8:37 we have Gemma 4 E4B. It's 3.3 gigs,
+8:40 operating 100% in my GPU, but its
+8:42 context window is 32,768.
+8:45 So, that's where we start to get into
+8:47 potentially a problem depending on your
+8:49 use case. For a lot of things, this is
+8:50 totally fine, but for example, if I go
+8:53 over to Hermes and we take a look at
+8:54 running uh local model inside of Hermes
+8:57 agent, we can see that a lot of Ollama
+9:00 models use a 2048 token context
+9:02 limitation and Hermes requires 64,000 to
+9:06 give your agent tools. So, it even shows
+9:09 you exactly how to get this set up
+9:10 inside of Hermes, but I'm going to use
+9:12 something a little bit easier.
+9:13 Basically, what we need to do is we need
+9:15 to create a model file that extends the
+9:16 context. So, we need to create a little
+9:18 temporary file, pull it from the Gemma
+9:21 model that we're using, establish the
+9:23 context that we want, and then get it to
+9:24 create the new model based on that
+9:27 modified one. So, let's just start a new
+9:29 terminal here so we can paste in this
+9:30 string, which I will give you in the
+9:32 description or a link to an article that
+9:34 has it, and we are pulling in Gemma 4
+9:36 E4B, which is the model that we just
+9:38 downloaded, and we're specifying that we
+9:40 want the context to be 64,000. So, it's
+9:43 creating a little variant file. You can
+9:45 say, "Okay, here we go. Gathering model
+9:46 components using existing layer.
+9:48 Success." And now if we go Ollama list,
+9:51 we can see we have Gemma 4E 64K variant.
+9:54 So, we just created this new model 8
+9:56 seconds ago, and now if we run it, and
+9:58 then we type in Ollama PS, we can see
+10:00 that now it's pulling in this model, and
+10:02 we have the context of 64,000. Instead
+10:05 of 3.3 gigs, it's now 3.4, so it's using
+10:07 up a little bit more space, but we've
+10:09 doubled the amount of working memory
+10:11 that the model is able to use running
+10:13 inside of Ollama.
+10:15 And you can also control the context
+10:17 window at the system level in Ollama. If
+10:19 we go up to settings here, and we can
+10:20 see that we have this context length.
+10:23 So, I can move this up to 64, and then
+10:25 whenever it launches a new model, it
+10:27 will always use the 64,000. So, we don't
+10:29 have to then create that variant
+10:31 manually like I did, but this will force
+10:34 everyone of your models to run at
+10:36 64,000. So, if you only want to change
+10:38 the one model, then you would do it
+10:40 using the method I showed you in the
+10:41 terminal. But this is a pretty easy way
+10:43 to get all of your Ollama models ready
+10:45 to go with AI agents. So, that becomes
+10:47 really important because now we can
+10:49 connect it to something like Hermes, and
+10:51 we're able to actually use it. Which if
+10:52 you remember here, it says that it
+10:53 requires 64,000. But now that we have
+10:56 the model in the format that we want,
+10:58 how do we actually connect it to a tool
+11:00 like Hermes or Claude Code or Codex?
+11:02 This is where we get into what's called
+11:04 an endpoint.
+11:06 So, I'm going to use Hermes just as an
+11:08 example here because this is what I've
+11:09 been exploring lately, but you can use
+11:10 this with any type of system you want.
+11:12 But basically what we need to do is,
+11:14 rather than for example pointing it to
+11:16 ChatGPT, we need to point Hermes or
+11:18 Claude Code or Codex to the local model
+11:21 that we have sitting on our computer
+11:23 right here. So, this is where we get
+11:24 into what's called an endpoint, and this
+11:26 is what it looks like. It's just a
+11:27 string of numbers that is an address
+11:29 based on what's running or can run
+11:31 locally on our computer. This is an
+11:33 Ollama native endpoint, and then if we
+11:36 add a V1, it makes it compatible with
+11:38 what's called an OpenAI endpoint. So,
+11:40 that's what a lot of platforms use. So,
+11:42 for example, if we go into Hermes, I'm
+11:44 going to go to my Gemma profile, and I
+11:46 can go to models, and I can go down to
+11:48 custom endpoint and click set up custom
+11:50 endpoint, and this is where, like I was
+11:52 talking about it, even includes an
+11:53 example that's very similar. All I have
+11:55 to do is type in that string, that
+11:57 address that I was showing you, and then
+11:58 we click connect. We now have a custom
+12:00 endpoint connected here. If I go back
+12:02 down to the models, we now see that we
+12:05 have this model right here, Gemma 4e 64k
+12:08 latest. So, that's the same model that I
+12:10 just created the variant of right here.
+12:12 So, now if I go and want to have a
+12:13 conversation and I type in, "Hi, who are
+12:15 you?"
+12:17 It might take a moment to run. If you
+12:18 remember earlier when I clicked run on
+12:21 Ollama, it had that little spinning icon
+12:23 for a moment. So, right now what Hermes
+12:24 is doing is it's spawning a little agent
+12:27 inside of Ollama, a locally running
+12:29 model. And then once I get that started
+12:32 up, it's warmed up, I'll be able to have
+12:33 a conversation, and it can run for a few
+12:36 minutes before it goes back to sleep,
+12:38 which I'll explain in a moment. Okay,
+12:39 there we go. So, the model just woke up.
+12:40 It's analyzing the request, and we can
+12:42 see it's thinking right here. But this
+12:44 time, rather than just saying, "Hi, I'm
+12:46 Gemma." Instead, we're running it
+12:48 through Hermes. So, now it recognizes
+12:51 that it's a Hermes agent running the
+12:53 Gemma 4 model. So, that's pretty cool.
+12:54 So, we have as many different options as
+12:56 we want. Once we have the models
+12:57 installed on our computer, we can then
+12:59 have different agents harness the power
+13:02 of that model. That's why this is called
+13:03 an agent harness. You could use Claude
+13:05 code, you could use Codex, you could use
+13:07 Open Claw, you could use Hermes. This is
+13:09 kind of the beginning of fully private,
+13:12 locally run AI. And what's nice too is
+13:14 with an agent like this, you could have
+13:15 it running 24/7, but in order to do
+13:17 that, we would need to keep the model
+13:18 loaded, and this is where we can modify
+13:20 some more settings of Ollama so that it
+13:22 doesn't unload after a few minutes. So,
+13:24 you remember it took a few seconds there
+13:26 to get running. We could have it be
+13:28 always on ready to go. And what's cool,
+13:30 too, is if you have a more powerful
+13:31 system, like a desktop computer with
+13:33 bigger RAM, for example, I can
+13:35 potentially run a bigger parameter model
+13:37 on my desktop and then connect to it
+13:39 from my laptop, so I can leverage the
+13:41 power of a local model running on one
+13:43 computer, but then access it from
+13:45 another one, which I have another video
+13:46 that explains how to do that with
+13:47 Hermes, if you're interested.
+13:50 Like I mentioned earlier, one of the
+13:52 reasons I'm most excited to run a local
+13:53 model is because I can manage my
+13:55 information in something like Obsidian,
+13:57 and I can potentially have sensitive
+13:58 information sitting inside of my
+14:00 Obsidian vault, and I'm only running a
+14:02 local model that's accessing that
+14:03 information, so it's not being sent to a
+14:05 cloud provider. So, once you begin
+14:07 working with local models, it really
+14:08 opens the door to a lot of interesting
+14:11 workflows that maintain the privacy of
+14:13 your data.
+14:15 And there are so many different models
+14:17 that you can use here. You can also run
+14:18 embedding models for setting up like a
+14:21 document retrieval system. You can run
+14:23 vision, thinking, tools. There's coding
+14:26 models. So, instead of paying for Claude
+14:28 Code or Codex all of the time, you could
+14:31 run a local model for coding. Qwen 3.6
+14:33 is supposed to be incredible, and it has
+14:35 a few different sizes. So, this is a
+14:37 bigger model, but there's a lot that we
+14:39 can do here. Running local models really
+14:41 opens a lot of doors. So, I highly
+14:43 recommend exploring it. Experiment with
+14:45 it yourself.
+14:47 And there you have it. You have your own
+14:49 personal private AI running locally on
+14:51 your computer with a context-tuned
+14:54 variant that can be plugged into
+14:55 different Aagentic AI tools. To help you
+14:57 understand more of the practicality of
+14:58 this, how you can use this in real-world
+15:00 situations, I'm putting together an
+15:01 Aagentic AI playlist using Hermes, but
+15:04 other tools as well, that connect to
+15:05 local models, so you can autonomously
+15:07 run tasks that hopefully make your life
+15:09 a little bit easier. So, I recommend
+15:11 checking out that playlist if you want
+15:12 to go deeper into anything that I've
+15:13 talked about today or see how you can
+15:15 expand this system. Also, let me know if
+15:17 you have any questions about what I
+15:18 talked about, as I know this can be
+15:19 confusing for new users to AI, and
+15:21 especially running local models on your
+15:23 computer. So, if you have questions or
+15:24 there's anything you'd like to see me
+15:25 work on in future videos, please let me
+15:27 know in the comments and I'm happy to
+15:28 help you out. A reminder to please like
+15:29 and subscribe if you found this video
+15:31 helpful and consider sharing with a
+15:32 friend who's perhaps AI curious but has
+15:34 been wary of the privacy and the data
+15:37 and the cost because a local model is a
+15:39 great way to get people into using AI to
+15:42 make their lives easier without dealing
+15:43 with a lot of the potential issues that
+15:45 people face with these types of tools.
+15:47 Thanks for watching and I will see you
+15:49 in the next video.

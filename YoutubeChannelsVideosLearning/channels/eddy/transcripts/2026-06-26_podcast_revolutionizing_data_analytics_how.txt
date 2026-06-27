@@ -1,0 +1,888 @@
+Title: (Podcast) Revolutionizing Data Analytics How Anthropic Automates Insights with Claude
+Channel: Eddy Says Hi #EddySaysHi
+Channel ID: UC860VdxDA2EKFW9ezm36MAw
+Video ID: 9l6BHAcCd30
+Published: 20260626
+Duration: 26:00 (1560s)
+URL: https://youtube.com/watch?v=9l6BHAcCd30
+Fetched: 2026-06-27
+Status: None
+
+--- TRANSCRIPT ---
+
+0:01 [snorts]
+0:03 [music]
+0:06 >> Imagine uh pointing a state-of-the-art
+0:08 AI right at your company's central
+0:10 database.
+0:11 >> Right, just plugging it in.
+0:12 >> Exactly. Just letting it answer the
+0:15 CEO's most complex financial questions
+0:17 directly. And you know, actually
+0:19 trusting the results. I mean, that
+0:21 sounds like science fiction for most
+0:22 organizations today.
+0:23 >> Oh, absolutely. Total science fiction.
+0:25 >> But here is the wild part. Anthropic did
+0:28 exactly that.
+0:30 And they hit a 95% success rate for
+0:33 their business analytics queries.
+0:34 >> Which is huge.
+0:35 >> It is.
+0:37 But uh they only achieved that after
+0:39 discovering this completely
+0:41 counterintuitive fact. They found out
+0:43 that giving an AI access to thousands of
+0:46 past correctly answered questions
+0:49 >> Mhm.
+0:49 >> you know, basically giving it an
+0:51 open-book test, it actually made its
+0:52 performance worse.
+0:53 >> Yeah, it completely flips our standard
+0:55 assumption about how machine learning
+0:57 should work, especially in a business
+0:58 setting.
+0:59 >> Right.
+0:59 >> Because we tend to think, you know, more
+1:00 data, more historical context, that
+1:02 automatically equals better AI
+1:04 performance.
+1:05 >> Always, yeah.
+1:06 >> But in the realm of hard numbers and
+1:07 databases, the opposite is often true.
+1:10 >> Well, welcome to today's deep dive. We
+1:11 are talking directly to you. Whether you
+1:14 are the person who has uh stared blankly
+1:16 at a massive confusing spreadsheet
+1:18 trying to extract just one simple
+1:20 answer.
+1:20 >> We've all been there.
+1:21 >> Or if you're the one building those tiny
+1:23 rigid dashboards that never quite answer
+1:25 the specific questions your team
+1:27 actually has. We are looking at your
+1:28 world today.
+1:29 >> Yes, we are.
+1:30 >> Our mission today is uncovering how to
+1:32 actually make AI-driven business
+1:34 analytics work without it turning into
+1:37 just, you know, a chaotic, untrustworthy
+1:39 mess.
+1:40 >> Because the instinct across the
+1:41 corporate world right now is to just buy
+1:43 an off-the-shelf LLM, point it at a data
+1:46 warehouse, and just assume the model
+1:48 will magically untangle years of messy
+1:50 documentation.
+1:51 >> Right, the magic wand approach.
+1:52 >> Exactly. But as our source material
+1:55 today reveals, that approach
+1:57 pretty much guarantees a very specific
+1:59 type of disaster.
+2:00 >> Yeah, so our source today is this really
+2:01 fascinating technical blueprint. It
+2:03 comes directly from Anthropic's
+2:05 engineering and data science teams. It's
+2:07 dated June 3rd, 2026, and it's titled
+2:11 "How Anthropic Enables Self-Service Data
+2:13 Analytics with Claude".
+2:15 >> And they didn't just write a theoretical
+2:17 white paper here.
+2:18 >> they didn't.
+2:18 >> They rebuilt their own internal
+2:20 operations.
+2:21 >> Yeah, the stake in the ground here is
+2:22 that they have automated 95% of their
+2:25 business analytics queries using their
+2:27 own AI, Claude.
+2:29 And they're doing it with an aggregate
+2:30 accuracy of about 95%.
+2:33 >> Which, I mean, that is a monumental
+2:35 shift in resource allocation.
+2:36 >> Oh, yeah, for sure.
+2:37 >> By offloading all that wrote,
+2:39 repetitive, ad hoc question answering to
+2:42 an agent, they've freed up their human
+2:44 data team to do actual strategic work.
+2:47 >> High-leveraged stuff.
+2:48 >> Right. Things like complex causal
+2:50 modeling or uh long-term financial
+2:53 forecasting. But, getting to that 95%
+2:56 accuracy wasn't just, you know, plugging
+2:58 the AI in and going to lunch.
+3:00 >> Right. Okay, let's unpack this. Because
+3:02 to understand how they achieved that
+3:04 massive success rate, you first have to
+3:06 really understand why simply turning an
+3:08 AI loose in a data warehouse usually
+3:11 ends in tears.
+3:12 >> It comes down to a fundamental
+3:14 misunderstanding really of what large
+3:15 language models are naturally built to
+3:17 do. We see an AI write this incredible
+3:20 complex software code, and we just
+3:23 instinctively assume, well, it will be
+3:24 just as flawless at pulling a revenue
+3:26 report.
+3:27 >> Right.
+3:28 >> But, analyzing data is fundamentally
+3:30 different than writing software.
+3:32 >> The text draws a really sharp line
+3:33 there, which I found super interesting.
+3:35 With software, you're building something
+3:37 new. Like if an AI writes a function to
+3:39 sort a list, there are dozens of
+3:41 different ways to write that code
+3:42 successfully.
+3:43 >> Exactly. It's an open-ended creative
+3:45 puzzle.
+3:46 >> Yeah. And more importantly, software
+3:48 development has built-in natural
+3:50 guardrails.
+3:51 >> Right. You have compilers. you have
+3:53 automated unit tests.
+3:54 >> Exactly. If the AI hallucinates a
+3:56 variable or um
+3:58 writes a broken loop, the code just
+4:00 simply doesn't compile.
+4:01 >> It crashes.
+4:02 >> Right, it fails loudly, immediately
+4:04 telling you there is a problem.
+4:05 >> But data is silent.
+4:07 >> Ooh, yeah.
+4:08 >> If you ask for last quarter's revenue,
+4:10 there is usually only one single correct
+4:12 answer, and it's derived from one
+4:14 specific source table.
+4:15 >> Right.
+4:15 >> And there is absolutely no deterministic
+4:18 way for the AI to prove its output is
+4:20 right, just by looking at the final
+4:21 number.
+4:22 >> That's terrifying, actually.
+4:23 >> It is. It can hand you a completely
+4:25 wrong financial figure with absolute
+4:28 glowing confidence, and the system won't
+4:30 crash to warn you.
+4:31 >> Man, that false confidence is the
+4:33 danger.
+4:34 >> Mhm.
+4:34 >> So, when an AI approaches a database
+4:37 without structure,
+4:38 it fails.
+4:39 >> Mhm.
+4:40 >> Anthropic actually identified three
+4:42 specific ways this failure happens when
+4:44 you just point an agent at raw tables.
+4:46 >> Right.
+4:46 >> And it sounds to me
+4:48 uh it sounds like pointing an AI at a
+4:50 raw database is basically like sending a
+4:52 brilliant, but incredibly naive
+4:54 librarian
+4:56 into a massive hoarder's house.
+4:57 >> Oh, that's a great way to put it.
+4:59 >> Right, like they're desperate to help
+5:00 you find a book, but the environment is
+5:02 so chaotic, who knows what they'll
+5:04 actually bring back.
+5:05 >> That analogy perfectly captures the
+5:07 dynamic. The librarian is eager to
+5:08 please, but completely unequipped for
+5:10 the chaos.
+5:11 >> Exactly.
+5:12 >> And the first major hurdle that
+5:13 librarian faces in the hoarder's house
+5:15 is simply understanding the language
+5:17 being used. The text refers to this as
+5:20 concept to entity ambiguity.
+5:22 >> Which is really just a translation
+5:23 problem between human intent and
+5:26 database reality.
+5:27 >> Precisely. So, let's say a marketing
+5:30 manager asks the AI for the number of
+5:33 active users this month.
+5:34 >> Seems simple enough.
+5:35 >> To a human, yeah, that sounds like a
+5:37 totally straightforward question. But to
+5:39 a data model spanning millions of
+5:41 records, it's a minefield of ambiguity.
+5:44 >> Oh, because what does active actually
+5:46 mean?
+5:47 >> Exactly. What specifically constitutes
+5:49 active? Does it mean they just logged
+5:50 into the app or did they have to perform
+5:52 a specific action like
+5:54 sending a message?
+5:55 >> Right. Do we include internal test
+5:57 accounts in that count?
+5:58 >> Yes.
+5:59 What about known fraudulent users?
+6:01 >> Oh, wow.
+6:02 >> And what is the look-back window? Is it
+6:04 the last 30 days or the strict calendar
+6:07 month?
+6:08 >> I see. So the AI sees hundreds of
+6:11 plausible interpretations.
+6:12 >> Right. And it has no innate way to know
+6:14 which one matches the marketing
+6:16 manager's unstated intent.
+6:17 >> So it's either paralyzed by choice or
+6:20 worse, it just makes a silent guess
+6:22 which leads to bad data. But okay, let's
+6:24 say the librarian actually learns the
+6:26 exact definition of active user for
+6:28 today.
+6:29 That brings up the next hurdle which is
+6:31 that the house is constantly shifting.
+6:33 The source calls this data staleness.
+6:36 >> Businesses are living organisms, you
+6:38 know. They evolve.
+6:39 >> Yeah.
+6:40 >> A database schema changes. A column gets
+6:42 deprecated or a business definition just
+6:45 updates.
+6:46 >> Right. Like a column labeled revenue
+6:48 that meant one thing in 2024 might
+6:51 totally exclude a new product line that
+6:53 launched in 2026.
+6:54 >> Exactly. And if the AI's internal
+6:57 knowledge of the database structure
+6:59 rots, it starts returning subtly wrong
+7:02 answers because it's operating on an
+7:04 outdated map of the territory.
+7:06 >> Okay. So we have ambiguity in the
+7:07 definitions and we have staleness as the
+7:09 business changes. But what if the
+7:11 definition is crystal clear and the map
+7:14 is perfectly updated?
+7:15 >> The librarian could still fail.
+7:17 >> Right. Just because the hoarder's house
+7:19 is so unfathomably large. The text calls
+7:22 this retrieval failure.
+7:23 >> It's the needle in the haystack problem.
+7:25 The haystack is perfectly labeled but
+7:27 there are 10,000 haystacks. The AI
+7:30 simply misses the relevant table because
+7:33 the sheer volume of information just
+7:36 overwhelms its search capacity.
+7:38 >> So it grabs a table that looks
+7:39 superficially correct.
+7:41 >> But it's actually meant for a completely
+7:42 different department. Yes.
+7:44 >> Wow. So, any successful AI analytics
+7:46 deployment really has to systematically
+7:49 attack all three of those failure modes.
+7:51 We have to clear up the ambiguity,
+7:53 prevent the staleness, and fix the
+7:56 retrieval problem.
+7:57 >> Right.
+7:57 >> To fix the first two, the text outlines
+7:59 building what they call a data
+8:01 foundations layer.
+8:02 >> Yeah.
+8:02 >> And this seems to be all about strictly
+8:04 restricting the AI's choices.
+8:06 >> You are artificially shrinking the
+8:07 universe of possibilities. Instead of
+8:10 letting the AI guess among 40 plausible
+8:13 tables that all contain, you know, some
+8:15 variation of the word revenue,
+8:16 >> Right.
+8:17 >> the data team has to rigorously curate a
+8:19 small set of canonical single source of
+8:22 truth data sets.
+8:23 >> And forcefully deprecate the near
+8:24 duplicates. Like, you have to take the
+8:26 clutter out of the house.
+8:27 >> Exactly. Behind the scenes, data
+8:29 engineers can still maintain complex
+8:31 physical roll-ups and caches for
+8:32 performance reasons, sure. But as far as
+8:35 the AI agent is concerned, there is only
+8:37 one governed answer for any major
+8:40 business metric.
+8:41 >> Hold on, I'm reading between the lines
+8:42 here.
+8:42 >> Right?
+8:43 >> The grand secret to making an incredibly
+8:45 advanced generative AI work better is
+8:48 just
+8:50 uh
+8:51 good old-fashioned rigorous human-led
+8:54 data governance. We're literally back to
+8:56 making strict rules.
+8:58 >> If we connect this to the bigger
+8:59 picture, yes, absolutely.
+9:01 >> That's so funny.
+9:01 >> AI hasn't replaced the need for human
+9:04 governance. It has actually made
+9:05 governance more critical than at any
+9:07 point in the history of data science.
+9:09 >> Wow.
+9:10 >> Previously, your end user was a human
+9:12 analyst who could look at a chart, spot
+9:14 a weird anomaly, and intuitively know,
+9:16 "Okay, something is broken."
+9:17 >> Right, they have common sense.
+9:18 >> Exactly. But now, your end user is an AI
+9:21 agent that takes things literally.
+9:23 Because of that metadata, the column
+9:26 descriptions, the valid value ranges,
+9:29 the explicit definitions of metrics that
+9:31 must all be treated as a first-class
+9:33 product.
+9:34 >> And there's this incredible anecdote in
+9:35 the text about the semantic layer
+9:37 >> Yeah.
+9:37 >> that highlights exactly why humans must
+9:39 remain in the driver's seat for this
+9:41 governance.
+9:41 >> Oh, yes.
+9:42 >> Anthropic actually tried to use Claude
+9:44 to automate this tedious governance
+9:46 work.
+9:47 They had the AI look at raw tables and
+9:49 historical query logs to autogenerate
+9:52 the official definitions for their
+9:53 metrics.
+9:54 >> It was a really fascinating experiment,
+9:56 and it was a total failure.
+9:57 >> shocked by that. It produced these
+9:59 highly plausible-looking definitions,
+10:02 but it actually made their accuracy
+10:04 worse.
+10:05 I want to make sure I understand the
+10:06 mechanism here.
+10:08 Why did having the AI write the
+10:09 definitions fail so badly?
+10:12 >> Well, think about the revenue example
+10:13 again. If Claude looks at a raw table
+10:16 named um daily sales, it can document
+10:19 that table perfectly. It can say this
+10:22 column is the transaction amount, this
+10:23 column is the date. But the AI has no
+10:26 real-world localized context.
+10:29 >> Oh, I see.
+10:29 >> It doesn't intuitively know if your
+10:31 specific company's accounting practices
+10:34 dictate that revenue should include or
+10:35 exclude local sales tax.
+10:37 >> Right, or if refunded transactions
+10:39 should be subtracted from that specific
+10:40 column.
+10:41 >> Exactly. So, when forced to write a
+10:43 definition, the AI just guesses based on
+10:45 general internet knowledge. It
+10:47 effectively takes the exact ambiguities
+10:49 Anthropic was trying to eliminate and
+10:52 codifies them into official-sounding
+10:54 documentation.
+10:55 >> Oh, man. So, it built a very
+10:56 official-looking bridge straight to the
+10:59 wrong destination.
+11:00 >> Precisely.
+11:00 >> So, the takeaway is that you can use the
+11:02 AI to draft the boilerplate
+11:04 documentation.
+11:06 But a human expert must ultimately own
+11:09 and verify the core business logic.
+11:11 >> Right.
+11:11 >> The definition has to be human-curated
+11:14 so that when the agent asks for the
+11:15 revenue metric, it gets the exact same
+11:17 number that the CFO sees on their
+11:19 dashboard.
+11:20 >> And that leads directly to the final
+11:22 piece of the foundation, which Anthropic
+11:23 argues is the layer most teams
+11:26 completely skip.
+11:27 >> And that is business context.
+11:28 >> Ah, right. And if you're listening to
+11:30 this and thinking about your own
+11:32 company's endless dashboard blow, this
+11:34 part is crucial.
+11:35 >> Oh, absolutely.
+11:36 >> Because an AI that doesn't understand
+11:37 the rhythm of your specific business
+11:40 will answer the literal words you typed,
+11:42 but entirely miss the actual intent of
+11:45 your question. Yes. An agent needs to
+11:48 know the ambient environment.
+11:50 >> Right.
+11:50 >> It needs to know that when someone asks
+11:52 about the Q2 launch, they are referring
+11:54 to a very specific flagship product
+11:58 release, not just, you know, any minor
+12:00 feature shipped in April.
+12:01 >> Oh, that makes sense.
+12:01 >> Or if a user is asking for rapid-fire
+12:04 financial summaries on a Wednesday
+12:05 afternoon, the AI should understand that
+12:08 a major board meeting is scheduled for
+12:09 Thursday.
+12:10 >> So, it needs to prioritize high-level
+12:12 executive summaries over granular
+12:15 row-level data.
+12:16 >> Exactly.
+12:16 >> And Anthropic solves this by piping in a
+12:18 company knowledge graph. They literally
+12:21 feed the AI index strategy docs, product
+12:24 roadmaps, and org charts, so the agent
+12:27 understands the business reality, not
+12:29 just the data base.
+12:30 >> So, by establishing canonical data sets,
+12:33 an intensely governed semantic layer,
+12:35 and rich business context, you solve the
+12:38 entity ambiguity problem.
+12:39 >> You've cleaned up the hoarder's house.
+12:41 >> You've cleaned the house.
+12:41 >> But the librarian still has to find the
+12:43 book. We still have the retrieval
+12:45 failure problem. How do we get the AI to
+12:47 navigate this newly cleaned house
+12:50 without getting lost in all the specific
+12:52 rules?
+12:52 >> This is where Anthropic introduces the
+12:54 concept of skills.
+12:56 >> And the performance jump here is
+12:58 staggering.
+12:59 >> It really is.
+13:00 >> Because before implementing these
+13:01 skills, Claude's accuracy on Anthropic's
+13:04 internal evaluations was hovering at a
+13:06 dismal 21%.
+13:08 >> Which is practically unusable.
+13:10 >> Totally.
+13:11 But with skills implemented, it jumped
+13:13 above 95% and even hit 99% in certain
+13:17 focused domains.
+13:18 >> Woah.
+13:19 >> A jump from 21 to 95% just by changing
+13:22 out the AI searches.
+13:24 >> To understand that jump, we have to look
+13:26 at what a skill actually is in this
+13:28 architecture.
+13:29 >> Okay.
+13:30 >> Think of a skill as the AI's procedural
+13:32 playbook. Technically speaking, in their
+13:34 Claude code environment, a skill is just
+13:36 a dedicated folder of markdown files
+13:39 that the agent reads on demand.
+13:41 >> Let's pause there for a second. For
+13:42 those not living in code editors all
+13:43 day, a markdown file is basically a
+13:45 simple plain text document with some
+13:48 very basic formatting.
+13:49 >> Right.
+13:49 >> Like using asterisks to make a word bold
+13:52 or hash symbols to create a header.
+13:54 It's lightweight and incredibly easy for
+13:56 both humans and AI to read.
+13:58 >> That's a great clarification. So, these
+14:01 plain text markdown files act as the
+14:04 procedural knowledge. If the semantic
+14:06 layer is the declarative knowledge, you
+14:08 know, knowing what a metric is, the
+14:10 skill is the how.
+14:12 >> Got it.
+14:12 >> How to find it, how to navigate the
+14:14 quirks of a specific database table, and
+14:17 what a finished analysis in that domain
+14:19 should actually look like.
+14:21 >> And they use this concept of pairwise
+14:22 skills to make it work. They pair a
+14:25 routing skill with an execution skill.
+14:27 >> The knowledge router is the first half
+14:28 of that pair, and it's the primary
+14:30 defense against retrieval failure.
+14:33 >> Okay.
+14:33 >> Instead of letting the AI drop into a
+14:35 database with a million fields and
+14:38 search blindly, the router acts as a
+14:40 funnel.
+14:41 If a user asks a question about user
+14:43 growth, the router intercepts that and
+14:45 says, "Okay, you're operating in the
+14:46 growth domain. Ignore the rest of the
+14:48 database. Here are the 30 specific
+14:51 reference files you're allowed to look
+14:52 at for growth."
+14:53 >> Oh, wow. So, it drastically shrinks the
+14:55 search space before a single line of
+14:56 code is written.
+14:57 >> Exactly.
+14:58 >> It points the librarian to the exact
+14:59 correct aisle before they start looking
+15:01 for the book. And then there's the
+15:02 second half of the pair, which they call
+15:04 the unbook skill.
+15:06 I think this might be my favorite
+15:07 concept in the whole paper.
+15:08 >> It's so collect.
+15:09 >> It basically encodes the actual
+15:11 step-by-step mental process a senior
+15:14 human analyst uses. It gives the AI an
+15:16 explicit workflow.
+15:18 >> It stops the AI from rushing to an
+15:20 answer.
+15:20 >> Right.
+15:21 >> The unbook skill tells the agent, first,
+15:24 clarify the user's question. Second, use
+15:26 the knowledge router to find your
+15:28 approved sources. Third, write and run
+15:31 the query. Fourth, review your own work.
+15:33 >> That's amazing.
+15:35 And it also includes reusable analysis
+15:37 patterns.
+15:37 >> Which saves so much time.
+15:39 >> Yeah, because if a user asks for a
+15:41 funnel analysis of a new sign-up flow,
+15:44 the AI isn't sitting there trying to
+15:46 invent the complex math required for a
+15:48 funnel from scratch.
+15:49 >> Right.
+15:49 >> The unbooked skill just hands it a
+15:51 proven, pre-approved template for funnel
+15:53 analysis, and the AI just fills in the
+15:55 specific parameters.
+15:56 >> It creates consistency. Every time
+15:58 someone asks for a funnel, it is
+15:59 calculated the exact same way.
+16:01 >> So smart.
+16:02 >> But there is a massive trap here, which
+16:03 goes back to our discussion about
+16:05 staleness.
+16:06 >> I was just thinking about that.
+16:07 If these skills are just text documents
+16:09 full of instructions and specific table
+16:11 names,
+16:12 they could become outdated incredibly
+16:14 fast.
+16:15 >> Oh, instantly.
+16:16 >> team drops a column, the business
+16:18 pivots, and suddenly the AI's playbook
+16:21 is pointing to a brick wall.
+16:23 That 95% accuracy would just plummet.
+16:25 >> And it did. Anthropic noted that their
+16:28 offline accuracy drifted from 95% down
+16:31 to 65% over just a single month.
+16:34 >> Wow, just 1 month?
+16:35 >> Before they realized skill maintenance
+16:37 had to be treated as a hard engineering
+16:39 problem, not just, you know, an
+16:40 administrative task.
+16:42 >> So how do you force a busy engineering
+16:43 team
+16:45 to constantly update a bunch of text
+16:47 documents?
+16:47 >> Yes.
+16:48 >> Use colocation.
+16:49 >> Yes.
+16:50 >> Anthropic forced these skill markdown
+16:52 files to live in the exact same code
+16:54 repository as the actual data
+16:56 transformation models.
+16:57 >> They literally physically tied the
+16:59 instruction manual to the machine.
+17:01 >> And to enforce it, they use CI hooks and
+17:04 pull requests. Let's translate that for
+17:05 a second.
+17:06 >> Please do.
+17:07 >> A continuous integration, or CI hook, is
+17:10 basically an automated tripwire in the
+17:12 code base. And a pull request is just a
+17:14 formal proposal asking the team to
+17:16 approve a change to the code.
+17:18 >> Right.
+17:19 >> So, if a data engineer tries to update a
+17:21 data model, the automated tripwire
+17:23 catches it and literally blocks the
+17:24 change unless the engineer also updates
+17:28 the associated skill document in that
+17:30 exact same proposal.
+17:31 >> It intertwines the infrastructure with
+17:32 the AI's brain.
+17:34 >> It's brilliant.
+17:34 >> You physically cannot break the data
+17:36 pipeline without the system forcing you
+17:38 to fix the AI's playbook at the exact
+17:40 same time. It eliminates staleness by
+17:42 design.
+17:43 >> Okay, so let's recap where we are. We
+17:45 have the foundations built. We've given
+17:47 the definitions so there's no ambiguity.
+17:49 We've given the AI a procedural playbook
+17:51 with skills so it doesn't get lost. And
+17:53 we're forcing mandatory updates to
+17:55 prevent staleness.
+17:56 >> The machine is built.
+17:57 >> The machine is fully built. But how do
+17:59 we actually know
+18:01 it's giving us the right numbers?
+18:03 >> That brings us to validation.
+18:05 Because without a rigorous scientific
+18:08 testing process, you haven't built an
+18:11 analytics engine. You've just built a
+18:13 very sophisticated, very fast
+18:15 hallucination engine.
+18:16 >> Here's where it gets really interesting.
+18:18 And this goes back to the wild fact we
+18:20 mentioned at the very beginning of the
+18:21 deep dive.
+18:21 >> the ablation experiment.
+18:23 >> Yes. When
+18:24 Anthropic was testing how to make the AI
+18:27 smarter,
+18:28 they ran a massive ablation experiment.
+18:30 And an ablation is a testing method
+18:32 where you hold the system entirely
+18:34 constant, change exactly one variable,
+18:36 and measure what happens.
+18:37 >> Right.
+18:38 >> They assumed that if they gave the agent
+18:40 direct unstructured access to a massive
+18:43 library of thousands of historical,
+18:46 correct SQL queries and old dashboards,
+18:48 the AI would learn by example.
+18:50 >> It is the most intuitive assumption in
+18:51 machine learning.
+18:52 >> Completely.
+18:53 >> Give the model a massive record of every
+18:55 question that was previously answered
+18:56 correctly, and it will magically deduce
+18:58 the underlying patterns.
+18:59 >> But the text details a massive null
+19:01 result. Giving the AI access to that
+19:03 massive query corpus moved the accuracy
+19:06 needle by less than a single percentage
+19:08 point.
+19:08 >> It failed completely.
+19:09 >> And it wasn't because the AI ignored the
+19:12 data. They checked the agent's
+19:13 transcripts.
+19:14 >> Right.
+19:14 >> The AI actually actively looked at the
+19:16 correct past queries 80% of the time,
+19:20 and it still got the new user's answer
+19:21 wrong.
+19:22 >> Yeah.
+19:22 >> I'm really struggling to understand why
+19:25 showing it the right answer didn't help.
+19:27 >> Because the AI couldn't map the nuance
+19:30 of the new question to the precedent of
+19:32 the old one.
+19:32 >> Ooh.
+19:33 >> Seeing a historically correct SQL query
+19:36 doesn't explain the business logic of
+19:38 why it was correct at that specific
+19:40 moment in time.
+19:41 >> Right.
+19:41 >> The AI sees the code, but it doesn't see
+19:43 the context. This experiment proved the
+19:45 fundamental bottleneck wasn't a lack of
+19:47 access to information, it was a lack of
+19:49 structure.
+19:50 >> Which goes back to the semantic layer.
+19:52 >> Exactly. That's why the heavily governed
+19:54 semantic layer and the procedural skills
+19:56 we just discussed are so crucial. You
+19:58 have to explicitly tell the AI the why,
+20:01 not just dump a pile of what on its desk
+20:03 and hope it figures it out.
+20:04 >> So, relying on an unstructured history
+20:06 of past successes is a dead end.
+20:09 What actually moves the needle is online
+20:11 validation.
+20:13 Anthropic implemented an adversarial
+20:15 review sub-agent in their live
+20:18 production environment.
+20:19 >> This is a brilliant mechanism.
+20:21 >> It is.
+20:21 >> Before the primary AI delivers its final
+20:24 answer to the human user, it is forced
+20:26 to hand its work over to a second,
+20:28 entirely separate AI agent whose only
+20:31 job is to aggressively challenge the
+20:34 underlying assumptions of the work.
+20:35 >> It plays automated devil's advocate.
+20:37 >> Yes, it's an automated peer review.
+20:39 >> But the blueprint is very upfront about
+20:41 the pain points of doing this.
+20:43 Using that adversarial reviewer
+20:45 increased their accuracy by a solid 6%,
+20:47 which is fantastic, but it cost 32% more
+20:50 tokens.
+20:50 >> That's a steep price.
+20:52 >> It is, and tokens are essentially the
+20:53 raw currency of AI. They are the tiny
+20:55 fragments of words the system processes,
+20:57 and you pay real computing dollars for
+20:59 every single one.
+21:00 On top of the cost, the adversarial
+21:02 review increased latency by 72%.
+21:05 >> Wow.
+21:05 >> It takes significantly longer for the
+21:07 user to get an answer.
+21:08 >> Which really highlights a critical
+21:10 strategic decision for any organization
+21:12 building this. How much are you willing
+21:14 to pay both in actual cloud computing
+21:16 dollars and in waiting time for that
+21:18 extra margin of accuracy?
+21:20 >> Exactly.
+21:20 >> For a financial team waiting an extra 45
+21:23 seconds for a rock-solid verified metric
+21:26 is entirely worth it.
+21:27 >> Definitely.
+21:28 >> But for a product manager wanting a
+21:30 quick pulse check on daily active users,
+21:32 that latency might be incredibly
+21:34 frustrating.
+21:34 >> And even with the semantic layers, the
+21:37 skills, and the adversarial pure review,
+21:40 Anthropic admits they still face the
+21:42 hardest problem in data science, the
+21:44 silent failure.
+21:45 >> Oh, the silent failure.
+21:46 >> This is the nightmare scenario where the
+21:48 AI is confidently wrong, the answer
+21:50 looks totally plausible, and the human
+21:52 user just blindly accepts it without
+21:54 objection.
+21:55 >> If a traditional dashboard crashes, it's
+21:57 an IT ticket.
+21:58 >> IT fixes it.
+21:59 >> Right.
+21:59 >> If an AI gives a confidently wrong
+22:01 financial number that gets used in a
+22:02 board meeting to make a strategic
+22:03 decision, well, that is a catastrophic
+22:06 business crisis.
+22:07 >> To combat those silent failures, they
+22:10 built two unique safety nets.
+22:12 First, every single answer the AI
+22:15 provides to a user comes with a
+22:17 provenance footer.
+22:18 >> I love this feature.
+22:20 >> It explicitly states the source tier of
+22:22 the data used. Did this metric come from
+22:25 the highly trusted human-curated
+22:27 semantic layer,
+22:28 or did the AI pull it from a raw,
+22:31 unverified scratch table?
+22:33 And it also lists the exact freshness of
+22:35 the data.
+22:35 >> It passes the critical thinking burden
+22:37 back to the user.
+22:38 >> Yes.
+22:39 >> The AI is essentially saying, "Here's
+22:40 the number you asked for, but I pulled
+22:42 this from an unverified table that
+22:43 hasn't been updated in 3 days. Use this
+22:46 at your own risk."
+22:47 >> It forces the human to look at the
+22:49 receipt.
+22:49 >> Exactly.
+22:50 >> And the second safety net is my absolute
+22:52 favorite. They have an AI agent
+22:54 continuously passively scanning state
+22:56 holder Slack channels.
+22:57 >> Think about how often data corrections
+22:59 happen in casual conversation, right?
+23:01 >> All the time.
+23:01 >> A marketing manager looks at a chart in
+23:03 Slack and replies, "Hey, this number
+23:05 looks a bit high. I think you forgot to
+23:06 apply the fraud filter to this specific
+23:08 region."
+23:09 >> Normally, that insight just vanishes
+23:11 into the Slack void, but this passive
+23:12 agent is looking for that exact type of
+23:15 correction language.
+23:16 When it sees it, the agent automatically
+23:19 drafts a pull request, a proposed code
+23:21 change to fix the underlying skill
+23:23 document, and it tags the human domain
+23:25 owner to approve it.
+23:26 >> It's unbelievable.
+23:27 >> It literally harvests human corrections
+23:30 from casual chat and uses them to patch
+23:33 the AI's playbook in real time.
+23:35 >> It perfectly closes the loop. It ensures
+23:37 that the massive AI infrastructure is
+23:39 constantly learning from the inevitable
+23:41 messy edge cases that slip through the
+23:43 cracks of day-to-day business.
+23:45 >> So, synthesizing this entire journey,
+23:48 pointing an LLM at a messy data
+23:50 warehouse is a guaranteed recipe for
+23:52 failure.
+23:53 >> 100%.
+23:54 >> just plug and play. You have to actively
+23:56 attack the failure modes. You have to
+23:58 collapse the ambiguity by forcing the AI
+24:01 to use tightly governed single source of
+24:03 truth answers. You have to solve the
+24:04 retrieval problem by giving the AI
+24:06 procedural skills, so it knows exactly
+24:08 where to look.
+24:08 >> Right.
+24:09 >> And you have to relentlessly fight
+24:10 staleness by locking your documentation
+24:12 and your data models together.
+24:14 >> This raises an important question for
+24:16 you listening right now.
+24:18 Look closely at your own organization's
+24:19 workflows and data culture.
+24:22 Are your executives treating AI as a
+24:24 magic wand that is going to miraculously
+24:27 sort through years of undocumented
+24:29 chaotic data?
+24:31 >> A lot of them are.
+24:32 >> Or is the organization actually willing
+24:34 to do the hard, unglamorous, manual work
+24:36 of providing the strict governance and
+24:38 explicit context that an AI actually
+24:41 needs to function?
+24:42 >> It is a massive commitment of
+24:44 engineering hours and political capital
+24:47 to build that infrastructure.
+24:48 >> It really is.
+24:49 >> And that leads to a final, really
+24:51 provocative thought drawn from the
+24:53 getting started section of the Anthropic
+24:55 text. They point out that AI models
+24:57 themselves are progressing at an
+24:58 unbelievably rapid pace.
+24:59 >> Right, they're getting smarter every
+25:00 month.
+25:01 >> Because of that, some engineering teams
+25:03 might actually choose to hold off on
+25:05 building all this complex
+25:06 infrastructure, the routing skills, the
+25:08 CI hooks, the semantic layers, and just
+25:11 wait.
+25:11 >> They might choose to wait for the core
+25:12 models to simply get smarter.
+25:15 To possess enough innate reasoning power
+25:17 to bridge those gaps and navigate the
+25:20 hoarder's house without needing a
+25:21 meticulously drawn map.
+25:23 >> Right. So, in your own organization,
+25:27 is it better to invest heavily in robust
+25:29 data infrastructure for the AI of today,
+25:31 or do you hold on to your budget and
+25:33 gamble that the AI of tomorrow will be
+25:35 natively smart enough to untangle your
+25:37 messy data on its own?
+25:38 >> It is a massive strategic bet on the
+25:40 future of technology.
+25:41 >> It is the defining question for data
+25:43 teams over the next few years. Thank you
+25:45 so much for joining us on this deep dive
+25:46 into the realities of AI analytics. We
+25:49 hope it helps you clear out some of the
+25:50 clutter in your own data houses. Until
+25:52 next time.
+25:54 >> [music]

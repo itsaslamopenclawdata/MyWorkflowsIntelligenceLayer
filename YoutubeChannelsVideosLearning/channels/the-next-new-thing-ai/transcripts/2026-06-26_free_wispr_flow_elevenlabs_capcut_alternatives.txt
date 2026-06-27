@@ -1,0 +1,1182 @@
+Title: Free Wispr Flow, ElevenLabs & CapCut alternatives + more GitHub hits
+Channel: The Next New Thing
+Channel ID: UCNZEktrsM5oJZ-MK4jKPMOQ
+Video ID: 3Cni6_JubQk
+Published: 20260626
+Duration: 39:53 (2393s)
+URL: https://youtube.com/watch?v=3Cni6_JubQk
+Fetched: 2026-06-27
+Status: None
+
+--- TRANSCRIPT ---
+
+0:00 I got a Whisper Flow alternative that's
+0:02 free, self-hosted, and super fast.
+0:04 Coming up, I've got an AI tool that with
+0:06 one prompt will create a beautiful video
+0:08 for you with no AI slop, I guarantee it.
+0:12 And I'm going to show you a tool that
+0:13 will clone your voice so free your mom
+0:15 won't even know it's not real. All that
+0:17 and so much more coming up. Presented by
+0:19 Zapier, the AI automation company. All
+0:22 right, Adam. People freaking love this
+0:24 thing. They're actually using the repos
+0:26 or they're learning about how to build
+0:27 with them. And so let's teach them what
+0:29 the top 10 trending GitHub repos are for
+0:31 this week. Number one, and I like to
+0:33 start with number one, not make people
+0:34 wait till the end of the list to get to
+0:36 it. Number one is open montage. Here it
+0:39 is. You describe a video in plain
+0:41 language. And your coding agent will
+0:43 research it. We'll script it. We'll edit
+0:45 it. We'll render the whole thing.
+0:47 Usually I like to click directly into
+0:49 the GitHub and show you around so that I
+0:52 can get your feedback. But I actually
+0:53 want to show you what this looks like
+0:55 first and then let's get your feedback.
+0:56 Here is
+0:58 a YouTube video showing what it looks
+1:01 like in the end. Look at this. Really
+1:02 nice, right? I'll show you the prompt in
+1:04 a moment. I'm not going to play the
+1:07 whole video cuz this thing just goes on
+1:08 and on and on, but it's like nice. It's
+1:11 dramatic. It doesn't look like it's AI
+1:13 generated. It doesn't feel cheesy. Look
+1:16 at this. It merges well together. Here's
+1:18 the prompt that he used to create it.
+1:20 >> And this is actually without any of the
+1:22 video API keys. So, which is awesome. So
+1:26 um once you run claw code and put your
+1:28 prompt inside cloud and then you can see
+1:30 that after uh running the prompt for
+1:32 example we're making a 75 second
+1:34 documentary mountage about city life in
+1:36 the ring at night. So once everything
+1:38 >> that's it it's like two sentences that
+1:41 he has in there. Are you able to hear
+1:42 him talk by the way Adam?
+1:43 >> Yeah I am. Yeah.
+1:44 >> Excellent. Two sentences he gets the
+1:46 whole thing. It's done on his computer.
+1:48 He specifically wants no AI generated
+1:50 images. He wants real footage and he got
+1:52 it. What do you think about this one?
+1:55 >> I mean, that explains why it doesn't
+1:56 look AI generated because it's it's all
+1:58 it's like stock footage, right? Like,
+2:00 it's not AI generated. It's just cutting
+2:02 that together. I mean, I think that's
+2:04 interesting for a dramatic clip of rain
+2:07 falling with cool music. But, but I also
+2:09 think it's it's like, why would I use
+2:11 this? Andrew, you've used a lot of these
+2:13 tools. Why would I use this instead of
+2:14 Dcript or Cap Cut or something like
+2:16 that? What what gap does this fill?
+2:19 >> Uh, Cap Cut does have some of these
+2:21 features in it. Dcript is having some of
+2:23 these fe features in it. Neither one of
+2:24 them is as fully baked as this. And then
+2:26 also, Adam, what I'm seeing is a lot of
+2:28 people are using cloud code to create
+2:30 videos, whether it's it's edit their
+2:32 videos of themselves, and a lot of them
+2:34 are using like text over their screen or
+2:36 images, but they're not using B-roll or
+2:38 they just want just standard B-roll and
+2:42 um and even 11 Labs voices. And what
+2:44 this does,
+2:44 >> you know, Andrew, I think I'm I'm
+2:45 frustrated in like Dcript and Cap Cut.
+2:48 I'm usually frustrated by the
+2:49 experience. you know, they've built
+2:50 these nice interfaces, they've built AI
+2:53 into them, but they're still very
+2:54 limited. And when I use cloud code, I
+2:56 don't feel limited by anything. So, I
+2:58 actually have started to prefer tools
+3:00 like this that plug into cloud code and
+3:03 let me combine tools and use part of
+3:06 this tool, part of that tool, and now
+3:08 I'm not limited to this like one editor
+3:10 experience that, oh, it doesn't have
+3:12 that one little feature I needed to
+3:13 finish the video. Cloud code is like,
+3:15 "Oh, write me a little script that can
+3:17 build that tool that I want really
+3:19 quickly." And it says, "Great, I I'll do
+3:21 that." So, I I love these because they
+3:22 supercharge kind of the Cloud Code
+3:24 experience by not requiring that you
+3:27 have to rebuild this stuff from scratch.
+3:29 They've done a lot of the work. Uh, but
+3:30 then it's still flexible in a way where
+3:32 I could build anything that I could
+3:34 possibly dream of.
+3:35 >> More and more of my friends are using
+3:36 Claude Code to edit their videos. Um, I
+3:39 like it. I think this is really
+3:41 interesting. No wonder it's number one.
+3:42 It works well. I should also say that he
+3:45 specifically wanted it all on his
+3:46 desktop and he didn't want to pay for
+3:47 API keys, but you can if you decide that
+3:49 you do want to have external tools, if
+3:51 you do want to have AI generated images,
+3:53 this thing does it. It's very robust.
+3:55 It's a really good uh experience and no
+3:58 wonder it's number one for this week.
+3:59 Let's go on. What's number two? Number
+4:01 two is codebase memory MCP.
+4:04 Boy, this report is getting longer and
+4:06 longer because I also wanted all these
+4:08 links in here. I wanted the Reddit cut.
+4:10 Um, we'll have a link to the report
+4:12 below. I obviously can't anymore read
+4:13 everything that uh live. Um, but what do
+4:17 you think of this? This this person by
+4:19 the way from on Reddit. Uh, this is
+4:21 Andrew O. Uh, codebased memory MCP
+4:24 review. 99% token cut for code agents.
+4:27 Been running coding agents on a few
+4:29 repos lately and kept watching them burn
+4:30 through tokens just to answer questions
+4:32 like who calls this function or what's
+4:34 the impact of changing X? Got annoying
+4:36 fast. Found this tool. That's what he's
+4:38 using it for. What do you think?
+4:40 >> Yeah, I mean these are awesome. This is
+4:42 like the AI version of the the LSP tools
+4:45 coders have used for a really long time,
+4:47 which is like how do you give your
+4:49 coding environment access and
+4:51 understanding of even a very large uh
+4:54 code base? There's a lot of files
+4:56 different places and an AI is very happy
+4:58 to just use a hammer and change
+5:00 something and not realize it broke
+5:01 something else. It's a tool like this or
+5:03 an LSP that that lets the agent know,
+5:07 oo, I need to look at this. I need to
+5:08 consider these things. And honestly, the
+5:11 the idea of coupling memory with it is
+5:14 something that that to me is very
+5:15 exciting because I struggle if I'm
+5:17 working on five projects at a time. I
+5:19 even struggle to remember, oh, I need to
+5:21 remind this agent to look at this file
+5:23 and where was that function and how do I
+5:26 want to change this feature? I I forget.
+5:28 And man, I'm I'm exhausted a lot of the
+5:30 the time now. Like I'm a I'm a dad. like
+5:32 I I've got kids like and I these things
+5:35 are are really powerful when they couple
+5:38 these kind of well-built tools like an
+5:40 LSP with memory and then they give they
+5:43 give access to the those things you know
+5:45 through MCP which is the agent's
+5:47 favorite way
+5:49 >> for my research I I've been adding these
+5:51 so what to just remind me to tell the
+5:53 audience why it matters here's the so
+5:55 what of this it makes an AI coding agent
+5:57 smarter and cheaper on big code bases it
+6:00 stops
+6:00 >> cheaper is a big is a big part of that.
+6:03 >> Um, all right, Adam. As you know, we've
+6:06 been getting a bigger and more
+6:07 passionate audience. It's time for us to
+6:10 activate them. I need your help. This
+6:12 man is wanted. Matt Van Horn, he is a
+6:15 creator we've talked about before. He's
+6:16 got two projects here on GitHub. One of
+6:19 them actually trended and made it into
+6:20 our list. One did not, but is still
+6:22 good. And I want to have him on here to
+6:24 talk about them. He is ignoring me, but
+6:26 he's a nice guy and I'm sure that he's
+6:28 getting a lot of people who are reaching
+6:29 out to him, so I'm not blaming him. But
+6:31 if anyone out there knows him and wants
+6:33 to support the show here, reach out to
+6:34 him. And if you don't know him, reach
+6:35 out to him on X. And if you don't know
+6:37 him and don't want to reach out to him
+6:38 on X, maybe you can throw me a like and
+6:39 a subscribe. I'm really trying to build
+6:41 this up. And let me let me also just to
+6:43 show you what a nice guy he is beyond
+6:45 building this. This is an experience,
+6:46 Adam, I think you could relate to. Was
+6:47 this from this morning? Yeah. No, from
+6:49 yesterday. He goes, "I love open source.
+6:52 Freddy Monttero, soccer star player from
+6:54 Columbia and Seattle Sounders number two
+6:56 all-time goalcorer submitted two PRs,
+6:59 two pull requests, both merged into
+7:02 slash30 days. Now let's listen to this.
+7:04 This is where the story I think is so
+7:05 relatable to you. He texted me last
+7:08 week, quote, "Can I get breakfast and
+7:10 stop by your office? You helped me out
+7:12 to set up Claude Code."
+7:15 >> Matt did and now he's shipping PRs.
+7:17 Isn't this like your experience where
+7:18 you got me excited and then I started
+7:20 building and now I'm coming back in and
+7:21 showing you what I did?
+7:22 >> Yeah, that's amazing.
+7:23 >> This is the beauty. All right, guys. If
+7:25 you're out there, help me get Matt. And
+7:27 if you're not,
+7:28 >> Matt, we know you're out there. We want
+7:29 to talk to you.
+7:30 >> Yeah,
+7:32 >> maybe we should submit some uh some PRs
+7:35 to to to get on his radar.
+7:37 >> That might be the next step. Okay. Boy,
+7:39 this really is going on too long on the
+7:40 page. All right. Um, this one is from
+7:43 Google Research. It's Times FM. it it
+7:47 you feed it a sequence of numbers like
+7:49 what your sales data is, what the demand
+7:50 is, what the traffic, how your ads are
+7:52 performing, anything. And this is what
+7:54 got controversy on hacker news and I'll
+7:55 show it in a moment. Then it predicts
+7:57 what comes next. It does not need to be
+7:59 trained to do this. I'm going to show
+8:01 you the GitHub repo right here. Then
+8:02 I'll show you the controversy on hacker
+8:04 news. People were shocked shocked that
+8:07 this actually can work and didn't
+8:08 believe it. But let's take a look at it.
+8:11 Um,
+8:14 I somehow find the concept of a general
+8:16 time series model strange. How can the
+8:18 same model predict egg prices in Italy
+8:19 and global inflation in a in a reliable
+8:22 way? And how would you even use this
+8:25 model given that there are no
+8:26 explanations that help you trust where
+8:28 the prediction comes from and people
+8:31 came in there and started explaining it.
+8:32 What what is not generally understood is
+8:34 that these models don't predict egg
+8:35 prices or inflation in Italy. They
+8:37 decompose a time series of trends,
+8:40 seasonality and residuals. That's why
+8:42 they're act that's what that's what
+8:44 they're actually modeling. They cannot
+8:46 predict wars in the Middle East uh
+8:48 influencing inflation unless there is a
+8:49 seasonal pattern. Um and then people say
+8:52 well actually seasonal pattern for wars
+8:54 in the Middle East maybe. Here's a
+8:55 here's a real use case that will show
+8:57 everybody how you might be able to
+8:59 incorporate this by a Googler. Uh he
+9:01 says,"I when I worked on Google ads, we
+9:04 used time series forecasting to compute
+9:06 the odds of an ad campaign reaching its
+9:09 goal to tell users how likely they were
+9:11 to hit their goals." See, a ton of
+9:13 unsophisticated advertisers would just
+9:15 draw a line from zero to the number they
+9:17 were at today. Projected then they would
+9:19 project that line to the end of the
+9:21 month and they would consider that the
+9:22 forecast of the amount of conversions
+9:24 and spend that they were going to hit.
+9:25 This of course doesn't take into account
+9:27 various seasonalities, the time of day,
+9:29 time of year, etc. and it gives them a
+9:31 poor forecast. That's what this is for.
+9:35 >> Andrew, Andrew, I have a I have a
+9:37 confession to make.
+9:38 >> Yes, sir. I
+9:38 >> I've been guilty of this. We've been
+9:40 guilty of this.
+9:42 >> You know, it's the only thing you can do
+9:43 reasonably in a spreadsheet. You look at
+9:45 the number and you know it's not right,
+9:47 but you're like, "Ah, it's about the
+9:48 best I can do in in Google Sheets if
+9:50 that's where we're, you know,
+9:51 reporting." So, sorry, guilty. That's
+9:54 that's me. I'm I'm I'm very excited to
+9:57 to see this coming from them though
+9:58 because we've got all these language
+10:00 models and I've thought for a long time
+10:03 now you know old AI AI's been around for
+10:05 for decades and we've been using it for
+10:07 decades. Facebook is AI all ads are AI
+10:10 uh you know the model underneath but
+10:12 it's machine learning and it's numerical
+10:14 AI and this new AI is all text AI and
+10:18 text AI is not very good at math. It's
+10:20 good at storytelling. It's good at
+10:21 understanding concepts. And so I've been
+10:23 waiting for these two things to combine
+10:26 with each other to say, well, how can I
+10:28 feed whatever data I want without having
+10:30 to learn how to train my own machine
+10:32 learning model because today, if you
+10:34 want to do machine learning and you want
+10:36 to do your own forecasting, you're going
+10:37 to need a data scientist. You're going
+10:39 to need a data engineer. That's still
+10:40 just as complicated as it was 10 years
+10:42 ago. So, I'm really excited to see this
+10:44 stuff coming out of Google, and I'm
+10:46 hoping that this is the first of like
+10:48 many reports, many uh research articles
+10:51 that they put out, and that this will be
+10:53 a wave of numerical AI kind of for the
+10:57 masses, for you and me.
+10:58 >> I love this. I love that we could
+11:00 incorporate it. I love that we have
+11:01 access to it. Thank you, Google. All
+11:03 right, that's the third most popular or
+11:05 third trending repo of the week
+11:06 according to GitHub. I want to do a
+11:08 quick mention here of Zapier MCP. Adam,
+11:10 I got to I got to tell you a quick
+11:12 story. This week on X, there was this
+11:14 trending story by a Googler who goes, "I
+11:15 was fired for giving people access to
+11:20 Google Workspace using CLI because what
+11:23 he wanted to do was say all these people
+11:24 like Android are using Hermes agent,
+11:26 Open Claw, etc. I want to give them
+11:27 access so that their agents get access
+11:29 to all these tools." I message him and
+11:32 now that we're getting a little bit of
+11:32 clout, plus he's a nice guy. I'm a nice
+11:34 guy. I say, "Could you please come on
+11:36 and do do a video with me showing me how
+11:38 this works?" He comes on with me and he
+11:39 goes, "Andrew, I want to show you, but
+11:41 my setup is like in between. I'm now re
+11:43 redoing my whole system here. I can show
+11:45 you, but not that much." I said, "How
+11:46 about if I show if I connect my Hermes
+11:48 agent to all these tools because I want
+11:50 to give my Hermes agent email, calendar,
+11:52 and so on." He goes, "Yeah,
+11:53 >> yeah,
+11:54 >> dude. The guy who built it gets on on a
+11:57 call with me. We spend over an hour
+11:59 trying to connect it with Google Cloud."
+12:01 And everyone who I talk to about Google
+12:03 Cloud goes, "Oh, I hate that thing. We
+12:04 had to do that. We had to do so many
+12:06 things." by the end of over an hour
+12:08 working with the guy who created this
+12:09 who everyone was heralding for for
+12:11 adding more access to agents so that
+12:13 they could use Gmail calendar asauna all
+12:15 that I mean Google uh Gmail calendar
+12:18 etc.
+12:18 >> I couldn't make it work.
+12:21 I go oh but now I really want this. So,
+12:23 you know what I did? I go to Zapier MCP,
+12:25 zapier.com/mcp,
+12:27 no exaggeration, I connect it in and I
+12:30 say not only give it Gmail, Google
+12:32 calendar, but also uh I give it access
+12:35 to I don't use a sauna to notion, etc.
+12:37 It happened in less than freaking 5
+12:39 minutes. Now, Adam, you might say to me,
+12:41 couldn't you just tell Hermes to connect
+12:42 to it directly? Yes and no. First of
+12:45 all, it's not so simple to connect to it
+12:46 directly. Number one, I don't want to
+12:48 use the browser. Number two, and number
+12:49 three, freaking Hermes agent goes stupid
+12:52 sometimes, and I don't want it to go
+12:54 stupid on apps that matter to me and my
+12:56 team. That's why I use Zapier MCP. If
+12:58 you're out there and you haven't tried
+12:59 it, zapier.com/mppcp.
+13:02 I went long with this because it's
+13:03 coming from a place of passion. If
+13:04 you're building, give your tools access
+13:07 to all your other tools that you have
+13:10 and do it in a reliable way that won't
+13:12 just take for freaking ever. All right,
+13:14 let's go on. Since we got Zapier, we are
+13:16 now going to give three special mentions
+13:19 to uh repos that are not trending, but
+13:22 I'm noticing people talking to them.
+13:23 We're going to break into our top 10
+13:25 list with these three. This is peered.
+13:27 It's an AI agent that lives in your
+13:30 browser. No backend, no telemetry, no
+13:32 going anywhere. Here's what it does.
+13:34 Many of us have used uh Gemini in the
+13:37 Chrome browser where you get on the
+13:39 right side, you start asking questions.
+13:41 What if you don't want to use Gemini?
+13:42 What if you want to use a different
+13:43 model? What if you want to use your own
+13:45 self-hosted model? That's what this guy
+13:47 created. It was on Hacker News and I
+13:49 thought we'd show it. What do you think
+13:50 of this one?
+13:52 >> I think it's awesome. I think this is
+13:54 this is one more of those bridges that
+13:56 I'm excited about. Local AI models
+13:59 today. They're okay, but they're
+14:01 they're, you know, eight months behind.
+14:03 The best open source models are about
+14:04 eight months behind the frontier. And
+14:06 today's Frontier models are great. So in
+14:08 eight months,
+14:09 >> that's true.
+14:10 >> It's I think it's true.
+14:11 >> Really?
+14:12 >> The GLM the Oh, yeah. I mean 5.2
+14:15 >> you I've been seeing benchmarks that say
+14:17 that it's very close to Opus 48 that
+14:19 it's only beaten by Fable.
+14:21 >> Yeah, they're close ways. They're
+14:22 farther off in in others. I mean, they
+14:24 they kind of they choose the thing they
+14:26 want to compete on, but let's let's say
+14:28 they're at most eight months behind,
+14:30 right? That's that's my point is that
+14:32 they're very close to the performance of
+14:34 it. And as those are models or that
+14:37 you're capable of running on your, you
+14:38 know, laptop or maybe you have a Mac
+14:41 Mini or something, well, shoot, now I
+14:43 can start to run tools like this. The
+14:45 data stays locally on my computer or in
+14:47 my network. It's a lot faster because
+14:49 it's all local and I get the control of
+14:52 what model do I want when and OpenAI
+14:55 doesn't get my data. Enthropic doesn't
+14:56 get my data. Google doesn't get my data.
+14:58 I'm pretty happy about those things. I'm
+15:00 I'm one of the many like Duck.Go go
+15:02 users because years ago I was like, you
+15:04 know, I don't love going to google.com
+15:06 all the time just telling them about my
+15:07 life and so I switched to duck.go. This
+15:10 this thing is like right up my alley
+15:11 too.
+15:12 >> I switched to GLM 5.2. I love it.
+15:15 Haven't looked back. Inexpensive. It's
+15:17 fantastic. Folks in the comments tell me
+15:20 whether Adam is right that they are
+15:21 eight months behind or whether I am
+15:23 right that they are neck andneck. I'd
+15:24 love to hear from you all. Really, some
+15:26 of these people are freaking smart. I
+15:27 mean, if they're watching this, of
+15:28 course they are. Okay, there we go. Next
+15:30 one is fluid voice. This is because a
+15:31 lot of people in the comments said to me
+15:32 that at one point I must have mentioned
+15:34 that I use something other than Whisper
+15:36 Flow. Well, people have been asking
+15:38 about it. This is like the Whisper Flow
+15:42 for free. All you have to do is go to
+15:44 GitHub and get it. Or even if you're not
+15:47 a GitHub person, you can just go to
+15:49 their website like a normal human being,
+15:52 download it, and start using it. Um, and
+15:56 I have another uh version of this later
+15:58 on that we'll talk about, but here's
+16:00 here's from uh Dillip. He goes, "I've
+16:02 dictated almost everything for six
+16:03 months to Whisper Flow, 44,000 words,
+16:06 etc., etc. Top 1.1% of users on
+16:09 Whisperflow. Last week, I tried Fluid
+16:11 Voice, open source, runs local on my
+16:13 Mac, corrects as I speak with no API
+16:15 keys, handles slang better than I
+16:17 expected, cancelled my paid plan." The
+16:19 benefit of having it on your on your
+16:20 computer is not just that if you say any
+16:22 random stuff that it won't go into the
+16:24 cloud, which is also a nice benefit.
+16:26 It's also, I find, faster when it's on
+16:28 your computer than if it has to go to
+16:29 the cloud. Doesn't use a bandwidth.
+16:31 >> Good find.
+16:33 >> Oh my god, I love it. I I'm a Super
+16:35 Whisper paying subscriber and today when
+16:38 we get off this call, I'm going to go
+16:40 try this and I might cancel my Super
+16:42 Whisper subscription, too.
+16:43 >> Where do they get the I can cancel it?
+16:45 >> Whisper Flow 15 bucks a month. I find it
+16:48 to be stupid. It's stupid. And with all
+16:50 the competition, it's because people
+16:52 Anyway, folks, try it out. Let me know
+16:53 what you think of it. Let's go on to
+16:56 >> Time out. We recorded about an hour ago
+16:58 and Adam tried Fluid Voice. Check out
+17:01 his response. He at first thought he had
+17:03 an issue, but he goes, "Never mind. It's
+17:04 working. It's great. I'm canceling my
+17:06 other subscription." All right. So,
+17:08 there's another endorsement for Fluid
+17:10 Voice, and I'm glad that we get to do
+17:11 these sessions so he can try it out.
+17:13 Back to the program. One more honorable
+17:16 mention. This is Bird Claw from Peter
+17:19 Steinberger, the creator of OpenClaw.
+17:22 Here is the project website. You can see
+17:24 here how easy it is to set up. I want
+17:26 you to um I should also click over to
+17:29 GitHub. Does it help that I'm actually
+17:30 showing the GitHub? Uh not for this one,
+17:32 the repo. Um I will show you this tweet
+17:35 from him. I find this to actually show
+17:37 the clarity and the benefit of it. What
+17:39 we're talking about is an easier way to
+17:41 interact with Twitter that organizes
+17:43 here this screenshot that organizes the
+17:45 things that matter to you in the order
+17:46 that you want and makes it a lot
+17:50 let's say a lot less distracting and a
+17:52 lot less uh Twitter centric and more
+17:55 youentric.
+17:57 >> Cool.
+17:58 >> That is cool. It it pulls the the topics
+18:01 and things that I'm interested in and
+18:02 like presents me that information but
+18:04 just not without me having to go to
+18:05 x.com. Is that what you're telling me?
+18:07 >> Yeah. without you having to use X.com
+18:09 like a like a regular human being. Yes,
+18:12 >> I think it's
+18:13 >> I think it is kind of cool. People have
+18:15 been talking about how great this is in
+18:16 my little nerd circle. I thought I'd
+18:18 share it with the broader circle. Now,
+18:19 back to our 10 top 10 list. Number four,
+18:22 World Monitor. Listen, there are people
+18:24 who are running big companies, who are
+18:26 paying for data from Palunteer, who have
+18:28 all these dashboards, who are trying to
+18:30 figure out what's going on in world
+18:31 events and how they're impacting them.
+18:33 Or maybe they're just trading stocks, or
+18:34 maybe they're just trying to make money
+18:35 on Poly Market. Well, you don't have to
+18:37 pay for all this. There is a repo on
+18:40 GitHub called World Monitor that puts it
+18:42 all right on your screen. This is the
+18:44 kind of dashboard that you get with wars
+18:46 that are going on or military
+18:48 activities. And I will actually, instead
+18:50 of showing you this, I find the tweet to
+18:53 be really nice. I'm going to show you
+18:54 this kind of creepy video cuz I just
+18:56 freaking love it.
+18:59 I'll just play little bits of it.
+19:04 Hack, cyber, and code. They go directly
+19:07 into Ubuntu,
+19:09 >> start from scratch, go into GitHub,
+19:13 install it. This, of course, will be in
+19:14 the report for those of you who are
+19:16 getting this report. Um, and then you
+19:18 can see here military bases, nuclear
+19:21 sites. You can check off the box on the
+19:23 left to see it.
+19:24 >> I don't know that I want the nuclear
+19:25 site data on my computer. Can I like
+19:27 definitely uncheck that box so that I'm
+19:29 not involved in whatever weird stuff
+19:31 going on there?
+19:34 >> Right. Um, from what I understand, this
+19:37 is so that you can enter the prediction
+19:39 markets, which are now getting so
+19:40 popular, and decide what you're going to
+19:42 to put money on.
+19:44 >> You know, Andrew, something something
+19:45 we've started to talk about, like we've
+19:47 got this, you know, venture studio and
+19:49 we build businesses. Something we've
+19:51 started to mention more lately is as
+19:52 we're evaluating an idea for a business,
+19:55 we say, "Oh, I wonder what the people on
+19:57 Poly Market or call sheet think of
+19:59 this." you know, there's some trend that
+20:01 we think is going to happen and like
+20:03 it's a guess and we can look at news
+20:05 articles and like wait a minute other
+20:07 people are already betting on this trend
+20:09 and we can use that and we are using it
+20:11 now as a great source of information for
+20:14 well what does everyone else think is
+20:15 going to happen and actually like as I'm
+20:17 looking at this like well man that maybe
+20:20 I could put all of our like thesis ideas
+20:21 in here and have that help scrape news
+20:25 but also KHI poly market and others to
+20:27 get these to get these like analytical
+20:29 signals. Uh, you know, I was a little
+20:32 bit distracted by all the militarybased
+20:34 stuff. But but if I could if I could not
+20:36 run the military based stuff and do this
+20:38 other that's pretty interesting.
+20:39 >> No, look at this. Like this is just a
+20:41 screenshot. It's it's a little bit old
+20:42 obviously, but it's like Israeli forces
+20:44 escalated strikes and clashed with
+20:45 Hezbollah in eastern Lebanon resulting
+20:47 in dozens of deaths. This intensifi this
+20:49 intensified conflict marks a significant
+20:51 regional destabilization. You've got
+20:52 Iran theater. Uh you've got live webcams
+20:55 from just anyone who happens to have it
+20:57 on in Tel Aviv in the in different parts
+20:59 of the Middle East. This is like just
+21:01 looking at one little event here.
+21:04 They've accumulated everything here
+21:06 together. Um I shouldn't say one little
+21:07 event in the in the the with with
+21:10 everything that's going on in the world.
+21:11 This is one aspect of it, but man. Okay,
+21:13 let's move on to the next one. Um
+21:15 obviously if you're using that you and
+21:17 you don't want to tell me, I understand.
+21:19 Um, let's move on to pen pot.
+21:23 This is like I love this line that I
+21:25 came up with or at least I loved it last
+21:27 night at 11 o'clock as I was writing it.
+21:29 Stop paying money to rent your designs
+21:31 and then figure out how to get them
+21:33 coded. This is me trying to establish
+21:35 why this is the Figma alternative that
+21:37 is self-hosted. And the reason for that
+21:39 is I saw a lot of people who were using
+21:41 this complain that with Figma you have
+21:43 to keep paying them. you don't really
+21:45 own your designs and then getting them
+21:47 coded up is tough versus penpop which is
+21:52 open- source. It's an alternative and it
+21:55 makes it much easier to turn what you've
+21:57 got into code. In fact, where's the
+21:59 where's the line actually that I got
+22:00 from them? Free self-hosted Figma
+22:02 alternative and every design comes out
+22:04 as real code. And this has done so well
+22:07 that they've actually raised $20 million
+22:11 um
+22:12 >> partially because oh look led by
+22:17 partially Figma's exco Eric Whitman and
+22:20 other angels and partially it's because
+22:22 when Figma just blew up people said well
+22:24 what's the what's another alternative?
+22:26 This was taking off.
+22:29 >> I mean this is awesome. I I love, you
+22:32 know, I you and I have both tried the
+22:34 Claude uh Claude design tool that they
+22:38 put out a month or or so ago now, and we
+22:41 were both, I think, a little bit
+22:42 underwhelmed by the depth and
+22:44 capability. And, you know, I don't know
+22:47 about you, but I ran out of credit in
+22:49 about 10 minutes of of it was like, "Oh,
+22:51 well, I guess I'll try again next week."
+22:53 And so being able to run this stuff
+22:55 locally, have it connect to my AI
+22:57 locally, maybe use a local model to do
+22:58 it, but honestly, I'm probably still
+23:00 going to connect it to GPT55 or
+23:02 something, uh, that's pretty awesome.
+23:04 And I'm a I'm an avid Figma user, have
+23:06 been for a long time. It's really
+23:08 powerful to to prototype, but yeah, it
+23:11 kind of feels like a walled garden now.
+23:13 So this is a this is a pretty exciting
+23:15 thing to to try.
+23:16 >> I don't understand the name. Do you know
+23:18 where the name PenPot?
+23:20 >> Penpot? No. Um, this is less LLM
+23:23 building and more human beings building.
+23:26 >> Yeah, but it connects. I saw in there
+23:28 there's an MCP server, so I can build in
+23:30 here. It's like replacing the the UI of
+23:33 Figma, which I love. But then I can like
+23:35 connect my agent to it through MCP to
+23:38 presumably vacuum out all of that
+23:39 information, help code and and stuff
+23:41 like that, right? Like, yeah,
+23:42 >> that's
+23:43 >> Oh, and it can go back and forth. Oh,
+23:46 that's that's really cool because a lot
+23:47 of the Figma stuff is kind of get it out
+23:49 of Figma, but it's hard to use AI or
+23:51 like cloud code to create designs in
+23:53 Figma. If I could use AI to create
+23:55 designs in penpot, man, I'm I'm really
+23:57 sold then. I'm I'm excited. I'm selling
+23:59 myself on this thing.
+24:02 >> Oh, come on. Hacker News is Hacker News
+24:04 is blocking me because I have an agent
+24:06 go and search everything.
+24:08 >> This should work. It's but but honestly
+24:11 the I do I do like controversy on hacker
+24:14 news because I find that it is
+24:16 insightful. Um I don't think the
+24:18 controversy here is really that big.
+24:20 Self-host it or use it. Move on. Okay.
+24:23 Voice box. Remember earlier I said that
+24:24 there is another free dictation tool
+24:27 taking on Whisper Flow that's doing
+24:28 well. This is it. It's actually Voice
+24:30 Box. That's not the number one thing
+24:32 that they do, but if you look at their
+24:33 website, you you will see that they also
+24:35 are doing it. The number one thing that
+24:37 they do though is they will clone
+24:40 voices. They will take text and turn it
+24:42 into beautiful, easy to edit voices. I
+24:45 think they've just been doing a
+24:46 phenomenal phenomenal job here. This
+24:49 just keeps doing well. I actually, you
+24:51 know what? Um I I don't I don't like
+24:54 this. You don't have to pay for 11 Labs
+24:56 and Whislow subscription anymore. You
+24:58 never have to. This is this is just as
+25:01 good, but it's more than that. It's the
+25:02 ability to build it in, take control.
+25:05 Let me do a quick video here for you to
+25:06 show you what it looks like and then
+25:07 I'll take your your feedback on it. This
+25:09 is what my real voice sounds like. And
+25:12 this is my AI cloned voice. Hi, this is
+25:15 Kevin's AI voice. You probably can't
+25:17 tell the difference. I was able to clone
+25:19 it in under 30 seconds. I'll show you
+25:21 how to clone any voice on your PC with
+25:24 no subscriptions and no complicated
+25:26 setup. All you need is a short voice
+25:28 sample and you could generate new speed.
+25:30 >> It's fantastic. Um,
+25:32 >> cool.
+25:33 >> What do you What do you think of this
+25:34 one? any any thoughts,
+25:36 >> man? I love the local trend. Uh, you
+25:38 know, and and voice does seem to be one
+25:40 of those things where the models aren't
+25:42 that big. I you might not have been
+25:43 paying attention, but I've been watching
+25:45 like as we look at some of these tools,
+25:48 uh, how big like the peered one for
+25:50 example, or not peered, what what was
+25:52 the what was the other voice one we
+25:53 talked about here?
+25:54 >> Uh, man, I forgot.
+25:56 >> Fluid voice. I noticed that if you
+25:58 download Fluid voice, it's a 3 and a
+26:00 half gigabyte download. Like, oh my god,
+26:02 that's a lot of space. Well, but it's
+26:04 because they have the whole voice model
+26:06 built into the app and that's why it's
+26:08 so fast. That's why it's free. And then
+26:10 because it's local, you get all this
+26:11 control. And so these voice I think is a
+26:13 is a great beach head into bringing, you
+26:16 know, whatever you're paying for
+26:17 service-wise online. Like I would
+26:19 disagree, Andrew. I think you probably
+26:20 could cancel 11 Labs. You probably could
+26:22 cancel Whisper Flow and replace it with
+26:25 uh, you know, with either of the two
+26:27 tools that we've talked about today.
+26:29 >> Okay, fair point. I like the push back
+26:31 on it. Um, by the way, I've used AI
+26:35 generated voices here because you know
+26:37 me, Adam, I flub words all the freaking
+26:39 time and uh I mean we were looking
+26:42 earlier at the repos before we got
+26:43 started and as I looked at the name I
+26:46 mispronounced it or like reversed it.
+26:48 Anyway, I use it all the time. There's
+26:50 no other way. Otherwise, what am I going
+26:51 to do? Go and re-record? The
+26:52 re-recording is not going to sound as
+26:53 natural because
+26:55 >> when you use one of these, it kind of
+26:57 matches the rest of what you've put up
+26:59 there.
+27:00 >> That's right.
+27:01 >> Okay. Next,
+27:03 this is just a repeat of last week
+27:05 system prompt leaks. You had a take on
+27:08 this, which is first of all, let me let
+27:10 me just do this. I love these things.
+27:12 Look,
+27:13 >> somebody leaked the system prompts of
+27:15 cursor, clawed code, lovable, and 30
+27:19 plus AI coding.
+27:20 >> They really make it sound like it's this
+27:22 nefarious hacker who saved the day. It's
+27:25 It's not exactly that as you explained.
+27:27 Would you do that again?
+27:28 >> Yeah, I mean, somebody leaked them.
+27:30 That's true. Like in the Anthropic case,
+27:32 Anthropic leaked them uh live on their
+27:36 blog site. You know, it's not it's not
+27:39 so secret. Uh but I would love a you
+27:41 know, I'm a sucker for for a dramatic
+27:43 music backing track. Um yeah, all these
+27:46 guys, the the system prompt is the set
+27:49 of instructions that the model provider
+27:51 gives to the model for all the tools
+27:53 that you're familiar with using. Claude
+27:55 Code has a system prompt and it goes
+27:57 something like you are Claude Code. you
+28:00 are a helpful coding assistant. You work
+28:02 in this way. You don't work in this way.
+28:04 And every one of these tools that you've
+28:05 used has a system prompt. And and you
+28:08 know the the leak is not there's no
+28:10 security risk here. There's no nothing.
+28:12 The the way that I look at these is I
+28:14 build a lot of AI tools and what I've
+28:16 got in front of me are perfect examples
+28:20 from the best people in the world on how
+28:22 to write a system prompt. So I'm looking
+28:24 at the template. I'm looking at the
+28:26 style, the formatting. I'm looking at oh
+28:28 for opus what did they include in the
+28:30 system prompt and what did I think they
+28:32 would tell it that they didn't tell it
+28:34 because you know oversharing with the
+28:36 system prompt can also lead a a model
+28:38 arry. So I'm looking at these and when
+28:40 I'm writing a new system prompt Andrew
+28:42 I'm pointing clawed code at a repository
+28:45 like this and saying hey go and learn
+28:46 from this real quick. I want to write a
+28:48 system prompt that you know anthropic
+28:51 would say looks like it's among the best
+28:53 of the best.
+28:54 So what you said is exactly what the
+28:57 Washington Post had said here. Use it to
+28:59 learn how to prompt properly. They also
+29:02 said you can see how they're dealing
+29:05 with things like biases. Like apparently
+29:07 Google has an antibbias thing.
+29:09 >> Um the one thing that's not going to
+29:11 work in the link that I have is this.
+29:13 What they did was they said, "Okay,
+29:15 >> see how with a different system prompt
+29:18 your your uh user prompt changes the
+29:21 results you And the reason it doesn't
+29:22 work is Washington Post is a paid
+29:24 subscription and I wanted everyone who
+29:26 gets this report to have access to
+29:29 everything in here. And so I use the
+29:30 archive.is link for this one. I've been
+29:34 doing stuff like that before with these
+29:35 reports. We've had takedown requests in
+29:37 the past. People saying, "Wait a minute,
+29:38 the Washington Post, you have to pay for
+29:40 it. Make your users pay by linking." Um,
+29:42 if we get it taken down, it's taken
+29:44 down. But for the time that it's up,
+29:45 it's in the description. Feel free to go
+29:47 and grab it and then it's yours. Let's
+29:49 move on to the next one.
+29:52 Uh, we've also talked about this one
+29:54 before. Agent reach. Give your agent the
+29:56 ability to actually read the internet,
+29:58 Twitter, Reddit, YouTube, GitHub by
+30:01 pasting one line. This is something that
+30:03 I incorporate into the work that I am
+30:06 doing here. Um, basically what I did was
+30:08 I gave the this link to claude code. I
+30:10 said, you know how I put this research
+30:12 together? What should we use? I said,
+30:14 well, I think we could use this but not
+30:15 that. Let's keep going. And so that's
+30:18 where that's what uh that's what I ended
+30:20 up doing with this. Really helpful.
+30:22 >> Yeah, it's awesome.
+30:24 >> So some of these some of these like AI
+30:26 scraping tools like the AI browsers and
+30:29 even plugins for your browser, they're
+30:31 really good plugins that bring a sense
+30:35 of like agentic behavior to the human
+30:37 browsing experience. A tool like this
+30:40 kind of flips that on its head and it
+30:42 says, "Well, wait, you know, your agent
+30:44 really doesn't want to use a browser. It
+30:46 doesn't want to have to click all those
+30:48 buttons. It doesn't want to like sit as
+30:49 an extension." This is a way to give the
+30:52 agent direct access to all these sites
+30:55 on the internet. And and they've got
+30:57 built in, you know, there's there's this
+30:59 war of, well, if I'm LinkedIn, I don't
+31:01 want you to scrape me. If I'm Twitter, I
+31:03 don't want you to scrape me. Well, these
+31:05 guys are doing their best to to stay
+31:06 ahead in that war where it's going to
+31:08 give your agent the best tools that work
+31:11 today for scraping LinkedIn posts, for
+31:14 scraping Twitter, for really any website
+31:16 on the internet. But they've got a
+31:18 couple here that that they focus on to
+31:20 make sure that you're not going to get
+31:22 blocked like you just got blocked from
+31:23 hacker news a minute ago. This tool
+31:26 exists to help your agent not get
+31:28 blocked in the same way.
+31:29 >> I guess I'm going to have to use this
+31:30 for hacker news now. Ah. Um, I do I do
+31:34 hate that I have to go through all that.
+31:36 All right. I've got a nice video here,
+31:37 but we've talked about this repo before,
+31:39 so I'll leave it in the report for
+31:40 anyone who wants it. Let's move on.
+31:42 Daily stock analysis, a free AI robot
+31:44 that reads the market for you for your
+31:46 watch list daily, and then it sends you
+31:48 buy, sell, hold, a dashboard for your
+31:50 phones to help you make the right
+31:51 decision.
+31:53 We don't really cover much uh stock
+31:56 information, but I do like that people
+31:58 will go in the past the the geeks used
+32:01 to have spreadsheets with what their
+32:02 stocks were doing. If they got a little
+32:05 bit more sophisticated, they might
+32:06 connect it up to something where they
+32:08 have real-time data. It's not for trying
+32:10 to um time the market. It's for trying
+32:14 to get a better understanding of what
+32:15 you have, the decisions that you make,
+32:17 and so on. And so now these tools are
+32:20 taking that same approach and they're
+32:22 they're making it a lot smarter. Um
+32:24 that's that's where we are with this. I
+32:26 haven't tried it. I'm not I'm not into
+32:28 the stock market, but I want to identify
+32:30 that this is a big trend here. Financial
+32:32 information on GitHub.
+32:35 >> Yeah, I don't have much more to say than
+32:37 that.
+32:38 >> Okay. Uh and finally, number 10,
+32:42 Open Cut. Cap Cut is great, but I have
+32:45 to tell you the one thing that I do
+32:46 freak out about is giving Cap Cut, the
+32:50 video editor, access to my computer. In
+32:52 fact, I have it isolated somehow. And
+32:55 it's because it does some crazy freaking
+32:56 stuff. I don't like that when I use uh
+32:59 when I use, what's the name of that
+33:01 company? When I use that company
+33:03 software, um, Bite Dance, that it copies
+33:06 my clipboard. What do you need the
+33:07 clipboard copying? I don't like what
+33:09 it's doing on my computer. I don't like
+33:11 how I get to download it from the app
+33:12 store where I feel safer downloading Cap
+33:14 Cut and then it sends me for the update
+33:17 to the web and I was like no the whole
+33:19 idea of using the app store was to get
+33:20 around that. So I do understand that I
+33:23 don't think that I use all their
+33:24 features and so for the simplicity of
+33:26 editing I understand that this cap cut
+33:28 alternative called open cut is uh it's
+33:31 easier uh sorry it's it's desktop and
+33:35 it's in your control and you can install
+33:36 it. I do want to give people just one
+33:39 big note about this one. It's not great.
+33:42 It's not a great video editing
+33:44 experience. It doesn't have all the
+33:46 features uh that Cap Cut has. It has had
+33:50 some problems where it's a little bit
+33:52 weirdly buggy. I don't think this is the
+33:55 right direction to go in. I think what
+33:57 you and I were looking at earlier, which
+33:58 is like let Claude Code edit, I think is
+34:00 smarter. Um, so instead of duplicating
+34:03 Cap Cut, I like to see um, open source
+34:07 take it to the next level and do what
+34:08 Cap Cut can't do, you know, go to Cloud
+34:11 Code, build it with my AI agents.
+34:14 >> Yeah, I think that's a good point,
+34:15 Andrew, where where, you know, I said
+34:17 this earlier when we were looking at at
+34:19 at some of the other tools. It's like,
+34:21 well, my problem with something like
+34:24 Dcript or Cap Cut is that I'm limited by
+34:27 a kind of crummy UI. The AI is amazing.
+34:30 I mean, the generative capability is
+34:31 amazing, but sometimes I'm limited by
+34:33 the UI or just they don't have a button
+34:35 where I need a button to do something.
+34:37 And the open- source version of Cap Cut
+34:40 is going to suffer from that times 10
+34:42 because it hasn't been around as long.
+34:44 It hasn't had as much testing. And so,
+34:46 the reason to go to to uh Claude Code,
+34:50 Open Code, whatever, and let those
+34:52 things use all these video tools is that
+34:55 you get the flexibility and you can let
+34:57 Claude Code fill in the gaps. And I
+34:59 agree. I I don't think this one is is
+35:01 going to do that. And this video is a
+35:03 hard problem. It's very complex. There's
+35:05 a lot of signal. The files are big. And
+35:07 so they've they've taken a pretty
+35:08 ambitious project on. You know, I I'm
+35:11 I'm excited if they can accomplish it
+35:14 because I would love to use this instead
+35:16 of Cap Cut like you said. Uh but I I
+35:19 think it's a it's an uphill battle and
+35:21 they've got a long way to go.
+35:23 >> They are rewriting it from the ground
+35:25 up. they are going headless so that you
+35:27 don't need that that interface and your
+35:30 AI can use it and see.
+35:31 >> So let's see how it goes. That might be
+35:32 amazing.
+35:33 >> Let me let me tell you something. If you
+35:35 go to new.opencut.app,
+35:38 >> it has been down. It's been it's been
+35:41 down which doesn't give me a good
+35:43 feeling about it. I want them to
+35:45 succeed. Don't get me wrong. Usually,
+35:46 Andrew, if I'm going to build around an
+35:48 app like this and I get a couple bad
+35:49 signals early on, you know, it's
+35:51 unreliable, the website's down, the two
+35:53 things that I go and look at. Go back to
+35:55 the GitHub for me real quick.
+35:57 >> I I want everybody to see this. This is
+35:59 like, you know, I don't want to learn
+36:00 this tool if the tool's going to go
+36:02 away, right? So, number one, scroll all
+36:04 the way down. Who's sponsoring this?
+36:07 >> So, foul.ai. Okay.
+36:09 >> This is a good sponsor to be supported.
+36:11 They they're great at video. Uh
+36:13 >> but but I I I want to see a reliable
+36:16 sponsor, but I also want to see multiple
+36:18 sponsors really because why is FAI
+36:20 sponsoring this? And you know, if in any
+36:22 place where you get one sponsor that's
+36:24 paying all of it, well, they're kind of
+36:26 in control and they're going to make
+36:27 decisions that are best for them. I want
+36:29 to see a couple competitive sponsors
+36:31 that all make sense there. And then the
+36:34 next thing is I scroll all the way up
+36:35 and look at the files here. When were
+36:38 they updated? 5 days ago. That's a
+36:40 pretty good signal, right? You know,
+36:41 some of these you'll look at it and
+36:42 it'll say last month or three months
+36:44 ago. I'm looking right here on the right
+36:46 side. Five days ago, five days ago,
+36:48 three months. And and if you're not
+36:50 seeing a lot of activity there and it's
+36:52 not very reliable, oo, I cut and run.
+36:55 But here, like one sponsor that's pretty
+36:58 good, I'd like to see more uh but a lot
+37:00 of activity. Like they very well could
+37:02 could come out of this slump.
+37:04 >> I'd like to see them do well. I'd like
+37:06 to see more video editing. Um, I do have
+37:09 again in the report there's a tweet that
+37:11 they put out where they were talking
+37:12 about how they're rewriting it, what
+37:14 their vision is. They're taking people's
+37:16 uh requests to heart like the keyboard
+37:19 first mode, etc. Okay,
+37:21 >> cool.
+37:22 >> I've spent hours on this report.
+37:24 Literally hours. Even though I have
+37:26 obviously clawed code helping me put
+37:28 this thing together, I spent hours
+37:29 because I want to make sure that there's
+37:31 no hankypanky, that I don't end up with
+37:32 somebody who is clearly trying to game
+37:35 the system and get in here. I want to
+37:37 make sure that we've got useful
+37:38 information and that I'm curating the
+37:40 videos to make sure that they're
+37:41 helpful. If uh if this has been helpful,
+37:44 I would really appreciate it if you gave
+37:45 us a like, if you did subscribe, or even
+37:47 frankly, if in the comments you told me
+37:49 what you hated about it because that
+37:50 helps me improve. I want this to be the
+37:52 best uh way for you all to understand
+37:55 what's going on in open source and more
+37:57 importantly how you can use it and build
+37:59 with it. Um, and Adam, I was doing this
+38:01 last night with my with my um Michelob
+38:04 Ultra, which is like the wussiest beer.
+38:07 That's what I'm down to. But I'm trying
+38:08 to like watch my calorie intake. And at
+38:11 the same time, I feel like Thursday
+38:13 night, baby. Everyone's watching soccer.
+38:15 I'm sitting here at my desk just
+38:16 preparing for tomorrow. Let's enjoy a
+38:18 little bit of beer.
+38:19 >> Me and AI. Yeah.
+38:21 >> Yeah. You've had a week like that, too,
+38:23 where like you couldn't take much time
+38:25 because you had kid duty, right?
+38:26 >> Oh my gosh. I Yeah. I've got my my kids
+38:29 alone this week. My wife's out of town
+38:31 and and so I'm I'm off work basically at
+38:34 1000 p.m. And yeah, with one or two
+38:37 nights I think I sat down and had a
+38:38 beer, chilled on the couch, and it's
+38:40 like, man, I got to crash and go to bed.
+38:42 But yeah, it's uh you know, you need a
+38:44 little refreshing. And honestly, Andrew,
+38:46 like AI, it's exhausting. It it I'm I'm
+38:50 more tired at the end of my workday when
+38:52 I've worked with AI more. just constant
+38:55 decisions, constant back and forth,
+38:57 constant frustration. I I've I've not
+39:00 cursed at my computer so much in years
+39:03 than like compared to the last 6 months.
+39:06 But, uh, it's also so fun. It's so it's
+39:09 it's addicting. Um, and I but it, man,
+39:12 it it drains me. I put so much so much
+39:15 into the apps that we're building, so
+39:16 much into the shows like this that we're
+39:18 working on, and everything that feel
+39:20 like at the end of the day, I'm just
+39:21 done.
+39:22 >> I'm glad to hear that you're frustrated.
+39:23 Sometimes I feel it's cuz I'm stupid or
+39:24 I'm missing something and a smarter and
+39:26 more engineering oriented person
+39:28 wouldn't have that problem. Okay, now
+39:29 that this video is over, so far what
+39:31 we've talked to you about is GitHub. I
+39:33 now have actual apps that you can use
+39:36 right now that are AI based that we
+39:38 hunted down for this week. There's a
+39:40 link for you to watch it right now. Just
+39:41 go use it. You don't have to incorporate
+39:43 it. You don't have to do anything. It is
+39:44 amazing what you could achieve. Or
+39:46 frankly, just sit back, watch it with a
+39:47 Michelob Ultra, and watch your weight
+39:49 like Andrew. All right, go see you in
+39:51 the I'll see you in the next video. Bye.

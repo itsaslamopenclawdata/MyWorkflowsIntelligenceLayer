@@ -2,11 +2,21 @@
 
 Auto-regenerated. One line per video, newest first. Sorted by published date, descending.
 
-**Last updated:** 2026-06-26 14:30 UTC
-**Total videos:** 125 across 13 channels
+**Last updated:** 2026-06-27 03:25 UTC
+**Total videos:** 135 across 13 channels
 
 | Date | Channel | Title | Duration | Video ID | Note |
 |------|---------|-------|----------|----------|------|
+| 2026-06-27 | Hyperautomation Labs | 10 GitHub Repos Everyone Starred This Month (Free NotebookLM, 1.7B Free Tokens & More) | 10:25 | [9_0TTQAaS8M](https://www.youtube.com/watch?v=9_0TTQAaS8M) | [note](channels/hyperautomation-labs/videos/2026-06-27_10-github-repos-starred-this-month-free-notebooklm.md) |
+| 2026-06-26 | Vendasta | 3 AI Agents Agencies Can't Stop Selling (Clients Keep Asking for Them) | 8:40 | [y_RkciQrArA](https://www.youtube.com/watch?v=y_RkciQrArA) | [note](channels/vendasta/videos/2026-06-26_3-ai-employees-agencies-receptionist-reputation-social.md) |
+| 2026-06-26 | The Next New Thing | Free Wispr Flow, ElevenLabs & CapCut alternatives + more GitHub hits | 39:53 | [3Cni6_JubQk](https://www.youtube.com/watch?v=3Cni6_JubQk) | [note](channels/the-next-new-thing-ai/videos/2026-06-26_free-wispr-flow-elevenlabs-capcut-alternatives.md) |
+| 2026-06-26 | Hyperautomation Labs | 10 GitHub Repos So Good They Shouldn't Be Free — Part 5 (Kill $189K/yr of SaaS) | 15:47 | [0NpOcIa3qsk](https://www.youtube.com/watch?v=0NpOcIa3qsk) | [note](channels/hyperautomation-labs/videos/2026-06-26_10-github-repos-part-5-189k-saas-killers.md) |
+| 2026-06-26 | Hyperautomation Labs | The End of SaaS Just Got Open-Sourced — Builder.io's Agent-Native | 9:28 | [IX6hCv5PGW0](https://www.youtube.com/watch?v=IX6hCv5PGW0) | [note](channels/hyperautomation-labs/videos/2026-06-26_end-of-saas-agent-native-builder-io.md) |
+| 2026-06-26 | Hyperautomation Labs | GPT-5.6 Sol: The First AI the Government Wouldn't Let You Have (3 Tiers, Pricing Decoded) | 9:28 | [YUD2Wxt12qQ](https://www.youtube.com/watch?v=YUD2Wxt12qQ) | [note](channels/hyperautomation-labs/videos/2026-06-26_gpt-5-6-sol-3-tiers-pricing-decoded.md) |
+| 2026-06-26 | Eddy | (Podcast) Revolutionizing Data Analytics: How Anthropic Automates Insights with Claude | 26:00 | [9l6BHAcCd30](https://www.youtube.com/watch?v=9l6BHAcCd30) | [note](channels/eddy/videos/2026-06-26_podcast-anthropic-automates-insights-claude.md) |
+| 2026-06-26 | Eddy | (Podcast) Master the Architecture of AI Agent Harnesses | 22:06 | [iRHrwyXQl1I](https://www.youtube.com/watch?v=iRHrwyXQl1I) | [note](channels/eddy/videos/2026-06-26_podcast-agent-harness-architecture-dira.md) |
+| 2026-06-26 | Eddy | Essential Mods for Production-Ready Claude Code | 7:23 | [zBg7C_y3ufM](https://www.youtube.com/watch?v=zBg7C_y3ufM) | [note](channels/eddy/videos/2026-06-26_essential-mods-production-claude-code.md) |
+| 2026-06-25 | Wanderloots | Run Your Own Agentic AI? Full Ollama Setup + Hermes Workflow | 15:57 | [4KXLW9Y1r4c](https://www.youtube.com/watch?v=4KXLW9Y1r4c) | [note](channels/wanderloots/videos/2026-06-25_run-your-own-agentic-ai-ollama-hermes.md) |
 | 2026-06-26 | Hyperautomation Labs | I Read Every Leaked AI System Prompt (ChatGPT, Claude, Cursor) — Steal These 7 Tricks | 9:08 | [qIckuo4L9eQ](https://www.youtube.com/watch?v=qIckuo4L9eQ) | [note](channels/hyperautomation-labs/videos/2026-06-26_leaked-system-prompts-7-prompting-tricks.md) |
 | 2026-06-25 | Greg Isenberg | "Learn AI" Is Bad Advice. Learn This Instead | 29:53 | [jJIOA4GroBw](https://www.youtube.com/watch?v=jJIOA4GroBw) | [note](channels/greg-isenberg/videos/2026-06-25_six-skills-for-the-agentic-era.md) |
 | 2026-06-25 | The Next New Thing | New AI Drops: AI does your work, Claude in Slack, cheap AI & more | 23:50 | [SMIuRWtbO9Y](https://www.youtube.com/watch?v=SMIuRWtbO9Y) | [note](channels/the-next-new-thing-ai/videos/2026-06-25_ai-drops-jun25-codex-claude-slack.md) |

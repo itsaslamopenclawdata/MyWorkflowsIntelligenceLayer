@@ -1,0 +1,440 @@
+Title: 10 GitHub Repos So Good They Shouldn't Be Free — Part 5 (Kill $189K/yr of SaaS)
+Channel: Hyperautomation Labs
+Channel ID: UCiax-xbEI0P6Y8C8VwZGMgQ
+Video ID: 0NpOcIa3qsk
+Published: 20260626
+Duration: 15:47 (947s)
+URL: https://youtube.com/watch?v=0NpOcIa3qsk
+Fetched: 2026-06-27
+Status: None
+
+--- TRANSCRIPT ---
+
+0:00 Four times now, I've handed you free
+0:02 GitHub repos that quietly replace
+0:05 software companies pay a fortune for.
+0:07 That's 40 repos so far.
+0:09 And you keep asking for more.
+0:11 So, this is part five. And this time,
+0:14 we're going after the big enterprise
+0:16 bills.
+0:17 10 open source repos,
+0:19 each one killing a tool that costs real
+0:21 money.
+0:22 Your entire app backend, your identity
+0:25 provider, your e-commerce platform, your
+0:28 whole ERP.
+0:30 Part three
+0:31 killed $180,000 a year of software.
+0:34 Part five goes bigger now. So, watch the
+0:36 counter in the corner.
+0:38 Because together, these 10 replace
+0:41 nearly $190,000 a year.
+0:44 Every repo is real with live star counts
+0:47 and a real screen. I opened every single
+0:50 one.
+0:51 And for each, the exact command to stand
+0:54 it up yourself this weekend.
+0:56 One honest rule before we start.
+0:58 Self-hosting saves you the license fee,
+1:02 not the work. You run the server.
+1:05 Deal?
+1:06 Let's go kill some invoices.
+1:09 Number one, Supabase. And we're opening
+1:11 on a giant.
+1:13 105,000 stars.
+1:15 One of the most loved projects on all of
+1:17 GitHub.
+1:18 Supabase is the open source Firebase.
+1:21 A complete backend for your app.
+1:24 At its core is a real Postgres database,
+1:27 not a black box you can never leave.
+1:30 Around it, you get authentication,
+1:32 real-time subscriptions,
+1:35 file storage, edge functions, and
+1:37 instant rest and GraphQL APIs,
+1:40 auto-generated from your tables.
+1:42 What does it replace?
+1:44 The whole Firebase plus Auth0 stack.
+1:48 A hosted auth provider like Auth0 runs
+1:50 $240 a month
+1:52 once you pass a thousand users. That's
+1:55 $2,800 a year just for login
+1:58 and Firebase usage bills are climb on
+2:00 top of that.
+2:01 Supabase self-hosted is licensed Apache
+2:05 2.0 completely free.
+2:07 We can set up clone the repo,
+2:09 go into the Docker folder,
+2:11 Docker compose up,
+2:13 open the studio dashboard and point your
+2:15 app at the API URL.
+2:18 Honest catch, the core is free to
+2:20 self-host, but you're now running
+2:22 Postgres. Backups and uptime yourself.
+2:26 For the app backend, you're renting from
+2:27 Google.
+2:29 That's Firebase's lock-in gone.
+2:31 Number two, cal.com.
+2:33 Every time someone books a meeting with
+2:35 you through Calendly, you're paying a
+2:38 per-seat tax.
+2:40 cal.com is the open-source scheduling
+2:42 platform, about 46,000 stars,
+2:45 and it does everything Calendly does.
+2:47 Clean booking links,
+2:49 team round-robin routing, availability
+2:51 rules, and built-in calendar and video
+2:54 integrations with Google,
+2:55 Outlook, Zoom, and Meet.
+2:58 And here's a detail even some tutorials
+3:01 get wrong.
+3:02 cal.com is now MIT licensed, fully open,
+3:05 and free to self-host.
+3:07 Calendly's team's plan is $16 per seat
+3:10 per month.
+3:11 For a 25-person sales team, that's
+3:14 $4,800
+3:15 a year just to send a calendar link.
+3:18 cal.com is zero.
+3:20 We can set up one Docker run, open
+3:23 localhost:3000,
+3:26 connect your Google or Outlook calendar,
+3:28 and share your booking link.
+3:31 Honest catch, the MIT code is free.
+3:34 A few enterprise extras, like SAML
+3:37 single sign-on, sit in a paid tier.
+3:40 But for the scheduling your whole team
+3:42 does every single day,
+3:44 that's Calendly's seat tax deleted.
+3:46 Number three, RustDesk, and the star
+3:50 count here is wild.
+3:52 117,000.
+3:55 If your business pays for TeamViewer,
+3:57 you already know the pain.
+3:59 Their pricing is legendary and not in a
+4:02 good way.
+4:03 RustDesk is the open-source remote
+4:06 desktop tool.
+4:07 Screen control, file transfer,
+4:09 unattended access.
+4:10 Built specifically to replace TeamViewer
+4:12 and AnyDesk.
+4:14 The trick? You self-host the relay
+4:16 server, so your sessions route through
+4:18 your own machine,
+4:20 instead of a third-party cloud.
+4:22 TeamViewer's corporate plan is $245.90
+4:27 a month.
+4:28 That's nearly $3,000 a year.
+4:31 And it caps how many sessions you can
+4:32 run at once.
+4:34 RustDesk has no concurrency tax.
+4:36 Unlimited technicians,
+4:38 unlimited sessions, free.
+4:41 Quick setup.
+4:42 Run the RustDesk server image to bring
+4:45 up the relay.
+4:46 Set that server address in each client
+4:48 and connect. No cloud in the middle.
+4:51 Honest catch.
+4:52 It's AGPL.
+4:54 Free to self-host.
+4:56 But, you run the relay server. And its
+4:58 bandwidth decides your call quality.
+5:02 For remote support without the ransom
+5:04 note,
+5:06 RustDesk refuses TeamViewer's bill.
+5:09 Number four,
+5:10 Strapi.
+5:11 If your website or app needs a content
+5:14 management system,
+5:16 the SaaS option is Contentful.
+5:19 And it gets expensive fast.
+5:22 Strapi is the open-source headless CMS,
+5:25 about 73,000 stars.
+5:27 You model your content and Strapi
+5:29 instantly gives you a REST
+5:31 and GraphQL API, plus a clean admin
+5:34 panel your editors actually like.
+5:37 And you bring your own database.
+5:39 PostgreSQL, MySQL,
+5:41 or SQLite.
+5:43 Contentful's entry paid plan is $300 a
+5:46 month, $3,600 a year.
+5:49 And the enterprise tier costs far
+5:52 far more than that.
+5:54 Strapi's community edition is MIT
+5:57 licensed and free.
+5:59 We can set up
+6:00 scaffold it with one create Strapi app
+6:03 command.
+6:04 Model your content types in the admin.
+6:06 And start hitting the auto-generated
+6:09 API.
+6:10 Honest catch,
+6:12 the MIT core is free.
+6:13 But single sign-on,
+6:16 role-based access,
+6:17 and audit logs
+6:19 live in the paid enterprise edition.
+6:21 For owning your content layer instead of
+6:22 renting it,
+6:24 Strapi hands you the API free.
+6:26 Number five,
+6:27 Gitea.
+6:29 GitHub is wonderful until the enterprise
+6:31 invoice shows up per developer every
+6:34 month.
+6:35 Gitea is a lightweight, self-hosted Git
+6:38 platform.
+6:39 About 57,000 stars.
+6:41 And it's the whole workflow.
+6:43 Repository hosting,
+6:45 pull requests, and code review, issues,
+6:48 a package registry, and built-in CI/CD
+6:51 with Gitea actions.
+6:53 It's a single, tiny binary,
+6:56 MIT licensed,
+6:57 with no per seat cost.
+7:00 GitHub enterprise is $21 per user per
+7:03 month.
+7:04 For a 50-developer engineering team,
+7:06 that's $12,600 a year.
+7:09 Gitea is free,
+7:11 and every new seat is still free.
+7:13 We can set up one Docker run, open
+7:16 localhost 3000,
+7:18 finish the quick install wizard, and
+7:20 push your first repo.
+7:22 Honest catch, there's no seat cap and no
+7:25 paywall.
+7:26 But you own uptime,
+7:28 backups, and wiring up your own single
+7:31 sign-on.
+7:32 For a team that just wants to host its
+7:34 own code,
+7:35 that's GitHub's invoice self-hosted.
+7:38 Number six,
+7:40 Nextcloud.
+7:41 Dropbox
+7:43 business charges you per user every
+7:45 month forever.
+7:47 For storage, you could simply own.
+7:50 Nextcloud is the self-hosted file cloud
+7:53 site, about 36,000 stars.
+7:56 And it's your own Dropbox or Google
+7:58 Drive. File sync and share with desktop
+8:01 and mobile clients, plus calendar,
+8:03 contacts, and built-in document editing
+8:06 for full team collaboration.
+8:08 The capacity is limited only by your own
+8:10 disk, not a per-seat tier.
+8:13 Dropbox Business Advanced is $24 per
+8:16 user per month.
+8:17 For 50 people, that's $14,400 a year.
+8:21 Nextcloud's license is AGPL zero.
+8:25 Weekend setup. One Docker run. Open
+8:28 localhost 8080.
+8:31 Create the admin account and install the
+8:33 desktop and mobile sync apps.
+8:36 On a sketch, you essentially become the
+8:38 IT department.
+8:40 The server, storage, patching, and
+8:43 backups are all on you.
+8:45 But for a team's files,
+8:47 that's your Dropbox
+8:49 on your own server.
+8:50 Number seven.
+8:51 Medusa. And now the numbers get serious.
+8:55 If you sell online at scale,
+8:57 the platform of choice is Shopify Plus.
+9:01 And it starts at $2,300 a month.
+9:05 Medusa is the open-source headless
+9:06 commerce engine,
+9:08 about 35,000 stars, written in
+9:10 TypeScript.
+9:12 It's the back-end brain of a store,
+9:14 cart, orders,
+9:16 products,
+9:17 inventory, and regions,
+9:19 all through a flexible API you build any
+9:22 storefront on top of.
+9:23 Shopify Plus's platform fee alone is
+9:26 $2,300 a month,
+9:28 $27,600
+9:29 a year
+9:30 before a single transaction.
+9:32 Medusa is MIT licensed with no no fee at
+9:35 all.
+9:36 Weekend setup. Scaffold the back end and
+9:39 admin with one create Medusa app
+9:41 command. Add your products and regions.
+9:44 And wire a storefront to the API.
+9:47 Honest catch.
+9:48 And this is a real one.
+9:50 Medusa is the back end only.
+9:52 Shopify also hands you hosting, PCI
+9:55 compliant payments, and the storefront.
+9:57 So, you're taking on a genuine build to
+9:59 capture that saving. But, for a team
+10:01 with engineers,
+10:03 that's 2,300 a month kept.
+10:06 Number eight.
+10:07 PostHog.
+10:09 Product analytics is one of those bills
+10:10 that quietly balloons.
+10:12 Mixpanel and Amplitude charge by the
+10:14 event.
+10:15 And the events never stop.
+10:18 PostHog is the open source product
+10:19 analytics platform.
+10:21 About 35,000 stars.
+10:23 And it isn't one tool. It's the whole
+10:25 stack.
+10:27 Product analytics, web analytics,
+10:29 session replay,
+10:30 feature flags, AB experiments, and
+10:33 surveys,
+10:34 all in one place.
+10:36 Mixpanel's growth plan at roughly
+10:39 10 million events a month
+10:40 runs about $2,500 a month.
+10:43 $30,240
+10:45 a year.
+10:47 And it only climbs with your volume.
+10:49 PostHog score is MIT licensed,
+10:52 self-hosted, and your event data stays
+10:54 yours.
+10:55 Weekend setup.
+10:57 Bring up the hobby Docker Compose.
+10:59 Drop the JavaScript snippet on your
+11:00 site, and watch events and session
+11:02 replays start flowing in.
+11:04 Honest catch.
+11:06 The MIT core is free.
+11:08 But, it runs a heavy ClickHouse data
+11:09 stack.
+11:10 And a few enterprise features live in a
+11:12 separate directory.
+11:14 For understanding your users without a
+11:16 five-figure analytics bill,
+11:18 that's Mixpanel's bill without Mixpanel.
+11:21 Number nine.
+11:22 Keycloak. And this is the bill
+11:24 almost nobody talks about.
+11:26 Identity.
+11:28 Every single employee login
+11:30 through Okta costs you
+11:32 per user per month.
+11:35 Keycloak is the open source identity and
+11:38 access management server.
+11:40 About 35,000 stars and a graduated CNCF
+11:43 project.
+11:45 It gives you single sign-on across all
+11:47 your apps with OpenID Connect and SAML.
+11:50 Plus multi-factor authentication, social
+11:53 login, and user federation from LDAP or
+11:57 Active Directory.
+11:58 Octa's essential suite,
+12:00 the like-for-like feature set, is $17
+12:03 per user per month.
+12:04 For a 200-person company,
+12:06 that's $40,800
+12:08 a year just to log in.
+12:11 Keycloak is Apache 2.0 licensed.
+12:15 Every feature,
+12:17 zero per seat fee.
+12:19 We can set up
+12:20 one Docker run,
+12:22 open
+12:23 localhost
+12:24 8080,
+12:26 create a realm and a client,
+12:29 and point your apps at it for single
+12:31 sign-on.
+12:32 Honest catch.
+12:33 It's fully free, but you run the high
+12:36 availability clustering and upgrades
+12:38 yourself
+12:39 with no vendor support line unless you
+12:41 pay Red Hat.
+12:42 For company-wide login,
+12:44 that's Octa's per seat empire
+12:47 toppled.
+12:48 Number 10, though,
+12:49 ERPNext.
+12:51 And we're ending on the single most
+12:52 expensive bill in this entire series.
+12:56 The software that runs a whole company.
+12:59 Accounting, inventory,
+13:01 manufacturing, HR, and CRM
+13:04 is called an ERP.
+13:06 And the brand names are
+13:08 NetSuite and SAP.
+13:10 ERPNext is the open source alternative.
+13:13 About 36,000 stars,
+13:15 and it's the entire business in one
+13:17 system.
+13:18 Accounting, stock, and orders,
+13:20 manufacturing, HR, and payroll,
+13:23 projects, and CRM end-to-end.
+13:26 It's GPL licensed
+13:28 with a $0 software license, no features
+13:32 hidden behind paywalls.
+13:34 NetSuite for a realistic 25-user
+13:36 mid-market company runs around $50,000 a
+13:39 year, all in. And that's reported
+13:42 pricing because they won't even publish
+13:44 a number.
+13:45 ERPNext replaces it for free.
+13:47 We can set up, bring up the official
+13:49 Frappe Docker Compose, create your site
+13:52 and your company, add your users, and
+13:54 start running the business.
+13:56 Honest catch, the license is zero.
+13:59 But budget for hosting and realistically
+14:03 an implementation partner call.
+14:05 An ERP is a project, not a download.
+14:08 But watch that counter.
+14:10 ERPNext just pushed us past $189,000
+14:15 a year of software replaced.
+14:17 A $50,000 ERP offer free.
+14:20 That's part five, 10 free open-source
+14:23 repos.
+14:24 Supabase, cal.com, Rusdesk, Strapi,
+14:29 Gitea, Nextcloud, Medusa, PostHog,
+14:33 Keycloak, and ERPNext.
+14:36 Together, they replace nearly $190,000
+14:39 a year of software, bigger than any part
+14:41 before it.
+14:42 And everyone you can stand up in a
+14:44 weekend.
+14:45 Now, I've put all 50 repos from parts
+14:48 one through five with the exact deploy
+14:50 command for each into one free PDF,
+14:53 the self-hosted stack.
+14:56 Comment the word self-host,
+14:58 and I'll send it straight to you, or
+15:00 grab it at
+15:01 hyperautomationlabs.co/free/selfhost.
+15:05 And if you want to go deeper, my
+15:07 complete guide to Clod Code, the OpenAI
+15:10 Codex guide, the Clod Co-Work Sales
+15:12 Playbook, and the Clod Certified
+15:14 Architect Prep Kit are all linked in the
+15:16 description.
+15:18 Follow Hyperautomation Labs on Instagram
+15:20 for the short version.
+15:22 Join us on Facebook and subscribe
+15:25 right here on YouTube.
+15:26 That's where these deep dives live.
+15:29 Quick tip.
+15:30 If I'm talking too slowly for you, just
+15:32 bump it to 1 and 1/4 speed.
+15:35 That's 50 repos across five parts.
+15:38 Replacing hundreds of thousands of
+15:40 dollars a year of software bills.
+15:42 So, tell me in the comments exactly
+15:43 which paid tool you want me to kill in
+15:45 part six. See you there.

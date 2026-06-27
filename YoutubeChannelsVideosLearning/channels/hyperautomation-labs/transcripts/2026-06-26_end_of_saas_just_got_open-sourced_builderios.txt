@@ -1,0 +1,279 @@
+Title: The End of SaaS Just Got Open-Sourced — Builder.io’s Agent-Native
+Channel: Hyperautomation Labs
+Channel ID: UCiax-xbEI0P6Y8C8VwZGMgQ
+Video ID: IX6hCv5PGW0
+Published: 20260626
+Duration: 9:08 (548s)
+URL: https://youtube.com/watch?v=IX6hCv5PGW0
+Fetched: 2026-06-27
+Status: None
+
+--- TRANSCRIPT ---
+
+0:00 Every app you use right now, you rent.
+0:02 You pay every month, the company owns
+0:04 the code,
+0:05 and when they bolt an AI chatbot into
+0:08 the corner,
+0:09 you take whatever they give you.
+0:11 This week, builder.io
+0:14 quietly open-sourced a framework that
+0:16 flips that whole model on its head.
+0:18 It's called Agent Native.
+0:20 2 and 1/2 thousand stars in days,
+0:22 completely free, MIT licensed.
+0:25 And it lets you fork your own software
+0:27 where the AI and the interface are the
+0:29 same thing.
+0:30 By the end of this video,
+0:32 you'll understand exactly what Agent
+0:35 Native means,
+0:37 why it's the beginning of the end for
+0:38 rented software,
+0:40 and how to fork your first app today.
+0:42 Let's name the trap we're all stuck in.
+0:45 Today, you get three bad options.
+0:47 Option one,
+0:48 a polished SaaS tool.
+0:51 Beautiful interface, but rigid. The AI
+0:53 is bolted on. You can't change how it
+0:55 works, and you're renting it forever.
+0:58 Option two, a raw AI agent.
+1:01 Incredibly powerful, but it has no real
+1:04 interface. It's just a chat box that
+1:07 can't do much inside your actual app.
+1:09 Option three,
+1:10 build an internal tool yourself. Now,
+1:13 you own it, but you're drowning in
+1:14 maintenance.
+1:16 Polished, but locked.
+1:18 Powerful, but bare.
+1:20 Yours, but exhausting.
+1:22 Everybody just picks the least bad one
+1:23 and lives with it.
+1:25 Agent Native's core idea is a reframe so
+1:28 simple, it's easy to miss.
+1:31 In a normal app, the agent is a guest.
+1:34 A little chat window pasted onto the
+1:36 side,
+1:36 begging the real app for permission.
+1:39 Agent Native says,
+1:41 "The agent and the interface are equal
+1:43 citizens of one system."
+1:45 Every single thing the app can do, you
+1:47 can either click with your mouse, or ask
+1:49 the agent to do for you.
+1:51 Same button, same action.
+1:54 Two front doors.
+1:55 The human and the agent appears working
+1:57 on the exact same thing.
+1:59 Here's the piece that makes it real.
+2:01 And it's genuinely clever.
+2:04 In Agent Native, you define a unit of
+2:06 work once.
+2:08 They call it an action.
+2:10 Look at this.
+2:11 You give it a schema.
+2:13 The inputs it needs.
+2:14 And a run function.
+2:16 What it actually does.
+2:17 That's it.
+2:18 This one little definition
+2:20 then powers your user interface, the
+2:22 agent,
+2:23 a plain HTTP API,
+2:26 an MCP server, so other AI tools can
+2:30 call it,
+2:31 agent to agent, so other agents can call
+2:33 it, and the command line.
+2:35 Six surfaces.
+2:36 One definition.
+2:38 You write the logic a single time, and
+2:40 every way of triggering it comes for
+2:42 free.
+2:43 No duplicated code. No keeping six
+2:45 things in sync.
+2:47 And because every action works both
+2:48 ways, you get things that normal apps
+2:50 simply can't do.
+2:52 Everything syncs.
+2:53 There's one database.
+2:55 One source of truth.
+2:56 So a change from the agent shows up
+2:58 instantly in the interface, and the
+3:00 other way around.
+3:02 It's real-time multiplayer.
+3:05 A human and an agent editing the same
+3:07 document at the same time.
+3:09 The agent as a first-class peer.
+3:11 Not a pop-up.
+3:13 It's context-aware.
+3:15 The agent knows what you're looking at.
+3:17 You select some text,
+3:19 hit a key, and tell it what to do.
+3:21 Agents can tag other agents and
+3:23 coordinate.
+3:25 And the app is self-improving.
+3:27 The agent can add features,
+3:30 fix bugs, and refine the interface over
+3:32 time.
+3:33 The software gets better while you use
+3:35 it.
+3:36 Now, here's the slide that explains why
+3:38 this is a big deal.
+3:40 The team lays it out honestly.
+3:42 SaaS tools,
+3:44 raw agents,
+3:45 internal tools,
+3:47 and Agent Native side by side.
+3:50 On interface,
+3:51 SaaS is polished but rigid.
+3:54 Raw agents have none.
+3:55 Agent Native gives you a full interface
+3:57 you can fork and change.
+3:59 On AI,
+4:01 it's bolted on versus agent first and
+4:03 integrated.
+4:05 On customization, with SaaS, you
+4:07 literally can't. With Agent Native, the
+4:10 agent modifies the app itself. But look
+4:12 at the last row, ownership.
+4:14 SaaS tools,
+4:16 rented. Agent Native, you own the code.
+4:19 That one word, rented, is the entire
+4:23 business model of modern software.
+4:25 And this is the first framework built to
+4:28 end it.
+4:29 And this isn't a toy or a hello world.
+4:31 Agent Native ships with six complete
+4:34 free open source apps.
+4:36 Real SaaS products you clone and own.
+4:39 Clips is a screen recorder with auto
+4:40 transcripts. That's Loom. Plus Granola
+4:43 and Whisper Flow in code you control.
+4:46 Design is an interactive prototyping
+4:47 studio. It replaces your design
+4:49 prototyping tools.
+4:51 Content is an open source Obsidian for
+4:53 Markdown. Slides generates real
+4:55 presentations. That's Google Slides and
+4:58 Pitch.
+4:59 Analytics connects your data
+5:02 and builds dashboards from a prompt.
+5:04 Amplitude and Mixpanel.
+5:07 And Plans drops visual planning straight
+5:09 into your coding agent.
+5:11 Each one is a complete app. You fork,
+5:14 run locally, and customize forever.
+5:17 Not a demo. Software you own.
+5:20 So, how do you actually start?
+5:22 One command.
+5:24 NPX agent native/core create my app.
+5:28 It asks how you want to begin.
+5:31 Full template.
+5:32 Clone one or more of those complete apps
+5:34 into a workspace, already wired
+5:35 together.
+5:37 Chat, a single app with a minimal chat
+5:40 interface, the simplest way to see it
+5:41 work.
+5:42 Or headless, an action first app with no
+5:46 interface yet, where the command line
+5:48 walks you through calling your first
+5:49 action and agent.
+5:51 Then,
+5:52 CD into the folder, install, and run
+5:55 dev. That's it.
+5:56 A few minutes and you're running your
+5:58 own forkable agent native SaaS app on
+6:00 your own machine.
+6:01 And if you don't want to scaffold a
+6:03 whole app yet, there's an even lower
+6:05 friction way to taste it.
+6:07 One command adds it as a skill to the
+6:10 coding agent you already use.
+6:12 Cloud Code,
+6:13 CodeX, Cursor, Co-pilot, and more.
+6:17 NPX
+6:18 agent native /core skills add visual
+6:22 plan.
+6:23 Now, you get two slash commands. /visual
+6:26 plan.
+6:27 Before your agent writes any code,
+6:29 it opens a structured, reviewable plan
+6:33 with diagrams, interface wireframes, and
+6:36 a file-by-file map you can comment on
+6:38 and approve.
+6:39 And /visual recap. After the changes
+6:42 land, it turns the whole pull request
+6:45 into a high-level visual summary with a
+6:47 shareable link instead of a raw wall of
+6:50 diff.
+6:51 That's agent native thinking dropped
+6:53 into your current setup in 30 seconds.
+6:56 Let me be straight with you, because
+6:58 hype helps no one.
+7:00 This is early.
+7:01 It's version 0.79. It moves fast
+7:05 and it is built for people who write
+7:06 code, not for total beginners yet.
+7:09 You bring your own database, your own
+7:11 host, your own model.
+7:14 It's a framework, not a magic button.
+7:17 And it does not delete every SaaS
+7:18 tomorrow.
+7:20 Plenty of tools you'll happily keep
+7:21 renting.
+7:22 But the direction is the thing.
+7:24 The moment your software is a folder of
+7:26 code you own,
+7:27 that an agent can read, run, and
+7:29 improve,
+7:30 the old deal where you rent forever and
+7:32 own nothing
+7:33 starts to look like a choice instead of
+7:35 the only option.
+7:37 Step back and look at the shape of this.
+7:39 For 15 years, the deal was
+7:42 rent the software, the vendor owns the
+7:44 code, the vendor controls the AI, and
+7:46 you adapt your business to fit the app.
+7:49 Agent native quietly inverts every part
+7:51 of that. You own the code.
+7:54 The agent is built in, not bolted on.
+7:56 And instead of you adapting to the
+7:58 software, the software adapts to you.
+8:01 Because the agent can change it.
+8:03 That's what people mean when they say
+8:05 the end of SaaS.
+8:06 It doesn't mean no more software. It
+8:08 means software you own
+8:11 that improves itself with an agent and a
+8:13 human standing as equals inside it.
+8:16 That future just became forkable today
+8:18 for free.
+8:19 If this made the agent native idea
+8:21 finally click, do three quick things.
+8:24 Subscribe here on YouTube and follow
+8:26 Hyper Automation Labs on Facebook and
+8:28 Instagram.
+8:30 I post these breakdowns on all three.
+8:32 I put together a free agent native
+8:34 playbook, the six apps,
+8:36 and the SaaS tools they replace,
+8:38 the create command, the skill,
+8:41 and the build your first checklist.
+8:43 To get it, comment the word fork,
+8:45 and I'll send it straight to you.
+8:47 And if you want to go much deeper on
+8:49 building with coding agents,
+8:50 I have four paid guides linked in the
+8:52 description.
+8:53 The complete Claude Code guide, the
+8:55 OpenAI Codex guide,
+8:57 the Claude Co-work sales guide,
+8:59 and my Claude certified architect prep
+9:00 kit.
+9:01 Stop renting your software.
+9:03 Start forking it. I'll see you in the
+9:06 next one.

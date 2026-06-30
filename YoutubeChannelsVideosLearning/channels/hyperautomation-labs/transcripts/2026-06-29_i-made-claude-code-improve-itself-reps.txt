@@ -1,0 +1,307 @@
+# Transcript: I Made Claude Code Improve ITSELF (It Never Repeats a Mistake)
+# Channel: Hyperautomation Labs
+# Duration: 612s
+# Video ID: DFGk21iSFgY
+
+0:00 What if your AI coding assistant got a
+0:02 little bit smarter every single day
+0:04 on its own
+0:05 while you sleep?
+0:07 Not because a new model dropped, because
+0:09 the system you built around it learns
+0:11 from every mistake it makes, writes that
+0:14 lesson down, and never repeats it.
+0:16 Most people use Claude Code like a
+0:18 goldfish.
+0:19 Brilliant for one session, and then it
+0:21 forgets everything.
+0:23 And tomorrow, you re-explain your entire
+0:25 project from scratch.
+0:27 In the next few minutes, I'm going to
+0:29 show you how to flip that.
+0:30 How to turn Claude Code into a
+0:32 self-improving system
+0:34 that compounds.
+0:36 I call it the REPS framework,
+0:38 because just like reps in the gym, every
+0:41 single loop
+0:42 makes it stronger.
+0:43 Steel the whole thing.
+0:46 Let's build it.
+0:47 Here's the core idea, and it's the part
+0:49 almost everyone misses.
+0:52 A static prompt is a tool. A loop is a
+0:55 system.
+0:56 The difference between them is
+0:57 compounding.
+0:59 If Claude gets 1% better every day, and
+1:02 actually remembers it, then in a year,
+1:04 it's not 1% better.
+1:06 It's 37 times better.
+1:09 That's a flywheel. And every flywheel
+1:12 needs four gears, which is exactly what
+1:15 REPS stands for.
+1:17 R, record. Give Claude a memory it can
+1:20 write to itself. E, evaluate.
+1:23 Let it grade its own work, so it knows
+1:26 what good actually looks like.
+1:28 P, propose.
+1:29 Have it study its own mistakes, and
+1:32 suggest its own upgrades.
+1:34 And S, sign off. You approve in seconds,
+1:37 and then it runs on a schedule without
+1:39 you.
+1:40 Record, evaluate, propose, sign off.
+1:44 Four gears, one flywheel. Let's build
+1:46 them one at a time.
+1:48 Gear one, record.
+1:50 Most people think Claude's only memory
+1:52 is the claude.md file for us.
+1:55 The file where you write your project's
+1:57 rules and conventions.
+1:59 That's half of it, and it's the half you
+2:00 control.
+2:02 But here's what changed, and almost
+2:03 nobody is using it.
+2:05 Claude code now has auto memory.
+2:08 There's a second file,
+2:10 memory.md,
+2:12 that Claude writes to itself.
+2:14 When it discovers how your
+2:15 authentication works,
+2:16 or a bug that just bit it,
+2:18 or a convention you prefer.
+2:20 It saves that as a memory,
+2:22 and it loads automatically
+2:24 every session auto.
+2:26 So you've got two layers, claude.md, the
+2:29 rules you hand down, and auto memory,
+2:31 the lessons Claude learns on its own.
+2:34 That second one is the seed of
+2:36 everything self-improving.
+2:38 From here, the whole game is feeding it
+2:40 well.
+2:41 But a memory is only as good as what
+2:44 flows into it. So let's feed it.
+2:47 And here's the best part.
+2:49 Auto memory fills itself
+2:52 going forward automatically.
+2:55 Every time you correct Claude, every
+2:56 convention it picks up, it banks the
+2:58 lesson on its own.
+3:00 You don't wire anything up. It's already
+3:02 on by default.
+3:03 To jump-start it, give it your history.
+3:06 Claude code saves every past session to
+3:09 your machine as a transcript file,
+3:10 and you can run {slash} export to pull a
+3:12 clean copy of any conversation.
+3:14 Point Claude at them and say, "Read
+3:16 through my recent sessions and save
+3:18 anything worth remembering."
+3:20 In one pass, weeks of hard-won context
+3:22 get poured into the memory.
+3:24 From there, it keeps filling itself.
+3:27 You stop being the librarian.
+3:29 The system files its own lessons.
+3:31 Gear two, evaluate.
+3:34 Here's the trap almost everyone falls
+3:36 into today.
+3:37 A system that changes itself
+3:39 with no way to tell if it's actually
+3:41 getting better is just a system that
+3:43 drifts. You need a scoreboard. That
+3:46 scoreboard is evals, and an eval is dead
+3:49 simple.
+3:50 It's a set of pass-fail checks for a
+3:53 task you care about.
+3:55 If Claude writes your commit messages,
+3:57 your eval is five example diffs,
+4:00 and the message a great engineer would
+4:02 write for each one.
+4:03 Now, you have ground truth.
+4:05 Before any change, Claude runs the evals
+4:08 and scores itself.
+4:09 After the change, it runs them again.
+4:12 Number went up, keep it.
+4:14 Number went down, throw it away.
+4:16 And you can even automate that
+4:18 scoreboard with a hook.
+4:19 Claude code can fire a command the
+4:21 moment it finishes a task,
+4:23 so the checks run themselves.
+4:25 This is the single step that separates a
+4:27 system that compounds from one that
+4:30 slowly rots.
+4:32 And it's the exact step the hype videos
+4:35 skip.
+4:36 Gear three, propose.
+4:39 This is where it actually starts
+4:41 improving itself.
+4:43 You build one skill,
+4:45 and a skill in Claude code
+4:46 is just a saved instruction file you
+4:49 trigger by name.
+4:50 Call this one improve system.
+4:53 When you run it, Claude does three
+4:55 things.
+4:56 It reads your recent session
+4:57 transcripts.
+4:59 It reads what's already in memory.
+5:01 And then, it asks itself the single most
+5:04 important question in this whole video.
+5:06 Based on everything I just did,
+5:08 suggest ways we can improve this system.
+5:11 It hunts for the same mistake made
+5:12 twice.
+5:14 A rule that should be living in
+5:16 claude.md.
+5:19 A new skill worth creating.
+5:21 It doesn't just fix the output. It
+5:24 upgrades the machine that makes the
+5:25 output.
+5:27 That's the difference between editing a
+5:28 document and training an apprentice.
+5:31 Gear four,
+5:32 sign off.
+5:34 And this is the gear that keeps you
+5:35 safe.
+5:36 Full autonomy sounds amazing,
+5:38 right up until your system quietly
+5:40 rewrites its own rules in a direction
+5:43 you hate.
+5:44 So, we don't let it.
+5:46 Every change the system proposes
+5:48 gets sorted into three buckets.
+5:50 Bucket one,
+5:52 auto approve,
+5:53 tiny, low-risk fixes,
+5:56 applied automatically and logged, so you
+5:58 never even have to look.
+6:00 Bucket two,
+6:01 needs sign-off.
+6:02 Anything that edits a rule or creates a
+6:04 new skill gets written to a review file
+6:07 with three check boxes,
+6:09 approve, reject, or approve and stop
+6:12 asking.
+6:13 Bucket three,
+6:14 needs your call. The system isn't sure,
+6:17 so it just asks.
+6:18 You skim that review file in about 30
+6:20 seconds.
+6:21 And over time, it learns what you always
+6:24 approve.
+6:25 So, the asking keeps shrinking. You stay
+6:27 the boss, it does the work. Make it
+6:30 Now, you make it run without you.
+6:33 And here's a detail most tutorials get
+6:35 flat-out wrong, so listen closely.
+6:38 Claude code has routines,
+6:41 scheduled agents that run on a timer.
+6:44 A cloud routine
+6:46 runs on Anthropic's servers,
+6:48 even with your laptop shut.
+6:50 But, it can't touch your local files.
+6:52 It clones a fresh copy of your repo each
+6:55 run.
+6:56 So, if your knowledge base lives on your
+6:58 own machine,
+6:59 you make it a local routine instead. In
+7:01 the desktop app, that's routines, new
+7:03 routine, local,
+7:05 and it runs right on your computer with
+7:07 full access to your files.
+7:09 The one catch,
+7:10 a local routine only runs while the
+7:13 desktop app is open and your machine is
+7:15 awake.
+7:16 Pick the one that matches where your
+7:18 data actually lives.
+7:20 Then schedule two jobs,
+7:22 one that feeds new data into memory and
+7:24 one that runs improve system and drops
+7:25 that review file right in your lap.
+7:28 Twice a week, the flywheel turns on its
+7:30 own.
+7:31 And all you do is approve.
+7:34 Now, step back and watch what you just
+7:36 built.
+7:37 Monday, Claude makes a mistake,
+7:39 and auto memory quietly records the
+7:42 lesson.
+7:43 Tuesday night, the schedule fires.
+7:46 Improve system
+7:47 reads that lesson,
+7:49 proposes a new rule,
+7:51 scores it against your evals, and the
+7:53 number goes up.
+7:55 You approve it in one click.
+7:58 And Wednesday,
+7:59 Claude does not make that mistake again,
+8:02 ever.
+8:03 That is the loop. Record, evaluate,
+8:06 propose, sign off, nay,
+8:07 and then around again and again.
+8:10 Every rep a little stronger.
+8:12 You're no longer just using an AI.
+8:15 You're training one.
+8:16 And this one remembers everything you
+8:18 teach it.
+8:19 Two quick warnings before you go build
+8:21 this, because I've watched people get
+8:23 them wrong.
+8:24 One,
+8:25 do not try to automate everything on day
+8:27 one.
+8:28 Start with just the memory.
+8:30 Let auto memory run,
+8:32 and feed it your past sessions.
+8:34 And live with that for a week before you
+8:36 add the evals and the schedule.
+8:38 A simple system you actually run
+8:41 beats a perfect one you abandon.
+8:44 Two,
+8:45 you are the leader here,
+8:46 not the system.
+8:48 If a skill isn't making you faster,
+8:50 delete it.
+8:52 The goal was never the most clever
+8:53 setup. It was you getting more done.
+8:56 So, the best move you can make today is
+8:58 the small one.
+8:59 Open Claude code, let it start
+9:01 remembering,
+9:02 and point it at your last few sessions.
+9:05 So, that's the REPS framework.
+9:08 Record, evaluate, propose, sign off.
+9:11 The whole system that turns Claude code
+9:14 into something that gets smarter every
+9:15 week, instead of forgetting you every
+9:17 morning.
+9:19 If this gave you a genuinely new way to
+9:21 think about AI,
+9:22 subscribe.
+9:24 I go deep on Claude and building systems
+9:26 like this every single week. And it's
+9:27 completely free.
+9:29 I package this entire build into a
+9:31 one-page blueprint. Every prompt, the
+9:33 memory setup, the improve system skill,
+9:36 the email checklist, and the routine
+9:39 schedule.
+9:40 All copy paste ready.
+9:42 Comment the word evolve on this video
+9:45 and I'll send it straight to you or grab
+9:48 it at the link below.
+9:49 And if you're just getting started,
+9:52 I've got beginner guides that take you
+9:54 from zero to genuinely dangerous with
+9:57 cloud code. Every link is in the
+9:59 description.
+10:00 Do your first rep today.
+10:02 Subscribe on YouTube, follow me on
+10:04 Instagram, and follow the page on
+10:06 Facebook.
+10:07 I'm Hyper Automation Labs and I'll see
+10:10 you in the next one.

@@ -1,0 +1,209 @@
+# Transcript: Everyone's RENTING Their AI Coding Agent — This FREE 180,000-Star One Lets You OWN It (OpenCode)
+# Channel: Hyperautomation Labs
+# Duration: 411s
+# Video ID: 3yx_wsa5O-A
+
+0:00 You're probably renting your AI coding
+0:01 agent right now and you don't even
+0:03 realize it. A monthly bill.
+0:05 Someone else decides which model you're
+0:08 allowed to use.
+0:09 And the day you stop paying, the whole
+0:10 thing is gone.
+0:12 Meanwhile, there's a free open-source
+0:14 coding agent sitting at nearly 180,000
+0:18 stars on GitHub that lets you own all of
+0:20 it. Same power, no subscription, no
+0:24 lock-in. So, why is almost nobody
+0:26 talking about it like that?
+0:27 Let me show you.
+0:29 Here is the deal. Open cursor, open
+0:32 Claude code. Both are brilliant and I
+0:34 use them.
+0:35 But look at what you actually agreed to.
+0:38 You pay every single month. The company
+0:41 decides your model.
+0:42 Your config, your history, your agent,
+0:45 it all lives on their terms.
+0:47 That is renting.
+0:49 And it is fine right up until the rent
+0:52 changes
+0:53 or the model changes or the limits
+0:55 change.
+0:56 And then you remember you never owned
+0:59 any of it.
+1:00 This is open code.
+1:02 A terminal-first AI coding agent you run
+1:04 right in your shell.
+1:06 And now a desktop app and editor
+1:08 extensions, too.
+1:09 It is open source, MIT licensed.
+1:13 And as of today, it is at roughly
+1:15 180,000
+1:17 GitHub stars with over 22,000 forks.
+1:20 It is built by a team called Anomaly.
+1:23 You might know them by their old name,
+1:25 SST.
+1:27 Three things make it genuinely
+1:28 different. One, it is model agnostic.
+1:31 You point it at Claude, GPT, Gemini,
+1:35 or a model running locally on your own
+1:37 machine.
+1:38 Your choice. Not theirs.
+1:40 Two,
+1:41 it runs as a local server with many
+1:44 front ends.
+1:45 The terminal, a desktop app, your
+1:48 editor,
+1:49 even continuous integration, all talking
+1:51 to one engine.
+1:53 Three,
+1:54 it pulls real language server
+1:55 diagnostics into the loop. So, it
+1:58 catches the type errors a model alone
+1:59 would miss.
+2:01 Run the init command and it writes an
+2:03 agents.md file. Think of it as project
+2:06 memory.
+2:07 And this is where it stops being just a
+2:08 tool and becomes a position.
+2:11 The team behind it
+2:13 rebranded from SST to Anomaly.
+2:16 The repo itself got renamed to
+2:18 Anomalyco/Opencode.
+2:21 And the momentum is staggering.
+2:24 In a June interview, the founders say,
+2:26 "Opencode has gone from zero to around 8
+2:28 million users in a single year
+2:31 with roughly $25 million in annual
+2:33 revenue."
+2:34 Those are their numbers,
+2:35 not independently audited. But, the
+2:38 trajectory is real and it is steep.
+2:40 Co-founder Dax Raad has been making an
+2:42 argument that is worth hearing.
+2:44 He warns that leaning on these agents
+2:46 too hard can quietly erode your own
+2:48 engineering judgment.
+2:50 And that is exactly why owning your
+2:51 agent matters.
+2:52 When you own it, you can see how it
+2:54 works,
+2:55 swap what is under the hood, and stay in
+2:58 control.
+2:59 Instead of handing your judgment to a
+3:00 black box that you rent.
+3:02 Now, here is the part that no rented
+3:04 agent can do.
+3:05 One agent, one prompt, and I swap the
+3:08 brain behind it.
+3:10 First, Claude.
+3:12 Then the same task,
+3:13 same Opencode,
+3:15 now running a cheap open weight model.
+3:17 Then a model running fully local.
+3:20 No API, no per-token cost, and my data
+3:23 never leaves the laptop.
+3:25 Watch what changes.
+3:27 The cost and the quality.
+3:29 The frontier model is the sharpest.
+3:32 The cheap one is shockingly close for
+3:34 the money.
+3:35 And the local one is free to run and
+3:37 completely private.
+3:38 Slower, but yours.
+3:40 That dial,
+3:41 quality versus cost versus privacy on
+3:45 the very same agent, is the entire
+3:47 pitch.
+3:48 Cursor and Claude code cannot hand you
+3:51 that dial because the model is the
+3:53 product they are selling.
+3:54 Now, the part the install tutorials
+3:56 skip,
+3:57 because I would rather you hear it from
+3:58 me than learn it the hard way.
+4:00 First, the word free has an asterisk.
+4:04 The software is free and open source.
+4:07 But, unless you run a local model, you
+4:09 pay the model bill yourself through your
+4:11 own keys.
+4:12 Owning the agent does not mean free
+4:14 tokens.
+4:15 Second, it is not always faster.
+4:18 In one head-to-head on the same task,
+4:20 Open Code came in well behind Cloud Code
+4:22 on speed.
+4:24 Partly because of that thorough language
+4:25 server loop. That is one test.
+4:28 Not gospel,
+4:29 but it is worth knowing.
+4:31 And it moves fast and breaks things.
+4:33 Thousands of open issues and several
+4:36 releases a week.
+4:37 The bleeding edge cuts both ways.
+4:39 Third and most important,
+4:41 earlier this year, Open Code had a real
+4:43 security hole.
+4:45 Tracked as CVE-2026-22812.
+4:49 A background server it started could let
+4:51 a website run shell commands on your
+4:53 machine. It has been patched. The server
+4:55 is off by default now.
+4:58 But, it is a fair reminder.
+5:00 Running an agent server on your own box
+5:02 is a responsibility, not just a flex.
+5:05 Keep it updated and know what it is
+5:07 doing.
+5:08 So, who is this actually for?
+5:10 If you live in the terminal,
+5:12 if you want to choose your model,
+5:14 run things locally,
+5:16 self-host, and never be locked to one
+5:19 vendor,
+5:20 Open Code is one of the best things you
+5:22 can install for free.
+5:24 If you want the gentlest, click-to-start
+5:26 beginner experience,
+5:28 Cursor still wins.
+5:30 If you want the most polished,
+5:32 rock-solid, batteries included agent,
+5:35 Cloud Code still wins.
+5:37 Open Code trades convenience for
+5:39 control.
+5:40 And for the right person, that trade is
+5:41 a no-brainer.
+5:43 Getting started is one line. Install it
+5:45 with the script or with npm or homebrew.
+5:49 Drop into your project. Type open code.
+5:52 Run the connect command to add a
+5:54 provider.
+5:55 Then run in it to let it read your code
+5:57 base.
+5:59 Hit tab to switch between build mode and
+6:02 a read-only plan mode.
+6:03 That is it.
+6:05 You are now running an agent that you
+6:06 own.
+6:07 I package the whole thing into a free
+6:09 own your agent playbook.
+6:11 The install steps,
+6:13 the exact model swap setup,
+6:15 and a simple rent versus own checklist
+6:18 for picking your stack.
+6:19 Just comment the word own
+6:21 and I will send it straight to you.
+6:24 Or grab it at
+6:25 hyperautomationlabs.co/free/own.
+6:28 And if this saved you a subscription or
+6:30 a security headache,
+6:32 do me a favor and subscribe.
+6:34 I am on YouTube, Facebook, and
+6:36 Instagram,
+6:38 all under hyperautomationlabs, and I do
+6:40 the costly homework on this stuff so you
+6:41 don't have to.
+6:43 If you want to go further, my beginner
+6:45 guides are linked right below.
+6:47 Own your tools. I will see you in the
+6:49 next one.

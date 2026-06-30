@@ -1,0 +1,270 @@
+# Transcript: Build an AI Second Brain with Claude + Obsidian — Karpathy's LLM Wiki Method (Full Guide)
+# Channel: Hyperautomation Labs
+# Duration: 553s
+# Video ID: HuREI6lks4s
+
+0:00 Right now, your best ideas are
+0:01 scattered.
+0:02 Notes in one app, a hundred browser
+0:05 tabs, and a dozen Claude chats you
+0:07 closed and will never find again.
+0:09 So, every time you sit down to work, you
+0:11 rebuild everything from memory, and you
+0:13 forget most of it.
+0:15 What if there was one place that held
+0:17 everything you know?
+0:18 With Claude sitting on top of it,
+0:20 reading it, connecting it, and getting
+0:23 smarter every single day you use it.
+0:26 That is a second brain.
+0:28 Let me show you how to build one
+0:29 tonight.
+0:30 Here is the difference.
+0:31 A chat history rots.
+0:34 It is a transcript you scroll forever.
+0:37 A second brain compounds.
+0:39 You stop re-explaining yourself
+0:41 because the system already remembers who
+0:43 you are. Ask it anything you have ever
+0:45 written down, and it answers from the
+0:47 whole thing.
+0:48 The setup takes one evening, and unlike
+0:50 the chat history, this gets sharper
+0:53 every day.
+0:54 This is not a hack someone made up.
+0:57 Andrej Karpathy popularized it in April
+0:59 2026.
+1:01 In a post, he called it building LLM
+1:04 knowledge bases.
+1:05 And in a follow-up titled LLM Wiki,
+1:08 he laid out the pattern.
+1:10 A personal wiki of plain text notes that
+1:13 an LLM does not just search, but
+1:16 actively grows and interlinks for you.
+1:18 We are going to build exactly that.
+1:21 And I will spell out every click, even
+1:23 if you have never opened Claude code or
+1:25 Obsidian.
+1:26 Forget a long checklist.
+1:28 A second brain is just three layers.
+1:30 Layer one is storage, where your
+1:32 knowledge lives.
+1:33 Layer two is the brain, Claude, reading
+1:35 and connecting it.
+1:37 Layer three is autopilot, where it
+1:39 maintains itself while you sleep.
+1:42 Then one rule that keeps the whole thing
+1:43 safe.
+1:45 Get these three layers, and you have got
+1:46 it.
+1:47 Let us build layer one. Layer one is
+1:50 storage, and the tool is Obsidian, a
+1:52 free notes app. Here is why it matters.
+1:55 Everything is plain text files on your
+1:58 computer.
+1:59 Not in some company's cloud. The files
+2:01 are yours forever.
+2:03 And because it is just text, your brain
+2:05 is not locked to anyone AI.
+2:08 Point a different model at it next year,
+2:09 and it still works.
+2:11 You own the brain, not the tool.
+2:13 Notes link to each other, and over time,
+2:16 those links form a graph.
+2:17 A visible map of how your ideas connect.
+2:21 Setup is 2 minutes.
+2:23 Go to obsidian.md. Download it, open it,
+2:26 and click
+2:27 create new vault.
+2:29 Name it brain,
+2:30 pick a folder, hit create.
+2:33 That folder is your second brain.
+2:36 Now, the one mechanic you need.
+2:38 Make a note, type any word inside double
+2:40 square brackets, like goals,
+2:42 and it becomes a link.
+2:43 That is the whole game.
+2:45 Notes pointing at notes.
+2:47 Claude will do this linking for you
+2:48 automatically from here on.
+2:50 Layer two is the brain on top Claude. Go
+2:52 to claude.com/download.
+2:55 Install the desktop app, sign sign in,
+2:58 you will need a paid plan.
+2:59 Pro is $20 a month, and the free tier
+3:02 will not do this.
+3:03 Inside the app, you will see modes.
+3:06 Chat, co-work, and code.
+3:09 Open code.
+3:10 That is Claude code.
+3:12 The version that can actually read and
+3:14 write files on your computer.
+3:16 That is what makes a brain instead of a
+3:18 chatbot.
+3:19 Now, we connect Claude to the vault.
+3:21 Two small steps.
+3:23 First, in Obsidian, go to settings,
+3:26 community plugins, turn them on,
+3:28 browse, search local REST API, install,
+3:33 enable.
+3:35 Open its settings, and copy the API key,
+3:37 a long string.
+3:39 Leave Obsidian running. The door only
+3:41 works while it is open.
+3:43 Second, in Claude's code tab, paste the
+3:46 Claude MCP add JSON command with that
+3:48 key dropped in.
+3:50 One catch the guide gets wrong.
+3:52 Obsidian shows the key with the word
+3:53 bearer in front. Do not include that
+3:56 word, just the string after it.
+3:58 That wires Claude to your vault through
+4:00 MCP. Test it. Say, "List every file in
+4:03 my Obsidian vault."
+4:05 If it reads your notes back, you are
+4:06 connected. An empty brain is useless.
+4:09 So, load yourself in first.
+4:12 And do not type it all by hand.
+4:14 Make Claude interview you.
+4:16 You paste one prompt.
+4:18 Interview me one question at a time.
+4:21 Who I am, my goals, how I want you to
+4:23 talk to me, my strengths and weaknesses,
+4:26 my projects.
+4:28 Then write it all into a claude.md file
+4:30 at the vault root.
+4:31 Answer like you are briefing a new
+4:33 co-founder.
+4:34 When it is done, that file loads
+4:36 automatically every session. You never
+4:38 re-explain yourself again.
+4:39 Your claude.md is your strategy layer.
+4:43 Projects are where work actually
+4:45 happens.
+4:46 Each one its own folder.
+4:48 So, Claude focuses on a single job
+4:51 instead of your whole life at once. Have
+4:53 Claude build it. One project folder,
+4:56 four subfolders.
+4:58 Inputs, process, outputs, feedback.
+5:02 Plus, it's own claude.md describing the
+5:04 project's one goal. Now, the move that
+5:07 keeps it sharp.
+5:08 Do not work from the giant vault.
+5:11 Open just that project as its own vault.
+5:13 Manage vaults, open folder as a vault,
+5:16 trust. The big vault plans.
+5:19 A single project ships.
+5:21 Last piece of the brain.
+5:23 Skills.
+5:25 A skill is a saved workflow.
+5:28 Claude runs on command.
+5:30 Anything you do more than once becomes
+5:33 one.
+5:34 Writing client emails,
+5:36 prepping a video,
+5:38 categorizing bank statements.
+5:40 You show Claude how you do it once. It
+5:42 saves it as a markdown skill.
+5:44 And next time you just say,
+5:46 "Run the skill." and it executes your
+5:48 way instantly.
+5:50 You stop repeating yourself to the
+5:51 machine.
+5:52 Layer three is autopilot.
+5:55 Static notes are only half a brain.
+5:57 Connect what changes in real time.
+6:00 Add Google Calendar with one command.
+6:02 Claude MCP at Google Workspace UVX
+6:05 Workspace MCP Tools Calendar.
+6:08 Approve the Google sign-in, grant read
+6:10 access.
+6:11 Now, you can say read my calendar
+6:14 log what I committed to in each meeting
+6:16 into my tasks project
+6:18 and flag anything without a next step.
+6:20 Add Gmail, Slack Notion the same way.
+6:23 One habit.
+6:25 Grant read only wherever you can.
+6:29 The brain should read your world
+6:31 not delete it.
+6:32 Now, put it on autopilot for real.
+6:35 In Claude's desktop app, there is a
+6:37 routines page.
+6:38 Not a schedule tab, the guide gets that
+6:40 name wrong.
+6:41 Create a local schedule task.
+6:44 Set the folder to your vault,
+6:46 a daily 7:00 a.m. schedule, and an
+6:48 instruction.
+6:49 File anything new in inputs, link it,
+6:52 flag stale notes, and write me a
+6:53 three-line summary of what changed
+6:55 overnight.
+6:56 Or just tell Claude in any session to
+6:58 set it up.
+6:59 You wake up to a brain that filed itself
+7:01 while you slept.
+7:02 One rule you never break.
+7:03 Keys, not prompts.
+7:06 Telling an agent do not delete this
+7:09 is a suggestion,
+7:10 not a safety setting.
+7:12 If it can delete a file or send an
+7:14 email,
+7:15 assume one day it will.
+7:18 You do not control an agent with words.
+7:21 You control it with access.
+7:23 Read only scoped keys.
+7:26 That is the difference between people
+7:27 who play with AI agents
+7:29 and people who actually trust one with
+7:31 their life's work.
+7:33 Do not want to wire it from scratch?
+7:35 The open-source community already
+7:37 packaged the whole thing.
+7:38 Search these on GitHub.
+7:41 Claude Obsidian by Agri Daniel around
+7:43 8,000 stars.
+7:45 A self-organizing second brain on the
+7:47 Carpati pattern
+7:48 with presets for executive, builder,
+7:51 creator, researcher.
+7:53 Obsidian second brain
+7:55 by Eugenio Gilber.
+7:57 43 ready commands and it works across
+7:59 Claude, Codex, and Gemini.
+8:01 So, you are never locked in.
+8:03 And second brain starter by Cole Madden.
+8:06 It interviews you,
+8:07 generates a plan,
+8:09 then builds the whole thing.
+8:11 Clone one, then reshape it into your own
+8:13 private version.
+8:15 So, that is the build.
+8:17 Storage, brain, autopilot, and the one
+8:20 rule.
+8:21 Here is the part most people miss.
+8:24 A chatbot starts from zero every
+8:26 conversation.
+8:27 A second brain starts from everything
+8:30 you have ever told it.
+8:31 And tomorrow, it knows more than today.
+8:34 You're not using a tool anymore.
+8:36 You're growing an asset that compounds
+8:38 for the rest of your career.
+8:39 If this helped, do three things.
+8:42 Subscribe on YouTube and follow us on
+8:44 Instagram and Facebook. All linked
+8:46 below. Because we go this deep every
+8:49 week.
+8:50 Grab the free build checklist for this
+8:52 exact setup. The keyword is in the
+8:54 description and the pinned comment.
+8:56 And if you want to go pro, our paid
+8:58 guides go deeper on Claude code, OpenAI
+9:01 Codex,
+9:03 Nix, and AI sales, plus a full
+9:06 certification prep kit.
+9:08 Now, go build your brain.
+9:10 Future you is already thanking you.

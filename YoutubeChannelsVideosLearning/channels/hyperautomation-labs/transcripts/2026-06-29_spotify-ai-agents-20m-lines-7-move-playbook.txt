@@ -1,0 +1,282 @@
+# Transcript: How Spotify Runs AI Agents Across 20 Million Lines of Code (The 7-Move Playbook)
+# Channel: Hyperautomation Labs
+# Duration: 566s
+# Video ID: puKi4HuHjek
+
+0:00 Spotify just revealed how they run AI
+0:03 agents across a backend with more than
+0:05 20 million lines of code.
+0:07 73% of their pull requests are now AI
+0:11 authored. They ship to production around
+0:14 4 and 1/2 thousand times a day.
+0:16 And one of their most senior engineers
+0:18 with 30 years of experience threw out
+0:20 his code editor in 2 months.
+0:22 This isn't a hype reel.
+0:24 It's a working system
+0:26 explained by the people who actually
+0:29 built it.
+0:30 Spotify's VP of engineering and the
+0:32 creator of Claude Code himself.
+0:35 I broke it down into seven moves you can
+0:37 steal.
+0:38 Whether you're a solo developer or you
+0:40 run an entire engineering org. Let's get
+0:42 into it.
+0:43 >> Two months seemed extreme and then
+0:46 two months later I found myself not
+0:48 using an IDE anymore and like the the
+0:50 way that I was working had
+0:53 completely changed. It changed that I
+0:55 had not seen in the 30 years that I've
+0:57 been doing this.
+0:58 >> That was Niklas Gustafson a VP of
+1:00 engineering at Spotify
+1:02 being interviewed by Boris Cherny the
+1:05 creator of Claude Code at Anthropic.
+1:08 So nearly everything you'll hear comes
+1:11 straight from the source.
+1:12 Move number one.
+1:14 Stop treating your code base as a
+1:16 thousand separate chores.
+1:19 Five or six years ago Spotify's code was
+1:22 growing seven times faster than they
+1:24 could hire engineers.
+1:26 So they drowned in maintenance.
+1:28 Upgrading a Java version swapping one
+1:30 API for another.
+1:32 The same dull migration done by hand by
+1:35 hundreds of teams across thousands of
+1:37 repositories.
+1:38 Each one took months.
+1:40 They could finish maybe 10 a year.
+1:42 So instead of emailing every team a
+1:44 tutorial they built infrastructure to
+1:47 make a single change across the entire
+1:49 code base at once.
+1:50 They call it fleet management.
+1:52 Move number two.
+1:54 Know exactly where automation breaks.
+1:58 At first, they did these mass changes
+2:01 with deterministic scripts.
+2:02 Find this pattern,
+2:04 replace it with that one,
+2:06 and they merged millions of pull
+2:07 requests that way.
+2:09 But, they hit a hard ceiling.
+2:11 As Niklas says, "Code has an enormous
+2:14 API surface.
+2:16 The moment a method can be called five
+2:18 [snorts] different ways,
+2:20 your tidy little script explodes into
+2:23 thousands of lines chasing every edge
+2:25 case.
+2:26 That's the wall.
+2:28 And that's exactly where large language
+2:30 models stopped being a toy and became
+2:33 the answer.
+2:34 Their first attempts failed.
+2:36 They just dumped the code in front of
+2:37 the model and hoped.
+2:40 But, as the models improved, a real
+2:42 system started to emerge.
+2:44 >> Story slapped our back-end monorepo is
+2:47 more than 20 million lines of code. But,
+2:49 turns out it Claude works amazingly well
+2:51 in those repositories and
+2:54 um I think
+2:56 >> Move number three.
+2:57 Give your agents a real home in
+2:59 production.
+3:00 That system is called Honk.
+3:02 And architecturally, it's surprisingly
+3:04 simple.
+3:05 The Claude agent SDK
+3:08 running inside a Kubernetes pod.
+3:10 What makes it powerful is the tools you
+3:12 hand it.
+3:13 The most important one,
+3:14 the agent can run real CI builds on both
+3:17 Linux and macOS.
+3:19 So, it can verify its own work.
+3:22 That includes building and testing iOS
+3:24 apps in a simulator,
+3:25 and even turning Figma designs into
+3:27 working interfaces.
+3:29 In the latest version,
+3:31 engineers can plug in their own tools.
+3:33 And what began as a migration bot is now
+3:36 something everyone uses.
+3:38 You can just mention it in Slack and
+3:40 hand it a task.
+3:41 Move number four is subtle, but huge.
+3:44 Use scaffolding, then have the courage
+3:46 to delete it.
+3:47 Early on, the Honk agent wasn't reliable
+3:50 enough on its own.
+3:52 So, they added an LLM as a judge, a
+3:55 second model whose only job was to check
+3:57 the work.
+3:58 That one change took their success rate
+4:01 from roughly 20 or 30% up to 80%.
+4:05 But, here's the twist.
+4:06 Once Opus 4 and 5 arrived, they removed
+4:09 the judge entirely.
+4:11 The models had simply gotten good
+4:13 enough. The lesson?
+4:15 The scaffolding that saves you today can
+4:17 be dead weight tomorrow.
+4:19 Build it, lean on it, and let it go when
+4:21 the models catch up.
+4:23 Quick, honest interruption.
+4:25 Around 90% of you watching this right
+4:27 now haven't subscribed.
+4:30 If you're getting value out of this
+4:31 breakdown, just tap the subscribe
+4:33 button.
+4:34 I turn the best AI engineering talks
+4:37 into playbooks you can actually use.
+4:39 Okay, back back to it.
+4:41 >> It just needs to do a lot of work
+4:42 without a human in the loop.
+4:43 >> Yes.
+4:44 >> It is just the single most important
+4:45 thing.
+4:46 >> Yeah.
+4:46 >> And I I feel like one of the common
+4:48 mistakes I see is companies under invest
+4:50 in how well that verification loop
+4:52 works. I think
+4:53 >> That clip from Boris is move number
+4:55 five. And it's the one almost everyone
+4:58 under invests in.
+4:59 Verification.
+5:01 When you let an agent run on its own
+5:03 without a human watching every step, the
+5:05 quality of your verification loop is the
+5:07 entire game.
+5:09 Think about what Spotify actually
+5:11 committed to here.
+5:12 They auto merge most of these AI changes
+5:16 without a human ever laying eyes on the
+5:18 pull request.
+5:19 You cannot do that on hope.
+5:21 So, they had to dramatically strengthen
+5:24 their test automation
+5:25 so that their software could survive a
+5:28 constant stream of automated changes.
+5:31 The takeaway is blunt.
+5:34 Your agents are only ever as good as
+5:36 your ability to automatically check
+5:37 them.
+5:38 >> And this is just another example of how
+5:40 in engineering productivity is always
+5:42 about investing in infrastructure. It's
+5:44 not about working more hours. It's about
+5:46 just making the infrastructure better
+5:48 and better. And then that sounds
+5:49 >> Move number six flows right out of that.
+5:52 Speed and quality are not a trade-off.
+5:55 Most teams believe you can either move
+5:57 fast or be reliable.
+6:00 Pick one.
+6:01 Bores calls that a false dichotomy and
+6:03 Spotify is the living proof.
+6:06 The way you actually go faster is by
+6:08 encoding your quality practices
+6:10 so machine can run them.
+6:12 Bake them into a skill, a cloud dot MD
+6:15 file,
+6:16 a set of tools
+6:18 instead of leaving them in some senior
+6:19 engineer's head.
+6:21 The result?
+6:23 They keep their quality metrics flat
+6:25 while massively increasing their speed.
+6:27 4 and 1/2 thousand production deploys a
+6:29 day
+6:30 without lowering the bar.
+6:32 >> clear signals in that space. We're
+6:34 seeing a 75% plus improvement in PR
+6:37 frequency, for example,
+6:39 uh that we can directly attribute to AI
+6:42 tooling. And I think by now 73-ish
+6:45 percent of PRs are directly attributed
+6:48 to being AI-authored. Um
+6:51 >> Those numbers are move number seven in
+6:53 action.
+6:54 Standardize relentlessly.
+6:56 75% more pull requests,
+6:59 73% of them AI-authored across an org of
+7:03 around 2,900 engineers.
+7:07 So, what's Nicholas' top advice to other
+7:09 leaders?
+7:10 Not a fancy model or a secret prompt,
+7:12 just consistency.
+7:14 Spotify spent years standardizing their
+7:17 tools, frameworks, and code style
+7:19 originally to help humans.
+7:21 It turned out to be rocket fuel for
+7:23 agents.
+7:25 Because if your code is written 10
+7:27 different ways,
+7:28 cloud gets confused.
+7:30 The more consistent your code base, the
+7:32 better your agents perform.
+7:34 Boring consistency is a competitive
+7:36 advantage now.
+7:38 >> I can jump in the code bases that I that
+7:40 would have taken me days or weeks to get
+7:42 into before
+7:43 and be be contributing things that I
+7:46 just could not do before. So, for me
+7:48 that
+7:49 >> Which brings us to the part that matters
+7:50 most if you write code for a living.
+7:53 Niklas spent 30 years loving the craft
+7:55 of solving problems by hand.
+7:57 And he worried he'd miss it.
+8:00 Instead, he found the opposite.
+8:02 What he loves is solving problems.
+8:05 And the way he solves them turned out
+8:07 not to be the point.
+8:09 He can now jump into code bases that
+8:11 used to take weeks
+8:13 and ship things he simply couldn't
+8:15 before.
+8:16 And it's not just engineers.
+8:18 Spotify built an internal app store for
+8:20 prototypes
+8:22 where anyone can describe an idea in
+8:23 plain English
+8:25 and have Claude build a working version
+8:26 in an hour or two.
+8:28 People up to one of their co-CEOs have
+8:30 prototypes in there.
+8:32 An idea you can test in a day instead of
+8:34 waiting months.
+8:36 So, there's the playbook.
+8:38 Treat your code base as one surface.
+8:41 Know where scripts break.
+8:43 Give agents a home in production.
+8:45 Use scaffolding then delete it.
+8:48 Obsess over verification.
+8:50 Stop trading speed for quality and
+8:53 standardize everything.
+8:55 Seven moves
+8:56 from a company doing this at a scale
+8:58 almost no one else has reached.
+9:01 If this was valuable, subscribe. It
+9:03 genuinely helps.
+9:05 And if you're just getting started, I've
+9:07 made a beginner's guide to Claude code
+9:09 that gets you productive
+9:11 plus a Claude certified architect prep
+9:13 kit
+9:14 with a full mock exam to prove your
+9:16 skills.
+9:17 Both are linked in the description.
+9:19 Follow me on Instagram and Facebook,
+9:21 too.
+9:22 I'm Hyper Automation Labs and I'll see
+9:24 you in the next one.

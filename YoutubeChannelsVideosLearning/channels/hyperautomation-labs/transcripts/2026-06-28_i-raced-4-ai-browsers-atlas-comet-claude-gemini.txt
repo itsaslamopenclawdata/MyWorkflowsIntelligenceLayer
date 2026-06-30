@@ -1,0 +1,180 @@
+# Transcript: I Raced 4 AI Browsers — One Tried To Steal A Login Code (Atlas vs Comet vs Claude vs Gemini)
+# Channel: Hyperautomation Labs
+# Duration: 451s
+# Video ID: fWVo5IbrdfY
+
+0:00 Four different AIs can now take over
+0:02 your web browser, click around, fill out
+0:04 forms, and do your busy work while you
+0:06 watch. So, I lined up the four biggest
+0:08 ones and gave them the exact same
+0:09 annoying task. One of them genuinely
+0:12 impressed me. One quietly tried to do
+0:14 something it absolutely should not. And
+0:17 the most important lesson isn't who won.
+0:20 It's what happens when you hand a robot
+0:22 the keys to everything you're logged
+0:24 into. Let's race. Meet the grid. quick
+0:27 and honest because three of these four
+0:30 are not even the same kind of thing.
+0:32 Chat GPT Atlas is OpenAI's own web
+0:34 browser with an agent mode that clicks
+0:37 and types for you today. Mac only
+0:41 Comet is also a full browser and it's
+0:43 the people's champion here completely
+0:45 free on every platform.
+0:48 Claude in Chrome is different. It's an
+0:50 extension that drives the Chrome you
+0:51 already use. And Gemini in Chrome is
+0:54 Google quietly building this straight
+0:55 into the browser. two billion people
+0:56 already have. Here's the task with the
+0:59 kind of thing you'd actually want off
+1:01 your plate. Research three options for a
+1:04 trip. Pull the prices into a comparison
+1:08 and start filling the booking form.
+1:10 Multistep real websites. Real login. The
+1:15 scoring is simple. speed, how many steps
+1:18 it finished on its own, and whether it
+1:21 got the answer right, judged from real
+1:24 hands-on tests, and each tool's
+1:26 documented limits with sources on
+1:28 screen. Lights out. Off the line, Comet
+1:32 looks made for this. It reads across all
+1:36 your open tabs at once and pulls a clean
+1:39 sourcebacked comparison faster than
+1:42 anything else. This is its home
+1:45 research. Atlas is right there with it
+1:48 and it does something the others don't.
+1:49 It gets proactive, organizing the
+1:52 options into a ranked top three with
+1:54 pros and cons instead of just dumping
+1:56 links. Two browsers, two personalities,
+1:58 both moving fast. Cloud in Chrome takes
+2:01 the corner more carefully and on
+2:04 purpose. It asks before it does anything
+2:07 irreversible and it shines on the sites
+2:10 you live in. Gmail, Calendar, GitHub.
+2:14 Gemini in Chrome has the easiest start.
+2:17 It's just there in the browser. But the
+2:19 moment the task needs the real
+2:21 autonomous agent, it hits a wall for
+2:24 most people because that part is United
+2:27 States only and behind a paid plan and
+2:31 then everyone hits the same corner, the
+2:33 booking form. This is where these agents
+2:36 stall. Complex login and judgment calls
+2:39 are still the hard part. So, who wins on
+2:42 pure research and access? Comet takes
+2:45 the checkered flag. Free, fast,
+2:48 everywhere. Atlas wins on feeling like
+2:51 an assistant instead of a search box.
+2:53 But here's the honest finish line nobody
+2:55 puts on a thumbnail. None of them finish
+2:58 the whole thing cleanly. Independent
+3:00 tests put these agents somewhere around
+3:02 a 30% failure rate on genuinely new
+3:05 multi-step tasks. They are fast interns,
+3:08 not autopilot. Keep your hands near the
+3:11 wheel. Now, the part that actually
+3:13 matters and the part almost no one shows
+3:15 you because the scary thing about an
+3:18 agent that can use your browser is that
+3:20 it's logged in as you. It can see your
+3:23 email, your bank, your saved cards. So,
+3:26 security researchers ask the obvious
+3:28 question. What if a web page tells the
+3:30 agent to do something you never asked
+3:32 for? It's called prompt injection and it
+3:35 works. These aren't hypotheticals.
+3:38 Researchers at Brave showed a comet user
+3:41 asking it to summarize a Reddit post and
+3:44 hidden instructions inside that post
+3:46 made the agent open the user's email and
+3:48 steal a one-time login code. A separate
+3:51 attack nicknamed cometjing
+3:54 turned a single click on a crafted link
+3:56 into a pipeline that siphoned Gmail and
+3:59 calendar data.
+4:01 And on Atlas, an attack called tainted
+4:04 memories planted instructions that
+4:06 quietly fired again in later sessions.
+4:08 Different products, same root flow. The
+4:11 agent can't reliably tell your commands
+4:13 apart from a web pages commands. Here's
+4:15 the one genuinely encouraging thing. And
+4:18 credit where it's due. Antropic is the
+4:21 only one of these companies that
+4:23 publishes its own attack numbers out
+4:25 loud. They'll tell you their browser
+4:27 agent failed these attacks. 23.6% of the
+4:32 time and that hardening cut it to about
+4:35 11. Better not solved. And they say so
+4:38 plainly. No browser agent is immune to
+4:41 prompt injection. This is so real that
+4:45 in March 2026, a United States federal
+4:47 judge ordered Perplexity's agent to stay
+4:50 out of logged in Amazon. The courts are
+4:53 now refereeing this race. So here's the
+4:55 rule I'd tattoo on anyone using these.
+4:58 Never leave an agent running
+5:00 unsupervised on a tab where it's logged
+5:02 into your money or your email. Give it
+5:05 the boring stuff. Research, drafts,
+5:09 public pages. Watch it on anything that
+5:12 can spend, send or delete. The
+5:15 convenience is real. So is the blast
+5:18 radius. Now, one wild card because a lot
+5:21 of people lump it in here and it doesn't
+5:23 belong. OpenAI's codeex in Chrome is not
+5:26 a consumer browser. It's a coding agent
+5:29 that reaches into the Chrome you're
+5:30 already signed into. So, it can test and
+5:33 debug a real web app on sites that need
+5:35 a login, reading the console, the
+5:38 network tab, the page itself. If you're
+5:41 a developer, that's the most exciting
+5:43 one on this list. If you just want
+5:45 something to book a flight, it's the
+5:46 wrong tool. Same surface, the browser,
+5:49 totally different driver. So, honestly,
+5:51 which one? If you want the best free
+5:53 research browser, it's Comet. If you
+5:56 want a proactive assistant that feels
+5:58 like a person atlas, if you're on a Mac,
+6:01 if you live inside Gmail, GitHub, and
+6:03 Docs and want careful permissioned
+6:05 actions, Claude in Chrome. If you never
+6:08 want to switch browsers, Gemini is
+6:11 quietly coming to the Chrome you already
+6:12 have. And if you write code, Codeex,
+6:16 there's no single winner. There's a
+6:17 winner for you. or and that points at
+6:20 the real question, the one this whole
+6:22 race is actually about. You probably
+6:25 won't go download a brand new AI
+6:26 browser. But Google is putting this
+6:29 straight into Chrome and Microsoft into
+6:31 Edge, the browsers you already open
+6:33 every day. The standalone AI browsers
+6:36 might end up being the labs that prove
+6:37 the idea right before the giants quietly
+6:40 absorb it. The browser isn't getting an
+6:43 assistant. The browser is becoming the
+6:46 agent. I put the full scorecard and a
+6:49 onepage safety checklist into a free AI
+6:52 browser agent field guide. Which one to
+6:55 use for what and the exact rules to keep
+6:59 an agent from doing something dumb on
+7:00 your behalf.
+7:02 Comment the word race and I'll send it
+7:04 to you or grab it at
+7:06 hypermissionlabs.co/free/ra.
+7:10 And if this saved you from handing a
+7:11 robot your bank tab, do me a favor and
+7:14 subscribe. I am on YouTube, Facebook,
+7:17 and Instagram. All hyperamation labs
+7:21 doing the costly testing so you get the
+7:23 honest version. The beginner buildalong
+7:26 guides are linked right below. I'll see
+7:29 you at the next race.

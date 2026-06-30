@@ -1,0 +1,294 @@
+# Transcript: Top 10 YouTube Channels to Actually Learn AI in 2026 (I Watched 100+)
+# Channel: Hyperautomation Labs
+# Duration: 572s
+# Video ID: j9_kOtXMhQ0
+
+0:00 There are thousands of channels
+0:01 promising to teach you AI.
+0:03 Almost all of them are selling you hype
+0:06 or news you'll forget by Friday.
+0:09 I went through more than a hundred of
+0:11 them and ranked the ten that actually
+0:13 make you better.
+0:14 Not by subscriber count, by something I
+0:17 call skill per hour.
+0:19 How much can you genuinely do after
+0:21 watching?
+0:22 Number one is the single highest signal
+0:25 teacher alive. And full disclosure, one
+0:28 of these ten is my own channel. I'll
+0:30 tell you exactly which one and exactly
+0:32 who it's for. No games. Let's count
+0:35 down.
+0:36 Here's how I rank them because most AI
+0:38 lists are useless.
+0:39 I scored every channel on two things.
+0:42 Depth, do you actually understand what's
+0:44 happening under the hood?
+0:46 And hands-on,
+0:48 can you go build the thing today?
+0:50 The best channels are strong on one
+0:52 axis.
+0:53 The rare ones are strong on both.
+0:56 I also stayed honest about who each
+0:58 channel is wrong for.
+1:00 Because the right channel for a total
+1:02 beginner is the wrong one for someone
+1:04 shipping models.
+1:05 And yes, number ten is mine.
+1:08 So let's get my own bias out of the way
+1:10 first.
+1:11 Number ten, and the only one I'm biased
+1:13 about, is this channel. Hyper Automation
+1:16 Labs.
+1:17 It's the newcomer here, by far the
+1:19 smallest, and I'm not going to pretend
+1:22 otherwise.
+1:23 What it's for is narrow on purpose.
+1:25 Build along videos on cloud code, AI
+1:28 agents, and real automation you can copy
+1:30 the same day.
+1:32 No computer science degree required, no
+1:34 math lectures. Just here's the workflow,
+1:36 here's the result.
+1:38 If you want frontier research, the next
+1:40 nine channels crush mine.
+1:41 But if you want to
+1:44 ship an agent this weekend without a
+1:46 degree, Honesty over ego. Now, the nine
+1:49 giants.
+1:50 Number nine,
+1:52 Matthew Berman,
+1:53 around 600,000 subscribers.
+1:56 This is your channel for staying
+1:57 current.
+1:58 Every time a new model drops, he runs it
+2:01 through the same battery of tests live.
+2:03 So, you can see what actually improved
+2:05 instead of trusting a benchmark chart.
+2:08 He's also excellent on local language
+2:10 models and agent demos.
+2:11 Best for beginners and intermediates who
+2:13 want to keep up. The honest catch, it's
+2:16 driven by the news cycle,
+2:17 not a curriculum.
+2:19 You'll know what's new,
+2:21 but you won't get a structured path from
+2:22 zero.
+2:23 Pair it with a foundations channel and
+2:26 it shines.
+2:27 Number eight, Two Minute Papers, around
+2:30 1.8 million subscribers.
+2:32 Karoly's channel exists to keep you in
+2:34 awe of what AI can suddenly do.
+2:37 Each video highlights a new research
+2:39 result,
+2:40 often in graphics and simulation,
+2:42 with that famous line,
+2:43 "What a time to be alive."
+2:45 Best for beginners who want big picture
+2:48 inspiration
+2:49 and a feel for the frontier.
+2:51 Here's the honest part, and I'd be lying
+2:53 if I skipped it.
+2:55 It's awareness, not skill.
+2:58 You'll learn that a breakthrough exists,
+3:01 not how it works or how to build it.
+3:03 Watch it for motivation,
+3:05 then go somewhere deeper to actually
+3:07 learn.
+3:08 Number seven,
+3:09 AI Explained, around 400,000
+3:12 subscribers, and this is the antidote to
+3:15 hype.
+3:16 While everyone races to react first,
+3:18 Philip actually reads the papers, tests
+3:20 the claims,
+3:21 and digs into whether a benchmark means
+3:23 anything.
+3:25 He even built his own reasoning
+3:26 benchmark.
+3:27 Best for serious learners who want to go
+3:29 deeper than the headline.
+3:31 The catch is the trade you make for that
+3:33 rigor.
+3:35 The cadence is slow
+3:36 and the delivery is dense.
+3:38 This is not a what dropped today feed.
+3:41 It's the channel you watch when you want
+3:43 the truth,
+3:44 not the thumbnail.
+3:45 Number six,
+3:47 Cole Madden, around 200,000 subscribers,
+3:50 and this is the most 20 26 pick on the
+3:53 list.
+3:54 His whole channel is about building real
+3:57 AI agents
+3:58 end to end.
+4:00 Tools like N8N and LangGraph with the
+4:02 parts most tutorials skip.
+4:04 Cost, latency, and reliability.
+4:08 He ships actual working systems with the
+4:10 GitHub repos to match.
+4:12 Best for intermediate developers who
+4:14 want to build production grade agents
+4:15 now.
+4:16 The honest catch,
+4:18 agent tooling moves so fast that some
+4:20 builds date within months.
+4:22 But the architecture he teaches you
+4:24 outlives any single tool.
+4:26 Number five,
+4:27 Fireship.
+4:29 Around 4.2 million subscribers.
+4:31 And almost everyone in tech already
+4:33 knows that voice.
+4:35 The format is ruthless.
+4:37 A new model or tool
+4:39 explained at high speed in about 100
+4:41 seconds.
+4:42 Plus a weekly news roundup.
+4:44 There's no faster way to orient yourself
+4:46 and figure out
+4:48 what's even worth learning.
+4:49 Best for every level.
+4:51 Just for awareness.
+4:53 The honest catch, and he'd probably
+4:54 agree, this is orientation, not mastery.
+4:58 You won't learn machine learning here.
+5:01 You'll learn what exists,
+5:03 get a laugh, and know where to point
+5:05 your energy next.
+5:06 Number four,
+5:08 StatQuest with Josh Starmer.
+5:11 Around 1.6 million subscribers. And this
+5:14 is where the fundamentals finally click.
+5:17 Decision trees,
+5:19 gradient boosting,
+5:20 neural networks,
+5:22 the actual statistics and machine
+5:23 learning under everything
+5:25 broken into pieces so small they feel
+5:27 obvious.
+5:28 Then he yells, "Bam!"
+5:30 And somehow it sticks.
+5:33 Best for beginners and intermediates who
+5:35 were burned by math-heavy explanations.
+5:39 The catch, it's concepts only
+5:41 with a deliberately slow and repetitive
+5:43 pace.
+5:44 And no real production code.
+5:46 But for understanding why the algorithms
+5:48 work,
+5:49 almost nothing beats it.
+5:51 Number three,
+5:52 freeCodeCamp, around 11.7 million
+5:55 subscribers,
+5:56 and it might be the best deal in all of
+5:58 education.
+5:59 Full-length courses, often 3 to 10
+6:01 hours, completely free.
+6:04 No ads, no upsell.
+6:07 Machine learning, deep learning,
+6:09 language model app building,
+6:11 taught start to finish
+6:12 by guest instructors.
+6:14 Best for beginners and intermediates who
+6:17 want one complete course instead of 100
+6:20 scattered clips.
+6:22 The honest catch, because the
+6:23 instructors are guests, quality varies,
+6:26 and some older courses use library
+6:28 versions that have moved on.
+6:30 Check the upload date, then commit to
+6:31 one, and finish it.
+6:33 Number two,
+6:35 3Blue1Brown,
+6:36 around 8.4 million subscribers,
+6:39 made by Grant Sanderson.
+6:41 These are simply the most beautiful
+6:43 explanations of math ever put on the
+6:45 internet.
+6:46 His neural network series and the newer
+6:48 one on how attention and transformers
+6:50 actually work
+6:51 give you an intuition
+6:53 that no equation alone can.
+6:55 You don't memorize.
+6:57 You finally see it.
+6:58 Best for absolutely everyone,
+7:01 beginner to advanced.
+7:03 The only catch, it's a math channel, not
+7:05 an AI channel.
+7:07 No coding, no tooling, no build an app.
+7:09 So, pair it with a hands-on channel, and
+7:11 the two together are unstoppable.
+7:14 And number one, Andrej Karpathy,
+7:16 around 1.5 million subscribers,
+7:20 former director of AI at Tesla, a
+7:23 founding member of OpenAI,
+7:25 and the single highest signal teacher
+7:27 this field has.
+7:29 His series,
+7:30 neural networks,
+7:31 zero to hero,
+7:33 builds a working GPT from scratch,
+7:36 line by line,
+7:38 while he explains every single decision.
+7:41 When you finish it, large language
+7:43 models stop being magic
+7:46 and start being something you
+7:47 understand.
+7:48 Best for intermediate and advanced
+7:50 learners willing to put in real effort.
+7:53 The catch, he posts rarely. And he
+7:55 assumes you'll do the work.
+7:57 But hour for hour, there is nothing else
+7:59 like it on YouTube.
+8:00 If you watch one channel on this entire
+8:02 list, make it this one.
+8:04 So, here's the whole ladder in order.
+8:07 For pure intuition,
+8:09 3Blue1Brown and StatQuest.
+8:12 To finally master it from scratch,
+8:14 Karpathy.
+8:15 For complete free courses,
+8:17 freeCodeCamp.
+8:19 To orient fast and stay current,
+8:21 Fireship.
+8:22 Matthew Berman,
+8:24 Two Minute Papers,
+8:25 and AI Explained.
+8:27 To build real agents, Colab Median.
+8:31 And if you want Copy This Today,
+8:32 Automation Without the Degree,
+8:34 that's where I try to help.
+8:36 You don't need all 10.
+8:37 Pick the one that matches where you are
+8:39 right now, and actually finish it.
+8:42 If this saved you weeks of guessing, do
+8:44 two quick things.
+8:46 First, subscribe to Hyper Automation
+8:48 Labs
+8:49 on YouTube, Facebook, and Instagram. All
+8:52 the same name.
+8:53 I do the costly homework on AI,
+8:55 so you don't have to.
+8:57 Second, if you're just starting out,
+8:59 my beginner cloud code guide
+9:01 walks you from zero
+9:03 to your first working agent
+9:04 step-by-step.
+9:06 And if you want to get certified,
+9:08 my certification prep kit covers exactly
+9:10 what the exam tests.
+9:12 Both are linked below.
+9:13 I also made a free AI learning road map.
+9:16 Every channel from this video,
+9:18 plus the exact order to watch them in.
+9:20 Comment the word watch list, and I'll
+9:22 send it over.
+9:23 Or grab it at
+9:24 hyperautomationlabs.co/free/watchlist.
+9:27 Now, go pick your channel and press
+9:29 play.

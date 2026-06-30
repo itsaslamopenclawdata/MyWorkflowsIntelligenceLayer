@@ -2,11 +2,22 @@
 
 Auto-regenerated. One line per video, newest first. Sorted by published date, descending.
 
-**Last updated:** 2026-06-27 03:25 UTC
-**Total videos:** 135 across 13 channels
+**Last updated:** 2026-06-30 03:20 UTC
+**Total videos:** 146 across 13 channels
 
 | Date | Channel | Title | Duration | Video ID | Note |
 |------|---------|-------|----------|----------|------|
+| 2026-06-29 | Hyperautomation Labs | AI Engineering: The Complete Course (Everything in the #1 Book, Explained Simply) | 01:02:09 | [xc2B5Oi08Og](https://www.youtube.com/watch?v=xc2B5Oi08Og) | [note](channels/hyperautomation-labs/videos/2026-06-29_ai-engineering-complete-course-chip-huyen.md) |
+| 2026-06-29 | Hyperautomation Labs | Anthropic Built You a FREE AI Degree (I Reviewed All 18 Courses) | 00:19:22 | [q4k3OVq_XXU](https://www.youtube.com/watch?v=q4k3OVq_XXU) | [note](channels/hyperautomation-labs/videos/2026-06-29_anthropic-free-ai-degree-18-courses-reviewed.md) |
+| 2026-06-29 | Hyperautomation Labs | How Spotify Runs AI Agents Across 20 Million Lines of Code (The 7-Move Playbook) | 00:09:26 | [puKi4HuHjek](https://www.youtube.com/watch?v=puKi4HuHjek) | [note](channels/hyperautomation-labs/videos/2026-06-29_spotify-ai-agents-20m-lines-7-move-playbook.md) |
+| 2026-06-29 | Hyperautomation Labs | Ornith 1.0: A Coding AI That Beats Opus 4.7 — Free & 100% Local | 00:07:59 | [YVXVcEdDDS4](https://www.youtube.com/watch?v=YVXVcEdDDS4) | [note](channels/hyperautomation-labs/videos/2026-06-29_ornith-1-coding-ai-beats-opus-free-local.md) |
+| 2026-06-29 | Hyperautomation Labs | Paste Your Prompt TWICE: Google's Free Trick to Make AI Smarter (New Paper) | 00:08:19 | [lty3CUhGD-Q](https://www.youtube.com/watch?v=lty3CUhGD-Q) | [note](channels/hyperautomation-labs/videos/2026-06-29_paste-prompt-twice-google-research-trick.md) |
+| 2026-06-29 | Hyperautomation Labs | Everyone's RENTING Their AI Coding Agent — This FREE 180,000-Star One Lets You OWN It (OpenCode) | 00:06:51 | [3yx_wsa5O-A](https://www.youtube.com/watch?v=3yx_wsa5O-A) | [note](channels/hyperautomation-labs/videos/2026-06-29_opencode-free-own-ai-coding-agent-vs-cursor-claude.md) |
+| 2026-06-29 | Hyperautomation Labs | I Made Claude Code Improve ITSELF (It Never Repeats a Mistake) | 00:10:12 | [DFGk21iSFgY](https://www.youtube.com/watch?v=DFGk21iSFgY) | [note](channels/hyperautomation-labs/videos/2026-06-29_i-made-claude-code-improve-itself-reps.md) |
+| 2026-06-29 | Hyperautomation Labs | Build an AI Second Brain with Claude + Obsidian — Karpathy's LLM Wiki Method (Full Guide) | 00:09:13 | [HuREI6lks4s](https://www.youtube.com/watch?v=HuREI6lks4s) | [note](channels/hyperautomation-labs/videos/2026-06-29_ai-second-brain-claude-obsidian-karpathy-llm-wiki.md) |
+| 2026-06-29 | Hyperautomation Labs | Top 10 YouTube Channels to Actually Learn AI in 2026 (I Watched 100+) | 00:09:32 | [j9_kOtXMhQ0](https://www.youtube.com/watch?v=j9_kOtXMhQ0) | [note](channels/hyperautomation-labs/videos/2026-06-29_top-10-youtube-channels-learn-ai-2026.md) |
+| 2026-06-28 | Hyperautomation Labs | I Raced 4 AI Browsers — One Tried To Steal A Login Code (Atlas vs Comet vs Claude vs Gemini) | 00:07:31 | [fWVo5IbrdfY](https://www.youtube.com/watch?v=fWVo5IbrdfY) | [note](channels/hyperautomation-labs/videos/2026-06-28_i-raced-4-ai-browsers-atlas-comet-claude-gemini.md) |
+| 2026-06-28 | Hyperautomation Labs | I Found 5 Claude AI Side Hustles That Beat a Full-Time Salary | 00:08:55 | [ONMuae8Qkwk](https://www.youtube.com/watch?v=ONMuae8Qkwk) | [note](channels/hyperautomation-labs/videos/2026-06-28_i-found-5-claude-ai-side-hustles-beat-full-time-salary.md) |
 | 2026-06-27 | Hyperautomation Labs | 10 GitHub Repos Everyone Starred This Month (Free NotebookLM, 1.7B Free Tokens & More) | 10:25 | [9_0TTQAaS8M](https://www.youtube.com/watch?v=9_0TTQAaS8M) | [note](channels/hyperautomation-labs/videos/2026-06-27_10-github-repos-starred-this-month-free-notebooklm.md) |
 | 2026-06-26 | Vendasta | 3 AI Agents Agencies Can't Stop Selling (Clients Keep Asking for Them) | 8:40 | [y_RkciQrArA](https://www.youtube.com/watch?v=y_RkciQrArA) | [note](channels/vendasta/videos/2026-06-26_3-ai-employees-agencies-receptionist-reputation-social.md) |
 | 2026-06-26 | The Next New Thing | Free Wispr Flow, ElevenLabs & CapCut alternatives + more GitHub hits | 39:53 | [3Cni6_JubQk](https://www.youtube.com/watch?v=3Cni6_JubQk) | [note](channels/the-next-new-thing-ai/videos/2026-06-26_free-wispr-flow-elevenlabs-capcut-alternatives.md) |

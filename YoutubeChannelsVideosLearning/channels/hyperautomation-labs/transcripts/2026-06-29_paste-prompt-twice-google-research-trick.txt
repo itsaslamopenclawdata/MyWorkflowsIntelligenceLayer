@@ -1,0 +1,244 @@
+# Transcript: Paste Your Prompt TWICE: Google's Free Trick to Make AI Smarter (New Paper)
+# Channel: Hyperautomation Labs
+# Duration: 499s
+# Video ID: lty3CUhGD-Q
+
+0:00 What if I told you
+0:01 there's a one-line trick
+0:03 backed by a brand new Google research
+0:05 paper
+0:06 that makes AI give you noticeably better
+0:09 answers for free?
+0:11 No new model. No paid upgrade. No clever
+0:15 wording.
+0:16 You literally just paste your question
+0:18 twice.
+0:19 I know exactly how that sounds. It
+0:21 sounds like nonsense.
+0:22 But it's a real paper with real numbers,
+0:25 and there's a real reason it works.
+0:27 In the next few minutes, I'll show you
+0:29 what it is, why it works,
+0:31 the one situation where it backfires,
+0:33 and how to use it in about 10 seconds.
+0:36 Let's get into it.
+0:37 First, let's prove this is real
+0:41 because the internet is full of fake AI
+0:43 hacks.
+0:44 This comes straight from Google
+0:45 research.
+0:47 Three researchers, Leviathan, Kalman,
+0:50 and Matias,
+0:52 published it in December 2025.
+0:55 And the title is refreshingly blunt.
+0:58 Prompt repetition
+1:00 improves non-reasoning
+1:02 LLMs.
+1:04 The very first line of the abstract says
+1:06 it all.
+1:07 When not using reasoning,
+1:09 repeating the input prompt improves
+1:12 performance for popular models. Gemini,
+1:14 GPT, Claude, and DeepSeek without
+1:18 increasing the number of generated
+1:19 tokens or latency.
+1:21 Those are their words, not mine.
+1:23 Better answers, no extra cost.
+1:26 So, let's break down how it works.
+1:29 Here's the entire technique. And it
+1:31 really is this simple.
+1:33 Normally, you type your question and
+1:35 send it once. The trick is to send it
+1:37 twice.
+1:38 The exact same question
+1:41 copied and pasted back-to-back in the
+1:43 very same message.
+1:44 No saying, "Please repeat."
+1:46 No rephrasing.
+1:48 Just your prompt, and then your prompt
+1:50 again.
+1:52 The researchers write it like this.
+1:54 Take your query and turn it into your
+1:57 query.
+1:58 Followed immediately by your query. That
+2:00 is the whole move.
+2:01 Now, why on earth would that help?
+2:04 To understand why,
+2:05 you only need one fact about how these
+2:08 models read.
+2:09 A language model reads in one direction,
+2:13 left to right.
+2:14 Every word can only see the words before
+2:17 it.
+2:18 Never the words after.
+2:20 The paper calls this a causal model.
+2:23 Past tokens
+2:25 cannot attend to future tokens.
+2:27 Now, picture a multiple-choice question,
+2:30 where the answer options come before the
+2:32 question itself.
+2:33 While the model reads those options, it
+2:35 hasn't seen the question yet.
+2:37 So, it's judging them blind.
+2:39 Paste the prompt twice, and that flips.
+2:43 In the second copy,
+2:44 every word can now see the entire first
+2:47 copy.
+2:49 The options have finally seen the
+2:50 question.
+2:52 You've handed the model a second read.
+2:55 One where it already knows where it's
+2:57 going.
+2:58 That's the magic.
+2:59 Okay.
+3:00 But, does it actually work, or is it
+3:02 just a neat idea?
+3:04 They tested it properly.
+3:06 Seven popular models, including GPT-4o,
+3:11 Claude, Gemini,
+3:13 and DeepSeek, across a whole stack of
+3:16 standard benchmarks, like ARC,
+3:19 Open Book QA,
+3:21 MMLU Pro, and Grade School Math.
+3:25 And here is the headline result.
+3:27 Prompt repetition won 47 out of 70 tests
+3:33 with zero losses.
+3:35 Read that again.
+3:36 Zero losses.
+3:38 It either helped, or it did nothing.
+3:40 It basically never made things worse.
+3:43 And the single biggest jump, one Google
+3:45 model went from 21% accuracy
+3:49 all the way to 97% on a recall task,
+3:52 Just from pasting the prompt twice.
+3:55 That 21 to 97 leap is exactly where that
+3:59 viral 76% headline comes from.
+4:01 Now, the objection you should be having.
+4:04 Doesn't sending the prompt twice cost
+4:07 twice as much and run slower?
+4:10 Almost not at all. And here's the part
+4:14 nobody explains.
+4:16 A model handles your prompt in two
+4:17 phases. First, it reads your input.
+4:20 That part is fast and cheap because it
+4:23 reads all of your words in parallel at
+4:25 once.
+4:26 Then, it writes the answer.
+4:28 That's the slow, expensive part
+4:30 because it generates one word at a time.
+4:33 Pasting your prompt twice only grows the
+4:36 cheap, fast reading part.
+4:38 The answer is exactly the same length as
+4:40 before.
+4:41 So, you pay a sliver more on the cheap
+4:43 half and almost nothing extra in
+4:45 waiting.
+4:47 That's why the paper can say
+4:49 "No increase in generated tokens and no
+4:51 real added latency."
+4:53 About as close to free as it gets.
+4:56 But, here's the one thing you cannot
+4:58 skip
+4:59 or you'll think the trick is broken.
+5:01 It only helps when the model is not
+5:04 reasoning.
+5:05 If you're using a thinking model or
+5:08 extended thinking or you told it to
+5:11 think step by step,
+5:13 pasting twice does almost nothing.
+5:15 The paper tested that, too.
+5:18 With reasoning on, repetition
+5:20 one
+5:21 just five out of 28 tests
+5:24 and even lost one.
+5:26 Why?
+5:27 Because a reasoning model already
+5:29 restates and rereads your question on
+5:30 its own.
+5:31 You'd be doing something it already
+5:33 does.
+5:34 So, save this trick for the fast stuff.
+5:37 Quick factual questions, classification,
+5:40 multiple choice,
+5:41 tagging, pulling data out of text.
+5:44 That is where it shines.
+5:46 So, here's you actually use this
+5:48 starting today.
+5:50 Take your prompt.
+5:52 Copy it. Paste it again right
+5:54 underneath.
+5:55 Send.
+5:56 That's the entire thing.
+5:58 10 seconds.
+5:59 It helps the most when your options or
+6:02 your context come before your question.
+6:05 Which is exactly the weak spot the paper
+6:07 found.
+6:08 And while we're handing out free wins
+6:10 from the research,
+6:11 here are two more.
+6:13 One,
+6:14 put your most important instruction at
+6:16 the very top or the very bottom of your
+6:19 prompt.
+6:20 Models pay the most attention to the
+6:21 start and the end, and they lose things
+6:24 buried in the middle.
+6:25 Two,
+6:26 keep your prompt clean.
+6:28 The more junk you stuff in, the worse
+6:30 the model gets.
+6:32 Paste twice, anchor the edges,
+6:34 cut the clutter.
+6:36 Three,
+6:37 free upgrades, $0.
+6:39 Two quick, honest caveats so this
+6:41 doesn't trip you up. First,
+6:44 this is a trick for short and medium
+6:45 prompts.
+6:47 If your prompt is already enormous,
+6:49 doubling it can blow past the limit or
+6:51 actually slow things down.
+6:53 So, don't repeat a giant wall of text.
+6:56 Second,
+6:57 how much it helps depends on the model
+6:59 and the task.
+7:00 Some jumps are huge, some are tiny.
+7:03 But remember the headline.
+7:05 Across all of those tests with reasoning
+7:08 off, it almost never hurt.
+7:11 So, the smart move is simple.
+7:13 Try it on your own prompts and keep it
+7:15 wherever it wins.
+7:16 So, that's the trick.
+7:18 Paste your prompt twice when reasoning
+7:20 is off
+7:21 and get measurably better answers
+7:24 for basically free straight from a
+7:26 Google paper.
+7:27 If that was useful,
+7:29 do me one favor
+7:31 and subscribe.
+7:32 I read this research so you don't have
+7:34 to
+7:35 and break down the AI science you can
+7:37 actually use every week for free.
+7:40 I also package this into a one-page
+7:42 cheat sheet.
+7:43 The paste twice template, the start and
+7:46 end rule, and the lean prompt rule, all
+7:50 copy-paste ready.
+7:52 Comment the word twice on this video,
+7:54 and I'll send it straight to you.
+7:56 And if you want to go further, there are
+7:58 two guides in the description.
+8:00 A beginner's guide to get you running
+8:01 fast, and an architecture guide for
+8:04 building serious AI systems the right
+8:06 way.
+8:07 Subscribe on YouTube, follow me on
+8:09 Instagram, and follow the page on
+8:12 Facebook.
+8:13 I'm Hyper Automation Labs.
+8:15 Paste it twice, and I'll see you in the
+8:17 next one.

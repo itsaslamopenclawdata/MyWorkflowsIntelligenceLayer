@@ -1,0 +1,718 @@
+# Transcript: (Podcast) Microsoft Frontier Fine Tuning and the Future of Corporate AI
+# Channel: Eddy Says Hi #EddySaysHi
+# Duration: 1286s
+# Video ID: UhUykPmuQEM
+
+0:01 [snorts]
+0:03 [music]
+0:06 >> Imagine if
+0:07 uh your company's greatest competitive
+0:10 advantage
+0:11 wasn't its flagship product or its
+0:13 patents or even, you know, the executive
+0:15 team.
+0:16 >> Right, the stuff everyone usually
+0:17 focuses on.
+0:18 >> Exactly. Imagine if your ultimate edge
+0:20 was hidden inside the thousands of
+0:22 mundane
+0:23 everyday Teams messages your employees
+0:26 send to each other.
+0:27 >> Oh, wow.
+0:28 >> Yeah. Like the quick workarounds people
+0:30 use when a process completely fails or
+0:32 just the unwritten rules of how your
+0:33 business actually functions.
+0:35 >> The stuff that never makes it into the
+0:36 employee handbook.
+0:37 >> You nailed it. And today on the Deep
+0:39 Dive, we are looking at something that
+0:41 is fundamentally shifting the ground
+0:43 beneath the corporate world
+0:45 because it taps into exactly that hidden
+0:47 knowledge.
+0:47 >> It really is a massive shift.
+0:50 >> We're working from an incredibly timely
+0:51 piece of source material today for you.
+0:53 It's an article by industry analyst Josh
+0:55 Bersin from June 2026.
+0:57 >> Right, the enormous potential for
+0:59 Microsoft frontier fine-tuning.
+1:01 >> That's the one. And our mission for you
+1:03 today is simple, but uh it's massive in
+1:06 its implications. We are going to map
+1:08 out the sheer scale of the shift
+1:10 happening in enterprise AI right now.
+1:12 >> Moving entirely away from those generic
+1:14 off-the-shelf bots.
+1:15 >> Exactly. Moving toward highly
+1:17 customized, localized AI that literally
+1:21 absorbs a company's unique DNA.
+1:25 Okay, let's unpack this.
+1:25 >> Well, it is a critical distinction to
+1:27 make right out of the gate because what
+1:29 Bersin is describing in this analysis
+1:30 isn't just another software update.
+1:32 >> Right.
+1:33 >> It's not like uh getting a new user
+1:35 interface for your email client. We are
+1:37 looking at a fundamental change in how
+1:39 corporate knowledge is preserved and
+1:41 structured and applied.
+1:43 >> Which is huge because historically AI
+1:45 has basically been a static tool.
+1:47 >> Yeah, like a calculator or a search
+1:49 engine, but we are moving to AI as a
+1:52 dynamic entity that learns, grows, and
+1:54 effectively becomes a digital mirror of
+1:56 your specific organization.
+1:58 >> And that phrase Person uses, "becomes
+2:00 your company," is what really grabs you.
+2:02 >> It's a bold claim.
+2:03 >> It really is. Because when you think
+2:05 about an AI agent deployed in a business
+2:07 setting, say one that handles employee
+2:09 IT tickets or basic recruitment
+2:11 questions,
+2:12 >> you usually picture a system with a
+2:14 really rigid, pre-programmed set of
+2:16 rules.
+2:17 >> Right.
+2:18 It answers frequently asked questions by
+2:21 basically pulling text from a static
+2:24 PDF.
+2:24 >> Exactly.
+2:25 >> But Person is outlining a system that
+2:28 continuously gets smarter about the
+2:30 unique quirks of your specific company
+2:33 over time.
+2:34 And that introduces a crucial concept,
+2:37 tacit knowledge.
+2:38 >> Yeah, tacit knowledge is essentially the
+2:40 holy grail of corporate value. I mean,
+2:43 think about it in the context of your
+2:44 own workplace.
+2:45 >> Oh, absolutely.
+2:46 >> It's the unwritten historic experiences,
+2:48 the cultural behaviors, the highly
+2:51 specific risk management processes,
+2:53 >> the how we actually do business around
+2:55 here, reality.
+2:56 >> Yes, exactly. The stuff no one ever
+2:58 bothers to write down in a formal
+2:59 manual, but everybody operating in
+3:01 building just implicitly knows.
+3:03 >> Because that nuance is a company's true
+3:05 competitive advantage.
+3:07 >> Without a doubt.
+3:07 >> it's the difference between hiring
+3:09 someone who just memorized the employee
+3:10 handbook versus someone who actually
+3:12 absorbs the unwritten company culture by
+3:14 living it every day.
+3:15 >> That's a great way to look at it.
+3:17 >> Like the person who memorized the
+3:18 handbook knows what the official dress
+3:20 code is.
+3:20 >> Mhm.
+3:21 >> But the person who absorbed the tacit
+3:23 culture knows which vice president
+3:25 actually cares about the dress code.
+3:26 >> Right, and which one never enforces it.
+3:28 >> Exactly.
+3:29 >> Well, if we connect this to the bigger
+3:31 picture, tacit knowledge has
+3:33 historically been the absolute hardest
+3:36 thing for technology to capture.
+3:38 >> I can imagine.
+3:38 >> For decades, massive software companies
+3:40 have poured billions into building
+3:42 knowledge management systems to lock
+3:44 down this institutional wisdom, and they
+3:47 almost always fail.
+3:49 >> Because you simply can't easily put
+3:51 human culture and intuition into a
+3:53 spreadsheet.
+3:54 >> Exactly.
+3:55 But Bersin points to a fascinating case
+3:57 study in his article that shows how this
+3:59 is changing. He actually took his own
+4:01 company's proprietary research database.
+4:03 >> they call Galileo Intelligence, right?
+4:05 >> Yeah, that massive repository. And he
+4:07 fed it directly into Microsoft Copilot.
+4:10 >> Wow.
+4:10 >> And the system didn't just index the
+4:12 files, it ingested and retrained itself
+4:15 on their specific intellectual property.
+4:17 >> And the results he reports are wild.
+4:20 Bersin notes that the Microsoft HR team
+4:22 tested this specific Galileo-tuned
+4:25 implementation.
+4:26 >> And they didn't just find it marginally
+4:28 faster.
+4:28 >> No, they found it astoundingly more
+4:30 useful.
+4:31 And crucially, they trusted it more.
+4:34 >> Because it wasn't just giving a generic
+4:35 corporate answer.
+4:36 >> Exactly.
+4:38 When this tuned AI answered a complex
+4:40 human resources question, it actively
+4:42 cited knowledgeable internal sources
+4:45 from Bersin's specific methodology.
+4:48 >> It effectively turned the Copilot into a
+4:50 world-class HR business partner.
+4:52 >> And a management consultant, really.
+4:53 Tailored precisely to their way of
+4:55 thinking.
+4:55 >> But capturing that level of nuanced
+4:57 culture, uh it requires a completely
+5:00 different mechanism for learning
+5:01 underneath the hood.
+5:02 >> Right, it's not just a basic search
+5:03 function.
+5:04 >> No, the traditional approach of pointing
+5:06 an AI at a database of your company's
+5:08 old files is no longer sufficient.
+5:10 >> Because culture is a living thing,
+5:11 right?
+5:11 >> Precisely.
+5:13 If tacit knowledge is constantly
+5:14 evolving, a standard AI that merely
+5:17 reads a static document from 2 years ago
+5:19 is instantly outdated.
+5:21 >> It just can't keep up.
+5:22 >> It cannot keep up with a living culture
+5:24 without a structural shift in how it
+5:25 processes information.
+5:27 >> Okay, but wait. I'm stuck on something
+5:29 here.
+5:30 If we are talking about how the AI
+5:32 accesses information, the article
+5:35 heavily mentions the Microsoft Graph
+5:37 connector.
+5:37 >> Yes, it does.
+5:38 >> And Bersin explicitly notes that the
+5:40 Graph connector already lets Copilot see
+5:43 and use your SharePoint files, your
+5:45 >> Word documents, your Outlook emails.
+5:47 >> And Work IQ data, too.
+5:49 >> Right, which tracks how employees
+5:50 actually spend their time and interact
+5:52 with documents.
+5:53 >> Yeah.
+5:54 >> So, if the AI can already see literally
+5:56 all of our files, emails, and behavioral
+5:58 data, why isn't that enough?
+6:00 >> That's a fair point to bring up.
+6:02 >> Why do we need some entirely new
+6:04 learning structure if the AI already has
+6:06 a VIP pass to everything we've ever
+6:08 written?
+6:09 >> gets to the absolute core of the
+6:10 technological shift Bersin is
+6:12 highlighting here. The fundamental issue
+6:14 with interfaces like the graph connector
+6:16 is that they are not tightly integrated
+6:17 into the neural network of the agent
+6:19 itself.
+6:20 >> Oh, I see.
+6:20 >> Yes, the AI can see your SharePoint
+6:23 data, but looking at data is not the
+6:25 same as learning from human feedback
+6:26 loops.
+6:27 >> So, it's looking, but not absorbing.
+6:29 >> Right. It's the difference between
+6:31 reading a textbook on driving versus
+6:33 having an instructor correct your
+6:35 steering in real time.
+6:37 >> Oh, that makes sense. So, you're saying
+6:38 the graph connector just lets it read
+6:39 the map, but it doesn't teach it how to
+6:41 navigate traffic.
+6:42 >> Precisely. The older approach, and by
+6:45 old in AI terms, we mean what was
+6:47 standard just last year.
+6:49 >> Right, which is wild to think about.
+6:51 >> Yeah, but that older approach relies
+6:54 heavily on rag, retrieval augmented
+6:56 generation.
+6:57 >> Okay.
+6:58 >> In a standard RAG implementation, the AI
+7:01 is essentially acting as a super fast
+7:03 librarian.
+7:04 >> Fetching books.
+7:05 >> Exactly.
+7:06 You ask a question, the AI runs into
+7:09 your company's digital library via that
+7:11 graph connector, fetches the relevant
+7:13 document, pulls out a paragraph, and
+7:15 reads it back to you.
+7:15 >> So, it's retrieving context from an
+7:17 external database.
+7:18 >> Yes, but it is not changing its own
+7:20 internal mathematical understanding of
+7:23 the world. It doesn't permanently alter
+7:24 its internal weights.
+7:25 >> not actually getting smarter, it's just
+7:27 getting faster at fetching.
+7:29 >> Exactly. It doesn't train the system
+7:31 itself.
+7:32 What Bersin says we are moving toward is
+7:35 a reinforcement learning environment.
+7:37 >> Which Microsoft heavily showcased at
+7:39 Build 2026 in San Francisco, right?
+7:41 >> Yes. Frontier Tuning learns autonomously
+7:43 from real-world user feedback using a
+7:46 process called reinforcement learning
+7:47 from human feedback. Or RLHF.
+7:50 >> RLHF.
+7:52 >> When a human interacts with the system
+7:53 and accepts or rejects its suggestion,
+7:56 the system receives a reward signal.
+7:58 >> Oh, wow.
+7:59 >> And that signal actually alters the
+8:00 neural network's internal weights. It
+8:03 fundamentally re-wires the model's logic
+8:05 based on how humans are reacting to it
+8:06 in the real world.
+8:07 >> Berson gives a really intense,
+8:09 high-stakes example of this in action
+8:12 with Microsoft's internal agent for
+8:13 crisis management.
+8:15 >> and it's a perfect illustration.
+8:16 >> Because initially this crisis agent
+8:18 worked perfectly well for standard
+8:19 situations. But then the wars in Ukraine
+8:21 and Iraq escalated.
+8:23 >> And suddenly this crisis management
+8:24 agent was facing entirely unprecedented,
+8:27 highly chaotic problems.
+8:29 >> Problems that required deep human
+8:30 empathy and complex logistical
+8:32 reasoning.
+8:33 >> We're talking about employees lacking
+8:35 internet access, having no cell service.
+8:37 >> Families urgently needing physical
+8:39 relocation across borders.
+8:41 >> Right. Think about how a standard RLS
+8:43 system handles that.
+8:45 >> Not well, I imagine.
+8:46 >> It searches the old HR policy documents,
+8:49 realizes there is no pre-written
+8:51 protocol for a massive
+8:52 telecommunications blackout in an active
+8:55 war zone, and essentially outputs, "I'm
+8:57 sorry, I cannot help you. Please call
+8:59 the help desk."
+9:00 >> Right. But because this crisis agent was
+9:02 using autonomous reinforcement learning,
+9:05 it didn't just hit a wall.
+9:06 >> Exactly.
+9:07 >> As human crisis managers on the ground
+9:09 started generating new protocols and
+9:11 rejecting unhelpful suggestions from the
+9:13 AI.
+9:14 >> Like if the AI suggests an evacuation
+9:17 route, but the human manager rejects it
+9:19 because a bridge is out.
+9:20 >> Right. The AI actively re-wired its
+9:22 understanding. It dynamically updated
+9:24 itself based on those human-in-the-loop
+9:26 corrections, so it never made the same
+9:27 mistake twice.
+9:28 >> It absorbed the rapidly changing tacit
+9:31 knowledge of surviving a crisis.
+9:33 >> That is incredible.
+9:34 >> And this technical necessity, the need
+9:36 for a deeply integrated, constantly
+9:39 updating feedback loop that rewires the
+9:41 model, leads directly into what Burson
+9:44 describes as Microsoft's incredibly
+9:46 aggressive new business strategy.
+9:48 >> Because if you're going to deploy an AI
+9:51 that literally absorbs your company's
+9:53 deepest, most sensitive operational DNA,
+9:55 you have to be absolutely certain about
+9:57 who owns that DNA.
+9:58 >> And where it lives.
+9:59 >> Right. Which means we have to talk about
+10:01 the massive corporate war for IP
+10:03 protection.
+10:04 >> Yes, we do.
+10:05 >> Satya Nadella made a keynote speech at
+10:07 his CEO Council that completely
+10:10 re-frames the value proposition of AI
+10:12 for the enterprise.
+10:13 >> He argued that the true value of an AI
+10:15 model doesn't come from taking a
+10:16 generalized model and sharing it online
+10:19 with millions of other users.
+10:20 >> Right. The ultimate value lies in an AI
+10:22 model's absolute uniqueness to your
+10:24 specific company.
+10:25 >> And cultivating that uniqueness requires
+10:27 an environment with ironclad security.
+10:29 >> Absolutely.
+10:30 >> if your model is learning your
+10:31 proprietary secrets, your unwritten
+10:33 recipes, your R&D failures, your
+10:34 financial forecasting methods,
+10:36 >> you cannot have that data traveling over
+10:38 the open internet to a third-party
+10:40 server to be processed.
+10:42 >> You just can't risk it.
+10:43 >> Here's where it gets really interesting.
+10:45 Burson introduces this concept of MS
+10:48 Copilot's new harness interface.
+10:50 >> The harness, yes.
+10:51 >> It's less like a standard software
+10:53 platform and more like a high-security
+10:55 corporate kitchen.
+10:56 >> That's a great analogy.
+10:58 >> Microsoft is providing this sealed,
+11:01 localized environment, the harness.
+11:04 And they tell enterprise companies,
+11:05 "Look, you can bring your own
+11:06 ingredients."
+11:07 >> Right. You can bring your rented OpenAI
+11:09 or Anthropic models in here to cook
+11:11 with.
+11:11 >> Exactly. But, we are providing a sealed,
+11:15 air-gapped frame where none of your
+11:17 secret recipes can leak out the window.
+11:19 And by the way, if you don't want to use
+11:20 those rented tools, check out these
+11:22 seven brand-new, highly specialized
+11:24 Microsoft tools we just built for you to
+11:26 own outright.
+11:27 >> What's fascinating here is the sheer
+11:29 scale of the strategic maneuvering
+11:31 Microsoft is executing to dominate the
+11:34 secure space.
+11:35 >> It's huge.
+11:35 >> Mustafa Suleyman, the CEO of Microsoft
+11:38 AI, announced these seven new Microsoft
+11:41 models, which are completely optimized
+11:43 for specific business use cases rather
+11:46 than general consumer chatting.
+11:49 >> Right, because for a long time
+11:50 Microsoft's binding contract with OpenAI
+11:53 actually prevented them from developing
+11:55 their own cutting-edge foundational
+11:56 models to compete directly.
+11:58 >> But that restriction is lifted.
+12:00 >> So Microsoft is now aggressively racing
+12:02 to build rivals to Anthropic's Claude
+12:05 and OpenAI's GPT models.
+12:06 >> And Suleyman was completely blunt about
+12:08 the financial motivation behind this
+12:10 race.
+12:10 >> Oh, completely.
+12:11 >> He openly stated that Microsoft
+12:13 currently pays a massive amount of money
+12:15 to Anthropic, and their immediate goal
+12:17 is to reduce and ultimately eliminate
+12:19 that external cost by having their own
+12:21 in-house models.
+12:22 >> But from the perspective of the
+12:23 enterprise customer, you know, the CEO,
+12:25 the CTO listening to this right now, the
+12:27 appeal of these new Microsoft models
+12:29 isn't just about helping Microsoft save
+12:31 money.
+12:31 >> No, it's about data sovereignty.
+12:33 >> Exactly. Person notes that these new
+12:35 Microsoft models are clean.
+12:37 >> And that clean distinction is the
+12:39 linchpin for widespread corporate
+12:41 adoption.
+12:42 >> Because when we say clean, we mean the
+12:44 architecture and the training data are
+12:46 thoroughly licensed and legally vetted.
+12:49 >> They're not built by scraping
+12:51 copyrighted internet content, which
+12:53 carries massive legal liability.
+12:55 >> Think about the strategic importance for
+12:57 a pharmaceutical R&D team.
+12:58 >> Right, they are dealing with highly
+13:00 confidential compound structures and
+13:02 clinical trial data every single day.
+13:05 >> They need to use these fine-tuned
+13:07 reinforcement learning models on their
+13:09 proprietary data without the paralyzing
+13:12 fear of IP leakage.
+13:14 >> Because the alternative is genuinely
+13:16 terrifying for a business leader.
+13:18 >> It really is. And Person draws a very
+13:20 sharp contrast here with Anthropic's
+13:22 Claude.
+13:22 >> He points out the mechanism of how
+13:24 Anthropic handles user data.
+13:26 >> Right, if an enterprise user doesn't
+13:28 explicitly remember to dive into the
+13:30 settings and uncheck a specific data
+13:32 learning box, everything they input is
+13:34 available to Anthropic.
+13:35 >> It can potentially be used in their
+13:37 broader training data.
+13:38 >> Which means it could eventually be
+13:39 surfaced or leaked to your direct
+13:41 competitors.
+13:42 >> And the mechanism of the Microsoft
+13:43 harness strategy completely eliminates
+13:46 that variable.
+13:47 >> It just takes the risk off the table.
+13:49 >> It allows IT and HR teams to tune,
+13:53 optimize, and personalize the system
+13:55 entirely within their own localized
+13:57 walled garden.
+13:58 >> Because the processing happens within
+14:00 your secure server boundaries.
+14:02 The data never physically leaves your
+14:04 building to go to a public cloud.
+14:06 >> It comprehensively solves the trust
+14:08 issue.
+14:09 >> Which is huge.
+14:09 >> But theoretical security architectures
+14:12 and clean licensing, well, while
+14:14 essential for getting past the legal
+14:15 department, are only half the battle.
+14:18 >> Right. Businesses ultimately only adopt
+14:20 technology that actively impacts the
+14:22 bottom line and improves performance.
+14:25 >> Exactly.
+14:25 >> Which brings us to the real-world proof.
+14:27 We aren't just talking about abstract
+14:29 architectures or theoretical IP
+14:31 protection anymore.
+14:32 >> No, we have actual examples.
+14:34 >> Berson gives us a look at highly
+14:35 customized, fine-tuned models operating
+14:38 in actual, high-stakes corporate
+14:40 environments.
+14:41 >> He provides two very different but
+14:43 equally powerful implementations.
+14:45 >> Let's start with the first one.
+14:46 >> The first is in healthcare. The Mayo
+14:48 Clinic is working with Microsoft tools
+14:50 to build a new frontier model for
+14:52 healthcare.
+14:53 >> Okay.
+14:53 >> Now, this model isn't just a generic
+14:56 medical dictionary that spits out WebMD
+14:58 definitions.
+14:59 >> Right.
+15:00 >> It is structurally designed to go deep
+15:02 into the real, proven clinical practices
+15:05 that work specifically at the Mayo
+15:06 Clinic.
+15:07 >> So, it's capturing medical tacit
+15:08 knowledge.
+15:09 >> Precisely. Diagnosing a complex patient
+15:11 isn't just about reading a chart.
+15:13 >> Right. There's so much more to it.
+15:14 >> It involves a senior physician's
+15:16 intuition, the specific diagnostic
+15:19 workflows the Mayo Clinic has developed
+15:20 over decades, and nuanced risk
+15:23 assessments.
+15:24 >> And this model captures that localized
+15:26 expertise.
+15:26 >> Yeah, applying the same principles of
+15:28 the HR fine-tuning we discussed earlier,
+15:31 but redirecting it toward patient care
+15:33 and clinical operational efficiency.
+15:35 >> That is an incredible application. But
+15:37 this second example Burst highlights is
+15:39 the one that really stopped me in my
+15:41 tracks.
+15:41 >> Well, I know which one you're talking
+15:42 about.
+15:42 >> Because it deals with a completely
+15:44 different kind of complexity.
+15:46 Land O'Lakes.
+15:47 >> The butter company?
+15:48 >> The butter company. They utilized
+15:50 Microsoft's new reasoning model, which
+15:52 is called MAI thinking one, to automate
+15:55 tasks in their butter formulation
+15:57 process.
+15:58 >> The juxtaposition of cutting-edge AI
+16:01 reasoning models and butter formulation
+16:03 might sound amusing at first.
+16:05 >> It really does.
+16:05 >> But industrial food production is
+16:07 astronomically complex.
+16:09 >> Oh, I'm sure.
+16:10 >> Formulating butter at a massive scale
+16:12 isn't a static recipe. You are dealing
+16:14 with milk fat content that varies by
+16:17 season.
+16:17 >> Right, weather impacts on the cows.
+16:19 >> Exactly. Shifting moisture content
+16:21 requirements and wildly fluctuating
+16:23 supply chain variables.
+16:25 >> Right, and standard large language
+16:26 models aren't great at that. Standard
+16:28 LLMs just predict the next most likely
+16:31 word based on patterns.
+16:32 >> Yes.
+16:33 >> But this MAI thinking one is a reasoning
+16:36 model, which means it is designed to
+16:37 actually pause and compute multi-step
+16:40 logic before it spits out an answer.
+16:42 >> It has to balance all those variables
+16:43 you just mentioned.
+16:44 >> And how did Land O'Lakes actually train
+16:46 it to understand their specific butter
+16:48 process?
+16:49 >> This is the best part.
+16:50 >> They used frontier fine-tuning to
+16:51 customize a localized copy of MAI
+16:54 thinking one. They fed it thousands of
+16:56 internal documents.
+16:58 But not just the official formulation
+16:59 manual.
+17:00 >> No, they fed it their internal team's
+17:02 messages.
+17:03 >> Which is wild. They fed it Outlook
+17:06 emails that human engineers and supply
+17:09 chain managers had written to each other
+17:10 over the years.
+17:11 >> That is perhaps the ultimate extraction
+17:13 of tacit knowledge we've seen so far.
+17:15 >> Truly.
+17:16 >> An email between two frustrated
+17:18 engineers arguing over how to adjust the
+17:20 moisture content during a sudden
+17:22 heatwave contains far more practical
+17:25 battle-tested wisdom than a pristine
+17:27 theoretical operating manual.
+17:29 >> Lovely.
+17:29 >> By feeding the AI the daily mundane
+17:32 conversations of the people who actually
+17:34 make the butter, the system absorbed the
+17:37 unvarnished reality of the process.
+17:39 >> And the result of doing this?
+17:40 >> It's pretty staggering.
+17:41 >> Microsoft senior product manager Tanay
+17:43 Yadav revealed that this
+17:45 hyper-customized butter-obsessed version
+17:48 of MAI Thinking 1 was not only more
+17:50 accurate at solving formulation
+17:52 problems, it was 10 times more
+17:53 cost-efficient to run than OpenAI's
+17:56 generalized GPT-5.5 model.
+17:58 >> 10 times.
+17:59 >> So, what does this all mean?
+18:00 >> Well, it is the ultimate mathematical
+18:02 and operational validation of the entire
+18:04 frontier tuning concept.
+18:06 >> It really is.
+18:06 >> It proves that you don't always need to
+18:08 call upon a massive general-purpose
+18:10 behemoth model.
+18:12 A model that spends immense computing
+18:14 power knowing how to write a
+18:16 Shakespearean sonnet and code in Python
+18:18 just to figure out a localized supply
+18:20 chain issue with milk fat.
+18:22 >> Right, it's overkill.
+18:22 >> A highly specialized AI, one that is
+18:25 deeply ingrained in a company's specific
+18:28 historical workflows and trained on its
+18:30 actual daily communications,
+18:32 fundamentally changes the game.
+18:33 >> It really does.
+18:34 >> It isn't just safer from an IP
+18:36 standpoint because it lives in a secure
+18:37 harness, it physically outperforms the
+18:40 generic models on the tasks that
+18:42 actually matter to that company, and it
+18:43 requires vastly less compute power doing
+18:46 it at a fraction of the cost.
+18:47 >> 10 times more cost-efficient.
+18:49 >> Right.
+18:50 >> talking about enterprise scale, running
+18:52 thousands of queries a minute, a 10x
+18:54 cost reduction is the kind of metric
+18:56 that makes entire global industries
+18:58 pivot overnight.
+19:00 >> Oh, absolutely.
+19:00 >> It changes the fundamental economics of
+19:02 deploying artificial intelligence.
+19:04 >> Precisely. And that economic reality,
+19:06 paired with the structural security, is
+19:08 why Burson concludes that Microsoft's
+19:11 strategic direction here is so solid.
+19:13 >> Makes total sense.
+19:14 >> They aren't just selling a chatbot
+19:16 product. They are providing the
+19:18 foundational infrastructure for
+19:19 companies to digitize their own
+19:21 operational souls safely, accurately,
+19:23 and economically.
+19:25 >> Okay, we have covered a massive amount
+19:27 of ground today.
+19:28 >> We really have.
+19:28 >> We started by exploring how enterprise
+19:30 AI is shifting away from being a generic
+19:34 off-the-shelf tool and evolving into an
+19:36 entity that actively absorbs a company's
+19:38 unwritten tacit knowledge.
+19:41 >> A huge leap forward.
+19:43 >> We broke down the mechanics of how
+19:44 reinforcement learning and human
+19:46 feedback loops allow these systems to
+19:48 dynamically rewire themselves, moving
+19:50 far beyond the simple data retrieval of
+19:53 standard already setups.
+19:54 >> Leaving the super fast librarian behind.
+19:57 >> Exactly. We navigated Microsoft's
+19:58 aggressive strategic move to build the
+20:00 secure harness and launch its own clean,
+20:02 fully licensed models to protect
+20:04 corporate IP from public leakage.
+20:05 >> The walled garden approach.
+20:07 >> saw the tangible proof, how feeding
+20:09 mundane Teams messages to a specialized
+20:11 reasoning model can result in an AI that
+20:13 is 10x cheaper and significantly better
+20:15 at formulating butter than the massive
+20:17 GPT 5.5.
+20:19 >> Which is still just wild to me.
+20:21 >> It is incredibly clear that the era of
+20:23 one-size-fits-all AI is rapidly closing,
+20:27 replaced by the age of
+20:28 hyper-personalized, deeply integrated
+20:31 enterprise AI.
+20:32 >> This raises an important question.
+20:33 >> It absolutely does, and I want to leave
+20:35 you, our listener, with a thought to
+20:38 mull over as you step away from this
+20:40 deep dive.
+20:40 >> Something to really think about.
+20:41 >> If a secure AI agent successfully maps
+20:44 all of your company's historical tacit
+20:47 knowledge,
+20:48 and if it continuously uses
+20:49 reinforcement learning to perfectly
+20:52 optimize those existing practices, what
+20:54 happens when your company needs to
+20:56 fundamentally pivot?
+20:58 If the market changes entirely, could a
+21:00 perfectly fine-tuned AI unintentionally
+21:03 become the ultimate source of
+21:04 institutional inertia, trapping a
+21:06 company in the logic of its own past
+21:08 successes.
+21:08 >> That is a fascinating problem. How do
+21:10 you teach a machine to purposefully
+21:12 disrupt the very culture it was
+21:14 meticulously designed to protect?
+21:16 >> Think about that.
+21:17 Thank you for joining us on this deep
+21:19 dive.
+21:25 >> [music]

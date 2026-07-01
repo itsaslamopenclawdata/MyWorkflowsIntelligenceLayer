@@ -2,11 +2,20 @@
 
 Auto-regenerated. One line per video, newest first. Sorted by published date, descending.
 
-**Last updated:** 2026-06-30 03:20 UTC
-**Total videos:** 146 across 13 channels
+**Last updated:** 2026-07-01 06:08 UTC
+**Total videos:** 155 across 13 channels
 
 | Date | Channel | Title | Duration | Video ID | Note |
 |------|---------|-------|----------|----------|------|
+| 2026-06-30 | Eddy | Ultimate Guide to AI Agent Observability and Production Monitoring 2026 | 09:57 | [DevAyoh_4bU](https://www.youtube.com/watch?v=DevAyoh_4bU) | [note](channels/eddy/videos/2026-06-30_ultimate-guide-ai-agent-observability-production-monitoring-2026.md) |
+| 2026-06-30 | Eddy | Microsoft Frontier Fine Tuning and the Future of Enterprise AI | 08:14 | [GNX-TkyFsyk](https://www.youtube.com/watch?v=GNX-TkyFsyk) | [note](channels/eddy/videos/2026-06-30_microsoft-frontier-fine-tuning-future-enterprise-ai.md) |
+| 2026-06-30 | Eddy | Master LLM Evaluation with LLM as a Judge using Langfuse | 08:44 | [QhrLzKbYaGM](https://www.youtube.com/watch?v=QhrLzKbYaGM) | [note](channels/eddy/videos/2026-06-30_master-llm-evaluation-llm-as-judge-langfuse.md) |
+| 2026-06-29 | Eddy | (Podcast) The Rise of Autonomous Business with Gemini Enterprise Agent Platform | 22:13 | [-rQLg7xU9WM](https://www.youtube.com/watch?v=-rQLg7xU9WM) | [note](channels/eddy/videos/2026-06-29_podcast-rise-autonomous-business-gemini-enterprise.md) |
+| 2026-06-29 | Eddy | (Podcast) Microsoft Frontier Fine Tuning and the Future of Corporate AI | 21:26 | [UhUykPmuQEM](https://www.youtube.com/watch?v=UhUykPmuQEM) | [note](channels/eddy/videos/2026-06-29_podcast-microsoft-frontier-fine-tuning.md) |
+| 2026-06-29 | Eddy | (Podcast) Microsoft Strategic Migration from Azure DevOps to GitHub | 19:15 | [VzLgrWTd-v0](https://www.youtube.com/watch?v=VzLgrWTd-v0) | [note](channels/eddy/videos/2026-06-29_podcast-microsoft-strategic-migration-azure-devops-github.md) |
+| 2026-06-29 | Eddy | Gemini Enterprise Agent Platform The Next Wave of AI Agents | 08:47 | [v2icKBU0ssc](https://www.youtube.com/watch?v=v2icKBU0ssc) | [note](channels/eddy/videos/2026-06-29_gemini-enterprise-agent-platform.md) |
+| 2026-06-28 | Eddy | Mastering Claude Cowork Best Practices for Productivity and Task Delegation | 06:18 | [SiBKYJD-JGc](https://www.youtube.com/watch?v=SiBKYJD-JGc) | [note](channels/eddy/videos/2026-06-28_mastering-claude-cowork-best-practices.md) |
+| 2026-06-28 | Eddy | New Era of AI Agents with Microsoft Foundry Hosted Agent Service | 07:32 | [bvCjyj2YZT8](https://www.youtube.com/watch?v=bvCjyj2YZT8) | [note](channels/eddy/videos/2026-06-28_new-era-ai-agents-microsoft-foundry-hosted.md) |
 | 2026-06-29 | Hyperautomation Labs | AI Engineering: The Complete Course (Everything in the #1 Book, Explained Simply) | 01:02:09 | [xc2B5Oi08Og](https://www.youtube.com/watch?v=xc2B5Oi08Og) | [note](channels/hyperautomation-labs/videos/2026-06-29_ai-engineering-complete-course-chip-huyen.md) |
 | 2026-06-29 | Hyperautomation Labs | Anthropic Built You a FREE AI Degree (I Reviewed All 18 Courses) | 00:19:22 | [q4k3OVq_XXU](https://www.youtube.com/watch?v=q4k3OVq_XXU) | [note](channels/hyperautomation-labs/videos/2026-06-29_anthropic-free-ai-degree-18-courses-reviewed.md) |
 | 2026-06-29 | Hyperautomation Labs | How Spotify Runs AI Agents Across 20 Million Lines of Code (The 7-Move Playbook) | 00:09:26 | [puKi4HuHjek](https://www.youtube.com/watch?v=puKi4HuHjek) | [note](channels/hyperautomation-labs/videos/2026-06-29_spotify-ai-agents-20m-lines-7-move-playbook.md) |

@@ -1,0 +1,226 @@
+# Transcript: New Era of AI Agents with Microsoft Foundry Hosted Agent Service
+# Channel: Eddy Says Hi #EddySaysHi
+# Duration: 452s
+# Video ID: bvCjyj2YZT8
+
+0:01 [snorts]
+0:03 [music]
+0:06 >> Hey everyone and welcome. Let's jump
+0:08 right into this explainer. If you've
+0:10 been working in the AI space lately, you
+0:12 absolutely know the adrenaline rush of
+0:14 finally getting an AI agent working
+0:16 perfectly on your local machine. But,
+0:19 you also know the absolute dread that
+0:21 immediately follows when you realize you
+0:23 actually have to put that fragile agent
+0:25 into production. Today, we're unpacking
+0:27 four major Microsoft Foundry updates
+0:30 that take those local prototypes and
+0:32 turn them into robust, production-ready
+0:34 powerhouses. We are going from friction
+0:37 to flow and the updates we're covering
+0:38 today are absolutely going to change the
+0:40 way you build.
+0:41 Look at this statement right here.
+0:43 Building AI agents is easy. Scaling them
+0:46 is a nightmare. Man, that hits a little
+0:48 too close to home, doesn't it? Crafting
+0:50 the actual intelligence of an agent, you
+0:52 know, tweaking that perfect system
+0:53 prompt, hooking up your tools, that's
+0:55 genuinely the fun part. It feels kind of
+0:57 easy. But, as the source material we're
+0:59 looking at today validates, crafting the
+1:01 brain is only half the battle. The other
+1:03 half, keeping it alive, stable, and
+1:05 secure out in the real world is where
+1:07 the real headache begins.
+1:09 So, let's get into it. Section one, the
+1:12 AI production headache. Just take a look
+1:15 at this laundry list of infrastructure
+1:16 hurdles. These are all the
+1:18 non-intelligence tasks we developers are
+1:20 forced to manage just to get an agent
+1:22 off the ground. You've got
+1:23 containerization and infrastructure,
+1:25 building images, pushing them to
+1:26 registries, then there's security and
+1:28 identity provisioning to prevent data
+1:30 leaks, plus state dynamically scaling
+1:33 compute so you aren't burning cash on
+1:34 idle time, observability, and continuous
+1:37 evaluation. It is an exhausting
+1:39 operational load. But, this is exactly
+1:41 where the Foundry Agent Service steps
+1:42 in. It gives you a hypervisor-isolated
+1:45 sandbox, a dedicated file system,
+1:47 automatic Entra ID provisioning, and
+1:48 built-in open telemetry. Basically, it
+1:51 takes this entire list completely off
+1:52 your plate.
+1:53 Moving right along to section two,
+1:56 deploy code, not containers.
+1:58 Okay, so we've got a stark bold contrast
+2:01 here between the old way and the new
+2:02 way. On the left, the old way, building
+2:05 container images, pushing them to Azure
+2:07 container registries, manually
+2:08 configuring everything. Sure, it gives
+2:11 you control, but it introduces so much
+2:12 unnecessary friction, especially when
+2:14 you're just trying to iterate. On the
+2:16 right is the new way, and it's
+2:18 brilliant. You literally just zip your
+2:20 Python or .NET project and upload it
+2:22 directly to the Foundry agent service.
+2:24 The platform will either install your
+2:26 dependencies on the fly. That's remote
+2:28 {underscore} build mode, or it'll just
+2:30 run your pre-bundled output directly. It
+2:32 natively supports Python and .NET,
+2:34 completely bypassing all that heavy
+2:36 lifting with container registries.
+2:38 Honestly, the most crucial number to
+2:40 remember here is two. If you're using
+2:42 the Azure developer CLI, AZD, it now
+2:45 takes exactly two commands to go from
+2:48 source code to a fully active secure
+2:50 agent. You just run AZ init to get your
+2:53 configuration files, and then AZ deploy
+2:55 to handle the packaging, the upload, and
+2:57 the deployment. That's it. No crazy curl
+3:00 commands, no messy token management,
+3:02 just two simple commands, and you're
+3:03 live.
+3:05 Next up, section three, built-in safety
+3:08 guardrails.
+3:09 Think about what this definition
+3:11 actually means in practice. An
+3:13 integrated safety layer that blocks
+3:15 harmful inputs and filters unsafe
+3:18 outputs in real time. Before this
+3:20 update, if you wanted your agent to be
+3:22 safe and responsible, you had to build
+3:24 custom middleware from scratch. You had
+3:26 to stand up a separate endpoint,
+3:28 intercept all the requests, handle the
+3:30 nightmare of streaming edge cases. It
+3:32 was a huge chore. Now, content safety is
+3:35 just integrated directly into the
+3:37 runtime. Every single prompt that comes
+3:39 in, and every single response that goes
+3:41 out, is evaluated on the fly. It is
+3:44 absolute table stakes safety work
+3:46 automatically handled for you.
+3:48 All right, section four, real-time voice
+3:50 integration.
+3:52 We now have a completed protocol triad
+3:54 for hosted agents. At the top, there's
+3:56 the standard responses protocol for your
+3:58 normal conversational stuff. In the
+3:59 middle, HTTP invocations for webhooks
+4:02 and structured JSON. But, the real
+4:04 game-changer is that bottom row right
+4:06 there, invocations via websocket. This
+4:08 gives you a persistent bidirectional
+4:10 connection. It totally eliminates that
+4:12 clunky, latency-inducing overhead of
+4:14 constant HTTP handshakes. By pairing
+4:16 this websocket protocol with frameworks
+4:18 like Pipe Cat, Live Kit, or Voice Live,
+4:20 your agent can natively hear and speak
+4:22 in real-time. We're talking about a
+4:23 whole new class of customer service
+4:25 applications where every single
+4:26 millisecond matters.
+4:28 Moving to section five, the automated
+4:31 agent optimizer.
+4:33 I absolutely love this quote from the
+4:35 source material. Live and production
+4:37 ready aren't the same thing, and the gap
+4:39 shows up quickly. It is so true. Your
+4:43 live customer support agent might forget
+4:45 to ask for an order number, or it starts
+4:46 offering advice it really shouldn't.
+4:48 Fixing that usually means manually
+4:50 tweaking the system prompt, testing it
+4:52 by hand, and just praying you didn't
+4:53 accidentally break something else.
+4:55 When you are managing multiple
+4:56 enterprise agents, this manual tweaking
+4:58 becomes a massive, crippling bottleneck.
+5:02 So, here is how the agent optimizer
+5:03 solves that bottleneck using a
+5:05 closed-loop cycle. Step one, it
+5:07 evaluates your agent's baseline against
+5:09 defined pass-fail criteria. Step two,
+5:12 based on what failed, it actually
+5:14 generates new candidate configurations.
+5:16 Step three, it evaluates those new
+5:19 candidates against the same tasks. Step
+5:21 four, it ranks the results and
+5:23 recommends the best one, showing you
+5:25 token costs and everything. And finally,
+5:27 step five, you deploy the winner with
+5:29 one click. The craziest part, it
+5:31 generates and ranks these new configs in
+5:33 minutes with zero model retraining or
+5:35 manual code changes required. So, what
+5:38 exactly is this thing optimizing? It
+5:40 targets four key areas. It can
+5:42 automatically rewrite your instructions,
+5:44 so your system prompts. It optimizes
+5:46 skills, generating reusable
+5:47 troubleshooting steps. It tests
+5:49 different models to find the best
+5:51 quality to cost ratio for your specific
+5:53 workload, and it even refines your tool
+5:55 descriptions so your agent knows exactly
+5:57 how to hit external APIs.
+5:59 Now, you might be thinking, "What if I
+6:01 don't even have a data set to evaluate
+6:02 against yet?" They actually thought of
+6:04 that. The new eval init command solves
+6:06 the cold start problem by generating a
+6:08 data set and evaluation criteria
+6:10 straight from your existing agent
+6:12 instructions. It's totally brilliant.
+6:14 And lastly, section six,
+6:16 the road to GA. Let's look at what's
+6:18 coming.
+6:19 The timeline leading up to general
+6:20 availability in June 2026 is just
+6:23 packed. We're going to see support for
+6:24 private Azure container registries
+6:26 inside your own virtual networks,
+6:28 managed VNet support, and expanded
+6:30 regions for all that real-time voice
+6:31 stuff. But honestly, the feature I'm
+6:33 most hyped about is durable,
+6:35 long-running agents. Soon, hosted agents
+6:38 will actually survive container crashes,
+6:40 handle redeployments seamlessly, and
+6:41 persist state across multi-session turns
+6:43 with automatic recovery.
+6:45 The platform is just going to inherently
+6:47 remember context without you needing to
+6:49 wire up complex back-end databases
+6:50 yourself.
+6:51 And that leaves us with one really
+6:53 exciting, high-contrast question. The
+6:55 infrastructure is handled. What will
+6:57 your agent do next? From bypassing
+7:00 containers entirely with two simple
+7:01 commands to that built-in content
+7:03 safety, real-time voice WebSockets, and
+7:06 the automated optimizer,
+7:08 all that deployment friction is just
+7:09 gone. The heavy lifting is done. The
+7:12 only limit now is the logic you actually
+7:14 want to build. Thanks so much for
+7:16 joining me for this explainer. I really
+7:17 hope this sparks some serious
+7:19 inspiration for your next project. Get
+7:21 out there, start building, and we'll see
+7:22 you next time.

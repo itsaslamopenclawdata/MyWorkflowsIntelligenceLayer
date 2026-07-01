@@ -1,0 +1,634 @@
+# Transcript: (Podcast) Microsoft Strategic Migration from Azure DevOps to GitHub
+# Channel: Eddy Says Hi #EddySaysHi
+# Duration: 1155s
+# Video ID: VzLgrWTd-v0
+
+0:01 [snorts]
+0:03 [music]
+0:06 >> Imagine being forced to, you know, pack
+0:08 up and migrate something like 4,000
+0:11 code repositories.
+0:12 >> Yeah.
+0:13 >> And doing it all in just 6 months.
+0:14 >> Right, which is just what?
+0:16 >> It is. You pull off this absolute
+0:18 logistical miracle only to find out that
+0:20 the developers you supposedly did it for
+0:22 are, well,
+0:24 threatening an absolute revolt.
+0:28 >> Welcome to today's deep dive where we're
+0:30 looking at a situation where a polished
+0:33 corporate strategy and a really brutal
+0:35 user reality violently collide.
+0:38 >> Yeah, we have a really interesting
+0:39 primary source today. It's a June 2026
+0:42 post on the official Azure DevOps blog
+0:44 titled "How Microsoft Is Migrating
+0:46 Repositories to GitHub".
+0:48 >> And it's written by a Microsoft partner
+0:49 director.
+0:50 >> Exactly. In the top half of this post,
+0:52 it reads like a textbook victory lap. I
+0:54 mean, they move massive amounts of
+0:55 infrastructure at lightning speed to
+0:57 unlock the future of AI.
+0:59 >> But then you scroll down.
+1:00 >> Oh, yeah. You scroll down to the
+1:01 unfiltered comment section and the
+1:03 developer community is just not having
+1:05 it. They're accusing Microsoft of forced
+1:06 double licensing, fracturing basic
+1:08 workflows, you name it. The friction on
+1:10 the page is just incredible. I mean,
+1:13 both sides are looking at the exact same
+1:15 technical migration, but they're
+1:17 experiencing two completely different
+1:18 realities.
+1:19 >> Totally different worlds, yeah.
+1:21 >> So, our mission for this deep dive is to
+1:23 decode the mechanics of this move.
+1:26 We really want to figure out why
+1:27 Microsoft is abandoning Azure DevOps,
+1:30 which by the way, we'll just call ADO
+1:32 for short, for GitHub.
+1:33 >> Right.
+1:34 >> And how they are technically executing a
+1:36 migration of this scale without, you
+1:38 know, breaking their own products. Plus,
+1:40 why the people who actually write code
+1:42 for a living are so anxious about it.
+1:44 >> Okay.
+1:45 >> Okay, let's unpack this. We need to
+1:47 establish the sheer scale of the
+1:49 migration we're talking about here.
+1:50 >> Yeah, and to really understand the
+1:52 community's anxiety later on, we first
+1:55 have to understand the massive catalyst
+1:57 behind this whole strategy.
+1:58 >> Which is AI.
+1:59 >> Always AI these days, right? The blog
+2:01 post focuses on an internal Microsoft
+2:03 group called the CAP organization.
+2:05 >> And CAP stands for Copilot, Agents, and
+2:07 Platforms.
+2:08 >> Exactly. These are the people building
+2:11 the AI tools and business services we
+2:13 use every day.
+2:14 And before this migration, they were
+2:16 operating across roughly 4,000 active
+2:19 repositories.
+2:20 >> That's a lot of code.
+2:21 >> It's massive. But here's the kicker.
+2:24 Those repos weren't in one place. They
+2:27 were fragmented across 53 separate Azure
+2:30 DevOps organizations.
+2:31 >> 53 separate silos.
+2:34 >> Mhm.
+2:34 >> I mean, from an administrative
+2:35 standpoint, having your code fractured
+2:37 across that many different permission
+2:39 boundaries just sounds like a total
+2:41 nightmare.
+2:42 >> Oh, absolutely.
+2:42 >> Like if I'm an engineer on team A and I
+2:44 need to see how team B solved a similar
+2:46 problem, I probably don't even have the
+2:47 login credentials to see their
+2:49 repository.
+2:50 >> You definitely don't. In that kind of
+2:51 fragmentation, it actively hurts code
+2:54 discovery and collaboration. But, you
+2:55 know, Microsoft isn't undertaking this
+2:58 colossal effort just to clean up their
+3:00 organizational chart.
+3:01 >> Right, there's a bigger reason.
+3:02 >> The core justification for moving
+3:04 everything to GitHub is to get earlier
+3:06 access to what they call agentic
+3:08 capabilities.
+3:09 >> Agentic capabilities? I mean, it sounds
+3:11 like a corporate buzzword.
+3:12 >> It does, but the blog post details a
+3:14 very specific shift. They want tools
+3:17 like the GitHub Copilot coding agent,
+3:19 Copilot code review, and Copilot chat to
+3:22 be natively embedded exactly where the
+3:25 code lives.
+3:26 >> Here's where it gets really interesting.
+3:27 It's almost like um imagine you're
+3:29 moving your entire company from a
+3:31 perfectly good, functional office
+3:33 building to a brand new one across town.
+3:36 And the only reason you're doing it is
+3:38 because the new building has these
+3:39 incredibly advanced robotic assistants
+3:42 physically built into every single desk.
+3:44 >> That's actually a great analogy. And
+3:46 what's fascinating here is that
+3:47 historically, choosing where to host
+3:49 your code, it was just an infrastructure
+3:51 decision.
+3:52 >> Like how much storage do we get? What's
+3:53 the uptime?
+3:53 >> Exactly. Storage, uptime, access
+3:55 control. But this migration signals that
+3:58 repository location is now a strategic
+4:00 AI native decision.
+4:02 >> Wow.
+4:02 >> You need your code sitting on the
+4:03 platform that has the absolute best AI
+4:06 engine built directly into the
+4:07 floorboards, so to speak.
+4:08 >> Because they want AI to show up
+4:10 seamlessly in the developer's daily
+4:11 flow, like in VS Code, the CLI, mobile
+4:14 apps, rather than just being some
+4:15 disconnected add-on.
+4:16 >> Precisely. And the post describes
+4:19 creating a digital workforce. And
+4:22 they don't just mean, you know, a
+4:23 chatbot that suggests a line of code
+4:25 while you type.
+4:26 >> Like basic autocomplete.
+4:28 >> Right. They're talking about autonomous
+4:29 agents, agents that scan the repository
+4:32 for security vulnerabilities or
+4:33 performance issues all on their own.
+4:36 >> Just constantly scanning in the
+4:37 background.
+4:37 >> Yes. And if they find something, the
+4:39 agent opens a GitHub issue, writes up
+4:41 the context, and routes the remediation
+4:44 task directly to the coding agent across
+4:47 their Linux and Windows runners.
+4:48 >> Okay, let's break down the mechanics of
+4:50 that for a second, because that is a
+4:51 fundamental shift in how work gets done.
+4:54 A runner is basically a server that
+4:56 executes automated tasks, right?
+4:58 >> Yep. Like building your app or running
+5:00 tests every time you update your code.
+5:02 >> Right. So, traditionally, if a runner
+5:04 found a failed test, a human had to read
+5:06 the log, figure out what the bug was,
+5:08 and then write the fix.
+5:10 >> But here, the AI agent monitors the
+5:12 runner, identifies the failure, drafts
+5:15 the code to fix it, and submits a pull
+5:18 request for a human to review.
+5:20 >> That's wild.
+5:21 >> It is. It's a complete shift from AI as
+5:24 an autocomplete tool to AI as an active
+5:28 autonomous team member.
+5:29 >> It's like hiring a tireless digital
+5:31 intern who just works in the background
+5:33 24/7.
+5:33 >> Exactly.
+5:34 >> When you put it like that, the urgency
+5:36 to move to GitHub makes complete sense.
+5:39 I mean, you want your entire engineering
+5:40 workforce operating in the environment
+5:42 where that digital intern actually
+5:43 lives.
+5:44 >> You have to. But that brings us to the
+5:46 actual logistics of getting everyone
+5:48 there.
+5:49 >> Yes, the how. Because
+5:51 having established why they are moving,
+5:53 the next logical question is how you
+5:55 move 4,000 repositories without bringing
+5:58 a massive organization like CAP to a
+6:01 grinding halt.
+6:02 >> And the scale of what they accomplished
+6:03 is just wild. The post claims they
+6:06 migrated over 80% of their in-scope
+6:08 repositories.
+6:09 >> Which is how many?
+6:10 >> That's more than 1,600 repos and over
+6:13 3,100 developers in just 6 months.
+6:15 >> Which is insane. 6 months in the
+6:17 enterprise software world is essentially
+6:19 the blink of an eye.
+6:20 >> Oh, usually migrating even a few dozen
+6:23 active repositories requires endless
+6:25 planning committees, weekend downtime,
+6:27 and massive massive disruptions.
+6:29 >> But the craziest part
+6:31 and I have to call a timeout here is
+6:33 they claim they achieved this with just
+6:35 two dedicated engineering leads and a
+6:38 small bench of support engineers.
+6:40 >> Yeah, that stood out to me, too.
+6:41 >> Like how is that physically possible? If
+6:44 you are moving years of commit history,
+6:47 pull request metadata, active branches,
+6:49 and webhooks for 1,600 repositories?
+6:53 I mean, a two-person team should take a
+6:54 decade to do that manually.
+6:56 >> Well, doing it manually would be
+6:57 impossible. They relied on heavily
+6:59 automated, purpose-built migration
+7:01 tooling.
+7:02 >> Okay, that makes more sense. What kind
+7:03 of tools?
+7:03 >> The post highlights two specific ones.
+7:05 There's the GitHub Enterprise Importer
+7:07 or GEI and a custom tool they built
+7:10 called the Enterprise Live Migrator or
+7:12 ELM.
+7:13 >> ELM. Walk me through how ELM actually
+7:15 functions because the live part of
+7:17 Enterprise Live Migrator implies they
+7:19 are moving the code while thousands of
+7:21 developers are actively typing.
+7:23 >> That is the crucial mechanism. In a
+7:25 traditional migration, you usually have
+7:26 to initiate a code freeze.
+7:28 >> Right, nobody touch anything.
+7:29 >> Yeah, you tell your engineers to stop
+7:31 pushing updates for a few days while you
+7:32 copy the repository from the old server
+7:34 to the new one.
+7:35 >> But for an organization the size of
+7:36 Microsoft's CAP team, freezing
+7:39 development for a week would cost, what,
+7:42 millions of dollars in lost
+7:43 productivity?
+7:44 >> Easily. So, ELM bypasses that entirely
+7:47 by using a delta sync strategy.
+7:49 >> A delta sync. So, um it's only copying
+7:52 the changes.
+7:52 >> Exactly. Think of it like a continuously
+7:55 mirroring hard drive.
+7:57 ELM establishes a connection between the
+7:59 old Azure DevOps repository and the new
+8:02 empty GitHub repository.
+8:04 >> Right.
+8:05 >> It performs a massive initial copy of
+8:07 all the history, branches, and files in
+8:09 the background. But, while it's doing
+8:11 that, the developers are still actively
+8:12 working in the old ADO environment.
+8:15 >> So, they don't even know it's happening.
+8:16 >> Right. And every time a developer pushes
+8:17 new code, ELM detects that specific
+8:20 change, the delta, and immediately syncs
+8:23 it over to GitHub.
+8:24 >> So, the two repositories just stay
+8:25 perfectly identical in real time.
+8:27 >> Exactly. So, by the time the engineering
+8:29 team is ready to officially switch
+8:31 platforms, there is no massive data
+8:33 transfer left to do. The final cutover
+8:36 event takes literally minutes.
+8:39 >> Wow.
+8:39 >> They just flip the switch to make GitHub
+8:41 the primary environment, and nobody had
+8:43 to pause their work.
+8:44 >> That explains the speed. It's a
+8:46 brilliant piece of engineering,
+8:47 honestly. But, here is where the story
+8:49 takes a very, very sharp turn.
+8:51 >> A very sharp turn.
+8:52 >> They used this incredible live sync
+8:54 technology to move 1,600 repositories,
+8:57 but they didn't actually move
+8:58 everything.
+8:59 >> No, they didn't.
+8:59 >> The blog post reveals this hybrid
+9:01 reality. They migrated the code to
+9:03 GitHub to get those AI agent
+9:05 capabilities, but they deliberately
+9:07 chose to keep Azure Boards for their
+9:09 project planning and Azure Pipelines for
+9:11 their continuous integration and
+9:13 deployment.
+9:13 >> They are straddling two completely
+9:15 different ecosystems.
+9:16 >> And to make this work, they rely on a
+9:18 specific mechanism called AB #syntax.
+9:21 >> Right. So, when a developer is working
+9:23 in GitHub and opens a pull request, they
+9:25 type AB # followed by the ticket number.
+9:28 >> And that syntax triggers an API call
+9:31 that reaches all the way back into Azure
+9:32 Boards,
+9:34 finds the original planning ticket, and
+9:35 links the two together.
+9:37 >> That's the idea. Yeah.
+9:38 >> Wait, I really have to push back and
+9:40 challenge the practicality of this
+9:42 setup.
+9:42 >> Go for it.
+9:43 >> You were telling me that a developer has
+9:46 to check their sprint tasks in Azure
+9:48 DevOps,
+9:49 then mentally switch gears, open a
+9:51 completely separate browser tab to
+9:53 actually write their code, and use AI in
+9:56 GitHub, and then remember to manually
+9:59 >> Exactly. Ripping away the project
+10:01 management tool that tracks your
+10:02 deadlines, your compliance audits, your
+10:04 cross-team dependencies, doing that all
+10:06 at once is a recipe for organizational
+10:09 paralysis.
+10:10 >> So, the hybrid approach is a calculated
+10:12 compromise.
+10:13 >> Yes.
+10:14 It allows the engineers to access the
+10:16 bleeding-edge AI benefits for coding on
+10:18 GitHub immediately without forcing the
+10:20 management layer to completely abandon
+10:23 their highly customized workflows in
+10:24 Azure Boards.
+10:25 >> It's a temporary bridge.
+10:27 >> Plus, there's a huge side benefit here.
+10:29 Consolidating those 53 siloed ADO
+10:32 organizations into a single GitHub org
+10:35 vastly improves code discovery for the
+10:38 whole company.
+10:38 >> That makes logical sense from the
+10:40 30,000-ft view.
+10:41 You minimize risk while maximizing the
+10:44 new AI tools. Microsoft paints this
+10:46 hybrid transition as the best of both
+10:48 worlds.
+10:48 >> They certainly try to.
+10:50 >> But, when we transition away from the
+10:51 blog post text and scroll down into the
+10:53 comment section, the developer community
+10:55 paints a completely different picture.
+10:56 >> The comment section completely shatters
+10:58 that triumphant narrative.
+11:00 >> And before we dive into this, I want to
+11:01 explicitly remind you, our listener,
+11:03 that we are neutrally reporting on the
+11:05 conflict in the source material.
+11:07 We're taking no sides regarding the
+11:09 corporate strategies or the user
+11:10 complaints. We're just looking at what's
+11:12 on the page.
+11:13 >> And what's on the page is pretty
+11:14 intense.
+11:14 >> It is brutal down there. The financial
+11:16 realities are the first massive point of
+11:19 contention.
+11:20 A user named Inganduba Seba Gabriel lays
+11:24 out the math, and it is honestly
+11:26 eye-opening.
+11:26 >> It really is.
+11:27 >> Gabriel points out that Azure DevOps
+11:29 gives you a highly stable, fully
+11:31 integrated package for about 5 euros per
+11:33 seat. But the moment you migrate to
+11:36 GitHub, the base license jumps to 20
+11:38 euros per seat.
+11:39 >> And here's the crazy part. That base
+11:41 license doesn't even include the AI
+11:43 capabilities that justify the move in
+11:45 the first place.
+11:46 >> Wait, really?
+11:46 >> Yeah, you have to pay additional, often
+11:48 per minute, compute costs for the AI
+11:51 agents running on those background
+11:52 servers.
+11:53 >> Wow.
+11:55 Other users, like Aaron Hilton and
+11:57 Humberto Higuera, immediately jumped on
+12:00 this pricing structure in the comments.
+12:02 The sentiment in the community is that
+12:04 this feels less like a necessary
+12:06 technological leap, and more like a
+12:08 forced double licensing scheme, or a
+12:10 cash grab.
+12:11 >> Because think about the hybrid setup we
+12:13 just discussed.
+12:15 If you need GitHub for the AI code
+12:17 tools, but your company refuses to
+12:19 abandon Azure DevOps for project
+12:21 planning, you are now paying for two
+12:23 separate enterprise platforms to do the
+12:25 job of one.
+12:26 >> The economics are incredibly frustrating
+12:28 for mid-size teams.
+12:30 I mean, imagine a 100-person engineering
+12:32 department going from a $500 monthly
+12:34 bill to a multi-thousand-dollar monthly
+12:36 bill, just to maintain their existing
+12:38 workflow while dabbling in AI.
+12:39 >> It's a really tough pill to swallow,
+12:41 especially when the users feel the new
+12:43 platform is functionally incomplete.
+12:45 >> That brings us to the second major wave
+12:47 of backlash, which is the missing
+12:48 features. Users Michael Taylor and
+12:50 Mohammad Miftah are relentless in
+12:52 pointing out that GitHub's project
+12:54 management capabilities are vastly
+12:55 inferior to what they currently have in
+12:58 ADO.
+12:58 >> Mohammad explicitly notes that ADO
+13:00 Boards has no true equivalent in GitHub
+13:03 projects.
+13:04 >> None at all?
+13:04 >> The custom queries, the granular
+13:06 permission structures, the test plans,
+13:09 they just don't exist in the same way.
+13:11 >> So, what does this all mean? It's like
+13:13 Microsoft is trying to sell these
+13:15 developers tickets for a bleeding-edge
+13:17 bullet train, but the passengers are
+13:20 angry because the tickets cost four
+13:21 times as much, and the luggage car,
+13:24 you you the project management tools,
+13:26 was just left behind at the station.
+13:28 >> That's a really good way to put it. User
+13:30 Michael Taylor actually provides a
+13:31 perfect functional analogy for this
+13:33 frustration, too.
+13:34 >> What did he say?
+13:35 >> He compares the hybrid migration to
+13:37 using Microsoft Outlook for your email,
+13:40 but being forced to use a completely
+13:42 disconnected, separate application for
+13:44 your calendar.
+13:45 >> Oh, this sounds awful.
+13:46 >> Right. Even if the new calendar app has
+13:48 some incredible AI features, if it
+13:50 doesn't seamlessly integrate with your
+13:52 inbox, it is a massive product blender.
+13:55 You break the fundamental flow of how a
+13:57 professional organizes their day.
+13:59 >> That context switching is a huge
+14:01 productivity killer.
+14:03 You can have the smartest digital intern
+14:05 in the world writing code for you in
+14:06 GitHub, but if you have to spend 2 hours
+14:09 manually updating spreadsheets in ADO
+14:12 because the platforms don't talk to each
+14:14 other properly, you've just lost all the
+14:16 time the AI supposedly saved you.
+14:18 >> Exactly. And this really highlights the
+14:20 deep disconnect between a tech giant
+14:23 prioritizing bleeding-edge AI workflows
+14:25 and everyday engineering manager.
+14:27 >> managers.
+14:28 >> Yeah, they aren't thinking about the
+14:29 next decade of AI. They're thinking
+14:31 about how to get their team through a
+14:32 2-week sprint. They just need
+14:34 affordable, stable work item tracking to
+14:37 get through the day.
+14:38 >> Which brings us to the existential
+14:40 anxiety hovering over this entire deep
+14:42 dive.
+14:43 The absolute core of the panic in that
+14:45 comment section is one simple question.
+14:47 Is Azure DevOps dead?
+14:50 >> It is the elephant in the room.
+14:51 >> Despite Microsoft's reassurances about
+14:53 the hybrid model, the vast majority of
+14:55 the commenters feel the writing is on
+14:57 the wall.
+14:58 I mean, they are reading this official
+15:00 success story as a stealth deprecation
+15:02 notice.
+15:03 >> And this raises an important question
+15:05 because there is a razor-sharp comment
+15:07 from a username Daniel Stefanescu that
+15:10 highlights a glaring logical
+15:13 contradiction in Microsoft's messaging
+15:15 here.
+15:15 >> Oh, I saw that one.
+15:16 >> Daniel points out that Microsoft has
+15:18 publicly stated that AI features like
+15:20 Copilot code review and auto fix are
+15:22 eventually coming to Azure DevOps
+15:24 anyway.
+15:24 >> Right. So, he asks the obvious question.
+15:28 If the AI is coming to our current
+15:30 platform anyway, why is Microsoft
+15:32 insisting that migrating to GitHub is
+15:34 the only way to get these capabilities?
+15:36 >> This contradiction creates a profound
+15:38 sense of limbo for the user base.
+15:40 Microsoft is telling users they don't
+15:42 have to abandon critical DevOps
+15:44 workflows overnight to sort of project a
+15:46 sense of a calm, gradual runway.
+15:48 >> They're trying to say, "Hey, your
+15:49 current workflow is safe for now."
+15:51 >> But the users are interpreting not
+15:53 overnight as a ticking clock.
+15:55 >> Exactly. They hear, "You don't have to
+15:56 pack your bags today, but the demolition
+15:58 crew is already parked outside."
+16:00 >> And that anxiety is compounded by the
+16:01 fact that the platform they're being
+16:03 pushed toward, GitHub, doesn't yet have
+16:06 the project management maturity they
+16:07 rely on. They feel trapped.
+16:09 >> Trapped between a legacy system that
+16:11 might be abandoned and a new system that
+16:13 feels unfinished.
+16:15 You know, if you are listening to this
+16:16 right now, this dynamic probably sounds
+16:18 incredibly familiar even if you are a
+16:21 software engineer.
+16:22 >> sure.
+16:23 >> Whether you are a student, a
+16:24 professional managing a marketing team
+16:26 software,
+16:27 or just trying to figure out which
+16:29 productivity app to use,
+16:31 how do you make strategic choices about
+16:33 your own tech stack when the road map
+16:35 feels this contradictory?
+16:37 >> It's a prime example of the anxiety
+16:39 caused by rapid AI advancement.
+16:42 >> If you stick with your old, comfortable
+16:43 tools, you risk falling behind the AI
+16:45 curve. But if you jump to the bleeding
+16:47 edge platform, you might shatter your
+16:49 daily workflows, balloon your budget,
+16:51 and end up managing a fractured hybrid
+16:53 mess.
+16:53 >> It really forces leaders to make a
+16:55 difficult calculation, weighing the
+16:57 immediate cost of workflow friction
+16:59 against the long-term cost of
+17:01 technological obsolescence.
+17:02 >> So, to summarize the reality we've
+17:04 unpacked today,
+17:05 the undeniable power of AI is forcing
+17:08 massive infrastructural shifts.
+17:10 We see that clearly in Microsoft's 1,600
+17:13 repo migration to GitHub to unlock a
+17:15 digital workflow. But that shift is
+17:17 incredibly messy.
+17:19 It's sparking intense debate over cost,
+17:22 workflow fragmentation, and the fate of
+17:25 beloved legacy platforms like Azure
+17:27 DevOps.
+17:28 >> We've spent a lot of time analyzing the
+17:30 friction of jumping between GitHub for
+17:33 code and Azure DevOps for planning,
+17:35 right?
+17:35 >> Right, the UI fragmentation.
+17:37 >> But, I want to leave you with a final
+17:38 thought to mull over, something that
+17:39 wasn't really covered in the sources.
+17:41 What if the current pain of navigating
+17:43 two separate, fragmented tools is only
+17:46 temporary?
+17:47 >> Temporary because GitHub will eventually
+17:50 build better project management
+17:51 dashboards.
+17:52 >> No, not because of that. What if it's
+17:54 temporary because the AI agents
+17:55 themselves will soon become smart enough
+17:57 to perfectly sync and bridge the gap
+17:59 between any scattered tools we use?
+18:01 >> What do you mean, bypass the UI
+18:02 entirely?
+18:03 >> Well, we established that an AI agent
+18:05 can read a code repository, find a
+18:07 vulnerability, and write a patch
+18:09 autonomously. It is not a huge leap to
+18:11 imagine that same agent having the
+18:13 authorization to read an Azure board
+18:15 ticket, update the status to in
+18:17 progress, cross-reference the GitHub
+18:19 pull request, and send a natural
+18:21 language summary to the project
+18:22 manager's Slack channel all entirely in
+18:24 the background.
+18:25 >> Wow.
+18:26 >> Will the future even require integrated
+18:28 master platforms, or will AI just become
+18:31 the invisible translation layer that
+18:33 glues all of our fragmented apps
+18:34 together? Meaning, you never have to
+18:36 context switch again.
+18:38 >> That completely flips the script. We are
+18:40 agonizing over which dashboard to use
+18:42 today, and tomorrow's AI might just
+18:44 manage the dashboards for us. It really
+18:46 makes you wonder what the comment
+18:48 section on an engineering blog post in
+18:50 2030 is going to look like.
+18:52 >> Probably still complaining about
+18:53 pricing.
+18:53 >> Oh, definitely complaining about
+18:54 pricing.
+18:55 >> Yeah.
+18:55 >> Well, thank you so much for joining us
+18:56 on this deep dive. Keep questioning the
+18:58 corporate roadmaps, keep looking for the
+19:00 mechanical realities behind the
+19:02 buzzwords, and never stop exploring how
+19:04 this rapid tech landscape is shifting
+19:06 beneath our feet. Catch you next time.
+19:10 >> [music]
+19:15 >> Amen.

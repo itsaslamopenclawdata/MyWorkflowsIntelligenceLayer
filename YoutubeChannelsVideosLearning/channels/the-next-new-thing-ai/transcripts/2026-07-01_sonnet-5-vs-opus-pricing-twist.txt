@@ -1,0 +1,726 @@
+# Transcript: Sonnet 5 vs Opus: the pricing twist nobody expected.
+# Channel: The Next New Thing
+# Duration: 1628s
+# Video ID: osawfmJzzFE
+# Published: 2026-07-01
+# URL: https://youtube.com/watch?v=osawfmJzzFE
+
+0:01 It happens. Claude Sonnet 5 has released
+0:04 and it is by far the best bang for your
+0:07 buck in AI right now. Not everybody
+0:10 agrees with him. I've watched hours and
+0:12 hours of video about Sonnet 5. I've got
+0:14 some people who are making a really good
+0:16 case for why it is not the best bang for
+0:19 your buck. But we're going to watch his
+0:20 video and others here. I've got the best
+0:22 of them with the best of reviewers.
+0:25 Justin Brooke, he and I are going to go
+0:26 through them and he'll give his take
+0:27 because he uses Sonnet every single day
+0:29 and he's been testing it, too. Presented
+0:31 by Zapier, the AI automation company.
+0:34 Let's take a look at Alex Finn's 3D boat
+0:38 prompt. This is his first test.
+0:39 >> Really nice 3D boat simulator. I'm going
+0:43 to put the prompt down below if you want
+0:45 to copy it and run it yourself as well.
+0:48 I'm going to hit enter on that. I
+0:51 >> All right. And he hit enter on it and
+0:52 then he showed it in chat GPT. 55. This
+0:55 was chat GBT55's
+0:58 3D shift simulator. In the prompt, if
+1:01 you take a look at it, it says, "Allow
+1:02 to configure the rain, the wind, the
+1:04 waves." Uh, a little disappointing. One,
+1:07 I can't move the camera at all.
+1:09 >> Two, the ship is not moving. Three, the
+1:11 water is not moving.
+1:14 >> Okay, let's take a look at it in Sonnet.
+1:16 And then Justin, what do you think?
+1:17 >> Let's take a look at what Sonnet 5 did
+1:20 here. I like it better. The waves are
+1:22 moving. The ship is moving. Is there any
+1:25 rain going on at the moment? No. You can
+1:27 kind of see thunder there. But I like
+1:29 the way the ship and the waves look a
+1:31 lot more.
+1:33 >> What do you think of this test, Justin?
+1:35 >> I you know, I I' I've seen some of these
+1:39 and I feel like people are using Sonnet
+1:42 for things that I wouldn't ever use
+1:44 Sonnet for. I mean, it it has the we can
+1:47 see that it has the capability here. I
+1:49 just don't know that I would use it for
+1:51 3D model rendering. Uh but yeah, I mean
+1:54 it looks like it's comparative to 5.5
+1:58 and when you look at the various test
+2:00 scores, which I don't normally look at
+2:03 those, but I mean it is scoring
+2:05 relatively uh comparatively to 5.5 and
+2:10 also Deepseek V4. So not top of the
+2:13 line, but you know, just a step.
+2:16 >> What would you use it for? And then
+2:17 we'll go on to World of AI. I want I
+2:18 want you to see what they said.
+2:20 >> Yeah, I use it for writing. You know,
+2:21 it's it's called sonnet. You know, it
+2:23 was originally designed as a writing
+2:25 model and it shines for any kind of
+2:27 blogging, scripting, reports, analysis.
+2:31 If you look at their anthropics own
+2:33 reports, they say that it's meant for
+2:35 knowledge work, you know.
+2:38 >> All right, fair point. Let's take a look
+2:40 at this. This is from World of AI, and I
+2:42 like what he did. But buried in the
+2:45 footnotes is something that is quite
+2:48 doubtful cuz the Sonic 5 switches to the
+2:51 Opus 4.7 tokenizer. And this means the
+2:54 same price of text can tokenize into
+2:57 roughly 1 times to 1.3 point times more
+3:01 tokens than before depending on the
+3:03 content. In other words, this basically
+3:06 means that pricing is lower, but some
+3:09 prompts may consume tokens, effectively
+3:11 increasing the overall cost in certain
+3:14 areas much more than what you would
+3:16 actually expect.
+3:18 >> So, this is what I've seen from a lot of
+3:19 people. I like Mo's take on this because
+3:21 he always has a fun, sarcastic take.
+3:23 Here's how he said it.
+3:24 >> Most computers cost like millions of
+3:26 dollars and now you can buy a computer
+3:28 for like $500.
+3:30 Yeah, AI is nothing like that. They gave
+3:33 Sonnet a new tokenizer that uses up to
+3:36 35% more tokens. But see, Enthropic did
+3:39 something here and it's why I [ __ ]
+3:41 love them so much. I mean, is it normal
+3:42 to have a crush on a company? I have a
+3:45 little corporate crush here, man. I have
+3:46 a crush on a C corp, bro. Anyway, the
+3:49 new sonnet ends up costing more with the
+3:52 new tokenizer.
+3:53 So, to get you hooked on the new model
+3:56 without you getting buttth hurt, they're
+3:58 lowering the price for a couple of
+4:00 weeks. After that, it's going back to
+4:03 normal sonnet pricing, but with 35% more
+4:06 token usage. It's like if your landlord
+4:08 kept rent the same, but started counting
+4:10 the months in dog months.
+4:13 >> That's essentially the take everyone's
+4:16 had, but he's had the funniest approach.
+4:17 You've noticed that, too. What do you
+4:18 think?
+4:19 >> Yeah. Yeah. So, I'm with him. I like I'm
+4:23 perplexed as a business owner. I'm
+4:25 looking at what Claude or Enthropic is
+4:28 doing and I'm like, okay, there's kind
+4:30 of some smart pricing strategies and
+4:32 launch strategies. So, I don't know that
+4:35 I would say it's a couple of weeks. It's
+4:36 till August 31st and so the input is $2
+4:41 and the output is $10 when it when Sonet
+4:45 4.6 was 3 and 15. So, it looks cheaper,
+4:50 but it's only cheaper for a little bit
+4:51 of time. And then also like they said
+4:54 there's this tokenizer that adds 30% of
+4:57 tokens which I've been talking about be
+5:00 before because they're anthropic is also
+5:02 fighting for HTML code instead of
+5:06 markdown code and I'm like that's just
+5:08 more tokens you know for the same thing.
+5:10 Like it's kind of smart they're getting
+5:12 us to spend more tokens which is good
+5:14 for their profits and their eventual IPO
+5:17 but as a user I'm like hey stop that.
+5:20 All right, we'll see more examples, but
+5:21 I should say also Peter Steinberger, the
+5:23 creator of OpenClaw, who now works for
+5:26 uh OpenAI, says, "Watch out, price per
+5:28 token does not equal cost per task." And
+5:31 that's essentially it. All right, so we
+5:32 have that. Let's take a look at what it
+5:33 could do.
+5:34 >> We actually have already generated a Mac
+5:36 OS clone with the world of AI benchmark
+5:39 tool.
+5:40 >> So he has a benchmark tool where he
+5:42 creates a Mac OS clone. Let's see how it
+5:45 performs there.
+5:46 >> What it had done. So, this is the first
+5:49 login page for the Mac OS clone. You
+5:51 have a notification system, which is
+5:53 nice. The top bar does seem to work, but
+5:55 there are slight errors to it. You can
+5:58 change the display. You can also change
+6:00 the appearance from light to dark mode,
+6:03 change the wallpaper.
+6:05 >> Okay, we don't need to go through all
+6:06 the details of it. It does look nice,
+6:08 but let's look at the analysis of the
+6:10 creation.
+6:10 >> Essence, it did do a pretty decent job
+6:12 with this Mac OS clone. And just to add,
+6:14 it took approximately 40 minutes within
+6:17 the workbench and it spent many tokens
+6:20 on max mode to get this done. And I can
+6:24 tell you that it was not efficient at
+6:26 all to get this output. But regardless,
+6:28 it did get the job done.
+6:30 >> Okay, he says this over and over again.
+6:32 It is token inefficient. Token
+6:34 inefficient. Let's go into more detail
+6:36 from Theo. I love his uh breakdowns.
+6:39 >> Look at cost per task. you'll see
+6:41 something a bit terrifying. By five on
+6:43 XH high ends up being cheaper in
+6:45 realworld work than Sonnet by more than
+6:48 2x. In fact, Opus 48 is also cheaper
+6:52 than Sonnet 5. But ready for the
+6:54 craziest part here. If we cover the cost
+6:56 to run the entire benchmark, this is the
+6:59 total cost. I'm making an assumption
+7:00 here. I haven't talked to the artificial
+7:01 analysis guys about this, but I'm
+7:03 guessing that the cost per task is
+7:05 averaged with extremes filtered out. And
+7:08 the total cost does not have those
+7:09 extremes filtered out because Sonic 5 is
+7:12 the most expensive model they've ever
+7:13 run through the bench at $6,000, popping
+7:16 even Fable 5 at $5,600.
+7:20 Okay. He gets so angry here. He's even
+7:23 like throwing his business partner or
+7:25 his podcast partner under the bus for
+7:27 not recognizing this. This is an issue.
+7:29 What do you think?
+7:30 >> Yeah, I I do think overall this is an
+7:33 issue. We're coming into a world where
+7:35 these kind of tests are very important.
+7:37 We have to understand that these
+7:39 companies are trying to max their
+7:41 profits and that may be against our own
+7:44 advice. I I worry about these tests
+7:47 because it's like well your test is on
+7:50 your use but if I use it on my use I'm
+7:53 going to get different results. So it's
+7:55 like you have to do head-to-head
+7:57 comparisons. Like if you're a G I think
+7:59 he's do using this for game coding and
+8:02 so and I use it for blogging. So you
+8:05 want to make sure that whenever you do
+8:06 these you test them side by side.
+8:09 >> Though never does eat up a lot of
+8:10 tokens. It's once you start creating
+8:12 things that are more resource intense
+8:14 that it becomes a bigger issue. And we
+8:16 could take a look actually here at um
+8:19 here let's look at prompt engineering.
+8:21 He
+8:22 >> I'm going to throw in GPT 55 medium and
+8:24 low in here. Let's do this. Oh here we
+8:27 go.
+8:27 >> So this is aentic search performance by
+8:30 different effort levels. Now, Entropic
+8:33 is providing this. The orange one is
+8:36 Opus 48. The gray one is Sonnet 4.6. And
+8:40 then we have Sonnet 5, which is
+8:43 substantially better compared to Sonnet
+8:46 46, which is expected, but it's actually
+8:49 lower in performance compared to OPUS
+8:51 48. I would say it's probably OPOS 47
+8:55 level performance. However, if you look
+8:58 at the price point, this is where it
+9:00 doesn't make any sense. So, let's say if
+9:03 you use Opus 48 on high settings, it's
+9:08 actually lot cheaper compared to Sonnet
+9:11 5 for a very similar level of
+9:14 performance.
+9:16 All right, I'm not going to belleaguer
+9:17 it, but he has done this with
+9:19 Anthropic's own data and it's still
+9:21 coming out that way. Let's take a look
+9:22 at a hard test. This is, like you said,
+9:24 Theo tested it for game. Here is a setup
+9:26 slow as balls for realworld work, which
+9:29 I experienced myself trying to recreate
+9:31 my fish web game. I pointed at the
+9:34 original repo and told it to rebuild it
+9:36 from scratch. You can use some of the
+9:37 assets. You can reference the code, but
+9:39 I want a new game built from the start.
+9:41 I tried this with three models. I tried
+9:42 this with Opus 48, GLM52, and with Sonet
+9:45 5 all at the same time. And I have a lot
+9:48 of thoughts.
+9:50 >> Let's get into his thoughts. This is
+9:51 Opus 48.
+9:52 >> Has some rough UI quirks here. here. It
+9:55 doesn't do padding and things right, but
+9:56 once you're in the game, the controls
+9:58 are solid. Core mechanics work. And the
+10:00 most surprising thing to me is it did a
+10:02 really good job balancing the economy of
+10:04 the game. Like, it felt good to play for
+10:05 a while and like rank up, get more
+10:08 money, and like actually play the game.
+10:12 >> Okay. What were you thinking about that?
+10:13 >> I I think it looks nice. You know,
+10:15 that's that's beautiful.
+10:17 >> I've been loving GLM 5.2 in my Hermes
+10:20 agent. I love when people use them for
+10:22 comparison
+10:23 >> 52 version which was interesting. I
+10:25 don't have costs for the other runs
+10:27 because it's not the easiest thing to
+10:29 calculate. They don't give it to you.
+10:30 But I used open code for 52. So I do
+10:32 have a cost. It cost $8.30 to create the
+10:34 following porch. This one's interesting
+10:36 because uh it changed the UI more, but I
+10:39 don't necessarily like the things it
+10:41 changed.
+10:43 It also has super choppy movement, a
+10:45 really weirdly rendered background. Its
+10:48 economy is garbage. So, it just doesn't
+10:50 feel good to play. There's a lot more
+10:52 time sit spent sitting and waiting and
+10:54 nothing really happening. And most
+10:56 egregiously, when you click for the gun
+10:58 to shoot in a direction, it almost feels
+11:00 like it picks a random.
+11:02 >> This is actually a really important
+11:04 thing to bring up that he he went into
+11:05 later on in the video. GLM52 does not
+11:09 have vision. And I've actually run into
+11:11 this problem and I regret in the video
+11:12 that I made on GLM5 that I didn't hammer
+11:15 that in even more than I I I brought it
+11:17 up. I should have hammered it home. I
+11:19 use it for my Hermes agent. If I need to
+11:21 send it images, it can't handle the
+11:24 images. It doesn't understand them. And
+11:25 that's a real obstacle for both game
+11:27 development like he's doing, but also
+11:29 for me sending a picture to my Hermes
+11:30 agent and asking it to understand what
+11:32 I've sent over. What I have to do is use
+11:34 a fallback model for those images. And
+11:37 that's that's an issue here. That's an
+11:38 issue that's going to keep coming up.
+11:41 >> But now let's look at Sonnet 5. The same
+11:44 thing.
+11:44 >> Here's Sonnet's version. Play. Sure.
+11:49 You might be able to see it's a bit of a
+11:51 mess. They got rid of all the hot keys
+11:54 for buying. There are no fish in the
+11:55 tank by default. Just this very poorly
+11:57 rendered pet. I can click the button to
+12:00 buy things, but when I do that, it also
+12:02 shoots.
+12:03 And the economy is garbage. It just
+12:05 doesn't actually feel good to play.
+12:08 At least the bullets go in the right
+12:09 direction, even if they go when they
+12:11 shouldn't, like when I'm clicking other
+12:12 things in the UI.
+12:14 >> Okay, I won't get into his nitpicking. I
+12:15 will say this. One thing that really
+12:17 frustrated him was that it took over 2
+12:20 hours for Sonnet to do it versus Opus 48
+12:23 26 minutes. It did go through a lot of
+12:25 tokens and I love his breakdown of what
+12:28 happened. Um, but you know, before I
+12:30 even break down give his breakdown of
+12:31 how it operates, I will say this,
+12:33 Justin. I could just as easily find
+12:35 people who created games and I have
+12:37 them. I don't know that it's worth going
+12:38 through where the Sonnet 5 was maybe
+12:41 better than the 4.8 or like it's these
+12:44 are small differences where it does seem
+12:47 to keep the issue that everyone seems to
+12:49 have is it does chew through a lot of
+12:51 tokens for resource intense work.
+12:55 >> Yeah. I mean, we're coming into a world
+12:59 where like, look, if you're just using
+13:03 the latest greatest model and you're not
+13:05 paying attention to token usage, you're
+13:08 the one that's getting wrecked by all
+13:10 these reports. And like that's how I
+13:12 when I see all this data, what it's
+13:14 telling me is like look, if you're not
+13:16 actually getting skilled at AI today,
+13:19 you're going to be just pillaged. Your
+13:22 your wallet, your credit cards are going
+13:24 to be pillaged. But if you start
+13:26 understanding, look at these tests and
+13:27 and understand, oh, this one's better
+13:30 for gaming, this one's better for
+13:31 writing. Uh maybe this one needs more
+13:34 instructions, this one can use just a
+13:36 oneshot prompt. Then we start
+13:38 understanding the right models and the
+13:40 right tasks tactics with those models to
+13:43 get the most efficient cost. And that's
+13:46 that's where the pros are going to be
+13:47 going forward.
+13:48 >> And you're saying sonnet great for
+13:50 writing. Here's where it is.
+13:52 >> Yeah. like handles writing no problem.
+13:55 And if you're good at giving it a
+13:57 stepby-step instructions,
+14:00 like that's the problem. Like what I see
+14:02 as a as a daily Sonnet user and I look
+14:04 at his what he did here and I'm like it
+14:07 looks like you gave it a one-shot prompt
+14:09 and that's what Sonnet will do with a
+14:11 oneshot prompt. It's not good at that.
+14:13 But if you give Sonnet some examples,
+14:16 you give it step-by-step instructions,
+14:17 it's really good at working its way
+14:19 through those instructions. and I don't
+14:21 know what his prompt was. So,
+14:23 >> I will say this, Alex Finn did do that
+14:25 at the end of his video.
+14:26 >> He said, "Look, the way to use this
+14:28 really well is to use Opus 48 as the
+14:31 thinker, as the organizer, and then
+14:34 after that pass it on to uh to Sonnet to
+14:37 actually do the work." I didn't include
+14:38 the video here because he didn't, as far
+14:40 as I could see, he didn't show the the
+14:42 outcome of it. So, there wasn't anything
+14:44 beyond a strategy there that I just
+14:45 showed.
+14:46 >> Yeah, that's exactly what I do is I use
+14:48 Opus 4.8 is kind of like my side my
+14:50 day-to-day sidekick. Helps me come up
+14:52 with the big research, the instructions,
+14:54 the skills, and then Sonnet goes and
+14:57 does all the work because it's cheaper
+14:59 to do all the little steps with Sonnet
+15:02 than with Opus 4.8.
+15:04 >> By the way, I should say that Zapier has
+15:06 their own benchmark where they test to
+15:08 see how these models perform at real
+15:10 business scenarios. Like for example,
+15:12 update Salesforce account tiers, send a
+15:14 launch announcement to enterprise
+15:16 contacts. Sonnet finished it end to end,
+15:18 but Sonnet 5 did. Sonnet 4.6 stalled out
+15:22 on the same task. And what they've found
+15:24 is here, I'll zoom in. Uh clearly Opus
+15:28 4.8 is doing better. It's 15.4%
+15:33 uh versus Clawed Sonnet 5 at 13.5%
+15:37 success rate, but the cost is now more
+15:39 significant. For a task like the one I
+15:41 described, it would cost 2.0 Oat sense
+15:43 to get in sonnet 5 versus opus 4.8 at
+15:47 2.36. And these are very clear results
+15:50 where you're trying to connect multiple
+15:52 tasks with multiple tools and sonnet is
+15:55 much more capable and the cost is lower
+15:58 but not dramatically lower. Not as low
+16:00 as I would have expected. You know what
+16:02 then? Maybe we do want to take a look at
+16:03 this one. Um check this out. This is
+16:05 from AI foundations. He did the same
+16:08 test on both platforms.
+16:10 This is on Opus 48 and Sonet 5
+16:13 >> five with the exact same prompt. I'm not
+16:16 changing anything here. We are using
+16:18 Opus 4.8 on extra mode.
+16:21 >> Okay. What I could show you is the
+16:22 finish.
+16:23 >> I know what these are, but try to take a
+16:24 guess as I'm playing which one is which
+16:26 and try to tell the differences. So, I'm
+16:28 going to hit restart. And now I'm going
+16:30 to be moving around the canvas. Oh, that
+16:33 was difficult. Okay, maybe I don't know
+16:35 how to play the game. Oh, this is very
+16:38 hard to control.
+16:40 Oh wow. So you go straight.
+16:42 >> Okay. Now let's look at the other one.
+16:44 >> Here's version number two.
+16:48 Same mechanics.
+16:50 >> What you notice with version number one
+16:52 is you can see which direction you're
+16:54 supposed to be going because that fire
+16:55 that was shooting out of the rocket was
+16:58 was an indicator. Here you don't have
+17:00 that.
+17:01 >> The closer I get to that thing, that
+17:02 blue ball in the middle, the more it
+17:04 wants to drag me away.
+17:07 Oh, I figured out how to turn around my
+17:08 guy.
+17:10 >> Okay. Um, you and I both know, so I'll
+17:13 reveal to the audience. This one was
+17:15 >> Opus.
+17:16 >> I know what these are, but try to take a
+17:17 guess at
+17:19 >> and I want to actually go through and
+17:21 scrub this for a second to show you
+17:23 something.
+17:23 >> Differences. So 9,800 total. So is so
+17:28 that should be interesting to design
+17:30 goal is just going to keep working in
+17:32 see the difference between them.
+17:33 >> Okay. One interesting thing right off
+17:35 the bat, Sonnet 5 is flying. It's
+17:38 already running tasks, installing
+17:41 projects while Opus is taking a
+17:43 different strategy. Opus is thinking
+17:45 through this task a lot more. And so it
+17:47 says initiating npm
+17:49 right away installing Chromium. It's all
+17:53 >> that's what I wanted you to see that we
+17:55 could look at the final output and we
+17:56 could decide we like the Opus version or
+17:58 the sonnet better whatever. The thinking
+18:01 here is different. One is spending a lot
+18:04 more time thinking and the other is just
+18:05 going into doing. And it's the opus
+18:07 that's more thinking. Sonet that's more
+18:08 doing
+18:09 >> this thing uh without even thinking that
+18:11 much. We're both on extra mode by the
+18:13 way. Uh while Opus 48 over here is
+18:15 really thinking through this. So,
+18:18 >> okay. And it just keeps going and he's
+18:20 playing the thinking.
+18:22 >> Let's look at the cost.
+18:23 >> It actually used the real price
+18:27 of what Sonic 5 actually will be. I
+18:29 don't think it used the intro price, but
+18:31 for output it was 0.13.
+18:34 So that game cost me 13 cents to make.
+18:38 Opus 4.8 it cost me 25 cents to make.
+18:44 Okay, so roughly 10 cents more, but it's
+18:46 considerable when you're talking about
+18:48 that. It's like 60% more to use opus.
+18:51 The difference though is what do you
+18:53 have to go back and say I do want that
+18:55 fire behind. I do want you to think a
+18:57 little bit deeper and have more
+18:58 adjustments. Um, so the cost here I
+19:00 think um is is an interesting thing to
+19:03 notice. But the the reason that I
+19:04 included AI foundations in this mix is
+19:08 he was showing how each model was
+19:10 acting. One spent more time thinking,
+19:12 the other jumped right into doing. I
+19:13 also want you to take a look at this
+19:15 from Theo. The um this is his analysis
+19:19 of how they work. As I was saying, if
+19:20 the $100 an hour employee takes 10 hours
+19:22 to solve the task,
+19:24 >> and that would be like
+19:26 >> grand. The $20 an hour employee only
+19:28 takes 10 hours, then it costs a lot less
+19:30 money. It's only 200 bucks. What if that
+19:32 $20 an hour employee takes a bit longer?
+19:34 Let's say they take a h 100red hours and
+19:36 there isn't a senior engineer popping in
+19:38 to check in. Then that task cost $2,000.
+19:41 And now we have a more important
+19:43 question. For that junior engineer, do
+19:45 you think more time spent increases or
+19:47 decreases the likelihood they get the
+19:49 correct answer on any given task? If
+19:51 that task is within an engineer's
+19:52 capabilities, they're probably going to
+19:53 solve it pretty fast. But if it isn't
+19:55 and they try, they're going to take a
+19:58 long time. And that's how we end up in
+19:59 the situation where there are so many of
+20:01 these unnecessarily expensive runs. It's
+20:03 not because they built the model to be
+20:05 expensive. It's because they built it to
+20:06 go and go until it gets an answer, even
+20:09 if it's not smart smart enough to do it.
+20:12 Okay.
+20:13 Makes sense. I like that analogy. I
+20:15 think he's explaining himself well.
+20:17 >> Yeah. Also, it's brand new and they
+20:20 usually roll out a couple of
+20:21 enhancements, you know, so like as
+20:23 videos like this get made, I think it
+20:26 will get a little bit better over the
+20:28 next couple of weeks. But yeah, I think
+20:31 he's been very fair and I think he's
+20:33 accurately showing the problem and why
+20:36 we need to understand that we should
+20:38 have senior dev agents and junior dev
+20:42 agents and you know I don't want my
+20:45 junior dev just going and going and
+20:47 going trying to figure out the problem.
+20:49 I want to use a senior dev, you know,
+20:51 uh, which is one reason why I like
+20:53 Hermes is because you can just do
+20:54 slashmodel in the middle of a of a chat,
+20:58 switch out to your senior dev model, you
+21:00 know, your opus 4.8, solve a problem
+21:03 quickly, and then go back to a cheaper
+21:05 model to do the extensive work.
+21:08 >> And I also know you you have Hermes
+21:10 agent that's a writer, which could be on
+21:11 sonnet, and then another that could be
+21:13 on a different model. Let's look at one
+21:15 final video from AI Code King.
+21:18 >> And then also behind the scenes, I've
+21:19 been running a head-to-head comparison
+21:21 that I want to show you as well.
+21:22 >> Oh, good. All right, we'll finish with
+21:23 this and then we'll take a look at your
+21:24 head-to-head comparison.
+21:26 >> Um, he starts off with price comparison.
+21:28 >> Costs $9 or40 and only scores 55.71%.
+21:33 This model is quite bad.
+21:37 >> This model is quite bad. Um, yeah. Yeah.
+21:39 I mean, you're really looking at Kimmy
+21:41 being the cheapest here for the total
+21:43 run versus GLM 5.2 being reasonably
+21:46 close and obviously Opus 48 is the most
+21:48 expensive, but Sonnet is actually and it
+21:51 ended up for him being more expensive
+21:54 and being not the dumbest of all of
+21:57 them, but close. And but here's the
+21:58 other thing that um I thought was really
+22:00 interesting, the weirdness that came up
+22:02 for for him. More stuff that is
+22:04 extremely weird with this model is that
+22:06 it tries to do a lot of stuff in the
+22:08 root directory temp folder. For example,
+22:11 let's say that I give claude code with
+22:12 sonnet 5 a task like a math question.
+22:15 Then instead of maybe making a folder
+22:17 inside the current working directory and
+22:19 working in that, it goes into the root
+22:21 directory of the machine and uses that
+22:23 temp folder to work with it which is
+22:26 very weird. This makes it ask for
+22:28 permission all the time as well because
+22:29 it is going outside the current working
+22:31 directory. The model is also pretty
+22:33 weird in a ton of places when using it
+22:35 with something like open code. And it is
+22:37 even more weird. Like it doesn't follow
+22:40 the system instructions well either. I
+22:41 don't know what that means at all.
+22:44 All right, I'm going to stop it there.
+22:45 That is interesting. I will also say the
+22:47 other thing that's weird is the way that
+22:49 AI code King just zooms in and out all
+22:51 the time. I don't know if it's me, but
+22:53 it makes me a little nauseous. Having
+22:55 said that, this is the only review that
+22:57 I saw that had that kind of detail about
+23:00 what it's doing, where it's going, why
+23:02 it's constantly asking for permissions.
+23:04 >> Okay, that's my roundup of the top
+23:06 videos that I've seen uh from reviewers.
+23:09 You said that you would run a test
+23:10 yourself. Let's take a look.
+23:12 >> Yeah. Yeah. So, I know that there's the
+23:14 popular generate an SVG of a side view
+23:18 of a Mercedes prompt. Uh I don't know
+23:21 where people come up with these, you
+23:22 know, uh example prompts to use, but uh
+23:26 I did I Let me go ahead and share my
+23:28 screen. Okay, so what you're looking at
+23:30 here is inside of Mind Studio. They're
+23:33 like an NAN or a make.com
+23:36 um a agent builder, but they have this
+23:38 tool called the profiler, which allows
+23:41 you to head-to-head test prompts in
+23:45 different agents. So you can see across
+23:46 my screen, we've got Claude five, Sonnet
+23:49 5, we've got Gemini 3 Pro, and then
+23:53 we've got Claude 4.8 Opus.
+23:56 >> And I it's the exact same prompt at the
+23:58 top. You can't really enter a different
+24:01 prompt. Uh so create an SVG of a BMW M4
+24:06 CS side view. Um and then it ran all of
+24:10 them and then it shows us the cost
+24:12 comparison. So before I go, I have the
+24:14 outputs set up to the side. I'll show
+24:16 the outputs here in a second, but it's
+24:18 cool because it also shows you how long
+24:21 it took for each task. So we can see
+24:23 done in 22 thou what's called 23,000
+24:28 milliseconds.
+24:29 >> Mhm.
+24:29 >> So I think that's 23 seconds if I'm I
+24:33 don't know milliseconds. U and then the
+24:35 other one over here, claude 4.8 took
+24:37 about 27,000 mill.
+24:39 >> 22 seconds.
+24:41 >> Yeah. Okay. Turns out
+24:43 >> uh so roughly the same amount of time
+24:47 sonnet 5 versus 4.8.
+24:49 >> Okay. Yeah, this is a fairly
+24:51 straightforward thing. Okay. Although
+24:53 though it took me with opus a lot longer
+24:54 when I tried this. Yeah, tell me.
+24:56 >> Okay. And then the costs. We've got 6
+24:59 cents
+25:00 >> for claw 4.8 opus and then we've got uh
+25:05 4 cents for sonnet five. Okay. And then
+25:09 let's take a look at Gemini Pro, who
+25:11 actually failed the task. Like it didn't
+25:14 actually output something I can use.
+25:17 >> At least not in the tools that I use.
+25:19 Somebody smarter would probably be able
+25:21 to do it. But this took uh 68,000
+25:25 milliseconds and but it only cost
+25:29 0.3. So not even a whole scent to do.
+25:34 >> Um all right. So let's take a look at
+25:36 the sideby-side comparisons. I got to
+25:38 click share this tab.
+25:40 >> It's the sonnet version that was that
+25:42 was being made fun of on Twitter. Okay.
+25:44 >> Yes. So, this is the sonnet version.
+25:46 >> Definitely not right.
+25:48 >> That's pretty tough. Um, and then let's
+25:51 take a look at the Opus 4.8 version,
+25:55 which is better, but I don't know that
+25:58 it's ideal.
+26:00 >> It's strange. I ran it um on my system.
+26:05 Here, I'll share my screen. And I'll
+26:06 show you what it looked like when I did
+26:07 it in in Opus. This is the problem that
+26:10 we see with with these types of
+26:11 comparisons. No two results end up
+26:14 looking the same.
+26:15 >> Yeah.
+26:16 >> But I did it and this looks decent. I
+26:21 actually don't know what a BMW M4 looks
+26:23 like, but I know what it doesn't look
+26:24 like. And all the examples I've seen
+26:26 don't look like it.
+26:28 >> Yeah.
+26:28 >> Okay. The big takeaway here is it is
+26:32 capable. It does tend to be slow for big
+26:34 projects. It is surprisingly more
+26:36 expensive. We're used to sonnet being
+26:38 the cheaper alternative and now we can't
+26:41 think of it as the cheaper alternative.
+26:42 We have to think of it as the tool for
+26:44 certain jobs, not not the the mini
+26:48 version of Opus 48. All right, if you
+26:50 found any of these helpful, let me know
+26:52 in the comments. Let me know with a
+26:53 thumbs up. And now that you've seen
+26:55 this, Justin and I both love our Hermes
+26:57 agent. We recorded a video where we did
+26:59 something like this for how to use a
+27:02 Hermes agent, how to set it up. Go watch
+27:04 that video right here. Okay, I'll hit
+27:06 stop.

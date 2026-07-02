@@ -1,0 +1,950 @@
+# Transcript: Full Hermes Agent Tutorial (Desktop) 🧠 A Useful Agentic AI Workflow
+# Channel: Wanderloots
+# Duration: 1730s
+# Video ID: GL67DEf2nyI
+# Published: 2026-07-01
+# URL: https://youtube.com/watch?v=GL67DEf2nyI
+
+0:00 Okay, there we go. We can now launch the
+0:01 Hermes desktop. Most AI tools are as
+0:03 capable at day one as they are at 100.
+0:06 They don't necessarily learn and evolve
+0:08 over time. You learn it, but it doesn't
+0:10 learn you. Hermes is different. The more
+0:12 you use it, the better it gets at your
+0:14 specific work, your task, what you want
+0:16 it to do automatically. Not because you
+0:19 trained it or told it to do that, but
+0:20 because it trains itself. It compounds
+0:23 and learns from its behavior over time.
+0:25 It's built into the Hermes architecture.
+0:27 It's by design. It's built by an actual
+0:29 research company that specializes in
+0:32 training open models. Hermes by Nous
+0:34 Research. Nous meaning mind or intellect
+0:37 in Greek, and Hermes being the messenger
+0:39 god. So, together we get an agent that
+0:41 thinks and delivers. Hi, my name is
+0:43 Callum, also known as Waterloos, and
+0:45 welcome to today's video on setting up
+0:47 and running your Hermes agent. AI is
+0:49 getting better all the time, but it's
+0:50 still pretty unpredictable. We need ways
+0:52 to systematize how they operate so that
+0:54 they do what we want predictably, and
+0:56 they get better at it over time. Hermes
+0:58 watches for recurring workflows, writes
+1:00 reusable skills from them, and then
+1:01 loads those skills the next time it
+1:03 recognizes a similar job. In today's
+1:05 video, I'll show you how to get Hermes
+1:06 set up in just a few minutes with a
+1:08 local and a cloud model, how to connect
+1:10 it to your favorite messaging app so you
+1:11 can reach your agent from anywhere, how
+1:13 to run your first automation that
+1:14 delivers to your phone each day. I'll
+1:15 also show you why Hermes connects so
+1:17 naturally to Obsidian and the LLM Wiki
+1:19 through its existing skills. If you find
+1:20 this video helpful, please like, hype,
+1:21 and subscribe as I appreciate your
+1:23 support a lot. Now, let's set up your
+1:25 new agent.
+1:27 There's two major elements that I'm
+1:28 excited about here. The first is that
+1:29 it's an agent that grows with you. So,
+1:31 it gets smarter and better over time. It
+1:33 learns your preferences. It learns your
+1:35 workflows. And I'll touch more on that
+1:36 in a moment. And the other is that it's
+1:38 open source. It's built by Nous
+1:39 Research, and their mission statement is
+1:41 to advance human rights and freedoms by
+1:43 creating and proliferating open-source
+1:45 language models, supporting their
+1:46 unrestricted availability and use, and
+1:48 furthering their scientific and popular
+1:50 understanding. So, to me, I think it's
+1:51 cool that not only do we have an agent
+1:53 that grows with you and that gets
+1:54 smarter the more you use it, but it's
+1:55 built by a company who has open-sourced
+1:58 it, and their mission statement is to
+1:59 make AI accessible for everyone. So, I
+2:01 align very strongly with both of those
+2:03 for selecting an agent for my personal
+2:05 and work use. So, it has a persistent
+2:06 memory, which means it learns your
+2:08 projects, it automatically generates
+2:09 skills, and it remembers how it solved
+2:11 problems over time. You can set up
+2:13 automation, which we'll get into today.
+2:15 You can connect to it from anywhere from
+2:16 all the different messaging agents,
+2:17 which I'll also talk about today. It can
+2:19 run parallel agents and sub agents. It
+2:21 can browse the web, and you can run code
+2:23 in isolated sandboxes. So, all of these
+2:25 are pretty cool features that I've been
+2:28 doing independently across different
+2:29 tools. So, I'm excited to see them all
+2:31 bundled together in Hermes. Okay, so
+2:33 let's get started.
+2:35 So, I'm going to click download for
+2:36 macOS. So, I just need to drag this into
+2:38 my applications folder, and then we can
+2:40 open it up. Now, one thing I want to
+2:42 quickly mention is that we can also
+2:43 install via the terminal if you want to
+2:44 do this on the command line interface,
+2:46 but personally, I've really been
+2:47 enjoying the desktop app. So, I'm going
+2:49 to show you that today. And it's
+2:50 installing its own system prerequisites
+2:52 to make sure it has everything that you
+2:53 need. Okay, there we go. We can now
+2:55 launch the Hermes desktop. Okay, so once
+2:57 the desktop is installed, you can see
+2:59 that they're suggesting the news portal.
+3:01 This is their paid service that connects
+3:02 all the different models together. So,
+3:04 depending on what you're looking for,
+3:05 that could be the easiest way to get
+3:06 going. But before we even connect to
+3:08 anything like OpenAI or Anthropic, I
+3:10 want to show you how we can run this
+3:11 ourselves using a local model. So, I'm
+3:13 going to click choose provider later,
+3:14 and then we get brought to the home page
+3:17 here. So, I just quickly changed my
+3:18 appearance so you can see a little bit
+3:19 better. And we can see in the bottom
+3:20 left here, because I didn't select a
+3:22 provider, we need to finish setting up
+3:23 the gateway, which basically just means
+3:25 we need to connect a model to it.
+3:28 I'm going to quickly go through setting
+3:29 up a local model customized for Hermes
+3:31 today, but if you want a more in-depth
+3:33 guide, I just put out a video and
+3:34 accompanying article that walks through
+3:36 why you should run a local model and how
+3:38 you can do it step by step with a llama.
+3:40 A lot of people have been finding that
+3:41 very helpful, so I recommend watching
+3:42 that if you're at all confused about
+3:44 this next section. So, I can press
+3:45 command or control comma, and that
+3:47 brings up settings here. And we can see
+3:48 that we don't have a provider set up
+3:50 under the model section. So, I'm going
+3:52 to go here and I'm going to go scroll
+3:53 down until we get to custom endpoint,
+3:55 and then I'm going to click set up
+3:56 custom endpoint, and this pulls up the
+3:58 option to connect to a locally running
+4:01 system. So, I'm going to point this to
+4:03 Ollama. So, Ollama is quite easy to
+4:05 install. You can just go here and click
+4:06 download. So, today I'm using the Gemma
+4:08 4 1, and if you use Gemma 4 latest, that
+4:10 will give you the E4B, which is good for
+4:12 running on smaller computers. So, for
+4:13 example, all I would do is write Ollama
+4:15 pull Gemma 4 latest, and that would pull
+4:18 down this Gemma 4 4B version, this one
+4:21 here. Or, like I've already done is pull
+4:22 in the 12. So, I'm going to add in the
+4:25 Ollama endpoint here, which is this one,
+4:27 and click connect. And now we see that
+4:28 the gateway is ready. So, basically what
+4:30 we just did is we connected Hermes to
+4:33 Ollama. So, now if I click on the model
+4:35 selector in the bottom here, I can go
+4:37 down to local and select Gemma 12B. But,
+4:40 there's one more important piece of
+4:41 information here. If you want to get a
+4:42 local model running, I'm going to test
+4:43 to make sure that we're able to actually
+4:45 communicate with our local model. So,
+4:47 I'm going to ask, "What is today's
+4:48 date?" And the first time you ask a
+4:50 question, it might take a little while.
+4:51 But, really what I'm testing here is can
+4:53 the model run correctly? And we can see,
+4:55 yes, it got today's date correct. But,
+4:58 you might end up having it where it pops
+4:59 up and it says, "I have no idea. I can't
+5:01 access anything." What that means is
+5:03 that the model you've selected does not
+5:05 have sufficient context in order to run
+5:07 Hermes. So, if I open up my terminal
+5:09 again, and I type in Ollama ps, we can
+5:12 see here's Gemma 4 12B, the one that's
+5:14 currently in use, and its context window
+5:16 is 32,768.
+5:19 We can see that a lot of Ollama models
+5:22 use a 2048 token context limitation, and
+5:25 Hermes requires 64,000 to give your
+5:28 agent tools. So, what we can do then is
+5:31 we can force the context. For example,
+5:33 here at 32,000, maybe we want to double
+5:35 that. Maybe we want to up it to 65,000.
+5:38 So, what we need to do next is we can
+5:40 create a custom configuration where we
+5:42 create a separate variant of one of
+5:44 these models. I'm going to do it for
+5:46 Gemma 4, and we paste in this prompt
+5:48 here, where we can see I'm saying create
+5:50 a file where the context is 65,536,
+5:54 which is double the current limit, and
+5:55 then create a variant of that called
+5:58 Gemma 4 64k. I'm going to click enter.
+6:00 Now, what we need to do is we need to
+6:02 change it so that the variant is what is
+6:04 used here. So, instead of just dealing
+6:05 with Gemma 4 12B, we want to actually
+6:07 access that new double context window
+6:09 that I just created. So, you can ask
+6:11 Hermes to do this directly if you want,
+6:13 or you can use this code here, where we
+6:15 basically are saying Hermes config set
+6:16 model provider, we want to set it to
+6:18 this base URL, the one that we've
+6:20 already done, and we want to set the
+6:21 default model to Gemma 4 64k. Then,
+6:24 after quitting and reopening Hermes, if
+6:26 we go and we click on the model picker
+6:27 here, we can see now the model has
+6:29 changed to Gemma 4 64k latest. So, I've
+6:32 just doubled the working memory of my
+6:34 local model. So, I'll include all of
+6:36 those little code snippets that I just
+6:38 went through there to set it up, but
+6:39 what you can also do is you can connect
+6:40 a different model, and you can ask it to
+6:42 set up these variants and run everything
+6:44 for you. So, why don't we ask it a
+6:45 little bit more of a complex question
+6:47 than just what is today's date?
+6:50 I'm going to ask what is the latest AI
+6:51 agent news today. So, you can see that
+6:52 it's running through its thinking
+6:53 process to identify which tools it needs
+6:56 to use, and then it will go through and
+6:58 run the web search and use the browser
+7:00 information. So, this might take a
+7:02 minute or two, and I'll talk a little
+7:03 bit more about the tools and the skills
+7:05 in a moment. So, it just went through
+7:07 some thinking process there, and now
+7:08 it's opening Google search, and it's
+7:09 going to go and run this prompt, and
+7:11 then give me a summary. That took about
+7:12 2 minutes. What I'm trying to show you
+7:14 here is all this information, everything
+7:15 that just happened, is 100% local. This
+7:18 all is just on my computer. I have
+7:20 Ollama running, I have Hermes running,
+7:21 and they're talking to each other, and
+7:23 Hermes is using Ollama to go run queries
+7:26 and search the internet. You can
+7:27 experiment with different local models,
+7:29 see what works best for you, but if
+7:30 you're looking for a little bit more
+7:31 power, or perhaps you're paying for
+7:33 another service like Codex or Claude
+7:35 Code, you can connect that model
+7:37 directly here. So, why don't we do that
+7:39 now for a minute?
+7:41 So, what we can do is we can open
+7:42 settings again. We can go over to
+7:44 providers, and I'm going to click
+7:45 OpenAI, and I'm going to sign in to
+7:47 Codex. And once I get here, then I need
+7:49 to go back to Hermes for a minute, and I
+7:51 can copy this code, paste it in, and
+7:53 this is going to link Codex with Hermes.
+7:57 There we go. So, now I can select my
+7:58 default model, or I can click begin. And
+8:00 now what we can see if I create a new
+8:01 session is that my default model is
+8:03 still Gemma 4 12B, but now I have the
+8:06 option to select from the OpenAI the
+8:08 Codex models like GPT 5.5. So, what that
+8:11 means is I now have two different types
+8:13 of systems I can run here. I can run a
+8:15 local model if I want to keep everything
+8:16 private, 100% local, but with less
+8:18 power, or I can switch to OpenAI or
+8:21 Anthropic, and I can use a more powerful
+8:23 model. But what's cool is rather than
+8:24 just toggling the models between here,
+8:26 we can actually set up what are called
+8:27 different profiles down in the bottom
+8:29 here, where one profile defaults to
+8:31 using Gemma, the local model, and the
+8:33 other defaults to using OpenAI.
+8:36 Each new profile you set up here has a
+8:39 completely different Hermes environment.
+8:40 It has a separate configuration, skills,
+8:42 and soul.md. But rather than have me set
+8:44 this all up, what I can do is I can
+8:46 switch over to Codex, for example, and I
+8:48 can just ask it to set up its own
+8:50 profile system. So, just as a pro tip,
+8:52 if you're ever getting stuck on
+8:53 something, or really you want to do
+8:55 anything, you might as well ask Hermes
+8:58 to do it for you and see if it can
+8:59 handle it. If it can't do it off the
+9:01 bat, you can give it a little bit more
+9:03 information or manually set it up, but
+9:04 over time it will learn what you're
+9:05 trying to do here. And it might be able
+9:07 to just do it on its own. So, we'll see
+9:09 that in a moment. So, we can see here
+9:10 it's actually running code. It's running
+9:12 create profile, create config path. So,
+9:15 it's building separate profiles, one for
+9:17 local and one for cloud. That makes it
+9:19 really easy for me to just click between
+9:21 the different profiles once they appear
+9:22 down here. So, we can see now it says it
+9:24 created and verified both profiles. It
+9:26 gave it one called Gemma 4, the other
+9:27 called Codex, and they were cloned from
+9:29 the default. Now, if I close Hermes, and
+9:32 I reopen it, we can see that we now have
+9:34 Codex, and we have Gemma 4. So, now we
+9:35 can see if I click on home, it defaults
+9:37 to Gemini 4 64K. If I click on Codex, it
+9:40 switches over to GPT 5.5, and if I click
+9:42 over to Gemini 4 specifically, it
+9:44 defaults to Gemini 4. So, I now have two
+9:46 different profiles that have completely
+9:48 different configurations, and each use
+9:49 different models depending on the task.
+9:51 By clicking on the profile, you get a
+9:53 separate list of sessions, you get
+9:55 different skills. Everything is isolated
+9:57 between these two. So, now we have the
+9:58 whole chat system set up. We have our
+10:00 local model, and we have our cloud
+10:01 model. So, we've got power, and we have
+10:03 privacy. Now, I want to quickly show you
+10:05 some of the more interesting features of
+10:08 Hermes in the settings before we get
+10:09 into a practical example.
+10:13 So, the first one is if we click on
+10:14 skills and tools across the top, we can
+10:15 see that there are 71 skills built into
+10:18 this. Basically, a skill is a reusable
+10:21 workflow that the agent can use, so that
+10:23 if you ask it to do something, rather
+10:24 than the agent trying to reason through
+10:26 what you mean and how you mean it, it
+10:28 can go pull one of these skills, so it
+10:30 does it repeatedly. It significantly
+10:32 increases the quality and consistency
+10:34 and repeatability of how you use your
+10:36 agent. So, I recommend going through and
+10:38 just exploring and taking a look at what
+10:39 the different skills are, because the
+10:41 more you can piece these skills
+10:43 together, the more you're going to get a
+10:44 workflow that works best for you. For
+10:46 example, I use Obsidian a lot, and I'll
+10:48 talk about this more later, and there's
+10:50 specifically a skill on how to use
+10:52 Obsidian. So, that means that we can use
+10:53 Hermes to connect to Obsidian and write
+10:55 notes for us, or perhaps build itself an
+10:58 LLM wiki, which I talk more about in my
+11:00 video on why and how to build an LLM
+11:02 wiki. So, I recommend checking that out
+11:04 if you want to go deeper into it. There
+11:05 is actually an LLM wiki here, and if
+11:07 you're interested in seeing how we can
+11:09 connect Hermes to the LLM wiki, let me
+11:11 know in the comments. I'm happy to make
+11:12 a dedicated video that works through how
+11:14 to connect Hermes to Obsidian, and
+11:16 specifically how to work through
+11:17 building the LLM wiki. So, I just think
+11:19 it's really cool that we can use
+11:20 Obsidian as a memory layer for AI. We
+11:23 also have tool sets, and this is where
+11:25 you can enable different functions. For
+11:27 example, maybe you don't want your agent
+11:28 to be able to run code, you you turn it
+11:30 off. Maybe you don't want it to be able
+11:32 to use your computer, you can turn that
+11:33 off. The goal here and why a lot of
+11:35 people are enjoying Hermes over Open
+11:37 Claw is that you have a little bit more
+11:39 transparency and control as a less
+11:41 technical user on how your agent's
+11:43 operating. One thing I recommend keeping
+11:45 on is memory because this will build
+11:47 persistent memory across sessions. So,
+11:49 for example, if we go over to the Hermes
+11:51 folder, which is a hidden folder on Mac,
+11:54 and we go over to memories here, this is
+11:55 where the agent's going to create a
+11:57 user.md file and a memory.md file. And
+12:00 these are files that it will update on
+12:03 its own outside of the session context.
+12:05 So, for example, I just told the agent,
+12:07 just so that it understands me better,
+12:09 I'm a technical person who prefers
+12:10 straight to the point information,
+12:11 fairly sophisticated with my knowledge,
+12:13 but I also prefer seeing how the pieces
+12:15 fit together so that I learn along the
+12:17 way. So, we can see here that this
+12:18 triggered a memory. So, it added a line
+12:21 to the user file. So, if we go back to
+12:23 our folder here and go to memories, we
+12:25 can now see that there's a user.md file
+12:27 where I told Hermes what it is that I
+12:31 like, and it created a little summary
+12:33 here saying user's technical and prefers
+12:35 straight to the point sophisticated
+12:36 information that explains how pieces fit
+12:38 together so they can learn along the
+12:40 way. So, this is where we really get
+12:41 into the self-evolving nature of Hermes
+12:43 where as I discuss and as I talk about
+12:45 different things, whether it's projects
+12:47 or me or just things I'm interested in,
+12:49 the agent will continuously build out
+12:51 its persistent memory so it gets better
+12:52 over time and it can even build its own
+12:55 skills based on what it's learning from
+12:56 me so that it creates a workflow that
+12:58 gets smarter and more efficient for me
+13:00 specifically over time.
+13:03 If you ever have any questions about any
+13:04 of this or you want to figure out how to
+13:05 set up anything in particular, I
+13:07 recommend checking out the docs because
+13:09 there's a lot of information to get you
+13:10 going and you can always point your
+13:11 agent at these docs and it will be able
+13:14 to read it and then do a better job
+13:15 answering your question and helping you
+13:17 get things set up. Now, before I get
+13:18 into messaging, let's take a look at
+13:20 some of the other settings for a second.
+13:21 One thing that I really want to
+13:22 emphasize here before I get into all the
+13:24 rest of the the is if we go to advance,
+13:27 we can see that we have execution back
+13:29 end. We can control how code is
+13:31 executed, how the terminal is executed,
+13:33 whether you want this running locally on
+13:35 your main system, running in a Docker
+13:36 container, running through a VPS, or
+13:39 SSH, which is where you can connect
+13:40 different computers together. Rather
+13:42 than having it just run in whatever the
+13:44 root folder is on your computer, giving
+13:45 it access to everything on your
+13:47 computer, you can put it in a sandbox
+13:49 inside of a Docker container. You're
+13:50 able to protect the rest of your
+13:52 computer from any code or operations
+13:54 that Hermes might be doing an error or
+13:57 just getting wrong. That is something I
+13:58 just really wanted to point it out at
+13:59 the beginning because it's exceptionally
+14:01 important. I've already shown you the
+14:02 model where we get everything set up
+14:03 here. We can add different personalities
+14:06 for the chat. There's a lot of different
+14:07 options here, so you can pick what works
+14:09 best for you. You can change the
+14:10 appearance here. You can control the
+14:12 working directory. So right now, for
+14:14 example, I'm having everything operate
+14:16 in just the root folder, but I could
+14:17 have this go elsewhere. And what's nice
+14:19 is you can configure this on a per
+14:21 profile basis, too. So maybe ChatGPT
+14:23 operates out of one folder and Gemma
+14:25 operates out of another. That way we can
+14:27 keep the separation of information
+14:29 between our private and our cloud
+14:31 providers. We also have controls over
+14:32 the memory and context, like I
+14:34 mentioned. So this is where it's
+14:35 creating that memory.md file and a
+14:37 user.md file. And we can also control
+14:40 what we want for the budget on how much
+14:42 information is stored. So basically what
+14:43 that means is Hermes will prune out of
+14:46 date information over time to keep the
+14:48 memory file small so that when it gets
+14:50 injected into new chats, it doesn't take
+14:53 up too much space. So we can also get
+14:54 into building a separate memory layer.
+14:56 I'm using something like Hindsight or
+14:58 Honcho or Nemesis, which is one that I'm
+15:01 exploring. So if you're interested in
+15:02 seeing how to build a memory stack for
+15:04 Hermes, let me know in the comments and
+15:05 I'm happy to make a dedicated video on
+15:07 that. And that's where we would get
+15:08 into, for example, the memory provider
+15:10 here. We can also get into voice, which
+15:11 all happens 100% locally, depending on
+15:13 the settings that you're using here. One
+15:15 final thing before we get into our
+15:16 practical example is that I want to
+15:18 mention you can also set up different
+15:20 gateway connections. So right now I have
+15:21 this set as a local gateway, which means
+15:23 that this computer I'm on right now is
+15:25 what is running Hermes, and this is
+15:26 where the back end is created. If I want
+15:28 to keep this running on my desktop, but
+15:30 connect to it through my laptop, I can
+15:32 run my laptop as a remote gateway that
+15:34 then connects to this back end. So, I
+15:36 don't want to get too much into that
+15:37 right now, but what's nice about that is
+15:39 especially if you have a memory system
+15:41 that you've built, you can keep all of
+15:42 your memories on one computer, but still
+15:44 write to it from another computer, so
+15:46 that you're building one agent that
+15:48 continues to mature across multiple
+15:50 devices with a single memory bank.
+15:51 There's one shared brain for different
+15:53 devices. Let me know if you want me to
+15:55 make a video on that, I'm happy to. It's
+15:56 something that I'm personally very
+15:57 interested in. We can also add API keys,
+15:59 so we can get more control over the
+16:01 different systems that we're using,
+16:03 whether it's for memory, for tool
+16:04 calling, for coding, for browsing.
+16:06 There's a lot we can do here. And of
+16:07 course, we can connect to model context
+16:09 protocol. So, I know that was a lot of
+16:11 information. Please let me know if you
+16:12 have any questions, I'm happy to go into
+16:13 it more.
+16:16 If you're finding this video helpful,
+16:17 just a reminder to please like and
+16:18 subscribe, as I appreciate your support
+16:20 a lot. If you're looking for more ways
+16:21 to support me, please also consider
+16:22 joining my membership on YouTube or
+16:24 Patreon. I give my members access to
+16:25 skills, tools, tips, and insights on how
+16:27 we can use these tools more effectively
+16:29 to make our lives easier. I'll also be
+16:31 getting some of the skills and the
+16:32 workflows that I'm building in today's
+16:33 video to my members. Now, let's keep
+16:35 building. For me, I think the best way
+16:37 to get started is to consider what is it
+16:39 that I do every day or once a week that
+16:41 I wish could be made easier or obsolete.
+16:43 There's probably some way to automate or
+16:45 significantly improve your productivity
+16:47 by having an agent that understands you
+16:49 the more you do that thing. So, take a
+16:51 look through the skills, take a look
+16:52 through the tools, have a chat with
+16:54 Hermes about how Hermes can help you,
+16:56 and it will learn and write skills and
+16:58 get better over time. So, I thought that
+17:00 a good example and one that will show
+17:01 how we can actually connect messaging,
+17:03 which means that we can bring in
+17:04 chatting over Telegram or Signal or
+17:06 email or text. What I was thinking is
+17:08 what if I had a daily briefing bot that
+17:10 messaged me updates on AI each day. That
+17:12 way I can do deep dives into what I care
+17:14 about instead of just initially scanning
+17:15 the news to get surface level
+17:17 information. And then over time, I can
+17:18 give more feedback to Hermes based on
+17:20 that daily briefing. So, the briefing
+17:22 gets more and more customized based on
+17:23 what I'm specifically interested in. And
+17:25 the best part is that rather than just
+17:27 having to open my computer to do this, I
+17:29 could access it from my phone or from my
+17:31 Discord or from anywhere else. And this
+17:33 is what's called a messaging gateway.
+17:36 We're able to message from something
+17:37 like WhatsApp or Slack or Google Chat or
+17:40 Discord or Telegram or text or email.
+17:43 There's a whole list here, and it all
+17:45 has a conversation that gets stored in
+17:47 your back end. So, what we're doing is
+17:49 we're creating a messaging gateway. So,
+17:50 the easiest one to get going is often
+17:52 Telegram. So, why don't we do that
+17:53 today? We'll get the Telegram messaging
+17:55 gateway set up, and then we will
+17:56 schedule an automation that will run
+17:58 that daily briefing. So, for all of
+18:00 these different tools here, there is a
+18:01 dedicated setup guide on Hermes. So, I
+18:04 recommend taking a look if you need to.
+18:05 But for Telegram, we just need two
+18:06 things. We need to create a bot with the
+18:08 BotFather, which is just you can just
+18:10 search BotFather on Telegram, and then
+18:12 paste the token it gives me. And then we
+18:14 need to allow a certain Telegram user ID
+18:16 to communicate with our Hermes back end.
+18:18 So, this is my phone right here where I
+18:20 have Telegram set up. So, I just clicked
+18:21 on BotFather, and I can click create new
+18:23 bot here. So, I'm going to call this
+18:25 wanderloots_hermesbot.
+18:27 Click create bot. Now, I need to get an
+18:28 API key here. So, I'm going to copy
+18:30 this. And then now what I need to do,
+18:32 since I have this API key, is I need to
+18:34 go and get my Telegram user ID. So, now
+18:36 the one I just went to was called the
+18:38 raw data bot, and this is what's going
+18:39 to get me my ID. There we go. So, I just
+18:41 put in my ID, click save changes. Okay,
+18:44 so once we have the bot token in there
+18:46 and we have our Telegram user ID in
+18:48 there, this allows us to connect
+18:49 directly to the bot, and this allows me
+18:51 to be the only one to connect to the
+18:53 bot. So, you can see it says messaging
+18:55 gateway stopped, disconnected. What we
+18:56 can do is we can go down to the bottom
+18:58 here, click gateway ready, click on the
+18:59 open systems panel, and then click
+19:01 restart messaging. And now we see
+19:03 gateway restart is running. And we go
+19:04 over to Telegram, and we see that we are
+19:06 connected. All right, so now that I have
+19:07 that Hermes bot, I can click on it here,
+19:09 and I I click start. We can see there's
+19:11 now one agent running. Now, if I just
+19:13 type in hi, we can see my bot is
+19:15 responding to me. So, this is me having
+19:17 a conversation with the default model
+19:20 running on my system here. And we can
+19:22 configure which model we want to use. I
+19:23 was trying to use it with Gemma and it
+19:25 was struggling a little bit. There's
+19:26 probably some time out duration that I
+19:28 would need to fix here. But, when I
+19:29 switched it to ChatGPT, it works
+19:31 completely fine. So, for example, I say,
+19:33 "Who are you?" And it says, "I'm Hermes
+19:34 agent, an AI assistant running via your
+19:36 Hermes desktop set up by News Research."
+19:38 And it's able to identify
+19:40 We now have a direct messaging system
+19:42 for my phone to this agent running on my
+19:45 computer. So, that's pretty cool. I can
+19:47 see I have the actual conversation right
+19:49 here inside of my system. So, this is
+19:52 being saved to my computer. So, now what
+19:54 I'm going to do is I'm going to actually
+19:55 run my session here. So, I'm going to
+19:57 say, "What's the goal?"
+19:59 I'm actually planning out what I want my
+20:02 daily briefing bot to be. So, I told
+20:03 GPT-5 here just to get everything set up
+20:05 correctly. I want to get the most
+20:07 updated relevant information on AI each
+20:09 day. Message me once on Telegram with
+20:11 the key information, and then to learn
+20:13 from the feedback I give you. Then I
+20:15 told it, "Please don't start yet. Just
+20:16 make a plan here." Because the goal for
+20:19 me is not just to get whatever the
+20:21 high-level news is. I want to get a very
+20:23 curated information stream for myself.
+20:26 One that as I give feedback to my agent
+20:28 gets better over time. So, based on my
+20:30 prompt, here's the implementation plan.
+20:32 It's going to create a new skill called
+20:34 AI Daily Intel, which will become the
+20:36 brain of the daily report that gets
+20:38 better over time based on a whole bunch
+20:40 of information. Then it'll create a
+20:41 daily cron job, which we'll talk about
+20:43 more in a moment, that will be able to
+20:44 run autonomously to deliver it to my
+20:46 Telegram chat. Again, I might also have
+20:48 it emailed it to me. It's completely up
+20:50 to you how you want this to happen. So,
+20:52 just before it begins, I like to always
+20:53 give feedback to please ground its plan
+20:55 in the actual Hermes docs so that it can
+20:57 better understand its limitations versus
+20:59 what it may or may not be hallucinating.
+21:01 For example, cron jobs don't have
+21:03 messaging history to them. Everyone
+21:04 starts as a fresh session. So, I want to
+21:07 make sure that if it is pulling
+21:08 information, it's pulling it not from
+21:10 its messaging history from Telegram, but
+21:12 from its memories that could be in
+21:14 Obsidian or just generally in the
+21:16 session data. And you can see here that
+21:18 it has gone through and said this is the
+21:19 order of implementation. It's going to
+21:20 confirm when, confirm what, create the
+21:23 skill, and then run a dry run to make
+21:25 sure it all works, and then adjust the
+21:26 skill based on the feedback. So, this is
+21:28 where we truly get into this
+21:29 self-evolving system because every day
+21:31 it messages me, I can give it some
+21:33 feedback, it will write the feedback
+21:35 into the skill, and then tomorrow's
+21:36 version works even a little bit better.
+21:40 So, it's going to create one skill, the
+21:41 daily intel. It's going to run once per
+21:43 day, and when the cron job, which is an
+21:45 automation, we see cron down here
+21:47 scheduling. If we click new cron, we can
+21:49 choose what we want it to be called, how
+21:51 often it runs, where it delivers to, and
+21:52 what the prompt is. So, within this
+21:54 prompt, you can also reference a
+21:55 specific skill, so that as the agent
+21:58 runs, when I read a report in Telegram,
+22:00 I can give feedback, for example, more
+22:02 like number two, less on funding, deeper
+22:04 into agent workflows, and then the
+22:06 normal Hermes Telegram chat replies to
+22:09 it, interprets the feedback, and then
+22:10 updates the skill that then gets loaded
+22:12 tomorrow. So, after even just a few
+22:14 days, it should improve itself over
+22:16 time. So, one piece of advice is that
+22:18 before you try running an automation as
+22:19 a cron job, it's better first to have it
+22:22 run in the chat, so you can see what
+22:24 it'll look like before you try and
+22:26 automate it. That way you can tweak it
+22:27 up front instead of being disappointed
+22:29 when it runs poorly tomorrow. We can
+22:31 always click in and see the skills. For
+22:33 example, here is one skill it has on
+22:35 skill authoring, so I'm building its own
+22:37 skills, and now it's going to go and
+22:38 manage the skill itself. So, it just
+22:40 created that new skill here, the daily
+22:42 intel, and this is just a markdown file,
+22:45 and we can just open that file if we
+22:47 want. And this is where Obsidian comes
+22:48 in because Obsidian would be able to
+22:49 read this, I'd be able to open this in
+22:51 Obsidian and modify it myself each day,
+22:53 and then the next time the automation
+22:55 runs, it would be updated. Okay, there,
+22:57 so it just ran for a couple minutes, and
+22:59 this is what the dry run report would
+23:00 be. Seems like a good summary so far,
+23:02 and it looks like it gave me the top
+23:04 seven pieces of news. And I can just
+23:06 give a little bit of feedback here and
+23:07 tell it, "Hey, you know what? I want to
+23:09 understand not just about the technical
+23:11 information, but also why it matters for
+23:13 the average person." So, now we can see
+23:15 that the agent is going through, it's
+23:16 viewing the skill, and then it's
+23:17 managing it to update it to include
+23:19 another lens for this type of
+23:20 information. So, that's where we get
+23:22 into this self-evolving nature where
+23:23 each report I get, I can give feedback
+23:25 on what I like and what I don't like.
+23:27 And maybe after a couple weeks of doing
+23:28 this, I get a really curated piece of
+23:30 information every day. So, like I
+23:32 mentioned before, we now need to
+23:34 schedule the cron job, which is
+23:36 scheduling the automation, and then we
+23:37 want it to be delivered to Telegram. So,
+23:39 we can see here the agent just went and
+23:41 it updated the cron job, and now we have
+23:43 this cron job that just appeared on the
+23:44 side. So, you can manually do that by
+23:46 setting it yourself, but what I'm trying
+23:48 to hammer home here is that everything
+23:50 you want to do in this system shouldn't
+23:52 be done manually. Once you get it set
+23:54 up, you should just be asking your agent
+23:55 to do it, and if it doesn't do it right,
+23:57 give it feedback and it will learn over
+23:59 time. So, now we can click on this cron
+24:01 job, and we can take a look at it, and
+24:02 we have it set to run in 1 minute. So,
+24:04 we'll see how it goes. Also, there is an
+24:06 option to just trigger now, but I wanted
+24:07 to see how the automation worked. And
+24:09 one thing that's worth noting is that
+24:11 you're able to actually attach skills to
+24:14 a particular cron job. So, if we go and
+24:16 we open the file here, we can see that
+24:18 here is the prompt that we gave it, and
+24:20 here is the skill that's attached to it.
+24:22 This is where you're able to add as many
+24:23 skills as you want and have those run
+24:25 automatically, and all you need to do is
+24:27 now tweak the skill and tweak the prompt
+24:29 until it gets better over time. Or, like
+24:31 I mentioned, even better, have the agent
+24:33 do it itself for you. We can see we've
+24:34 got this countdown on the side here, so
+24:36 let's see what happens with our
+24:38 Telegram.
+24:40 All right, so I just had to go through
+24:41 and make a few tweaks. Took me probably
+24:43 three or four tries to get it working
+24:45 like I wanted. This is where it's all
+24:46 about recalibrating, about iterating
+24:48 until you get it right. I now have my
+24:50 cron job, which is going to run every
+24:52 day at 8:00 a.m. We can see the full
+24:54 prompt inside of here, and it's pulling
+24:56 in the skill that I had chat GPT build
+24:58 out for me. If I pull up Telegram again,
+25:00 we can see that I had a reply from the
+25:02 Hermes bot and it gave me a briefing
+25:04 where it pulled in the three most
+25:05 important bigger picture perspectives on
+25:08 AI news. For example, that research
+25:09 agents can leak secrets through their
+25:11 search queries. That's pretty important.
+25:13 This is actually something I had to deal
+25:14 with as a patent agent and intellectual
+25:16 property lawyer where if you're doing
+25:17 Google searches, it's actually possible
+25:19 that you could be disclosing inventions.
+25:21 So, that's something interesting that
+25:22 agents could have that. And then there's
+25:23 a few more pieces of news here, the top
+25:26 rated ones. And what's cool is I gave it
+25:27 some feedback just saying that's much
+25:29 better. I like all three of these
+25:30 stories. And the agent replied, "Okay,
+25:32 cool. I saved this preference." If I go
+25:34 back to the Telegram chat here, we can
+25:36 see that I actually had the reply here
+25:38 and the agent updated its memories based
+25:40 on my feedback. So, that's all working
+25:42 perfectly now. I have every day the
+25:44 agent is going to run a search on the
+25:46 web, pull information based on my
+25:48 particular query, and then message me on
+25:50 Telegram with the report where I can
+25:52 then give it feedback and it will learn.
+25:53 So, a few things I learned here,
+25:56 we had to make it clear that we wanted
+25:58 it to use the browser, not web, because
+26:00 web requires external API keys. If
+26:02 there's browsers that block particular
+26:04 automation, then you might want to
+26:06 either use a different browser or
+26:07 suggest a different search. So, this is
+26:09 something that we want to continue
+26:11 updating over time. And as another
+26:13 thought, if I go over to my Telegram, we
+26:14 can see that it only updated the memory,
+26:16 which means that inside of our file
+26:18 here, inside of memory and user, it
+26:20 updated itself, but it didn't update the
+26:22 skill itself. So, what I'm doing right
+26:24 now is I have the agent going and it's
+26:25 running a separate automation that every
+26:27 day before the next one runs, it's going
+26:29 to schedule a second cron job and that
+26:31 cron job is going to go in and read my
+26:34 feedback here and then update the skill.
+26:36 So, I have the skill updater cron job
+26:38 that runs before the next daily report
+26:40 and then the daily report that will use
+26:42 the updated skill to give me a better,
+26:44 more personalized daily report. So, I
+26:46 hope you can see how this is starting to
+26:47 get into that self-learning system, the
+26:49 self-evolving system where we can have
+26:51 an agent that runs on its own, that
+26:53 pulls in information, messages it to me,
+26:55 I give it feedback, and then that
+26:57 updates the system so that tomorrow is
+26:58 even better. So, there's a lot more that
+27:00 we could do here. A next step would be
+27:02 that we could bring in the daily
+27:04 reports. I could flag the ones that I
+27:06 like the most, and we could use the LLM
+27:08 Wiki skill that I was talking about to
+27:09 ingest this into our LLM Wiki, but I'm
+27:12 not going to touch too much on that
+27:12 right now because I have a dedicated
+27:14 video that goes deeper into why you
+27:15 might want to have an LLM Wiki, and then
+27:17 how we can set it up as well. So, if
+27:19 you're interested, I'm also happy to
+27:20 show you how I would connect Hermes to
+27:23 my LLM Wiki, so I can make that into
+27:25 another video. Some other things that
+27:26 I'm interested in exploring further is
+27:28 building a memory stack using memory
+27:30 providers, and then also linking my
+27:33 laptop to my desktop so that we can have
+27:35 this single memory system working across
+27:37 multiple devices. We can also get into
+27:39 running the execution in a Docker or
+27:43 somewhere remotely. And there's also a
+27:45 web UI and dashboard that shows you
+27:47 different statistics and telemetry on
+27:49 what you're building here, so that's
+27:51 something that you can explore if you
+27:52 want to operate more efficiently. But
+27:53 for now, I'm going to continue exploring
+27:55 Hermes. I'm going to keep having
+27:56 conversations, building out this memory
+27:57 system for myself, building out this
+27:59 customization so that in the future
+28:01 everything should be running
+28:02 automatically, and the agent learns with
+28:04 every piece of feedback I give it.
+28:07 You now got a local agent running
+28:09 connected to a local model that sends
+28:11 you a daily briefing each day, and a
+28:13 system that's already better than it was
+28:15 an hour ago. Without you having to do
+28:16 anything extra, just by having a chat
+28:18 and asking Hermes to work with you. And
+28:20 we've barely scratched the surface of
+28:21 what Hermes can do, and why I'm so
+28:23 excited to use it. I'm working on more
+28:25 videos on how to connect to Hermes from
+28:26 multiple systems, how to connect to
+28:28 Obsidian and the LLM Wiki. Let me know
+28:30 in the comments if you have any
+28:31 questions about what I talked about
+28:32 today, or if there's any workflows that
+28:33 you would like to see me build, as I'm
+28:35 happy to help you out and make more
+28:36 videos. If you found this video helpful,
+28:38 just a reminder to please like and
+28:39 subscribe, as I really appreciate it.
+28:41 Thanks again for watching, and I will
+28:42 see you in the next video.

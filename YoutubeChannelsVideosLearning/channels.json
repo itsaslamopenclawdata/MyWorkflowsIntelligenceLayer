@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "last_updated": "2026-07-01",
+  "last_updated": "2026-07-02",
   "channels": [
     {
       "name": "Hyperautomation Labs",
@@ -29,8 +29,8 @@
       "category": "indie-hacking",
       "priority": "high",
       "added_on": "2026-06-06",
-      "last_seen_video_id": "jJIOA4GroBw",
-      "last_seen_published": "2026-06-25",
+      "last_seen_video_id": "83fWzQSWB10",
+      "last_seen_published": "2026-07-01T00:00:00Z",
       "min_duration_seconds": 300,
       "skip_rule": null,
       "enabled": true
@@ -93,8 +93,8 @@
       "category": "ai",
       "priority": "medium",
       "added_on": "2026-06-06",
-      "last_seen_video_id": "3Cni6_JubQk",
-      "last_seen_published": "2026-06-26",
+      "last_seen_video_id": "osawfmJzzFE",
+      "last_seen_published": "2026-07-01T00:00:00Z",
       "min_duration_seconds": 0,
       "skip_rule": null,
       "enabled": true
@@ -109,8 +109,8 @@
       "category": "tbd",
       "priority": "medium",
       "added_on": "2026-06-06",
-      "last_seen_video_id": "4KXLW9Y1r4c",
-      "last_seen_published": "2026-06-25",
+      "last_seen_video_id": "Cm1REvnij4A",
+      "last_seen_published": "2026-07-01T00:00:00Z",
       "min_duration_seconds": 0,
       "skip_rule": null,
       "enabled": true

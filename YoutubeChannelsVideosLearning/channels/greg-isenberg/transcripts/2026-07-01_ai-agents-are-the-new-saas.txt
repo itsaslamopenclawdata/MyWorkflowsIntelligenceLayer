@@ -1,0 +1,613 @@
+# Transcript: AI Agents are the new SaaS
+# Channel: Greg Isenberg
+# Duration: 1563s
+# Video ID: 83fWzQSWB10
+# Published: 2026-07-01
+# URL: https://youtube.com/watch?v=83fWzQSWB10
+
+0:00 Okay, I'll say it. Building agents is
+0:02 the new SAS. I mean, we saw billions of
+0:05 dollars of value creation during the SAS
+0:07 era. People, founders, 21 years old, 24
+0:11 years old, you name it, come up with SAS
+0:13 ideas that changed their lives. Of
+0:15 course, not everyone was successful, but
+0:17 this is a new wave that's happening. And
+0:19 [music] I want you to understand what
+0:22 this wave is, how you can take advantage
+0:24 of it, how you can build startups in
+0:26 this space. And in this episode, I'm
+0:28 basically going to clearly explain this
+0:30 entire agents is the new SAS
+0:33 opportunity. By the end of this, you're
+0:35 going to understand the playbook. You're
+0:36 going to understand how to find the
+0:38 niche. You're going to understand how to
+0:39 pick the workflow, how to, you know,
+0:41 build your first agent, how to prove it
+0:43 works, how you can package it like SAS,
+0:46 and how you can basically sell these
+0:48 agents as labor. And it's really
+0:50 important because that that labor point
+0:52 because labor is a multi- trillion
+0:54 dollar market, right? So I think why
+0:58 people say agents is bigger than SAS is
+1:01 because the total addressable market for
+1:03 agents is just way bigger. You know it's
+1:06 human capital. And I wanted to just
+1:09 [music] do an episode where I explain
+1:10 everything step by step just clearly for
+1:13 people who are interested in building
+1:16 agents who are who are interested in
+1:18 selling agents [music]
+1:19 and who are you know just want their
+1:21 creative juices flowing around this.
+1:23 This is for anyone who wants to build a
+1:25 business or who just want wants to be
+1:27 more productive. This episode is for
+1:29 you. [music]
+1:36 [music]
+1:38 >> So the first thing you need to
+1:40 understand is the product is the job. So
+1:44 you know the mental model I have for
+1:46 this is SAS sells software agent SAS
+1:50 sells work. A normal SAS product says
+1:54 here is a tool a team could use
+1:57 basically. Um but an agent SAS product
+2:00 will say here is a job your team no
+2:03 longer has to do by hand and then you're
+2:07 selling that service. So it sounds like
+2:10 a a small change but it's a it's a
+2:13 really big mindset change for the
+2:15 customer and for you the person who's
+2:17 going to bu be building it. So take uh
+2:21 restaurants for example. You know a
+2:23 restaurant wakes up thinking our phone
+2:26 is ringing during you know dinner time
+2:30 um and the host is busy right dealing
+2:32 with you know seating people. People are
+2:35 asking the same questions. We're missing
+2:38 reservations and private dining calls
+2:40 are getting lost. So, they're basically
+2:42 missing out on lost revenue. This is why
+2:45 a company like, you know, Slang AI is
+2:48 interesting. Basically, it's an AI
+2:50 superhost for restaurants. Not
+2:52 affiliate. I just think it's an
+2:53 interesting, you know, example. Uh, it
+2:56 answers inbound calls. It handles guest
+2:58 questions. It manages reservations. It
+3:01 routes VIPs. It alerts staff about high
+3:05 priority topics like private dining or
+3:07 guest complaints. And it integrates with
+3:09 systems like Open Table and Yelp and
+3:11 stuff like that. I'll give you another
+3:13 example. home services, a plumbing
+3:17 company, HVAC company, a roofing
+3:19 company, pest control company, miss
+3:21 calls, you know, jobs are booked,
+3:24 customers followed up with, dispatches
+3:26 are less overwhelmed, more revenue from
+3:28 the same demand if they integrate
+3:30 something that picks up their phone
+3:32 24/7. You know, an example of a startup
+3:34 that's doing this is same day. So they
+3:37 focus on home services and then they
+3:40 basically sell these AI, you know,
+3:42 dispatchers, sales agents, receptionists
+3:45 that answer calls, respond to texts,
+3:47 books jobs, reschedule. Again, the
+3:50 product is the job. These examples
+3:52 matter because they're just
+3:53 understandable. And so when you're
+3:56 thinking about coming up with an idea
+3:58 for a startup here, think about I handle
+4:01 this one annoying job better than a
+4:04 junior employee, faster than an agency,
+4:06 and it's cheaper than adding headcount.
+4:08 That's the mental model I think that you
+4:10 should be thinking about. The second
+4:12 step I have here is pick a workflow with
+4:15 a paycheck attached.
+4:17 So you know, how do you find the right
+4:20 agent idea? You want to start with the
+4:22 paycheck, right? If people are already
+4:24 paying for the work, they're paying an
+4:26 employee, they're paying an agency, a
+4:29 receptionist, a coordinator, dispatcher,
+4:32 they there's an opportunity to sell that
+4:35 service cheaper and then unload some of
+4:37 that work that that person is doing to
+4:39 do more high highly creative creative
+4:42 work. So a good agent workflow has five
+4:45 traits. Um the first is it happens all
+4:48 the time. So daily is good but hourly is
+4:52 better. Uh you know every inbound lead
+4:55 uh every call, every tech ticket, every
+4:58 quote request, every appointment, every
+5:00 order, every maintenance request.
+5:03 Second, it has to have a clear finish
+5:05 line. Uh the job got booked, uh the
+5:08 ticket got categorized, uh the refund
+5:10 got approved, uh the vendor got
+5:12 scheduled. Um the customer got a useful
+5:15 answer. Uh third uh if it touches
+5:18 already software. So if it touches Gmail
+5:21 or Slack or Shopify, HubSpot, Zenes,
+5:24 Stripe, um agents need these tools so
+5:28 they can use it and they also need the
+5:30 context that they can read. The fourth
+5:33 is the edge cases are actually really
+5:36 annoying um but they're learnable. So if
+5:38 a workflow is too basic um basically the
+5:42 problem is basic automation you know
+5:44 zaps and stuff like that can do it um if
+5:47 it's pure human judgment uh the first
+5:50 version will break. So the sweet spot is
+5:53 repetitive work with enough judgment
+5:56 that AI can help. Uh the fifth is the
+6:00 buyer can feel the loss. missed calls,
+6:03 slow replies, drop leads, uh empty
+6:06 calendar slots, uh expensive humans
+6:09 doing low value uh coordination. So, if
+6:13 this is, you know, you know, if you want
+6:16 to start a business here, here, what's a
+6:18 first rep to get started? Well, pick one
+6:20 niche and write down 20 jobs people
+6:23 complain about. Um, if it's roofers, you
+6:27 know, maybe it's missed calls, uh,
+6:29 financing questions, insurance
+6:31 paperwork, appointment reminders. If
+6:34 it's med spas, it's maybe lead
+6:36 qualifications or no-show recovery,
+6:38 membership upselles. Um, if it's Shopify
+6:41 brands, maybe it's uh returns, uh,
+6:44 exchanges, uh, wholesale lead
+6:47 follow-ups. And then you want to score
+6:49 each job on five things. Um, how often
+6:52 does it happen? How expensive is the
+6:55 pain? How easy it how easy is it to know
+6:58 when the job is done? Uh what tools does
+7:01 it need access to? And who already owns
+7:05 the budget? And that is where agent SAS
+7:09 starts. So you want to start with the
+7:11 job that has a paycheck attached. Super
+7:14 super key point here.
+7:16 Um once you've done that you actually
+7:19 and this is this is the thing that a lot
+7:20 of people miss you you actually want to
+7:22 shadow the human before you build. So
+7:25 once you find the job right you you
+7:26 you've identify what the job is before
+7:29 you like prompt before you start coding
+7:32 just shadow a human being who does the
+7:35 job. Uh, I know a lot of founders want
+7:38 to skip this. Um, but it's usually
+7:40 what's going to help you get, you know,
+7:43 an unfair advantage, an insight into
+7:46 building an agent that is high quality.
+7:50 So, just watch someone do the job 10 to
+7:52 20 jobs. Ask them to screen record it.
+7:55 Um, ask them to narrate what they're
+7:57 doing. Uh, ask them what makes a case
+8:00 easy. Uh, ask them what makes a case
+8:01 weird. Um, what did they check before
+8:04 they make a decision? and ask them, you
+8:06 know, where the mistakes happen.
+8:07 Basically, you're looking for the real
+8:08 workflow. Um, and even if you've done
+8:11 these tasks before, having having it,
+8:14 you know, fresh in your memory, is just
+8:17 going to be super super helpful when
+8:19 you're building out this. So, you know,
+8:21 for example, a restaurant host, if they
+8:24 answer, "What time are you open?" Uh,
+8:26 the real workflow is actually deeper
+8:28 than that. um they know when the kitchen
+8:31 closes, which tables are good for
+8:33 strollers, uh when the patio is closed,
+8:36 how to handle a VIP, uh and you know
+8:39 when to route to a priv inquiry. So the
+8:44 detail is the product. Um and when
+8:47 you're specking out your your agent, you
+8:50 know, I think it should have seven key
+8:53 parts. What wakes the agent up? What
+8:58 context does it need? What tools can it
+9:01 use? What is it allowed to do itself?
+9:05 Where does it need approval? When should
+9:07 it escalate and and bring a human in the
+9:10 loop there? And what does success look
+9:12 like? And if you understand all those
+9:14 things, um you're, you know, you're not
+9:17 just going to build an agent slop,
+9:19 right? We want to build agents that are
+9:20 high quality, that are exceptional, that
+9:23 do the work as well, if not better than
+9:26 humans, and way more consistently, and
+9:28 that's what people are going to pay for.
+9:30 So, uh, really helpful to just sort of
+9:33 internalize that. Now, you're going to
+9:35 want, uh, step four is you're going to
+9:37 want to build the smallest useful agent.
+9:40 You know, I call it the minimal useful
+9:42 agent, the MUA.
+9:46 Most people hear agent and imagine a
+9:48 fully autonomous employee. Um, and
+9:51 that's how you you get these demos that
+9:53 you see on Twitter. Uh, and they don't
+9:55 really work and it ends up being a bad
+9:57 business. Um, you want to start smaller
+10:00 actually. So, there are four good first
+10:03 versions. The first is a draft and
+10:05 approve agent. So, it reads context. It
+10:08 drafts the reply, the quote, the summary
+10:11 or the next step. A human approves it.
+10:14 Uh so this is great when there's
+10:16 workflow risk um maybe there's
+10:19 creativity involved uh approval
+10:21 processes that that sort of thing. The
+10:24 second is a triage agent. So it
+10:26 classifies inbound work and routes it to
+10:29 the right place maintenance requests uh
+10:32 billing issue or you know refund that
+10:35 sort of thing. The third is a
+10:37 coordinator agent. So this goes between
+10:40 systems and people. So, it'll check
+10:43 availability, it'll send reminders, it
+10:45 asks for missing info, um, and it keeps
+10:48 the work moving basically. Um, and the
+10:50 fourth the fourth is the bounded action
+10:53 agent. So, it can do a specific thing
+10:57 under clear rules. You know, book an
+11:00 appointment, send a follow-up, you know,
+11:02 process a refund under $50. These are
+11:06 the sorts of things you'll you'll now
+11:07 see. You'll notice it in the wild. Like
+11:09 for example, with Uber Eats, you order
+11:11 something and your salad doesn't arrive,
+11:14 automatically you'll get the refund um
+11:17 based on an agent that will do it. So
+11:19 that's basically the the ladder here. Uh
+11:22 when you're building the the minimum
+11:24 useful agent, uh draft, triage, uh
+11:28 coordinate, and act. I was looking at
+11:31 Anthropic's agent guidance uh recently
+11:34 and they made a really uh important
+11:36 point, a really important simple point.
+11:38 They said many agent problems should
+11:42 start actually as workflows. So a
+11:45 workflow follows a predictable path. An
+11:47 agent decides more dynamically. Founders
+11:50 should earn autonomy by starting with a
+11:54 predictable path and adding judgment
+11:56 only when it creates value. So if I were
+12:00 building this, I would start with one
+12:02 workflow and one promise. For example,
+12:05 like we answered miss we answer missed
+12:08 calls for roofers uh and book qualified
+12:11 jobs or we triage maintenance requests
+12:13 for property managers and schedule the
+12:16 right vendor. We handle reservation
+12:18 calls for restaurants and alert staff
+12:22 when a human should jump in. Um that's
+12:25 enough. That's really enough. And one
+12:27 workflow that works enough is is good
+12:30 enough for day one. And it's going to
+12:32 help just like build confidence not just
+12:34 in you that it's working, but also in
+12:37 this customer. Cuz keep in mind, people
+12:39 are buying agents for the first time
+12:41 ever. So they they want to they don't
+12:44 want all of it at the same time,
+12:46 especially if you're not Microsoft or
+12:48 you're not Salesforce. So step five in
+12:52 building an agent is the product wrapper
+12:55 is what makes it a SAS. So you don't
+12:59 want to just build a cool automation.
+13:01 And I think what separates a cool
+13:02 automation from a real agent first SAS
+13:05 product is the agent does the work but
+13:08 the rapper creates the trust. So
+13:10 customers actually need to see what
+13:12 happened. They need to see logs. Uh they
+13:14 need approvals, um controls, handoff
+13:17 rules, that sort of thing.
+13:19 And uh they need a way to test the agent
+13:22 before it goes live. They need to know
+13:24 basically why the agent did what it did.
+13:28 So that wrapper is the SAS and the agent
+13:32 actually lives in the phone system, the
+13:34 inbox, the Slack channel, CRM. So the
+13:38 dashboard can be really simple. Um but
+13:41 the customer customer actually still
+13:44 needs the control room. Um at least
+13:46 that's what I'm noticing is working
+13:48 right now. So for a restaurant phone
+13:50 agent, the control room might be, you
+13:53 know, call summaries or uh reservation
+13:56 outcomes, missed human handoffs, that
+13:59 sort of thing. Um, for a property
+14:01 maintenance agent, maybe it's uh, you
+14:03 know, tickets that have been created,
+14:05 vendor routes or tenant updates, owner
+14:08 approvals, that sort of thing. Um, and
+14:12 that's really why eval matter a lot when
+14:15 you're building an agent first uh
+14:17 business. Um, because before you promise
+14:20 autonomy,
+14:22 you want to create a basically a small
+14:24 test uh a test set is the best way to
+14:28 think about it. So, you know, take 50
+14:31 real examples of the job and then mark
+14:33 the right answers like 50 calls, you
+14:36 know, 50 leads, uh, maybe, you know, 50
+14:40 maintenance requests, depending on what
+14:41 it is. And then you want to run the
+14:43 agent system against them. So, did it
+14:46 classify the problem correctly? Did it
+14:49 ask for the right missing information?
+14:52 Did it use the right policy? This is
+14:54 what's called an eval, right? your eval
+14:56 set is, you know, it's basically like
+14:59 the gym. You know, every time you change
+15:01 the prompt, the model, the tools, the
+15:03 workflow, the agent goes back through
+15:06 the gym and and is able to, you know,
+15:09 basically know what's good and know
+15:11 what's bad. It's also like low-key a
+15:14 really good sales asset because imagine
+15:17 telling a property manager, you know, we
+15:20 tested this on, you know, 50 of your old
+15:23 maintenance requests. It routed 42
+15:25 correctly, flagged six of them for human
+15:27 review, and made two mistakes. Here are
+15:29 the two mistakes, and here's how we fix
+15:31 them. So, it just helps you actually
+15:34 build trust, uh, especially with people
+15:37 who are like who own boring businesses,
+15:40 but who can actually really use some of
+15:42 these agents. When you when you just are
+15:45 transparent and open about these sorts
+15:47 of things, you're going to build a lot
+15:49 of trust with them. So, uh, the sixth
+15:51 step, uh, on building an agent is you're
+15:54 going to want to sell the pilot like
+15:56 labor, and then you're going to want to
+15:58 productize it. So, the fastest path is
+16:02 usually a pilot where you manually do
+16:05 the work with AI and then you productize
+16:08 the repeated parts. I'll explain what I
+16:11 mean by by that, but you know,
+16:13 basically, I would start with three
+16:15 customers in one niche. So the same
+16:18 niche, same workflow, same pain and then
+16:21 you sell the outcome. You actually want
+16:23 to be like very very uh constrained on
+16:25 this or else you're going to get bad
+16:27 results. So if you're selling the
+16:29 outcome, it's we will answer and qualify
+16:31 your missed calls. We will triage your
+16:33 maintenance request and then you charge
+16:36 a setup fee and a simple like monthly
+16:39 fee. um you can keep the pricing just
+16:42 like easy to understand and then you can
+16:45 add usage or outcome pricing once you
+16:48 understand the value. I'm a huge
+16:50 believer if you're, you know, listened
+16:52 to the startup ideas podcast here and,
+16:54 you know, you're a subscriber here, you
+16:56 know, I I I really believe that outcome
+16:58 pricing is the future of how a lot of
+17:02 these agent first businesses and
+17:04 software is going to be priced because,
+17:06 you know, it just makes sense like, you
+17:08 know, the customer only wants doesn't
+17:10 want to pay for another seat for
+17:12 something. So, uh, but don't just jump
+17:16 there uh initially. Um, so you'll get
+17:19 there and you have to have patience with
+17:21 it a little bit. You know, the the
+17:22 pricing model, like how do you think
+17:24 about pricing uh something like this?
+17:26 You know, maybe it's like a $1,500
+17:28 setup, $1,500 setup, and then like
+17:31 $1,000 a month for one workflow. Or
+17:33 maybe it's like $2,000 setup plus $30
+17:37 per qualified appointment. So that's
+17:40 more the outcome base eventually. Or
+17:42 $3,000 a month up to 500 handled
+17:45 tickets. So the exact price actually
+17:48 matters less than the learning. Uh you
+17:50 basically want to find out what the
+17:52 customer values and then uh where the
+17:54 agent breaks uh what needs approval and
+17:58 what would they miss if you took it
+18:00 away. Pretty much the most important
+18:02 question there is uh and then you build
+18:04 the product around the repeated pattern.
+18:08 So, if every roofer needs the same
+18:11 emergency call script, service area
+18:13 check, financing question, an estimate
+18:16 follow-up, boom, you have a product. Um,
+18:19 if every med spa needs lead scoring,
+18:22 consultation booking, no show recovery,
+18:26 um, post treatment follow-up, boom, you
+18:29 have a product. So, this is agents ass.
+18:32 You know, you earn the software by doing
+18:35 the work first. Step seven is
+18:38 distribution. You know, you're going to
+18:40 want to get you need obviously you need
+18:42 people to hear about the thing you're
+18:44 building, hear about the agent, see it,
+18:47 and be like, I need this. And how can
+18:49 you do it? What are some tips to to be
+18:51 thinking about this? Workflow tearowns
+18:54 is what I'm seeing in real time that's
+18:56 working really, really well. So, show
+18:58 the old way of doing a process, right? A
+19:02 call comes in, nobody answers. The
+19:05 customer calls the next company or or
+19:08 the CSR answers, a asks five questions,
+19:11 checks the calendar, checks the service
+19:12 area, books the job, you know, you know,
+19:16 writes the notes, sends a reminder, and
+19:17 then forgets to follow up. And then the
+19:20 heart of the owner, of the manager just
+19:24 absolutely breaks. And then you show the
+19:27 agent way. A call comes in, an agent
+19:30 answers, it asks the right questions, it
+19:32 checks the service area, it checks the
+19:35 urgency, it books the appointment, it
+19:38 updates the CRM, it sends the
+19:40 confirmation, it flags edge cases for a
+19:43 human. That's the type of content that
+19:46 works because the manager, the
+19:48 executive, the owner feels that pain.
+19:52 And you know, you want to be in the
+19:54 business of selling painkillers, not
+19:57 vitamins. And that's why I love these
+20:01 building agent businesses because you
+20:03 are, you know, if you do this right and
+20:05 you go through some of these steps and
+20:07 and these frameworks and this playbook
+20:09 for coming up with an idea, building an
+20:11 idea, you're building something that's
+20:13 really really helping people. Like it is
+20:14 very very valuable to them. And the only
+20:19 way to really really get them to book a
+20:21 call or do something is to show them
+20:25 sort of make fun of the old way and then
+20:27 show them the new way. Pick one
+20:30 workflow, make the internet associate
+20:32 you with it. And you know, the way I
+20:35 think about it is you want to make the
+20:37 checklist, you want to make the B
+20:39 benchmark, make the tear down, make like
+20:42 50 examples of this workflow post, and
+20:46 you're going to be in the content game.
+20:47 You know, a lot of people listening to
+20:49 this, you know, don't want to create
+20:51 content, and I totally understand, but,
+20:53 you know, you have to create content
+20:56 around this because it's just the, you
+21:00 know, there's just a opportunity in
+21:01 creating content. Um, and then you can
+21:04 use some of those assets that are
+21:05 starting to work and then put paid uh
+21:07 paid ads uh around it. So, you know,
+21:10 distribution, think about these these
+21:13 tearowns, think about poking fun of the
+21:15 old way, think about creating memes
+21:17 around it, uh, and then creating
+21:20 content, picking the winners, putting
+21:22 paid ads against it. I would suggest
+21:24 focusing on one platform to start. Um,
+21:28 and uh, you know, I'm going to be doing
+21:31 more episodes on just how do you how do
+21:34 you get how do you get customers to your
+21:37 your vibe coded apps and stuff like that
+21:39 in the future. So stay tuned for that.
+21:42 Um, but just you know how I'd be
+21:44 thinking about it. The last step you
+21:46 know the 0 to 100 plan like if I was
+21:48 starting this from zero you know I feel
+21:51 like people would want to know what
+21:52 would be my plan. Um so I'll give you my
+21:58 you know call it week four-week plan. Um
+22:02 my first day what I would do like how to
+22:04 build a business. How do you build an
+22:06 agent business in 30 days? Okay. Day one
+22:09 we pick a niche where missed work cost
+22:13 money. We talked about this. Home
+22:15 services, property management, you know,
+22:17 insurance agencies. Day two, I would
+22:20 interview 10 operators, ask them to
+22:23 screen share the workflow, keep the
+22:25 calls as research, and just watch them.
+22:27 You can pay them for this, by the way.
+22:30 Day three, pick one workflow with
+22:33 frequency, pain, software access, and a
+22:36 clear success metric. Day four, write
+22:39 the agent spec, trigger, context, tools,
+22:42 rules, handoffs, eval. Uh day five, run
+22:46 it manually with AI. you know, use
+22:48 claude or chatbt and copy and paste the
+22:51 context, draft the output, uh, ask the
+22:54 human to approve and you are testing
+22:57 whether the AI helps before you build
+23:01 the software. Day six, build that
+23:04 smallest useful version. Uh, draft and
+23:08 approve or triage is usually enough
+23:10 here. Day seven, create the eval set
+23:13 from 50 real examples. Week two, sell
+23:17 two pilots in the same niche. Week
+23:20 three, add the product wrapper, right?
+23:23 The logs, the approvals, the settings,
+23:25 the analytics, the handoffs, and use AI
+23:27 to actually build that, you know,
+23:29 software. I'd probably using something
+23:31 like Clawude Design. And, you know,
+23:34 assuming that Fable is live, using Fable
+23:37 to actually code it up. Week four, I'm
+23:39 publishing workflow tearowns. I'm
+23:41 turning the pilots into proof and I'm
+23:43 doubling down on my content strategy.
+23:46 So, you know, while, you know, I I
+23:48 should have mentioned this, but while
+23:49 I'm doing all this, while I'm thinking
+23:51 about building this business, I'm
+23:53 building an audience all the way
+23:55 throughout. And by the end of week four
+23:57 four, I have formats that are working. I
+23:59 know where to double down. I know where
+24:01 I can spend money, pay paid money to
+24:03 acquire customers. And that's when I,
+24:05 you know, my second and third month, I'm
+24:07 trying to understand what my LTV is. you
+24:10 know, what are the channels that are
+24:11 working, where can I double down on it,
+24:13 and I keep going. I think that's the
+24:15 episode. You know, basically where I'm
+24:18 at is I think agents are the new SAS
+24:21 because software is moving from help me
+24:24 do the work to do the work with me. And
+24:28 I think that a lot of people are just
+24:31 they're not partaking in the shift. They
+24:33 see the shift, they understand the
+24:35 shift, you're listening to me, and
+24:36 you're like, "Yeah, of course." But
+24:38 they're not building they're not
+24:40 building agent first businesses. Um, I
+24:43 think the opportunity is basically to
+24:44 find the smallest painful workflow that
+24:47 repeats all day. Uh, in a niche that you
+24:50 understand and make it disappear, you
+24:53 know, answering a phone, booking a job,
+24:55 triaging the ticket, uh, updating the
+24:58 system, um, escalating that weird case.
+25:02 Um, and I think there's a ton of money
+25:04 to be made here and a ton of value to be
+25:06 created. So, if you're watching this,
+25:09 you're listening to this and you're
+25:11 thinking, I want to build with AI, well,
+25:14 start start with the job. You know, find
+25:16 the job, shadow it, spec it, run it
+25:19 manually, build the smallest useful
+25:21 agent, sell the pilot, then productize
+25:24 the repeatable parts. This is how you
+25:27 build an agent that people will pay for.
+25:30 And this is why I think building agents
+25:34 is the new SAS. Hope this is helpful.
+25:37 Hope this got the creative juices
+25:38 flowing. People charge thousands of
+25:40 dollars for this type of thing, but it
+25:42 is free like always on the Startup Ideas
+25:44 podcast. Let's I'll see you in the
+25:47 comment section. I'll see you uh let's
+25:49 talk and let me know what you want me to
+25:51 cover next. If this is helpful and I
+25:54 read every single comment on YouTube, I
+25:56 appreciate every single like and
+25:58 subscribe if you want more of this stuff
+25:59 in your feed. Thank you and I'll see you
+26:02 next

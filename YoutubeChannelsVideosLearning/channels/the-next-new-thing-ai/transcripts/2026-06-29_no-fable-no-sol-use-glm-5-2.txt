@@ -1,0 +1,521 @@
+# Transcript: No Fable. No Sol. Use GLM 5.2!
+# Channel: The Next New Thing
+# Duration: 1065s
+# Video ID: Cm1REvnij4A
+# Published: 2026-06-29
+# URL: https://youtube.com/watch?v=Cm1REvnij4A
+
+0:00 So, OpenAI just launched GPT 5.6.
+0:03 >> GPT 5.6 is finally here. GPT 5.6 is
+0:06 here, but you and I can't access it. And
+0:09 the in between state it's in right now
+0:11 kind of sucks.
+0:12 >> This is really bad. All of us don't get
+0:15 the Frontier model right when it drops.
+0:18 I'm I'm so disappointed right now. I
+0:20 really It's hard for me to convey in
+0:22 words what I'm feeling.
+0:24 >> Presented by Zapier, the AI automation
+0:26 company. OpenAI is saying that we can't
+0:28 get their latest and greatest model.
+0:30 Anthropic had already been scaled back
+0:31 by the government on what they can give
+0:33 us. So, if we can't get the best out of
+0:35 the American companies, I want to learn
+0:37 how to install open-source alternatives,
+0:39 whether they come from China or
+0:40 otherwise. So, today I'm going to watch
+0:42 videos of creators who are going to
+0:44 teach me about GLM 5.2, which I hear is
+0:47 the best. I'm going to understand how to
+0:49 use it, and then I'm going to install it
+0:51 right here. And I've got support from
+0:52 Adam from Gateway X, the CTO. He's going
+0:55 to watch these videos with me. You'll
+0:56 watch the tutorials with me. We'll
+0:58 understand it and then we'll go and
+0:59 implement it and you'll see at the end
+1:01 how easy this can be. Let's get into it.
+1:03 >> They're really only being beaten by
+1:06 Anthropics, Opus 4.8 and Fable, which is
+1:09 now no longer available to most people.
+1:12 We can see on some of the benchmarks,
+1:13 they're definitely being beaten by
+1:15 OpenAI as well. Terminal bench is more
+1:18 of an agentic kind of benchmark there.
+1:20 And the one that probably is most
+1:22 interesting is this deep suite, right?
+1:24 This is a new benchmark that people have
+1:26 been talking about a lot to replace
+1:28 Bench Pro, to replace some of the ones
+1:31 that have been going on there.
+1:33 >> What do you think of this that none of
+1:34 these people even explain why I should
+1:35 care about the benchmarks? Should I care
+1:37 about the benchmarks?
+1:39 >> You, as a regular person, probably
+1:41 shouldn't care all that much about the
+1:43 benchmarks. uh the these benchmarks are
+1:45 they're they're all very specific things
+1:47 that are being tested and each benchmark
+1:51 has its you know oh we're really looking
+1:53 for this and we're looking for uh
+1:55 biological understanding and health
+1:57 advice or we're looking for software
+2:00 we're looking for and like most of those
+2:02 things most of the time you don't care
+2:03 about what you want in a model is one
+2:06 that solves your problems for you and
+2:09 that's fast and cheap and the easiest
+2:12 things for any of us like consumers out
+2:15 here picking a model to pick from are
+2:18 the ones that are fast and cheap. You
+2:20 can you can compare token price, you can
+2:22 compare speed. That's quite easy. And
+2:24 then sure, if you're in one that's in
+2:26 the top five, that's great. Also, like
+2:29 try it out, you know, if if if you're
+2:31 not quite happy with what you've with
+2:32 what you've got or this one's a lot
+2:34 cheaper, uh the easiest thing to do is
+2:36 just take it on a trial for for a day or
+2:38 for a week.
+2:38 >> Okay. I have been trying this with my
+2:40 Hermes agent and it's done really well
+2:42 because Hermes agents just chews through
+2:44 tokens because it's constantly doing
+2:45 stuff for me and a lot of it is petty.
+2:47 This is doing it and I'm not ripping
+2:48 through my tokens too fast. Okay, here
+2:50 are a couple of examples that I think we
+2:53 can relate to.
+2:53 >> Really solid at design. I want you guys
+2:55 to look right here and see which one of
+2:57 these do you think was designed by GLM
+3:00 5.2 and which one was designed by Opus.
+3:02 So, as we sort of scroll down here, you
+3:04 can see that we have, you know, similar
+3:06 style branding, and it's obviously the
+3:08 same company, but we have elements on
+3:10 both that are very similar. We have all
+3:12 of these things come up dynamically as
+3:14 well on either side, and there's even a
+3:16 CTA at the bottom. I think the dead
+3:18 giveaway here is this right side was
+3:20 opus because it has these weird Fs that
+3:22 it loves to do. It loves that.
+3:24 >> Were you able to tell?
+3:25 >> I noticed the exact same thing. I was
+3:27 I'm bummed he gave it away because I was
+3:29 like, I think the right side is Opus.
+3:31 [snorts] Uh,
+3:33 >> so for design it's really good. By the
+3:34 way, my secret for that is I have my own
+3:36 design and I always give it to Opus and
+3:39 to any tool that I use and say use my
+3:40 design style. Um,
+3:42 >> yeah, that's right.
+3:43 >> It did a great job.
+3:43 >> For what it's worth, Andrew, I like the
+3:45 design elements on the left a little
+3:47 better than the right.
+3:48 >> I think there's there's uh this is
+3:50 probably just like a trend thing. So
+3:52 many people have been using Opus for
+3:54 design that is starting to get a little
+3:56 stale and it and it produces the same
+3:58 stuff over and over again. and just
+4:00 seeing a slightly different perspective
+4:01 here on the left. Uh it's a little
+4:03 fresher. There's a a couple of little
+4:05 differences that Opus just wouldn't do
+4:07 by default. And that's one like really
+4:09 positive vote for these open-source
+4:11 models is as there are more and more
+4:13 open source models, it's going to be
+4:15 even easier to change and get the
+4:17 opinion of multiple models before you
+4:19 decide something for yourself.
+4:21 >> Can I say something else? The other way
+4:22 that I was able to tell which one it is
+4:24 is if you look at the tabs on his BS
+4:26 code, it says opus designed. Okay,
+4:30 >> let's move on to pricing on this though.
+4:32 >> Consider the fact that you are getting
+4:33 this output for like five times cheaper.
+4:36 So these are the actual terminal
+4:37 sessions where we did those website
+4:39 designs. On the left side with GLM, we
+4:41 got this done in 3 minutes and 59
+4:42 seconds. On the right side with Opus, we
+4:44 got this done in 14 minutes and 59
+4:46 seconds. And not only did the lefthand
+4:48 side GLM use less tokens, but its cost
+4:51 per token is also five times cheaper is
+4:54 >> that's huge for me on a lot of different
+4:56 projects. Are you swayed by this? Are
+4:58 you using this or will you use it now?
+5:01 >> I'm interested to try. You know, there's
+5:04 one big downside here that that we
+5:06 haven't talked about yet, which is, you
+5:08 know, when I'm using the Opus models for
+5:10 coding, I'm using my Claude
+5:12 subscription. And so I'm already capped
+5:14 at at, you know, $200 a month for for a
+5:17 lot of usage. And that gives you for
+5:19 $200, it gives you about $10,000
+5:23 in equivalent API credits. And so it's a
+5:27 little hard. Like five times cheaper,
+5:28 that's great. But is it actually cheaper
+5:32 than the subscription version?
+5:35 >> That's a very very fair point. Um I will
+5:39 say this with a subscription I still if
+5:41 I'm working on an intense project I will
+5:44 run out of usage and they'll they'll say
+5:46 stop and I can't stand that. And so for
+5:49 me that's where it's an issue. And again
+5:50 with certain things it won't you can't
+5:52 use um you can't use claude. They won't
+5:54 let me put it in into my Hermes agent
+5:56 for example. All right, let's look at a
+5:57 coding project
+5:58 >> where I gave them a homework assignment.
+6:00 You can see right here we've got GLM and
+6:02 then right here we've got Opus 4.8. I
+6:03 had Codeex create the homework
+6:04 assignment just so there was no like
+6:06 crosscontamination or anything like
+6:08 that. And then when they finished, I had
+6:10 Codeex judge both results and tell us
+6:12 what it thought. Now, in this case, it
+6:14 said that agent 2, which was Opus, was
+6:16 better because it handled one subtle
+6:17 edge case that agent one missed, which
+6:19 were duplicate records with values like
+6:20 true versus one or one versus 1.0. So
+6:23 the short version is that agent 1 GLM
+6:25 5.2 2 was good, but agent 2 here was
+6:28 more precise. And generally, the way
+6:29 that I feel about this so far is that
+6:32 GLM 5.2 is really solid and it's pretty
+6:34 quick for most tasks that don't require
+6:36 heavy reasoning. Obviously, at the end
+6:37 of the day, Opus 4.8 is a better model.
+6:39 It's a closed source model, but it does
+6:41 seem like it is better. It does have its
+6:43 place. I want to start to use it, and
+6:46 we're going to come back to Nate. He's
+6:48 going to show me how I can uh use it in
+6:50 VS Code. Let's take a look though at one
+6:52 thing that you and I have talked about
+6:53 in the past, which is can we host it
+6:55 locally.
+6:58 >> Here's, by the way, his demo of his
+7:00 local model. So, anyone who's watched my
+7:03 live streams before, by the way, they're
+7:04 coming back soon. You know, the 3D
+7:07 firsterson shooter test. This, what I'm
+7:09 about to show you is the 3D firsterson
+7:11 shooter that GLM 5.2 ran completely
+7:15 locally on my Mac Studio. It is a
+7:18 goodlooking game. You can see a great
+7:20 environment, good enemies, you can see a
+7:23 lot of video effects. The colors are
+7:25 nice. You can see hit counters and all
+7:28 of that. It is a very
+7:29 >> That's right.
+7:30 >> Yeah, it is.
+7:31 >> Um, all right. So, now people are
+7:33 saying, "What's great about this is you
+7:35 own it. It's the MIT license. You can do
+7:37 whatever you want with it. Put it on
+7:39 your own machine. I've asked you about
+7:40 this." He keeps advocating getting your
+7:42 own machine
+7:44 hardware you need. You can run local
+7:46 models on any hardware you want. If you
+7:49 have a Mac Mini with 16 gigabytes of
+7:52 memory, there are local models out there
+7:54 that you can run on there. And I'll tell
+7:56 you how to do that a little bit later as
+7:58 well. But for this model specifically,
+8:01 GLM 5.2, it is a beefy model. It is a
+8:05 chunky boy. You need hardware for it. I
+8:08 am running the 2bit quant. Talk about
+8:12 that a little bit as well. That version
+8:14 of the model is about 250 gigabytes in
+8:18 size. That means you need 25 gigabytes
+8:21 of memory, which means you can
+8:23 technically run this on a Mac Studio
+8:25 with 256 GB.
+8:27 >> Do you agree with that?
+8:29 >> Um, I agree. I think he's he's skipping
+8:34 over something. I've I've tried a number
+8:35 of local models. I've got a a Mac Mini
+8:38 with with like 64 gigabytes of RAM. And
+8:41 so I've tried some of these smaller
+8:43 models that are capable of running on
+8:45 it. The the problem is there's there's a
+8:48 big tradeoff between using a model
+8:52 that's big enough to be intelligent and
+8:55 it fits technically in the RAM, but then
+8:57 it's really slow. And so if you want a
+9:00 fast model, you you're not typically
+9:03 going to be using anywhere close to all
+9:05 of your RAM. because you need the extra
+9:08 RAM space for inference. You need it to
+9:10 run multiple requests at one time. You
+9:12 need it for reasoning and all of that
+9:13 says, "Oh, well now I need a much much
+9:15 smaller model so that I get a response
+9:17 in any reasonable time."
+9:19 >> So it's anytime like for for context
+9:21 here, Andrew, like I when I tap out the
+9:24 RAM on that machine using a model, I
+9:27 will get maybe one token every five
+9:32 seconds. That's like the computer is
+9:34 typing one wordish every five seconds.
+9:38 And so writing out a LinkedIn post or
+9:41 coding a file that has 2,000 lines of
+9:43 code, hours and hours and hours for
+9:46 that. Like totally unreasonable, totally
+9:48 unusable. The only models I've had
+9:50 success with are much much smaller
+9:52 models that are good for like
+9:54 classification and tagging but aren't
+9:56 good for coding or intelligence tasks.
+9:59 >> Let's look at the other option that he
+10:00 gives us. DGX station, which Nvidia just
+10:04 started releasing across many different
+10:06 providers, that has 750 gigabytes of
+10:10 unified memory, so you can run it pretty
+10:12 easily on there as well. That is just a
+10:14 very expensive computer.
+10:16 >> Hold on. I just looked it up while he
+10:17 while he was saying that because it's
+10:19 like, yeah, yeah, that's true, Andrew.
+10:21 It's $85,000.
+10:23 >> So So, okay. So there's a world where
+10:26 locally you can run these models. But
+10:29 yeah, I mean this is if you're spending
+10:31 this is what I've told you in the past
+10:33 too. If you're spending $60 to $200,000,
+10:36 you could have pretty good performance
+10:38 with these things. Now I'm not going to
+10:41 put 60 to $200,000 on some machine
+10:44 today. I'm I would much rather pay the
+10:47 the API rates and especially as API
+10:49 rates for these open source models come
+10:51 down. Why wouldn't you just call the
+10:53 API? It's so much cheaper. It's so much
+10:55 faster. And then you're not stuck with
+10:57 this like hunk of metal in your home or
+11:00 in your office that may or may not be
+11:02 worth anything in a year,
+11:03 >> which one of my past guest has told me
+11:05 broke down on him. Okay, so that is not
+11:07 an option for me. Then the only option
+11:09 is to come back to Nate and here it is.
+11:11 If you want to use it there, there two
+11:13 ways that you can use essentially.
+11:15 >> So anyways, let's talk about how you get
+11:17 set up. What you do is you're going to
+11:18 go to Z.AI and you might pull into
+11:20 something that looks like this. You can
+11:21 go ahead and chat. You can make landing
+11:23 pages right here. You can do 3D
+11:24 modeling. You can build your own mini.
+11:26 >> A lot of, by the way, is just kind of
+11:27 free usage because they want you to see
+11:28 what it does, right?
+11:30 >> Um, I was surprised by how fast and easy
+11:32 it is to get started with it.
+11:34 >> And it's really good at this stuff. It's
+11:36 really impressive on the front-end
+11:37 design stuff. So, come in here, play
+11:39 around with it if you want to just test
+11:40 it out and see how
+11:41 >> I would say for anyone who's listening,
+11:42 just go to their website. It's z.ai. And
+11:45 just start asking it to do dumb stuff to
+11:47 see what happens. And I think you'll be
+11:48 impressed by by what you get.
+11:50 >> Yeah. But then if you want to plug it
+11:51 into cloud code or open code or Hermes
+11:54 agent or wherever you want to plug it
+11:55 in, you're going to click on this button
+11:56 up in the top right and that's going to
+11:58 take you to the actual API console. And
+12:00 so you've got the option to just pay per
+12:02 token which obviously is not too
+12:03 expensive. If you come here and I go to
+12:05 my billing and I go to the model
+12:06 pricing, you can see on the input it's
+12:08 $1.4 and on the output it is where'd it
+12:11 go? $4.4. But you could also just get a
+12:13 plan. So you could go on 16 bucks a
+12:15 month, 64 bucks a month or 144 bucks a
+12:18 month. And if you go yearly, you can
+12:19 save even more money. Obviously, they're
+12:20 not a sponsor. I'm not working with
+12:21 them. But you can also get on a plan. So
+12:24 maybe you can be on a Claude plan for
+12:26 maybe 100 bucks a month and then you can
+12:27 be on a Z plan for 64.
+12:30 >> That's my plan. What do you think?
+12:32 >> I mean that that makes a lot of sense.
+12:35 Do you get API access on the plans or is
+12:38 it just access to the user interface?
+12:41 >> Yes, you get API access on the plans.
+12:43 >> That's like that's banked up like you
+12:45 get some you get a a bunch of credits
+12:47 every month. Yep. So, I I've got now the
+12:50 light plan at I only did monthly because
+12:52 I said who knows what's going to come
+12:53 out next month. $16.20 a month. I've got
+12:56 in my Hermes agent. I tried it to see
+12:58 Adam. Is it reasonable? Can I talk to it
+13:00 like a human being the way that I could
+13:02 with Claude? And frankly, even with
+13:04 Codeex, everything's been working great.
+13:06 It even will code up pages like the one
+13:08 you're looking at now for me. Um, and so
+13:10 I figure, okay, this is good. Now, I
+13:12 want to put it into VS Code. But so far,
+13:14 I I see you liking this, right? Yeah,
+13:16 that's amazing. I I didn't realize the
+13:18 plans also cover it. That's I mean that
+13:20 that now now we're like in cherry on top
+13:24 category, you know. Can we get it set up
+13:26 in your in your VS Code and and and make
+13:28 something?
+13:28 >> So inside of your docloud, you should
+13:30 have a settings.local.json.
+13:32 And this is where you can play with your
+13:33 permissions and your MCP servers and all
+13:35 that kind of stuff. And you can also set
+13:37 environment variables. So if you guys
+13:38 have activated agent teams, this might
+13:40 live here like mine or it might live
+13:42 globally. Wherever it lives, that's an
+13:43 environment variable. And all you need
+13:45 to do is you need to come in here and
+13:46 you need to set these. So what I'm going
+13:48 to do is I'm going to have this exact
+13:50 thing, paste it in the description of
+13:52 this video. So all you have to do is
+13:53 copy this, put it into your environment
+13:55 variables. You can also say, "Hey, cloud
+13:57 code, put this into my
+13:58 settings.local.json, and then all you
+14:00 have to do is switch out your own API
+14:01 key." So this is where you will put your
+14:04 Z API key that you just got in here when
+14:07 you go to API keys, and you added one
+14:09 right there.
+14:09 >> I think we're we're ready to do it,
+14:10 right?
+14:11 >> I think we're ready. Let's let's grab
+14:13 the screenshot of where
+14:14 >> because what you're doing here is you
+14:15 can see
+14:16 >> I'm going to take this
+14:18 >> do a screen capture
+14:22 >> actually let's go back and make sure
+14:23 that we get it from here so that it's
+14:25 complete including the the place where
+14:27 it gets stored and I'm going to stop
+14:29 sharing this I will switch now to VS
+14:32 Code where I will open up a brand new
+14:35 experimental thing so here we go this is
+14:37 my cloud code right now I'm going to get
+14:40 rid of this I'm going to paste the
+14:42 screenshot and say
+14:44 I want to use Z.AI's GLM 5.2 model here.
+14:50 Take a look at this screenshot. In a
+14:52 moment, I'll give you my API key. Tell
+14:54 me what I need to do.
+14:56 There it is. Just type that in.
+14:59 >> All right.
+15:01 While it's [snorts] doing that, I'll get
+15:02 an API key, which I'm going to go to the
+15:04 same place that he told us to go.
+15:06 >> Okay.
+15:06 >> And this is what I need from you. The
+15:09 API key, which I'll put right here. I'll
+15:11 need to restart the cloud code in this
+15:12 folder. Okay. Y
+15:14 >> and then let's plug it in and see.
+15:22 >> Do you think it's going to work?
+15:25 >> Nate does seem to give good information,
+15:28 so I'm going to say yes, it will.
+15:30 >> Okay. I think it'll work, too.
+15:33 [music]
+15:35 Okay. What model are you using?
+15:38 >> I'm Cloud Code. Uh, but I'm running.
+15:41 Okay,
+15:42 >> great.
+15:42 >> That's unusual. [laughter]
+15:45 >> The folder name gives it away.
+15:48 >> Okay. Uh, how do I switch back?
+15:53 >> One one easy way to actually take a file
+15:56 like this and and sort of delete it
+15:58 >> is to just to change the name.
+16:00 >> Okay.
+16:00 >> So, if you wanted three different models
+16:02 in here, I'd have like
+16:03 settings.local.json JSON and then I
+16:05 would add like ZAI at the end when I
+16:09 wasn't using that file.
+16:10 >> Got it? You know, and so it's like
+16:11 Anthropic's gonna or Claude Code's going
+16:13 to see whichever one is called
+16:15 settings.local.json,
+16:16 which you could have three or four
+16:18 standins ready to swap out with it.
+16:21 >> So, this was pretty freaking easy. This
+16:23 feels like the answer. Pay for an extra
+16:26 Z.AI account that I use in Hermes and
+16:28 places where I can't use cloud code.
+16:30 have it as a backup so that I could come
+16:32 in here and switch whenever I run out of
+16:34 credits or if I have something that's
+16:35 really intense. I just switch to this
+16:37 and let it do the intense work. This is
+16:39 fantastic. And Adam, I'm a wuss when it
+16:42 comes to this stuff. I don't want to
+16:42 mess around with anything that's called
+16:44 settings.local. And now I was able to do
+16:46 it easily.
+16:48 >> Yeah. I mean, you can ask Glaude to to
+16:50 help you with it. I I think that's the
+16:51 like the cheat code that most people
+16:53 aren't using is people feel stuck. They
+16:55 feel afraid. I don't know what to do.
+16:56 Just ask. This thing is sitting here
+16:58 right here ready to help already on your
+17:00 screen and you know other people will
+17:02 try and create the file and paste the
+17:04 stuff in. You did it exactly how I would
+17:06 do it Andrew which is I give Claude the
+17:09 information that I have and my request
+17:11 and I let Claude handle making the
+17:13 files, make the changes, set up the
+17:15 backup, all that stuff. Like it's it's
+17:17 going to be a lot better at that than
+17:19 than you are. And and honestly, it's
+17:20 it's going to be faster, too.
+17:23 >> All right. And one of the best things
+17:25 about this type of video is that you get
+17:26 ideas for what you can do. The how do
+17:28 you act on it, give it to Claude, it'll
+17:30 do it. The what can you do, you need
+17:31 ideas for, which is why I've got your
+17:33 next video here about my favorite agent,
+17:35 which is Hermes. You're going to get a
+17:37 ton of ideas for what you could do with
+17:38 it. And now that you've got an
+17:39 inexpensive brain for it, you're going
+17:41 to be able to do a lot more. The video
+17:42 is right here. Click and follow. See you
+17:44 there.

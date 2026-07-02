@@ -2,11 +2,16 @@
 
 Auto-regenerated. One line per video, newest first. Sorted by published date, descending.
 
-**Last updated:** 2026-07-01 06:08 UTC
-**Total videos:** 155 across 13 channels
+**Last updated:** 2026-07-02 03:25 UTC
+**Total videos:** 160 across 13 channels
 
 | Date | Channel | Title | Duration | Video ID | Note |
 |------|---------|-------|----------|----------|------|
+| 2026-07-01 | Wanderloots | Full Hermes Agent Tutorial (Desktop) 🧠 A Useful Agentic AI Workflow | 28:50 | [GL67DEf2nyI](https://www.youtube.com/watch?v=GL67DEf2nyI) | [note](channels/wanderloots/videos/2026-07-01_hermes-agent-desktop-full-setup.md) |
+| 2026-07-01 | The Next New Thing | Sonnet 5 vs Opus: the pricing twist nobody expected. | 27:08 | [osawfmJzzFE](https://www.youtube.com/watch?v=osawfmJzzFE) | [note](channels/the-next-new-thing-ai/videos/2026-07-01_sonnet-5-vs-opus-pricing-twist.md) |
+| 2026-07-01 | The Next New Thing | Save Hundreds of Dollars With DeepSeek TUI | 01:10 | [aHNBzPLuRVM](https://www.youtube.com/watch?v=aHNBzPLuRVM) | [note](channels/the-next-new-thing-ai/videos/2026-07-01_deepseek-tui-save-hundreds-coding.md) |
+| 2026-07-01 | Greg Isenberg | AI Agents are the new SaaS | 26:03 | [83fWzQSWB10](https://www.youtube.com/watch?v=83fWzQSWB10) | [note](channels/greg-isenberg/videos/2026-07-01_ai-agents-are-the-new-saas.md) |
+| 2026-06-29 | The Next New Thing | No Fable. No Sol. Use GLM 5.2! | 17:45 | [Cm1REvnij4A](https://www.youtube.com/watch?v=Cm1REvnij4A) | [note](channels/the-next-new-thing-ai/videos/2026-06-29_no-fable-no-sol-use-glm-5-2.md) |
 | 2026-06-30 | Eddy | Ultimate Guide to AI Agent Observability and Production Monitoring 2026 | 09:57 | [DevAyoh_4bU](https://www.youtube.com/watch?v=DevAyoh_4bU) | [note](channels/eddy/videos/2026-06-30_ultimate-guide-ai-agent-observability-production-monitoring-2026.md) |
 | 2026-06-30 | Eddy | Microsoft Frontier Fine Tuning and the Future of Enterprise AI | 08:14 | [GNX-TkyFsyk](https://www.youtube.com/watch?v=GNX-TkyFsyk) | [note](channels/eddy/videos/2026-06-30_microsoft-frontier-fine-tuning-future-enterprise-ai.md) |
 | 2026-06-30 | Eddy | Master LLM Evaluation with LLM as a Judge using Langfuse | 08:44 | [QhrLzKbYaGM](https://www.youtube.com/watch?v=QhrLzKbYaGM) | [note](channels/eddy/videos/2026-06-30_master-llm-evaluation-llm-as-judge-langfuse.md) |

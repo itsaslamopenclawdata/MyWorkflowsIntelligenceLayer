@@ -1,0 +1,54 @@
+# Transcript: Save Hundreds of Dollars With DeepSeek TUI
+# Channel: The Next New Thing
+# Duration: 70s
+# Video ID: aHNBzPLuRVM
+# Published: 2026-07-01
+# URL: https://youtube.com/watch?v=aHNBzPLuRVM
+
+0:00 This is the one that I have talked about
+0:01 as a replacement for Claude Code. Right?
+0:04 Claude Code becomes really expensive and
+0:06 I went from paying 20 bucks a month to
+0:08 100 bucks a month to 200. How much are
+0:09 you paying for it, Adam?
+0:09 >> Probably 800 or more a month. We don't
+0:11 we use some extra credit. I have several
+0:13 seats that I switch between when one
+0:15 runs out of credit, you know.
+0:16 >> Yeah, I see that a lot of us are doing
+0:17 this dance even though we're not
+0:18 supposed to do it. We keep switching
+0:19 switching switching.
+0:20 >> tell EleutherAI, please.
+0:21 >> What happened here is DeepSeek TUI is
+0:23 basically saying why don't you use
+0:24 DeepSeek's model to use it for free
+0:27 coding. It's a free model. That's the
+0:28 way that I've seen it talked about. You
+0:30 said to me, Andrew, that's great. It's
+0:31 not going to be free for you, Andrew.
+0:32 Why not?
+0:33 >> you already see it in some places here.
+0:34 It's like, "Oh, put your API key here.
+0:36 Put your API key here." The free models
+0:37 that you can run locally on your own
+0:39 machine, they're very small. They're
+0:40 nice for text generation, but they're
+0:42 not very good at coding. They're not
+0:43 very good at looking at a lot of
+0:44 context. And so, to really get the value
+0:46 out of something like this, you're going
+0:47 to have to use one of DeepSeek's big
+0:49 models. Very good at coding, but it
+0:51 doesn't fit on your computer. So, you're
+0:52 going to be talking to their API or the
+0:53 Hugging Face API or whatever. And you
+0:55 got to pay for those. So, you're still
+0:56 going to pay for tokens, but the
+0:57 DeepSeek model is a lot cheaper than
+0:59 open source or than GPT 5.5. So, you're
+1:01 still going to save a lot of money and
+1:02 it's possible to get into this using
+1:04 their free models. So, I I do appreciate
+1:06 that.
+1:06 >> Download it in the link in the bio.

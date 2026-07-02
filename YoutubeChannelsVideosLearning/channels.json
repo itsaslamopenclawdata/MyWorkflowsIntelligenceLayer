@@ -162,6 +162,22 @@
       "min_duration_seconds": 300,
       "skip_rule": null,
       "enabled": true
+    },
+    {
+      "name": "Simon Høiberg",
+      "slug": "simon-hoiberg",
+      "channel_id": "UCMo28ATCDU0Kn9dpilAF79Q",
+      "handle": "@simonhoiberg",
+      "url": "https://www.youtube.com/channel/UCMo28ATCDU0Kn9dpilAF79Q",
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMo28ATCDU0Kn9dpilAF79Q",
+      "category": "indie-hacking",
+      "priority": "medium",
+      "added_on": "2026-07-02",
+      "last_seen_video_id": "eT4OaFE4IIQ",
+      "last_seen_published": "2026-06-29T00:00:00Z",
+      "min_duration_seconds": 300,
+      "skip_rule": null,
+      "enabled": true
     }
   ]
 }

@@ -2,11 +2,12 @@
 
 Auto-regenerated. One line per video, newest first. Sorted by published date, descending.
 
-**Last updated:** 2026-07-02 03:25 UTC
-**Total videos:** 160 across 13 channels
+**Last updated:** 2026-07-02 06:15 UTC
+**Total videos:** 161 across 14 channels
 
 | Date | Channel | Title | Duration | Video ID | Note |
 |------|---------|-------|----------|----------|------|
+| 2026-06-29 | Simon Høiberg | I Run a $1M SaaS Portfolio on This Box (Self-Hosted) | 14:59 | [eT4OaFE4IIQ](https://www.youtube.com/watch?v=eT4OaFE4IIQ) | [note](channels/simon-hoiberg/videos/2026-06-29_self-hosted-1m-saas-portfolio-bare-metal.md) |
 | 2026-07-01 | Wanderloots | Full Hermes Agent Tutorial (Desktop) 🧠 A Useful Agentic AI Workflow | 28:50 | [GL67DEf2nyI](https://www.youtube.com/watch?v=GL67DEf2nyI) | [note](channels/wanderloots/videos/2026-07-01_hermes-agent-desktop-full-setup.md) |
 | 2026-07-01 | The Next New Thing | Sonnet 5 vs Opus: the pricing twist nobody expected. | 27:08 | [osawfmJzzFE](https://www.youtube.com/watch?v=osawfmJzzFE) | [note](channels/the-next-new-thing-ai/videos/2026-07-01_sonnet-5-vs-opus-pricing-twist.md) |
 | 2026-07-01 | The Next New Thing | Save Hundreds of Dollars With DeepSeek TUI | 01:10 | [aHNBzPLuRVM](https://www.youtube.com/watch?v=aHNBzPLuRVM) | [note](channels/the-next-new-thing-ai/videos/2026-07-01_deepseek-tui-save-hundreds-coding.md) |

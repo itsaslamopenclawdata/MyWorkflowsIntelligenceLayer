@@ -2,11 +2,24 @@
 
 Auto-regenerated. One line per video, newest first. Sorted by published date, descending.
 
-**Last updated:** 2026-07-02 06:15 UTC
-**Total videos:** 161 across 14 channels
+**Last updated:** 2026-07-03 03:20 UTC
+**Total videos:** 173 across 14 channels
 
 | Date | Channel | Title | Duration | Video ID | Note |
 |------|---------|-------|----------|----------|------|
+| 2026-07-03 | Hyperautomation Labs | 10 GitHub Repos So Good They Shouldn't Be Free — Part 6 (Kill $55K/yr of SaaS) | 17:06 | [ISS2QzqJekA](https://www.youtube.com/watch?v=ISS2QzqJekA) | [note](channels/hyperautomation-labs/videos/2026-07-03_10-github-repos-so-good-they-shouldnt-be-free-part.md) |
+| 2026-07-02 | Hyperautomation Labs | Anthropic Just Turned ONE Claude Into a 50-Agent Expert Team (Claude Science) | 11:58 | [YjFdPwHkC2Y](https://www.youtube.com/watch?v=YjFdPwHkC2Y) | [note](channels/hyperautomation-labs/videos/2026-07-02_anthropic-just-turned-one-claude-into-a-50-agent-e.md) |
+| 2026-07-02 | Hyperautomation Labs | Claude Fable 5 Is Back — 7 Moves to Drive the World's Most Powerful AI | 9:49 | [UEr5JA9dFlw](https://www.youtube.com/watch?v=UEr5JA9dFlw) | [note](channels/hyperautomation-labs/videos/2026-07-02_claude-fable-5-is-back-7-moves-to-drive-worlds-mos.md) |
+| 2026-07-02 | Hyperautomation Labs | 8 AI Workflows That Save You 10+ Hours a Week (Steal My System) | 9:03 | [pAyqk-iaeYQ](https://www.youtube.com/watch?v=pAyqk-iaeYQ) | [note](channels/hyperautomation-labs/videos/2026-07-02_8-ai-workflows-that-save-you-10-hours-week-steal-m.md) |
+| 2026-07-01 | The Solo Entrepreneur | I Built Founders Wing — A Community for AI Vibe Coders, SaaS Builders & More! | 10:49 | [nIzxuXWG0Pc](https://www.youtube.com/watch?v=nIzxuXWG0Pc) | [note](channels/the-solo-entrepreneur/videos/2026-07-01_i-built-founders-wing-a-community-for-ai-vibe-code.md) |
+| 2026-07-01 | Hyperautomation Labs | The US Government Just Proved It Can Delete an AI (The Fable 5 Story) | 8:58 | [pCZ6cwEWPGk](https://www.youtube.com/watch?v=pCZ6cwEWPGk) | [note](channels/hyperautomation-labs/videos/2026-07-01_the-us-government-just-proved-it-can-delete-ai-fab.md) |
+| 2026-07-01 | Hyperautomation Labs | Claude Code Can Now Edit Your Videos (video-use is wild) | 9:26 | [ADdDW9tIFJw](https://www.youtube.com/watch?v=ADdDW9tIFJw) | [note](channels/hyperautomation-labs/videos/2026-07-01_claude-code-can-now-edit-your-videos-video-use-wil.md) |
+| 2026-06-30 | Hyperautomation Labs | This Free Repo Gives You 232 AI Agents — Here Are The 7 To Actually Use | 8:10 | [nJSHQZgm61o](https://www.youtube.com/watch?v=nJSHQZgm61o) | [note](channels/hyperautomation-labs/videos/2026-06-30_this-free-repo-gives-you-232-ai-agents-here-are-7-.md) |
+| 2026-06-30 | Hyperautomation Labs | LangChain Open-Sourced Claude Code For ANY Model (Deep Agents) | 7:54 | [x6WyeI5yO9E](https://www.youtube.com/watch?v=x6WyeI5yO9E) | [note](channels/hyperautomation-labs/videos/2026-06-30_langchain-open-sourced-claude-code-for-any-model-d.md) |
+| 2026-06-30 | Hyperautomation Labs | Claude Sonnet 5: Opus Power at 1/3 the Price (and the $2 Window That Closes Aug 31) | 8:27 | [hKHyx75WVk0](https://www.youtube.com/watch?v=hKHyx75WVk0) | [note](channels/hyperautomation-labs/videos/2026-06-30_claude-sonnet-5-opus-power-at-13-the-price-and-2-w.md) |
+| 2026-06-29 | The Solo Entrepreneur | 5 Ways to Get First 100 Customers for Your Vibe-Coded SaaS (Without Ads) | 22:58 | [1zanNw9Ly4E](https://www.youtube.com/watch?v=1zanNw9Ly4E) | [note](channels/the-solo-entrepreneur/videos/2026-06-29_5-ways-to-get-first-100-customers-for-your-vibe-co.md) |
+| 2026-06-27 | The Solo Entrepreneur | World's Most Powerful AI Model is here...it's insane! | 8:29 | [wU08c5dlkyY](https://www.youtube.com/watch?v=wU08c5dlkyY) | [note](channels/the-solo-entrepreneur/videos/2026-06-27_worlds-most-powerful-ai-model-is-hereits-insane.md) |
+|----------|----------|------|
 | 2026-06-29 | Simon Høiberg | I Run a $1M SaaS Portfolio on This Box (Self-Hosted) | 14:59 | [eT4OaFE4IIQ](https://www.youtube.com/watch?v=eT4OaFE4IIQ) | [note](channels/simon-hoiberg/videos/2026-06-29_self-hosted-1m-saas-portfolio-bare-metal.md) |
 | 2026-07-01 | Wanderloots | Full Hermes Agent Tutorial (Desktop) 🧠 A Useful Agentic AI Workflow | 28:50 | [GL67DEf2nyI](https://www.youtube.com/watch?v=GL67DEf2nyI) | [note](channels/wanderloots/videos/2026-07-01_hermes-agent-desktop-full-setup.md) |
 | 2026-07-01 | The Next New Thing | Sonnet 5 vs Opus: the pricing twist nobody expected. | 27:08 | [osawfmJzzFE](https://www.youtube.com/watch?v=osawfmJzzFE) | [note](channels/the-next-new-thing-ai/videos/2026-07-01_sonnet-5-vs-opus-pricing-twist.md) |

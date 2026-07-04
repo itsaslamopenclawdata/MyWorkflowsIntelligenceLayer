@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "last_updated": "2026-07-03",
+  "last_updated": "2026-07-04",
   "channels": [
     {
       "name": "Hyperautomation Labs",
@@ -12,8 +12,8 @@
       "category": "ai-automation",
       "priority": "high",
       "added_on": "2026-06-06",
-      "last_seen_video_id": "ISS2QzqJekA",
-      "last_seen_published": "2026-07-03T00:00:00Z",
+      "last_seen_video_id": "bC4oMORZ1Os",
+      "last_seen_published": "2026-07-04T00:00:00Z",
       "min_duration_seconds": 300,
       "skip_rule": null,
       "enabled": true,
@@ -45,8 +45,8 @@
       "category": "solopreneurship",
       "priority": "high",
       "added_on": "2026-06-06",
-      "last_seen_video_id": "nIzxuXWG0Pc",
-      "last_seen_published": "2026-07-01T00:00:00Z",
+      "last_seen_video_id": "pU1IQ6qpYeM",
+      "last_seen_published": "2026-07-03T00:00:00Z",
       "min_duration_seconds": 300,
       "skip_rule": null,
       "enabled": true
@@ -61,8 +61,8 @@
       "category": "tbd",
       "priority": "medium",
       "added_on": "2026-06-06",
-      "last_seen_video_id": "GNX-TkyFsyk",
-      "last_seen_published": "2026-06-30T00:00:00Z",
+      "last_seen_video_id": "PRPJ1ATWodU",
+      "last_seen_published": "2026-07-04T00:00:00Z",
       "min_duration_seconds": 0,
       "skip_rule": null,
       "enabled": true
@@ -164,7 +164,7 @@
       "enabled": true
     },
     {
-      "name": "Simon Høiberg",
+      "name": "Simon H\u00f8iberg",
       "slug": "simon-hoiberg",
       "channel_id": "UCMo28ATCDU0Kn9dpilAF79Q",
       "handle": "@simonhoiberg",

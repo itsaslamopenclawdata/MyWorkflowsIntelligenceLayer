@@ -2,11 +2,16 @@
 
 Auto-regenerated. One line per video, newest first. Sorted by published date, descending.
 
-**Last updated:** 2026-07-03 03:20 UTC
-**Total videos:** 173 across 14 channels
+**Last updated:** 2026-07-04 05:34 UTC
+**Total videos:** 178 across 14 channels
 
 | Date | Channel | Title | Duration | Video ID | Note |
 |------|---------|-------|----------|----------|------|
+| 2026-07-04 | Hyperautomation Labs | Claude Fable 5 Is Back: 150 Real Users Gave Their Verdict (God-Tier or Scam?) | 12:29 | [bC4oMORZ1Os](https://www.youtube.com/watch?v=bC4oMORZ1Os) | [note](channels/hyperautomation-labs/videos/2026-07-04_claude-fable-5-150-real-users-verdict.md) ⚠ transcript unavailable (IP-blocked at ingest)|
+| 2026-07-03 | The Solo Entrepreneur | Launch an AI Influencer Marketing Agency in India (₹1 Crore Opportunity) | 25:16 | [pU1IQ6qpYeM](https://www.youtube.com/watch?v=pU1IQ6qpYeM) | [note](channels/the-solo-entrepreneur/videos/2026-07-03_ai-influencer-marketing-agency-india.md) ⚠ transcript unavailable (IP-blocked at ingest)|
+| 2026-07-04 | Eddy Says Hi | How Developers Are Really Reviewing Code in 2026 | 6:52 | [PRPJ1ATWodU](https://www.youtube.com/watch?v=PRPJ1ATWodU) | [note](channels/eddy/videos/2026-07-04_how-developers-review-code-2026.md) ⚠ transcript unavailable (IP-blocked at ingest)|
+| 2026-07-03 | Eddy Says Hi | (Podcast) Protecting Your AI Agents with NVIDIA SkillSpector | 18:11 | [wUt30kLeCyk](https://www.youtube.com/watch?v=wUt30kLeCyk) | [note](channels/eddy/videos/2026-07-03_protecting-ai-agents-nvidia-skillspector.md) ⚠ transcript unavailable (IP-blocked at ingest)|
+| 2026-07-03 | Eddy Says Hi | OpenMed Local Healthcare AI and PII De-Identification Guide | 7:00 | [BjTswDgkx8s](https://www.youtube.com/watch?v=BjTswDgkx8s) | [note](channels/eddy/videos/2026-07-03_openmed-local-healthcare-ai-pii.md) ⚠ transcript unavailable (IP-blocked at ingest)|
 | 2026-07-03 | Hyperautomation Labs | 10 GitHub Repos So Good They Shouldn't Be Free — Part 6 (Kill $55K/yr of SaaS) | 17:06 | [ISS2QzqJekA](https://www.youtube.com/watch?v=ISS2QzqJekA) | [note](channels/hyperautomation-labs/videos/2026-07-03_10-github-repos-so-good-they-shouldnt-be-free-part.md) |
 | 2026-07-02 | Hyperautomation Labs | Anthropic Just Turned ONE Claude Into a 50-Agent Expert Team (Claude Science) | 11:58 | [YjFdPwHkC2Y](https://www.youtube.com/watch?v=YjFdPwHkC2Y) | [note](channels/hyperautomation-labs/videos/2026-07-02_anthropic-just-turned-one-claude-into-a-50-agent-e.md) |
 | 2026-07-02 | Hyperautomation Labs | Claude Fable 5 Is Back — 7 Moves to Drive the World's Most Powerful AI | 9:49 | [UEr5JA9dFlw](https://www.youtube.com/watch?v=UEr5JA9dFlw) | [note](channels/hyperautomation-labs/videos/2026-07-02_claude-fable-5-is-back-7-moves-to-drive-worlds-mos.md) |
